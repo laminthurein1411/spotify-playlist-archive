@@ -24699,6 +24699,24 @@
     },
     {
       "album": {
+        "name": "Panama",
+        "url": "https://open.spotify.com/album/0VrxaIhT1UwvilcB0cheLn"
+      },
+      "artists": [
+        {
+          "name": "the bird and the bee",
+          "url": "https://open.spotify.com/artist/65XA3lk0aG9XejO8y37jjD"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216967,
+      "name": "Panama",
+      "url": "https://open.spotify.com/track/62lj1EK8zKPNIn1c5SAPaJ"
+    },
+    {
+      "album": {
         "name": "Louder Than Bombs",
         "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
       },
