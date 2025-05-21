@@ -1137,6 +1137,28 @@
     },
     {
       "album": {
+        "name": "En Fran\u00e7ais",
+        "url": "https://open.spotify.com/album/6C9NWuw1M1aFd633eMyNXd"
+      },
+      "artists": [
+        {
+          "name": "Pomplamoose",
+          "url": "https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c"
+        },
+        {
+          "name": "John Schroeder",
+          "url": "https://open.spotify.com/artist/2jw2YfYzjGvjDW7IxnLw5c"
+        }
+      ],
+      "date_added": "2025-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184790,
+      "name": "Les Champs-Elys\u00e9es",
+      "url": "https://open.spotify.com/track/4dPITmujWbI8ibU1QVidCE"
+    },
+    {
+      "album": {
         "name": "Les Copains D'Abord",
         "url": "https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn"
       },

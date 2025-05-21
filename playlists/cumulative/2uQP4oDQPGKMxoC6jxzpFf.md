@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,074 songs - 5 day 9 hr 29 min
+2,075 songs - 5 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -835,6 +835,7 @@
 | [I Get High ft Nina Hagen](https://open.spotify.com/track/1kN91pjvwyxjjayV5BiCxx) | [iskwē](https://open.spotify.com/artist/31flUlPgtGjDz3WL9hn420), [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj) | [I Get High](https://open.spotify.com/album/5pYG80NmlqRu2HDLgsBKZG) | 3:59 | 2025-03-14 |  |
 | [I Got Love](https://open.spotify.com/track/2iAZstyYOJRiSNjPOEASYn) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside](https://open.spotify.com/album/4v0i8VJOxYxngmADCFvi6o) | 2:52 | 2025-05-16 |  |
 | [I Got You](https://open.spotify.com/track/3D5SdbnXPa5ZapKiUpDpZL) | [Lydia Persaud](https://open.spotify.com/artist/3JX5H2PhO9TF68P6rgCmX4) | [Moody31](https://open.spotify.com/album/3GM4GXkLj6q9YV5byhbjOe) | 3:27 | 2025-05-10 |  |
+| [i hope i never fall in love](https://open.spotify.com/track/19v4Pp2J8bkpZYmVcFRvjA) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 3:36 | 2025-05-20 |  |
 | [i hope i never fall in love](https://open.spotify.com/track/0cReJwYGe3GlKZ54PDzCm6) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [i hope i never fall in love](https://open.spotify.com/album/5mc2oRLJlsEleIHtNzQ1Zz) | 3:36 | 2025-04-19 |  |
 | [I Know I Know I Know](https://open.spotify.com/track/2WxVHQkKYr7qUcJBVnJt2E) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 3:44 | 2025-03-03 |  |
 | [I Know You Got Soul](https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 4:44 | 2025-03-19 |  |

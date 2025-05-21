@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAAORIT/4jXc8vGW7/slYFi/6apgdoi",
+  "snapshot_id": "AAAAOlNyVYLys7Z6PAQdk9uhEmYeorfp",
   "tracks": [
     {
       "added_at": "2022-05-07 13:03:51",
@@ -1883,6 +1883,26 @@
       "duration_ms": 168160,
       "name": "Gwendolyne",
       "url": "https://open.spotify.com/track/7B4uAyj4X3qs8YXdV4wwhS"
+    },
+    {
+      "added_at": "2025-05-20 06:10:15",
+      "album": {
+        "name": "En Fran\u00e7ais",
+        "url": "https://open.spotify.com/album/6C9NWuw1M1aFd633eMyNXd"
+      },
+      "artists": [
+        {
+          "name": "Pomplamoose",
+          "url": "https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c"
+        },
+        {
+          "name": "John Schroeder",
+          "url": "https://open.spotify.com/artist/2jw2YfYzjGvjDW7IxnLw5c"
+        }
+      ],
+      "duration_ms": 184790,
+      "name": "Les Champs-Elys\u00e9es",
+      "url": "https://open.spotify.com/track/4dPITmujWbI8ibU1QVidCE"
     }
   ],
   "unique_name": "European \ud83c\udfe4",

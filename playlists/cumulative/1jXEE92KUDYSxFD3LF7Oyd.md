@@ -4,7 +4,7 @@
 
 > 
 
-114 songs - 6 hr 16 min
+115 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Le tourbillon](https://open.spotify.com/track/1GlwHwQqCxqaHyX4Iz21q1) | [Georges Delerue](https://open.spotify.com/artist/5C2ILE4DWY1vzn1NPxJOag) | [Jules & Jim \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KE2RFb1iOYARWwQ85dgep) | 2:07 | 2023-12-09 |  |
 | [Le téléphone pleure](https://open.spotify.com/track/2Wd4Yu2RtYZjSmzLLaghNZ) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ), [Frédérique](https://open.spotify.com/artist/38dqh4zX6r6OBMW0cjtjSI) | [Les Plus Belles Chansons De Claude François](https://open.spotify.com/album/6ee87DJAkjCghFeSVSCnx5) | 3:59 | 2023-12-09 |  |
 | [Les Champs\-Elysées](https://open.spotify.com/track/4VWbPQUPvLes814r6T11Jz) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Les Champs\-Elysées](https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX) | 2:37 | 2023-12-09 |  |
+| [Les Champs\-Elysées](https://open.spotify.com/track/4dPITmujWbI8ibU1QVidCE) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c), [John Schroeder](https://open.spotify.com/artist/2jw2YfYzjGvjDW7IxnLw5c) | [En Français](https://open.spotify.com/album/6C9NWuw1M1aFd633eMyNXd) | 3:04 | 2025-05-20 |  |
 | [Les copains d'abord](https://open.spotify.com/track/5MRyPM2k1lvwt3noWp0GXJ) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Les Copains D'Abord](https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn) | 4:01 | 2023-12-09 |  |
 | [Les mots bleus](https://open.spotify.com/track/1rCd7kvnOBmT4dYHwHychc) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Les mots bleus](https://open.spotify.com/album/07pa1E8vPhXBbKE0PJuLWb) | 4:10 | 2023-12-09 |  |
 | [Libre](https://open.spotify.com/track/5h9OvsTeNydBaZp7swQubV) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 2:44 | 2022-05-07 |  |
