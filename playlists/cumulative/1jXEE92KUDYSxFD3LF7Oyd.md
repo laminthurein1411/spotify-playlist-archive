@@ -4,7 +4,7 @@
 
 > 
 
-115 songs - 6 hr 19 min
+117 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Lady Lay](https://open.spotify.com/track/2jd6aKjjhH5hu2mZedooNo) | [Pierre Groscolas](https://open.spotify.com/artist/3RAqlLiVsYkndio9mey84r) | [Les Années 70s](https://open.spotify.com/album/2S8XE58z1NUwQY2WLnMzqh) | 2:59 | 2023-12-09 |  |
 | [Laissons entrer le soleil](https://open.spotify.com/track/1jRoXThsV21LQeNdT3tcUn) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Inédits 1968\-1998](https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj) | 3:44 | 2023-12-09 |  |
 | [Le chasseur \(Les oies sauvages\)](https://open.spotify.com/track/69rHFP4fPoWr8lBSST9km0) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [CD Story](https://open.spotify.com/album/3vlu5v98oGi4Qgj1XvwEgH) | 3:04 | 2023-12-09 |  |
+| [Le Festin](https://open.spotify.com/track/12hNVeWLSUXzOySe86H2KI) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX), [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille Original Soundtrack \(International Version\)](https://open.spotify.com/album/39xxmPYtF4hIZOWMJDQX4R) | 2:50 | 2025-05-21 |  |
 | [Le pénitencier](https://open.spotify.com/track/6phMPtxOkjdXR8ax9xoCJ9) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Le pénitencier](https://open.spotify.com/album/6BIYQZuFPkhbkCl2PHPcj6) | 4:05 | 2023-12-09 |  |
 | [Le tourbillon](https://open.spotify.com/track/1GlwHwQqCxqaHyX4Iz21q1) | [Georges Delerue](https://open.spotify.com/artist/5C2ILE4DWY1vzn1NPxJOag) | [Jules & Jim \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KE2RFb1iOYARWwQ85dgep) | 2:07 | 2023-12-09 |  |
 | [Le téléphone pleure](https://open.spotify.com/track/2Wd4Yu2RtYZjSmzLLaghNZ) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ), [Frédérique](https://open.spotify.com/artist/38dqh4zX6r6OBMW0cjtjSI) | [Les Plus Belles Chansons De Claude François](https://open.spotify.com/album/6ee87DJAkjCghFeSVSCnx5) | 3:59 | 2023-12-09 |  |
@@ -121,6 +122,7 @@
 | [Völlig Losgelöst \(Major Tom German Version\) \[From "Deutschland 83"\]](https://open.spotify.com/track/0OhYpH0e5vEc29ovYrQ1kW) | [Wolkenfänger und Sternenreiter](https://open.spotify.com/artist/0AAY7xSQIFLoKm6QxHuX7j) | [Deutschland 83 \(Music Inspired from the TV Series\)](https://open.spotify.com/album/3t57LrLti347dnbPlPh1YY) | 4:00 | 2023-08-01 |  |
 | [Zou bisou bisou](https://open.spotify.com/track/4qqf1avpzRUnVowNQd1jFw) | [Gillian Hills](https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL) | [Twistin’ The Rock, Vol\. 9](https://open.spotify.com/album/0MSicRahv1o4WgJ6pXjUkg) | 2:15 | 2023-12-09 |  |
 | [À bicyclette](https://open.spotify.com/track/5px3ShFMjwhidOFVVc0Z4R) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [La Bicyclette](https://open.spotify.com/album/2DS4hsoeFgvqhzsCJ0tmbj) | 2:42 | 2023-12-09 |  |
+| [Écoute Chérie](https://open.spotify.com/track/1zyUz3eZ3sytdaR9lfW17q) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:44 | 2025-05-21 |  |
 | [Колыбельная](https://open.spotify.com/track/47RyOrXqLydmsPrsVU7nTw) | [Rauf & Faik](https://open.spotify.com/artist/0a3zDmrvmZcORfPeONPvfL) | [Колыбельная](https://open.spotify.com/album/25egsfoMlUTUKa6HVCS962) | 3:53 | 2023-10-12 |  |
 | [это ли счастье?](https://open.spotify.com/track/4KGq63QyNHWz44M5S6PWGo) | [Rauf & Faik](https://open.spotify.com/artist/0a3zDmrvmZcORfPeONPvfL) | [это ли счастье?](https://open.spotify.com/album/6RIr3dE6hBSv7Y0l2e1gCZ) | 3:24 | 2023-10-12 |  |
 

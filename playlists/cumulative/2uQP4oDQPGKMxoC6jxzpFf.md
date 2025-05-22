@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,075 songs - 5 day 9 hr 32 min
+2,081 songs - 5 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,8 @@
 | [Crumbling Down](https://open.spotify.com/track/54xD3PNwNJQ3HfPlq29vPg) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [The Grand Hustle](https://open.spotify.com/album/2TmbfTmzSE1Zn4Q4pku12H) | 3:44 | 2025-01-11 |  |
 | [Crutch](https://open.spotify.com/track/1Ft5ivAGXYDmNoKmys13sX) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Things Are Great](https://open.spotify.com/album/6oDxFhDxCrSxiPgy6Xlact) | 3:43 | 2025-05-11 |  |
 | [Cry Baby](https://open.spotify.com/track/0NrOeqIaRmnZT1xWw4Onr1) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Cry Baby](https://open.spotify.com/album/3ESzkaJUUVHRvClOdjzoNV) | 2:55 | 2025-04-11 |  |
+| [Cry Baby](https://open.spotify.com/track/6UUexSTXcM1eXvtZEQyZoF) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [No Tears On This Ride](https://open.spotify.com/album/3vNG82Nj8itqtUjNM9g3HG) | 2:55 | 2025-05-21 |  |
+| [Cryin'](https://open.spotify.com/track/05ZF8dfBVOdJqBizUepvVa) | [Celeigh Cardinal](https://open.spotify.com/artist/7HAq3UBI3pb8ok9k7dkdGR) | [Cryin'](https://open.spotify.com/album/4vaG6QTEIz7uvwD2ANP0YZ) | 4:45 | 2025-05-21 |  |
 | [Crying, Laughing, Loving, Lying](https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 3:03 | 2025-01-22 |  |
 | [Cursed](https://open.spotify.com/track/4MlstlvEZVegz6fvYkCB61) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:20 | 2025-04-16 |  |
 | [Dance In Your Car](https://open.spotify.com/track/53dncaY2CpfUzOAzMfp2zw) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [The Trill: A Journey So Far](https://open.spotify.com/album/0xXMwQ5HFQ7JTrXW6x0osm) | 3:52 | 2025-01-03 |  |
@@ -625,6 +627,7 @@
 | [Giving Him Something He Can Feel](https://open.spotify.com/track/4htbAEZWr53J08x3dUv00W) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 3:55 | 2025-02-25 |  |
 | [Giving In To The Love](https://open.spotify.com/track/1YKRI4Uqw9HNEqMoQvhQom) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:01 | 2025-02-13 |  |
 | [Gloria](https://open.spotify.com/track/15ob9SMGLWrexuPuyuMjKl) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [The Best of Branigan](https://open.spotify.com/album/2bfvV9aRLN1BseXz4FbVnW) | 4:55 | 2025-01-29 |  |
+| [gloria \(with sza\)](https://open.spotify.com/track/0wgOhYnqZKjOHr6bmdz0aN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:47 | 2025-05-21 |  |
 | [Glory](https://open.spotify.com/track/6ZpFWfTWUw8O4zdpb6xAKN) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Glory](https://open.spotify.com/album/2qNFKtSWX8RzM88MPmkuca) | 2:49 | 2025-04-16 |  |
 | [Glory \(From the Motion Picture Selma\)](https://open.spotify.com/track/2fmqPLRFdJNPhLU3b2NSFp) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Glory \(From the Motion Picture Selma\)](https://open.spotify.com/album/3cZ3dS7ogHb55sWjVzaBnx) | 4:32 | 2025-05-10 |  |
 | [Go Down River](https://open.spotify.com/track/2ShqiZJpxPn5FAcpg4T32G) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6NN5AVmw54dqOXfNYFVloD) | 4:26 | 2025-03-05 |  |
@@ -690,6 +693,7 @@
 | [Hand Kisser](https://open.spotify.com/track/4boMSlLLoDPr5DXGUAVeOG) | [Nico Paulo](https://open.spotify.com/artist/5qmzeW1wvVq0c2lFK1MieD) | [Nico Paulo](https://open.spotify.com/album/4hxJYEOKb1NGphLaJb0QuN) | 3:08 | 2025-02-15 |  |
 | [Hand Me Downs](https://open.spotify.com/track/1waxweY2V2YIuxiRXNAiTm) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Rally Cry](https://open.spotify.com/album/6v3juDghsQKIdD1jlLHtPR) | 4:15 | 2025-01-30 |  |
 | [Handle With Care](https://open.spotify.com/track/1vQxicuNSODoBECPMFjHMG) | [Traveling Wilburys](https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK) | [The Traveling Wilburys, Vol\. 1](https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi) | 3:19 | 2024-12-05 |  |
+| [Hands Clean](https://open.spotify.com/track/2LVxvGhl2U5p2ql2ujc6vZ) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Under Rug Swept](https://open.spotify.com/album/0kKfmdca8GY7bDWFWtY801) | 4:29 | 2025-05-21 |  |
 | [Hands High](https://open.spotify.com/track/09t1zrmXKXT1xQG8AmsVib) | [Ndidi O](https://open.spotify.com/artist/3r94TD6vkofdmiRbu6KXC0) | [These Days](https://open.spotify.com/album/4S5HRVd1o5BHCLYpdPI8F2) | 3:40 | 2025-05-13 |  |
 | [Hang a String of Lights](https://open.spotify.com/track/6gj7JWe25jFSpFEWKjxadz) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Maybe This Christmas, Vol\. 6: Holiday Cheer](https://open.spotify.com/album/6cymDG3h1yntlgB608r5Ux) | 2:54 | 2024-12-24 |  |
 | [Hang On to Your Love \- Long Version](https://open.spotify.com/track/6ugI2y8ngkdEVpkv0i3RAD) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Diamond Life](https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0) | 5:53 | 2024-11-29 |  |
@@ -1210,6 +1214,7 @@
 | [Need Nothing](https://open.spotify.com/track/42f3EU5xToR3O4VlIRGfC9) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Need Nothing](https://open.spotify.com/album/3jE6ilwvImynefzlleCPAz) | 2:27 | 2025-02-17 |  |
 | [Needle and The Damage Done](https://open.spotify.com/track/12hLXe6wypFy7obVIgYuH6) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Needle and The Damage Done](https://open.spotify.com/album/5gJqhixoX6nJIAwnuH9KZL) | 1:47 | 2025-04-08 |  |
 | [Neither One Of Us \(Wants To Be The First To Say Goodbye\)](https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Neither One Of Us](https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd) | 4:24 | 2025-02-14 |  |
+| [Neon Nuptials](https://open.spotify.com/track/3fUUyQlxRXgMM9Es9kGl3w) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Neon Nuptials](https://open.spotify.com/album/5gLCetbR72Zt6IRWE1gk82) | 3:44 | 2025-05-21 |  |
 | [Neon Signs](https://open.spotify.com/track/2HgWT80qPCO6i2t3A8Xaku) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Neon Signs](https://open.spotify.com/album/4n7ZCE5iVNosvnh0WHsrWx) | 5:07 | 2024-11-21 |  |
 | [Neon Signs](https://open.spotify.com/track/2iMao6uEOB4JDPDfYmVHrl) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Humanhood](https://open.spotify.com/album/7qWfaw5cGD6TBkfFFoKW5N) | 5:07 | 2025-03-19 |  |
 | [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 | 2025-03-16 |  |
@@ -1705,6 +1710,7 @@
 | [Take It to the Limit](https://open.spotify.com/track/4jFTI7T2x5O1HhgucphWs2) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Deep In The Night](https://open.spotify.com/album/3WXJKq5laQmRa0Ff6YDN7r) | 4:07 | 2025-02-04 |  |
 | [Take Me Anywhere](https://open.spotify.com/track/1PKmLqzJRzOu0dnXJEPph7) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 2:30 | 2025-03-12 |  |
 | [TAKE ME OUT!](https://open.spotify.com/track/7icUZpZTk6xXt5SVXKHNaA) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [I Might Start Smoking](https://open.spotify.com/album/7HoJCVGroN6NBBWCz66v1j) | 3:03 | 2025-04-14 |  |
+| [Take Me to Church](https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:01 | 2025-05-21 |  |
 | [Take Me To The Riot](https://open.spotify.com/track/1CKSr9mpE0bZqLUUmD7Qgt) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [In Our Bedroom After The War](https://open.spotify.com/album/60PvE8VUpzqz6CYlpabkhx) | 3:48 | 2025-05-12 |  |
 | [Take My Breath](https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 5:39 | 2024-11-27 |  |
 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 | 2025-01-24 |  |
