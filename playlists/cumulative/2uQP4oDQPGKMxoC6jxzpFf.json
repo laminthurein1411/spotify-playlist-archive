@@ -2953,6 +2953,24 @@
     },
     {
       "album": {
+        "name": "The Cloudmaker's Cry",
+        "url": "https://open.spotify.com/album/56vReOxfodsnNrt66xgxX6"
+      },
+      "artists": [
+        {
+          "name": "Braden Lam",
+          "url": "https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271813,
+      "name": "Beautiful Neighbourhoods",
+      "url": "https://open.spotify.com/track/7gnlMTyHAjT0nSK5DrWoix"
+    },
+    {
+      "album": {
         "name": "Ohio Players",
         "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
       },
@@ -8031,6 +8049,24 @@
     },
     {
       "album": {
+        "name": "Diminishing Returns",
+        "url": "https://open.spotify.com/album/1gyhsgpxkxYsDDqEannppZ"
+      },
+      "artists": [
+        {
+          "name": "Dan Mangan",
+          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181494,
+      "name": "Diminishing Returns",
+      "url": "https://open.spotify.com/track/53AeNSNPhCkxQpbNmUm4OK"
+    },
+    {
+      "album": {
         "name": "Pretty Red Bird",
         "url": "https://open.spotify.com/album/4CVvKdcEb3rkac230DsOQB"
       },
@@ -11214,6 +11250,24 @@
       "duration_ms": 188846,
       "name": "Get To You",
       "url": "https://open.spotify.com/track/6brfpbBex9OYvlYKRBM1Cl"
+    },
+    {
+      "album": {
+        "name": "Star Time",
+        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316333,
+      "name": "Get Up (I Feel Like Being A) Sex Machine",
+      "url": "https://open.spotify.com/track/2ivdsb1RcEJjIs5tuHkUC9"
     },
     {
       "album": {
@@ -35143,6 +35197,24 @@
     },
     {
       "album": {
+        "name": "Try a Little Tenderness",
+        "url": "https://open.spotify.com/album/66WiYjRv8K9P91qIKVgtv8"
+      },
+      "artists": [
+        {
+          "name": "Peter Dreams",
+          "url": "https://open.spotify.com/artist/55zmcbCA9XmEOPDGfvkxmv"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216343,
+      "name": "Try a Little Tenderness",
+      "url": "https://open.spotify.com/track/2mxpmQLdFou7zbLQjTC069"
+    },
+    {
+      "album": {
         "name": "Impossible \u00e0 aimer",
         "url": "https://open.spotify.com/album/1k6lh8sWWBUuJQDqqW10XX"
       },
@@ -36692,6 +36764,24 @@
       "duration_ms": 295847,
       "name": "Weak - Extended Radio Version",
       "url": "https://open.spotify.com/track/5EeEJAW939c3mvq0JnoEhP"
+    },
+    {
+      "album": {
+        "name": "Karaoke - In the Style of a Perfect Circle",
+        "url": "https://open.spotify.com/album/5iFEwnySADlY2haxk1FDP6"
+      },
+      "artists": [
+        {
+          "name": "Ameritz Top Tracks",
+          "url": "https://open.spotify.com/artist/6luvHB2gkRdRlNvcQSLmxQ"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195880,
+      "name": "Weak and Powerless (In the Style of a Perfect Circle) [Karaoke Version]",
+      "url": "https://open.spotify.com/track/0UemUuzAcax7JVViTUE0wq"
     },
     {
       "album": {

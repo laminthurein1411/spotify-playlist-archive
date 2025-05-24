@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,091 songs - 5 day 10 hr 30 min
+2,096 songs - 5 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Beautiful Boy \(Darling Boy\) \- Remastered 2010](https://open.spotify.com/track/5URfZHMlUWTWxPvvSBWcPk) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy](https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp) | 4:05 | 2025-05-18 |  |
 | [Beautiful Faces](https://open.spotify.com/track/7LvyCItkVB6Bx8pPuzSRZA) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Zeros](https://open.spotify.com/album/18hrkvndprWjt9olhQlRcH) | 3:16 | 2025-02-22 |  |
 | [Beautiful Neighbourhoods](https://open.spotify.com/track/68Akdtq94V0YedxSePSuwv) | [Braden Lam](https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr) | [Beautiful Neighbourhoods](https://open.spotify.com/album/3agjdu4O2rZrb2FmXudi0Z) | 4:31 | 2025-05-10 |  |
+| [Beautiful Neighbourhoods](https://open.spotify.com/track/7gnlMTyHAjT0nSK5DrWoix) | [Braden Lam](https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr) | [The Cloudmaker's Cry](https://open.spotify.com/album/56vReOxfodsnNrt66xgxX6) | 4:31 | 2025-05-23 |  |
 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2meH4dMuvGlooo2tpiPjJp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:47 | 2025-04-10 |  |
 | [Because the Night](https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 3:24 | 2024-12-12 |  |
 | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/track/7qQUyJYrHdAVxKeZBy6fyf) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 4:05 | 2025-01-03 |  |
@@ -439,6 +440,7 @@
 | [Didn't \(feat\. Cavetown\)](https://open.spotify.com/track/2fiVO5EExDfft9EErfzMzD) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [POWER](https://open.spotify.com/album/5YMMVf8CozIqS0IDOoqTAD) | 2:33 | 2024-11-23 |  |
 | [Different Kind Of Love](https://open.spotify.com/track/5gy7tyFsQIFcxMajZlghLD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Silences](https://open.spotify.com/album/4nneOM4v04jUA5AROq5qr3) | 3:24 | 2025-01-21 |  |
 | [Digital Witness](https://open.spotify.com/track/5L16tlSHNt93RiiRiCc8ya) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent](https://open.spotify.com/album/2CJnMhwEEkS8R1ctgt5llf) | 3:22 | 2025-02-07 |  |
+| [Diminishing Returns](https://open.spotify.com/track/53AeNSNPhCkxQpbNmUm4OK) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Diminishing Returns](https://open.spotify.com/album/1gyhsgpxkxYsDDqEannppZ) | 3:01 | 2025-05-23 |  |
 | [Dirt Roads](https://open.spotify.com/track/6RZWXGpNOtSyXnnnAOwUni) | [Tia Wood](https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC) | [Pretty Red Bird](https://open.spotify.com/album/4CVvKdcEb3rkac230DsOQB) | 3:12 | 2024-11-22 |  |
 | [Dirt Roads](https://open.spotify.com/track/6abgej5aQVjWvSFydjqo6o) | [Tia Wood](https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC) | [Dirt Roads](https://open.spotify.com/album/45mNHIYIE7iJmIMMAMeha9) | 3:12 | 2025-04-11 |  |
 | [Dirty Nikes](https://open.spotify.com/track/70sIa830bGDPfSupoIIH6o) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Moments in Between](https://open.spotify.com/album/1xb5UcJNNWcn1yDnY6LPYl) | 3:18 | 2025-05-06 |  |
@@ -610,6 +612,7 @@
 | [Get Ready for This \- Radio Edit](https://open.spotify.com/track/5Nl1flfIHQCG8pyY4gnWU9) | [2 Unlimited](https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC) | [Exitos Retro Del Verano 3](https://open.spotify.com/album/3m10ImkBjRfsDUUBjzlGO6) | 3:44 | 2024-12-10 |  |
 | [Get To You](https://open.spotify.com/track/2rVa5NEiR88cxBSN90pB9N) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [Get To You](https://open.spotify.com/album/5f2GDWsjoPArgMMfshdxtZ) | 3:08 | 2025-03-28 |  |
 | [Get To You](https://open.spotify.com/track/6brfpbBex9OYvlYKRBM1Cl) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [Get To You](https://open.spotify.com/album/38XHrGgialsi4rBruxJEnP) | 3:08 | 2025-05-14 |  |
+| [Get Up \(I Feel Like Being A\) Sex Machine](https://open.spotify.com/track/2ivdsb1RcEJjIs5tuHkUC9) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 5:16 | 2025-05-23 |  |
 | [Get Up, Stand Up](https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Marley \(The Original Soundtrack\)](https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx) | 3:17 | 2025-02-08 |  |
 | [Ghost](https://open.spotify.com/track/0mQ9bUpYTMTLnFt1chc7Ak) | [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [Ghost](https://open.spotify.com/album/2EBnf41jLKUV8XwIHLPu9p) | 3:31 | 2025-05-12 |  |
 | [GIFT 2 U](https://open.spotify.com/track/3v2L8zZI9xF31s10hZWS5x) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [GIFT 2 U](https://open.spotify.com/album/3YIT2aYTemcRWwopmEpTYM) | 3:11 | 2024-11-26 |  |
@@ -1893,6 +1896,7 @@
 | [Try](https://open.spotify.com/track/4VeD7QbCk5VKrEcmD4AQTj) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Greatest Hits Vol\. 1](https://open.spotify.com/album/7KTn9mcZqIiELn31JHxpbi) | 4:00 | 2025-04-08 |  |
 | [Try](https://open.spotify.com/track/2aObIMukKJF947LpdzZhXS) | [jacksoul](https://open.spotify.com/artist/3xEW8BqMGXWkxTZbQhtnLE) | [mySOUL](https://open.spotify.com/album/4dNnQkemwZ7HWemdD8DyPD) | 3:57 | 2025-05-15 |  |
 | [Try](https://open.spotify.com/track/6sYTEXhTijY6ulSTY9mMIZ) | [POSTDATA](https://open.spotify.com/artist/05mMvlRkzuup4xMEKV8619) | [Run Wild](https://open.spotify.com/album/2sF2kfMWRDJCYl1SAXBLPy) | 4:16 | 2025-05-08 |  |
+| [Try a Little Tenderness](https://open.spotify.com/track/2mxpmQLdFou7zbLQjTC069) | [Peter Dreams](https://open.spotify.com/artist/55zmcbCA9XmEOPDGfvkxmv) | [Try a Little Tenderness](https://open.spotify.com/album/66WiYjRv8K9P91qIKVgtv8) | 3:36 | 2025-05-23 |  |
 | [Tu ne seras jamais là](https://open.spotify.com/track/2NFa1vElKE3810Snp4HyUb) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Impossible à aimer](https://open.spotify.com/album/1k6lh8sWWBUuJQDqqW10XX) | 3:07 | 2025-04-21 |  |
 | [Tulsa Time](https://open.spotify.com/track/4JUtgvNgUYzcIsMnBl0kxS) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6), [Jim Cuddy](https://open.spotify.com/artist/1RprcCfY08k2trEW0m3aHg) | [Tulsa Time](https://open.spotify.com/album/4RX8Yc7XD764cRaOC5q1CD) | 3:21 | 2025-04-12 |  |
 | [Turn Off The Light](https://open.spotify.com/track/4gM2BugovNf4bvXdjZODzG) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly! \(Expanded Edition\)](https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0) | 4:36 | 2025-05-05 |  |
@@ -1975,6 +1979,7 @@
 | [We Will Become Silhouettes](https://open.spotify.com/track/2Lum7cLDAZGbDVLXHyisEa) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up](https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz) | 5:00 | 2024-12-31 |  |
 | [We Will Still Need A Song](https://open.spotify.com/track/4c7VnhlsbffQkivNMp1V38) | [Hawksley Workman](https://open.spotify.com/artist/6TXT0xgAes45U8vyHeCIZJ) | [Lover/Fighter](https://open.spotify.com/album/78ofbt0qp6WPJSVCA4UkNe) | 3:49 | 2025-02-26 |  |
 | [Weak \- Extended Radio Version](https://open.spotify.com/track/5EeEJAW939c3mvq0JnoEhP) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa), [Brian Alexander Morgan](https://open.spotify.com/artist/16QhCNTu9mNWg8HZVhgWqN) | [Weak \- EP](https://open.spotify.com/album/3dMwnkeMdQSZOMfpP2QuVx) | 4:55 | 2025-03-25 |  |
+| [Weak and Powerless \(In the Style of a Perfect Circle\) \[Karaoke Version\]](https://open.spotify.com/track/0UemUuzAcax7JVViTUE0wq) | [Ameritz Top Tracks](https://open.spotify.com/artist/6luvHB2gkRdRlNvcQSLmxQ) | [Karaoke \- In the Style of a Perfect Circle](https://open.spotify.com/album/5iFEwnySADlY2haxk1FDP6) | 3:15 | 2025-05-23 |  |
 | [Wear You Out](https://open.spotify.com/track/1Rfk20b8r3oKm53umKOgj6) | [Jane Penny](https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd) | [Surfacing](https://open.spotify.com/album/2ER1TDjFLnhzAk0zKqVl5p) | 3:31 | 2025-03-16 |  |
 | [Weighing Down](https://open.spotify.com/track/2nb4iYxCmA8Dh1a2Hz2inu) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Pathways](https://open.spotify.com/album/3K1pEVfbFF5QbmXUpTH1WS) | 3:52 | 2025-03-30 |  |
 | [Weightless](https://open.spotify.com/track/3F2bKtyjMIE1vRvlzsHSq9) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [My Soft Machine](https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn) | 4:02 | 2025-04-17 |  |
