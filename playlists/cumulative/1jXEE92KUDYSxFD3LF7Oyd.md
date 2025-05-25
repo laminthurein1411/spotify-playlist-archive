@@ -4,7 +4,7 @@
 
 > 
 
-117 songs - 6 hr 25 min
+118 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Démons \- live orchestral](https://open.spotify.com/track/2lpLucqtli9P75FWAfQGmu) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Nonante\-Cinq](https://open.spotify.com/album/0pcRdTAIkItbFdyRA4CVZM) | 3:54 | 2023-04-24 |  |
 | [Emmenez\-moi](https://open.spotify.com/track/61Yh6AEwsba6RYsrWiNmI0) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Entre deux rêves \(Remastered 2014\)](https://open.spotify.com/album/40SP9TYF1IuC3JZ35glqwd) | 3:32 | 2023-12-09 |  |
 | [Ep\. 3 : Enfer Blanc](https://open.spotify.com/track/5O90ppRHYngbbGWOCfxhrt) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Histoire de Nuit](https://open.spotify.com/album/4NlvnU8hUNi40jexqfiCSw) | 4:08 | 2022-07-25 |  |
+| [Est\-ce que tu m'aimes ? \- Pilule bleue](https://open.spotify.com/track/3a9TMd2Yrza6HXqqlfMtfy) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:57 | 2025-05-24 |  |
 | [Et Bam](https://open.spotify.com/track/3qYfcGBdH6Nqe18QTGgfXz) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Et Bam](https://open.spotify.com/album/1oKPZz10joNRUeoG3qFKD8) | 3:39 | 2022-05-07 |  |
 | [Et maintenant \(Version 1966\) \- Remasterisé en 2011](https://open.spotify.com/track/5z3LJpwfI91bj3ogU8l0sk) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Edition 60e anniversaire](https://open.spotify.com/album/50RvSoNqk5x7zFROrImpIL) | 2:39 | 2023-12-09 |  |
 | [Fais comme l'oiseau](https://open.spotify.com/track/725PsGr5yXLJl8uENrVXPa) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais comme l'oiseau](https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP) | 3:06 | 2023-12-09 |  |

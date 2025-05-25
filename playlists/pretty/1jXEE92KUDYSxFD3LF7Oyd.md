@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 118 songs - 6 hr 28 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 119 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,5 +126,6 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 116 | [Les Champs\-Elysées](https://open.spotify.com/track/4dPITmujWbI8ibU1QVidCE) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c), [John Schroeder](https://open.spotify.com/artist/2jw2YfYzjGvjDW7IxnLw5c) | [En Français](https://open.spotify.com/album/6C9NWuw1M1aFd633eMyNXd) | 3:04 |
 | 117 | [Le Festin](https://open.spotify.com/track/12hNVeWLSUXzOySe86H2KI) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX), [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille Original Soundtrack \(International Version\)](https://open.spotify.com/album/39xxmPYtF4hIZOWMJDQX4R) | 2:50 |
 | 118 | [Écoute Chérie](https://open.spotify.com/track/1zyUz3eZ3sytdaR9lfW17q) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:44 |
+| 119 | [Est\-ce que tu m'aimes ? \- Pilule bleue](https://open.spotify.com/track/3a9TMd2Yrza6HXqqlfMtfy) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:57 |
 
-Snapshot ID: `AAAAPG8NlXZCyJ8xIoXGkefO1U2Mw+Ck`
+Snapshot ID: `AAAAPb1tB5bvY0BzckW/FgndBK8WOquC`
