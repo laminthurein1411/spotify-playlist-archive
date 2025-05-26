@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,104 songs - 5 day 11 hr 18 min
+2,109 songs - 5 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -563,6 +563,7 @@
 | [Find a Home](https://open.spotify.com/track/3W8KXN8s1onVO3tP1jfFNn) | [Status/Non\-Status](https://open.spotify.com/artist/65pJYjbDd7S7gBObWEfIdK) | [Find a Home](https://open.spotify.com/album/308DFt8U2vb01PovRlGwxH) | 4:22 | 2025-05-12 |  |
 | [Find My Love](https://open.spotify.com/track/3bBXX1fX8z2wGMADtyZEBm) | [Mattmac](https://open.spotify.com/artist/2wn3YMzruUNJ2Ee1z6xnjY), [Mariame](https://open.spotify.com/artist/7GicoyEqZwYTP8OOAQpQSE) | [Find My Love](https://open.spotify.com/album/24g1zeBMED4i92arLapBI5) | 3:21 | 2025-01-09 |  |
 | [Find New Ways](https://open.spotify.com/track/50R66SbAPkP167uxr90Ewq) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Find New Ways](https://open.spotify.com/album/59oJQtxm3xF9TOI9nfGPwc) | 3:33 | 2025-04-11 |  |
+| [Find New Ways](https://open.spotify.com/track/2Hl03nm5ewUcYRwZP4oDUi) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Being Elsewhere Mix](https://open.spotify.com/album/5KhEthQTYWnsbCcMBBKm5B) | 3:33 | 2025-05-25 |  |
 | [Find Your Love](https://open.spotify.com/track/4BycRneKmOs6MhYG9THsuX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:28 | 2025-05-16 |  |
 | [Fire](https://open.spotify.com/track/6Grt5vMmGIA2udumxbeQs5) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/0VwJFPilOR47xaCXnJzB4u) | 4:06 | 2025-01-20 |  |
 | [Fire and Rain](https://open.spotify.com/track/1XUKItaRs2494LclJwHhl8) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Greatest Hits](https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC) | 3:20 | 2024-11-21 |  |
@@ -814,6 +815,7 @@
 | [Housewarming \(feat\. Brandi Carlile\) \(The New Recording\)](https://open.spotify.com/track/7CZRUEwe8afd23CIuliL5i) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Wildewoman \(The New Recordings\) \[Deluxe\]](https://open.spotify.com/album/5VHjoikiszEB5C5QWjYCMo) | 4:10 | 2024-12-04 |  |
 | [Housewarming \(The New Recording\)](https://open.spotify.com/track/7gN9GAZIrDEYc5lsuakAVi) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman \(The New Recordings\)](https://open.spotify.com/album/2qcm6QT6aSuOOmogeZaRoo) | 4:10 | 2025-05-11 |  |
 | [How Come You Don't Call Me](https://open.spotify.com/track/29cup7R0CQiUB1lj4Laq72) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:57 | 2025-05-13 |  |
+| [How Come You Never Go There](https://open.spotify.com/track/5AVv4yQvcmRZSSkQrNdGjl) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/74aYGpppgA5l3CxcFBojhE) | 3:24 | 2025-05-25 |  |
 | [How Could You Babe](https://open.spotify.com/track/2Bx62uYPdyvACpPB0gu7MX) | [Tobias Jesso Jr.](https://open.spotify.com/artist/3RosuARXNIOfNYoJXR7fzA) | [Goon](https://open.spotify.com/album/25LClLePLJYcUxTUcn566N) | 3:52 | 2025-03-16 |  |
 | [how do you love a man](https://open.spotify.com/track/3oyd6Yexx7fgCToFcoXEyG) | [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [XO SKELETON](https://open.spotify.com/album/4Uiq57boKVYu31j88BeLm9) | 3:32 | 2025-03-31 |  |
 | [How Far](https://open.spotify.com/track/2zTzwai0kowjzmMC3wBALU) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/4NHxJvWRYeZU84HQ4X9FkT) | 3:55 | 2025-04-15 |  |
@@ -992,6 +994,7 @@
 | [Keep Your Head Up](https://open.spotify.com/track/5fpEDGQX0Ah3utGnFYulQZ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:24 | 2025-05-11 |  |
 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 | 2025-01-25 |  |
 | [Kids Come Back Again At Christmas](https://open.spotify.com/track/0QIPbJqeZzNXhj7L9ddehQ) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Kids Come Back Again At Christmas \- Single](https://open.spotify.com/album/6VhPNQlVsDc3GPZ9R1X3Ij) | 3:00 | 2024-12-23 |  |
+| [Kids Who Stole The World](https://open.spotify.com/track/18azpbHQDWao2n7qDPC6ww) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Singles 2020 \- 2021](https://open.spotify.com/album/3jRtKUrldJlJDW7r8hYh26) | 3:20 | 2025-05-25 |  |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:58 | 2025-04-17 |  |
 | [Kinda Complicated](https://open.spotify.com/track/7of3eLR7wKUieYZQtRPHNv) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Hôtel de Ville](https://open.spotify.com/album/4tSyMoAffvFeEEzIG3cJ5E) | 3:01 | 2025-04-20 |  |
 | [Kintsukuroi](https://open.spotify.com/track/4iQ7FTo23wetOS6NighSd9) | [Hey Rosetta!](https://open.spotify.com/artist/52ue4x5xVjLx4cw2HEXMhi) | [Second Sight](https://open.spotify.com/album/5rOAMAmEQWCAbc9gefTaFb) | 3:30 | 2024-11-27 |  |
@@ -1533,6 +1536,7 @@
 | [Set Fire to the Rain](https://open.spotify.com/track/3di5hcvxxciiqwMH1jarhY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/5duyQokC4FMcWPYTV9Gpf9) | 4:02 | 2024-11-21 |  |
 | [Set For Life](https://open.spotify.com/track/6W9w3qHhJMALd82l6do6F3) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part \(Deluxe\)](https://open.spotify.com/album/7jeMBMO8h8d3H7opdsNfIy) | 4:08 | 2025-05-13 |  |
 | [Set Me Free](https://open.spotify.com/track/1nE5DCu1PSFYBwGcAkkmJG) | [Julian Taylor Band](https://open.spotify.com/artist/3IsYMSHNCR1ThXnjCPyLJ5) | [Desert Star](https://open.spotify.com/album/4W7VMh26wc9BcMGrBCNSSx) | 3:14 | 2025-04-21 |  |
+| [Set The Fairlight](https://open.spotify.com/track/1T7W7uWSS8v7fYiVjucv6z) | [Islands](https://open.spotify.com/artist/1ObsHTgbvIYOfSHohHuV6n) | [Islomania](https://open.spotify.com/album/1BLQCA0cyvJ7H3IOVxphzq) | 5:47 | 2025-05-25 |  |
 | [Settle & Fly](https://open.spotify.com/track/1VyX1Z2y7TGiJ5Qs4ehn0R) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C), [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Settle & Fly / O\(O\)O](https://open.spotify.com/album/4yVa6yzBNN2n4s53PeXGqI) | 3:16 | 2025-04-13 |  |
 | [Seven Day Fool](https://open.spotify.com/track/68Vb8dhUtY7xXgAc9WONXc) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Revival](https://open.spotify.com/album/2PpxaPsS6U1bhDNG2sMf2q) | 3:25 | 2025-05-06 |  |
 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 | 2025-05-08 |  |
@@ -1872,6 +1876,7 @@
 | [Tired of Being Alone](https://open.spotify.com/track/0JLyY5zVQIEd2HHCMclo1z) | [Vivian Reed](https://open.spotify.com/artist/6W67TOlYK1M0cUSQkeuM8V) | [Memphis Soul Covers](https://open.spotify.com/album/076PpZH66fywzax4SHfu5y) | 3:16 | 2025-04-03 |  |
 | [Tired of Being Alone](https://open.spotify.com/track/0cUSRSjDodUGXZj4g647X5) | [Vivian Reed](https://open.spotify.com/artist/6W67TOlYK1M0cUSQkeuM8V) | [60s 70s Soul Ballads](https://open.spotify.com/album/7kC4PWM0JUZleI2wwM4f1Y) | 3:16 | 2025-01-01 |  |
 | [To Love Somebody](https://open.spotify.com/track/6p3REGqWrzfBvCPJ0AwNMl) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/4UCb8uaJW44vhGZgiknqkb) | 3:26 | 2025-01-10 |  |
+| [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 | 2025-05-25 |  |
 | [Tom's Diner](https://open.spotify.com/track/7f9sC9fvtjYSZYOLSmKJlq) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw), [DNA](https://open.spotify.com/artist/2rGm8R7YDTbqDCVlNssQyL) | [Tom's Album](https://open.spotify.com/album/0eV4zOG2uMHbQoexXCkK4z) | 3:48 | 2025-04-05 |  |
 | [Tommy](https://open.spotify.com/track/0j48d2o6NLJcU7d5aJ3vUU) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Tommy](https://open.spotify.com/album/7ux1XlvFYcVBtBj6gVyHJN) | 2:50 | 2025-04-18 |  |
 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/2Xl9SgLTp16bHEVdmUuJPi) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 4:06 | 2025-04-02 |  |

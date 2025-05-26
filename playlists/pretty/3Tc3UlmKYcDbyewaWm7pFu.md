@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,044 songs - 2 day 14 hr 3 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,045 songs - 2 day 14 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1052,5 +1052,6 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 | 1042 | [God Only Knows \- Remastered 1996](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 2:54 |
 | 1043 | [Dead Beat City](https://open.spotify.com/track/1VPWPBWtpRtLeB4kHkddZb) | [Kids That Fly](https://open.spotify.com/artist/1qChcfwij4nN6hsCLTKBJX) | [Dead Beat City](https://open.spotify.com/album/3zEsj1P1EJGu67rUKLVbWl) | 3:53 |
 | 1044 | [Fvck Somebody](https://open.spotify.com/track/1GU6oaDhWaypMzfP51BYKo) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Infinitely Ordinary](https://open.spotify.com/album/74IXMUg7W8OvCjdTeCTtLx) | 3:01 |
+| 1045 | [Rocketship](https://open.spotify.com/track/2sUyYBBxw618jdMBtRA8Gm) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Dual Reality](https://open.spotify.com/album/4snbzdTWgW4W2UuDtbgvIw) | 2:36 |
 
-Snapshot ID: `AAAETk4g7Ji89fxk83fKSNl/1NmsO3zm`
+Snapshot ID: `AAAET7LW0KZQQAMi/cn2eulEzaddAvkV`

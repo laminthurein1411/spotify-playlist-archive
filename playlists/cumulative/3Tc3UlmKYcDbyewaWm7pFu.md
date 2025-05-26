@@ -4,7 +4,7 @@
 
 > 
 
-1,044 songs - 2 day 14 hr 3 min
+1,045 songs - 2 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -718,6 +718,7 @@
 | [Road Trips](https://open.spotify.com/track/3fkxlQ1gKektnGhSxBOD1E) | [米卡](https://open.spotify.com/artist/67pFbn9hYLonqvcAB21xtH) | [Road Trips](https://open.spotify.com/album/0VSv1gOjudUmscNETpepll) | 3:00 | 2021-02-23 |  |
 | [Roar](https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:43 | 2019-12-30 |  |
 | [Rock 'n' Roll Lifestyle](https://open.spotify.com/track/4tRkMAL93DFmaMDUHOHuBH) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Motorcade of Generosity](https://open.spotify.com/album/7sdz6zUhXNwbwzqVRskzj9) | 4:14 | 2023-11-27 |  |
+| [Rocketship](https://open.spotify.com/track/2sUyYBBxw618jdMBtRA8Gm) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Dual Reality](https://open.spotify.com/album/4snbzdTWgW4W2UuDtbgvIw) | 2:36 | 2025-05-25 |  |
 | [Rollin' \(Air Raid Vehicle\)](https://open.spotify.com/track/3IV4swNduIRunHREK80owz) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 3:33 | 2024-03-09 |  |
 | [Romeo & Juliet](https://open.spotify.com/track/1VyA8mbSyXOdJx2lguR8Uu) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Romeo & Juliet](https://open.spotify.com/album/6Bdil490atXzxeG4pevs7o) | 2:46 | 2022-01-16 |  |
 | [Rude](https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Don't Kill the Magic](https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi) | 3:44 | 2021-10-03 |  |
