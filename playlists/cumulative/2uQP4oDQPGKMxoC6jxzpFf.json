@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Aerial Troubles",
+        "url": "https://open.spotify.com/album/0Gq07t8eOOOcEymI7xWhvR"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200516,
+      "name": "Aerial Troubles",
+      "url": "https://open.spotify.com/track/6mfJi0SkVeIjyMz0edElJZ"
+    },
+    {
+      "album": {
         "name": "the rest",
         "url": "https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz"
       },
@@ -10413,6 +10431,24 @@
     },
     {
       "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254546,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/3qJImzh896FdKl5mJfpFaC"
+    },
+    {
+      "album": {
         "name": "The Sun",
         "url": "https://open.spotify.com/album/02CRRcqdMBr8GStxOh28xU"
       },
@@ -12552,6 +12588,28 @@
       "duration_ms": 189533,
       "name": "Goon",
       "url": "https://open.spotify.com/track/6YtvHPRDy9ustxHDdCdzMp"
+    },
+    {
+      "album": {
+        "name": "99.9%",
+        "url": "https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228146,
+      "name": "GOT IT GOOD (feat. Craig David)",
+      "url": "https://open.spotify.com/track/2xyi5jBkaQ741tXWTiqyr0"
     },
     {
       "album": {
@@ -14936,6 +14994,24 @@
       "duration_ms": 181933,
       "name": "Hotter Now",
       "url": "https://open.spotify.com/track/4BIyKFJ2pgh3eY7Hc4Ce0k"
+    },
+    {
+      "album": {
+        "name": "No Tears On This Ride",
+        "url": "https://open.spotify.com/album/3vNG82Nj8itqtUjNM9g3HG"
+      },
+      "artists": [
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181933,
+      "name": "Hotter Now",
+      "url": "https://open.spotify.com/track/7qBFUziuiDy6SnztJR7AVJ"
     },
     {
       "album": {
@@ -17354,6 +17430,24 @@
       "duration_ms": 261986,
       "name": "It Came to Me",
       "url": "https://open.spotify.com/track/5I4XwGqUzhfGYxX1oYa3VK"
+    },
+    {
+      "album": {
+        "name": "RESONATE",
+        "url": "https://open.spotify.com/album/7tIK8SgNtyAzhl4cuC43Ki"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180442,
+      "name": "IT HURTS ME",
+      "url": "https://open.spotify.com/track/2EQZLTvGiXOPePeHVtSp2H"
     },
     {
       "album": {
@@ -22313,6 +22407,24 @@
     },
     {
       "album": {
+        "name": "Konk",
+        "url": "https://open.spotify.com/album/37he52Ye10gETvnot9bC2t"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180880,
+      "name": "Mr. Maker",
+      "url": "https://open.spotify.com/track/3TozQOXWTxGJxCnqbYoTAN"
+    },
+    {
+      "album": {
         "name": "YESSIE",
         "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
@@ -24399,6 +24511,24 @@
     },
     {
       "album": {
+        "name": "Once Around the Block",
+        "url": "https://open.spotify.com/album/7cpwgE4OyxbMoHIqQv5EDQ"
+      },
+      "artists": [
+        {
+          "name": "Badly Drawn Boy",
+          "url": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244826,
+      "name": "Once Around the Block",
+      "url": "https://open.spotify.com/track/2TnNFFgZhaBzEEobxDy5uV"
+    },
+    {
+      "album": {
         "name": "Remain in Light",
         "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
       },
@@ -25241,6 +25371,24 @@
     },
     {
       "album": {
+        "name": "Parade",
+        "url": "https://open.spotify.com/album/2BbzNzMie146Tavq92CMth"
+      },
+      "artists": [
+        {
+          "name": "Frontperson",
+          "url": "https://open.spotify.com/artist/1WnOzyhRKLqKr7XXFcGMaf"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191453,
+      "name": "Parade",
+      "url": "https://open.spotify.com/track/0IU4OKwXvonfR3e3c49NAJ"
+    },
+    {
+      "album": {
         "name": "Parfait No\u00ebl",
         "url": "https://open.spotify.com/album/75s3hI6IoIHTYEwY2v6P3y"
       },
@@ -25256,6 +25404,24 @@
       "duration_ms": 242013,
       "name": "Parfait No\u00ebl",
       "url": "https://open.spotify.com/track/3MLbNzADggPivatXQneiHw"
+    },
+    {
+      "album": {
+        "name": "Writer's Block",
+        "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
+      },
+      "artists": [
+        {
+          "name": "Peter Bjorn and John",
+          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231213,
+      "name": "Paris 2004",
+      "url": "https://open.spotify.com/track/6ZTugqqwUAtGc6paIOkDF4"
     },
     {
       "album": {
@@ -31117,6 +31283,24 @@
     },
     {
       "album": {
+        "name": "Streets of Your Town",
+        "url": "https://open.spotify.com/album/42lirLF5MgFge0b5AqQ2Aj"
+      },
+      "artists": [
+        {
+          "name": "Josh Rouse",
+          "url": "https://open.spotify.com/artist/38euc5ce2q2MMzaoJcPstz"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Streets of Your Town",
+      "url": "https://open.spotify.com/track/3KaYlpUrQrqVJKHcvY2Gel"
+    },
+    {
+      "album": {
         "name": "Bahamas Is Afie",
         "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
       },
@@ -34730,6 +34914,24 @@
       "duration_ms": 122608,
       "name": "Times Two",
       "url": "https://open.spotify.com/track/210XcfUCIcPM2NojtekQD0"
+    },
+    {
+      "album": {
+        "name": "ken",
+        "url": "https://open.spotify.com/album/4xMH74vcE3TKSIThpHomGS"
+      },
+      "artists": [
+        {
+          "name": "Destroyer",
+          "url": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286027,
+      "name": "Tinseltown Swimming in Blood",
+      "url": "https://open.spotify.com/track/0ucdKKo41YKHEbeS1Siibn"
     },
     {
       "album": {
@@ -38706,6 +38908,24 @@
       "duration_ms": 194973,
       "name": "You Cheated Me",
       "url": "https://open.spotify.com/track/2vXoEP6dp4sCNytuV9pVqg"
+    },
+    {
+      "album": {
+        "name": "Manning Fireworks",
+        "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216426,
+      "name": "You Don't Know The Shape I'm In",
+      "url": "https://open.spotify.com/track/1ZBQPkEYHOv3LfgU6v0h0S"
     },
     {
       "album": {
