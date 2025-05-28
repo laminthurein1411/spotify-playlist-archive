@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ffHU9Buy5UsCQRk2dwiQN.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 1 like - 293 songs - 18 hr 15 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 1 like - 294 songs - 18 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -301,5 +301,6 @@ pretty - [cumulative](/playlists/cumulative/1ffHU9Buy5UsCQRk2dwiQN.md) - [plain]
 | 291 | [It Only Takes A Minute \- Remastered 2004](https://open.spotify.com/track/5DEy8wVNCdJdAGNsOWxmVQ) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [Anthology](https://open.spotify.com/album/04p4pcNAodBupBWhO2p0w8) | 4:03 |
 | 292 | [Could It Be Magic](https://open.spotify.com/track/6FDrn47S3Q4s9rhLHm4um0) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Barry Manilow I](https://open.spotify.com/album/57vciHCWBA2JvPDdhZ5dHE) | 6:49 |
 | 293 | [Relight My Fire \- Single Version](https://open.spotify.com/track/6UW4Uo5zRI5gJw5urNwiwN) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Relight My Fire \(Expanded Edition\)](https://open.spotify.com/album/0zHX5CKQciDiMewajwcAf4) | 3:45 |
+| 294 | [Brother Louie](https://open.spotify.com/track/5zWZ9iNevP0397xB3jWV2z) | [Modern Talking](https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7) | [Ready For Romance](https://open.spotify.com/album/3g5K7IOTOSY6nIfu7lj562) | 3:42 |
 
-Snapshot ID: `AAABJxIfT+KBxiuGFAg5tr97dahoJF5f`
+Snapshot ID: `AAABKKf5EZrQLcxIcex45+ip3QrAJzuy`
