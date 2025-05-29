@@ -3197,6 +3197,24 @@
     },
     {
       "album": {
+        "name": "Instrument Soundtrack",
+        "url": "https://open.spotify.com/album/1owNOVlXTqmDVo4M2Z20uk"
+      },
+      "artists": [
+        {
+          "name": "Fugazi",
+          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118933,
+      "name": "I'm So Tired",
+      "url": "https://open.spotify.com/track/6JgHKt0WwdwlXIht6M0mqa"
+    },
+    {
+      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/3S9ZdKgCTuobkoIWUK2gH0"
       },

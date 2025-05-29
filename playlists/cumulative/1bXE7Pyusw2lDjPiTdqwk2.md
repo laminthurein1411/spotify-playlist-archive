@@ -4,7 +4,7 @@
 
 > 
 
-379 songs - 1 day 0 hr 47 min
+380 songs - 1 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [I Wish It Was Me \- Stripped](https://open.spotify.com/track/1X9XRjQ6lkHZAouznupAem) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [Stripped \- EP](https://open.spotify.com/album/2wfKDcaHuhTELfNixGPSxm) | 3:33 | 2022-02-21 |  |
 | [I Won't Give Up](https://open.spotify.com/track/5ivF4eQBqJiVL5IAE9jRyl) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is a Four Letter Word](https://open.spotify.com/album/7oD9oCCtFhg5RoLtMR5TKl) | 4:00 | 2022-02-08 |  |
 | [I'll Be Waiting](https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 2:52 | 2023-04-24 |  |
+| [I'm So Tired](https://open.spotify.com/track/6JgHKt0WwdwlXIht6M0mqa) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [Instrument Soundtrack](https://open.spotify.com/album/1owNOVlXTqmDVo4M2Z20uk) | 1:58 | 2025-05-28 |  |
 | [I'm With You](https://open.spotify.com/track/2LJN8OntCcpn3IIfP5VyZF) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/3S9ZdKgCTuobkoIWUK2gH0) | 4:01 | 2022-02-08 |  |
 | [Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 5:09 | 2025-04-14 |  |
 | [IDK You Yet](https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet](https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS) | 3:04 | 2022-02-08 |  |

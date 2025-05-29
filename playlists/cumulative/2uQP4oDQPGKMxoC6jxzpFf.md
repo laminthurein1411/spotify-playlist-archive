@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,129 songs - 5 day 12 hr 54 min
+2,133 songs - 5 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [\(I Can't Get No\) Satisfaction \- Mono](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 | 2024-11-23 |  |
 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 | 2025-04-12 |  |
 | [\(You\) On My Arm](https://open.spotify.com/track/29nzgSkf11owK8vO9iBgCq) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn](https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l) | 4:04 | 2025-05-08 |  |
+| [\*\*\*\*\*JUST LIKE THAT \(with ARI LENNOX\)\*\*\*\*\*](https://open.spotify.com/track/3tzapJTRIrk7HKO3EWtJg5) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [PAID IN MEMORIES](https://open.spotify.com/album/5L3z1dICHHIS9FWewUhvu9) | 2:42 | 2025-05-28 |  |
 | [\*\*PALO SANTO\*\*](https://open.spotify.com/track/6p1POEjhnS5E0HzlJQv9I1) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [PAID IN MEMORIES](https://open.spotify.com/album/5L3z1dICHHIS9FWewUhvu9) | 2:30 | 2025-05-17 |  |
 | [1 Thing](https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Touch](https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf) | 3:58 | 2025-05-08 |  |
 | [10% \(feat\. Kali Uchis\)](https://open.spotify.com/track/5aZhRbJSzAuedzUF3Rv78q) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/73cx7CQjHEROjjzUGP3UpQ) | 3:06 | 2025-05-05 |  |
@@ -1210,12 +1211,14 @@
 | [Mother](https://open.spotify.com/track/4FjkZp6GD6baaxqUYTqIJo) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 1:18 | 2025-05-12 |  |
 | [Motorbike](https://open.spotify.com/track/3mMduiD8yb4IaS5tZKqSZy) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:08 | 2024-11-24 |  |
 | [Mountain Sound](https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 3:31 | 2025-01-23 |  |
+| [Mountain Sound](https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 3:31 | 2025-05-28 |  |
 | [Mountains](https://open.spotify.com/track/4JvEicQI7CxOJxuI0xtpim) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 4:09 | 2025-05-02 |  |
 | [Move on Up](https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h) | [Devon Russell](https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz) | [Darker Than Blue](https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7) | 3:55 | 2025-04-17 |  |
 | [Movie Queen](https://open.spotify.com/track/6lBvqQLCMM2o2tF7PBWD2P) | [Russell Louder](https://open.spotify.com/artist/7iWkq6O1CPR7eNomBY2LpG) | [Movie Queen](https://open.spotify.com/album/3nQ6H4AcUaembkeBh2T2hZ) | 3:12 | 2025-03-11 |  |
 | [Movin' Down the Line](https://open.spotify.com/track/1Hjxbrmv7XXAP6C9U0Thz1) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Stone Rollin'](https://open.spotify.com/album/1Ja5q0u9dDWXnKAL3bSRzV) | 4:23 | 2025-02-04 |  |
 | [Mr\. Big Stuff](https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq) | [Jean Knight](https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr) | [Mr\. Big Stuff](https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e) | 2:44 | 2025-01-25 |  |
 | [Mr\. Maker](https://open.spotify.com/track/3TozQOXWTxGJxCnqbYoTAN) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Konk](https://open.spotify.com/album/37he52Ye10gETvnot9bC2t) | 3:00 | 2025-05-26 |  |
+| [Music](https://open.spotify.com/track/2fzykVsO2Di5jnofUNX3YE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 3:45 | 2025-05-28 |  |
 | [MUTUAL FRIEND](https://open.spotify.com/track/6PFyd6Gmp2LZHI1IpkZGgy) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:26 | 2024-11-29 |  |
 | [MUTUAL FRIEND](https://open.spotify.com/track/6qTkFd7eFndvexoySUmpNq) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [MUTUAL FRIEND](https://open.spotify.com/album/5h4ncClsNTs4SL2B0udXCT) | 3:26 | 2025-03-16 |  |
 | [My Angel](https://open.spotify.com/track/2ljCJxlSAAsARG4TmJV5yJ) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Basia's Palace](https://open.spotify.com/album/3NHxM1SUg8BRHLmcV1Nw9n) | 3:20 | 2025-04-08 |  |
@@ -1961,6 +1964,7 @@
 | [Used to Love U](https://open.spotify.com/track/051NZ3rr3HXTULCEySJRX3) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 3:30 | 2025-05-10 |  |
 | [User](https://open.spotify.com/track/0VUbUgVw0S3rnPXPgewas9) | [Siibii](https://open.spotify.com/artist/5xIv9tG1tb1tBj3PsjIqgi) | [User](https://open.spotify.com/album/50Krk7Vm1AKkaR8EnIkZRG) | 3:07 | 2025-05-11 |  |
 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/6K3i6NYZqQDePOofuC6ETd) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/2KbPO54sRdryZvAXbr2IE2) | 3:58 | 2025-04-20 |  |
+| [Vending Machines](https://open.spotify.com/track/2Hw8otNNNMks0xHhkFRL8E) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Vending Machines](https://open.spotify.com/album/2lN4KYFLngz1KNTYhquwEe) | 4:15 | 2025-05-28 |  |
 | [Vibrant Colours](https://open.spotify.com/track/0hQuyxNcrJcjLbX4WT5IQc) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [Bleached Wavves](https://open.spotify.com/album/3RABU4vLHRyxMHwpXMSpni) | 4:36 | 2024-11-27 |  |
 | [Vibrations](https://open.spotify.com/track/4xmJmpkbZhTMXfFtqFBCY4) | [Mick Davis & Thin Love](https://open.spotify.com/artist/5zvV1x0UoyivsEhIYo8vun) | [Garbage Street](https://open.spotify.com/album/3aF0zloKuU6wNX67U6YlEq) | 3:15 | 2025-05-13 |  |
 | [Virtual Insanity](https://open.spotify.com/track/24SUWisv2lYQiB3bVpE1sn) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Pop Music: The Modern Era 1976\-1999](https://open.spotify.com/album/0Jh7XIEQrNQAXm7a6hbJ1h) | 3:47 | 2025-04-08 |  |

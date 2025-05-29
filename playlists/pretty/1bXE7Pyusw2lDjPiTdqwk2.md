@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1bXE7Pyusw2lDjPiTdqwk2.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 379 songs - 1 day 0 hr 47 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 380 songs - 1 day 0 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -387,5 +387,6 @@ pretty - [cumulative](/playlists/cumulative/1bXE7Pyusw2lDjPiTdqwk2.md) - [plain]
 | 377 | [Medusa in a Stone Garden](https://open.spotify.com/track/2bNawE1y27Ecn5uirqoVhO) | [molly ofgeography](https://open.spotify.com/artist/0mC8ifdqPQYdUODibnvySl) | [Runaway, Run](https://open.spotify.com/album/7aZWJDuTnhxHrAo0dS4b1s) | 3:26 |
 | 378 | [Shit Talk](https://open.spotify.com/track/6t8aRTXXIcx9JVRD8IRZKR) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 8:31 |
 | 379 | [Blink of an Eye](https://open.spotify.com/track/58kQMM2I41TnoGWPf85BV2) | [Ben Ward](https://open.spotify.com/artist/1B0AHmSan2gnA7bM9XudMX), [Mason Olshavsky](https://open.spotify.com/artist/7ixHDobaqDCeHMI5M6mPlD) | [You and I](https://open.spotify.com/album/5k7Jr8KF8lunRdBtaBMDjl) | 4:21 |
+| 380 | [I'm So Tired](https://open.spotify.com/track/6JgHKt0WwdwlXIht6M0mqa) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [Instrument Soundtrack](https://open.spotify.com/album/1owNOVlXTqmDVo4M2Z20uk) | 1:58 |
 
-Snapshot ID: `AAABc8ahJADY8fRjo79uGCP5BnK+atXB`
+Snapshot ID: `AAABdIE9iT+3fL7et5ZOWlv5fL5Be10s`

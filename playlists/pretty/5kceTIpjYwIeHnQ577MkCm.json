@@ -9751,6 +9751,38 @@
     {
       "added_at": "2023-12-07 13:18:31",
       "album": {
+        "name": "The Voice Of The Century",
+        "url": "https://open.spotify.com/album/2rRXzvPyaeltmlu46ZnPll"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Dame Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "Coro del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/05k3pjtqfItF6iNAq8NXTk"
+        },
+        {
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "duration_ms": 234053,
+      "name": "La Sonnambula / Act 2: Ah! non giunge uman pensiero",
+      "url": "https://open.spotify.com/track/2HtQCcVyEWlgDK9QJvKMxV"
+    },
+    {
+      "added_at": "2023-12-07 13:18:31",
+      "album": {
         "name": "The Very Best of: Montserrat Caballe",
         "url": "https://open.spotify.com/album/6nS3Tcv843inbfuLR6ST3M"
       },
