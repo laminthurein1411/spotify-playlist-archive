@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,133 songs - 5 day 13 hr 8 min
+2,137 songs - 5 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [condition of us](https://open.spotify.com/track/3eMXCmEnmQCvT7KrdT729j) | [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [XO SKELETON](https://open.spotify.com/album/4Uiq57boKVYu31j88BeLm9) | 4:18 | 2025-04-21 |  |
 | [Confetti](https://open.spotify.com/track/3idS1vTmHLXIdqovJV0YAN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/37EYSu5EaOgHhB7stzTkHn) | 3:03 | 2025-02-12 |  |
 | [Confusion Song](https://open.spotify.com/track/6EMpn1kcSUrwwBJMALxQN5) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/7i3h5FxsKCEFVvtKg2fZGs) | 2:41 | 2025-04-18 |  |
+| [Connected](https://open.spotify.com/track/1ZoE2naC9ySlPLdBZhS1rM) | [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8) | [Connected](https://open.spotify.com/album/3NRQnGdFznbXtP8u2O4VKB) | 5:13 | 2025-05-29 |  |
 | [Connected](https://open.spotify.com/track/5t09SnxOR2AelOghumKkXO) | [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8) | [Connected](https://open.spotify.com/album/2IozNWNXp77fqFQOgzpLcw) | 5:14 | 2025-03-03 |  |
 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 | 2025-03-22 |  |
 | [Conqueror](https://open.spotify.com/track/37JCU4vvjMn0dfM18dYFPt) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/24CyXZHXgFPncdizaeTnSq) | 3:27 | 2025-03-06 |  |
@@ -912,6 +913,7 @@
 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 | 2025-05-17 |  |
 | [If We Make It Through December](https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [If We Make It Through December](https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL) | 2:59 | 2024-12-17 |  |
 | [If You Leave \- From "Pretty In Pink"](https://open.spotify.com/track/05oFyvdztPdpwSwpoclD4c) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [If You Leave](https://open.spotify.com/album/3FSWIgpM4r649Pgr6KoMNf) | 4:28 | 2025-02-26 |  |
+| [Ikiaqqik \(Levitating\)](https://open.spotify.com/track/5nYGItF671hLOfrPIRXRCb) | [Riit](https://open.spotify.com/artist/51rJGI9Wto6CZqOqLStQxO) | [Ikiaqqik \(Levitating\)](https://open.spotify.com/album/20Yf5y2inS6OZ57GAc9E5g) | 3:22 | 2025-05-29 |  |
 | [Imaan](https://open.spotify.com/track/1vOc2cGkU8S132GnFIeeyX) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/45XoaObdMwc02uZjsuOfgq) | 3:34 | 2025-05-05 |  |
 | [Image](https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:32 | 2025-01-01 |  |
 | [Imposter](https://open.spotify.com/track/5R1YxQFdSTY8esk0VBlUts) | [Breagh Isabel](https://open.spotify.com/artist/5nm8xNDJvPX3ncbw3TSaXs) | [Imposter](https://open.spotify.com/album/3I8Miweom9QbOwMN8p79SX) | 3:23 | 2025-04-14 |  |
@@ -1130,6 +1132,7 @@
 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 | 2025-03-22 |  |
 | [Lovely Day](https://open.spotify.com/track/0xxMfjLrNP2KZJmJbXXE7o) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Hidden Beach presents: The Original Jill Scott: from the vault vol\. 1](https://open.spotify.com/album/2gxhBK34gxGZHMCWBztdGq) | 4:16 | 2025-01-04 |  |
 | [Lover Come Back](https://open.spotify.com/track/7G9yE2L2bXxqaQKVL2rKAr) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [If I Should Go Before You](https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud) | 3:54 | 2025-03-19 |  |
+| [Lovers in a Dangerous Time](https://open.spotify.com/track/6G0M1Wsz6zQQoJig92kbkY) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79), [Ben Grosse](https://open.spotify.com/artist/7jHrQgFiRvAJVTQSnm2HX1) | [Disc One: All Their Greatest Hits 1991 \- 2001](https://open.spotify.com/album/3XHEreZGCpDgR2joJ2SV8K) | 4:06 | 2025-05-29 |  |
 | [Low Light](https://open.spotify.com/track/3JfKjARyEYwBZBu4ZLzd5w) | [Lydia Persaud](https://open.spotify.com/artist/3JX5H2PhO9TF68P6rgCmX4) | [Let Me Show You](https://open.spotify.com/album/1xoxPN22Cr7BmKnsUCqKoI) | 3:40 | 2025-03-12 |  |
 | [Luchini AKA This Is It](https://open.spotify.com/track/20DcrlNK0NcRknbX4wcEO4) | [Camp Lo](https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB) | [Uptown Saturday Night](https://open.spotify.com/album/21EglTSwzUorpiXpMBNW2E) | 4:00 | 2025-04-01 |  |
 | [Lucky Man](https://open.spotify.com/track/2mxPSHEwjJWOQS7lGw6btF) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Deluxe / Remastered 2016\)](https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL) | 4:53 | 2025-03-24 |  |
@@ -1729,6 +1732,7 @@
 | [Sussudio \- 2016 Remaster](https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 4:23 | 2025-01-31 |  |
 | [Sway](https://open.spotify.com/track/2ajUl8lBLAXOXNpG4NEPMz) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 3:08 | 2025-03-22 |  |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2025-04-19 |  |
+| [Sweet Caroline](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd) | 3:23 | 2025-05-29 |  |
 | [Sweet Flower \(feat\. Syra\)](https://open.spotify.com/track/3AfwO9WWwJq59erFbKebdM) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Syra](https://open.spotify.com/artist/2084XyyxS0j6Yt7u5KpbAa) | [The Brownprint](https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9) | 2:56 | 2025-03-30 |  |
 | [Sweet Love](https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Rapture](https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u) | 4:26 | 2025-02-15 |  |
 | [Sweet Ones](https://open.spotify.com/track/2ZjN2dU82pxJZPFsRHuUwt) | [Sarah Slean](https://open.spotify.com/artist/5Iajdo2RauARzonA7d4XtW) | [Sarah Slean \(83502\)](https://open.spotify.com/album/4Mx1zlxSBolgFbzBkTdDpn) | 3:13 | 2024-12-12 |  |

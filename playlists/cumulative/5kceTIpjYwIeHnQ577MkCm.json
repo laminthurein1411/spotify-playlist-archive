@@ -3549,6 +3549,64 @@
     },
     {
       "album": {
+        "name": "Wagner: Die Walk\u00fcre",
+        "url": "https://open.spotify.com/album/6sBYzKzbrGncOysgiiL3v1"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Vera Schlosser",
+          "url": "https://open.spotify.com/artist/5l2OeEkDnFJNVtj0yMOoOm"
+        },
+        {
+          "name": "Berit Lindholm",
+          "url": "https://open.spotify.com/artist/2B0iuy3WhZs05Uthb78wBa"
+        },
+        {
+          "name": "Brigitte Fassbaender",
+          "url": "https://open.spotify.com/artist/4BhpzQLhDh71GNvzKraKsu"
+        },
+        {
+          "name": "Helen Watts",
+          "url": "https://open.spotify.com/artist/79l0vgZYtIB6bDjQaTj2ix"
+        },
+        {
+          "name": "Helga Dernesch",
+          "url": "https://open.spotify.com/artist/6y5DFv8NK5xaBuA8mNnojz"
+        },
+        {
+          "name": "Vera Little",
+          "url": "https://open.spotify.com/artist/5xteZ6pjgpypNPL6eR1LdX"
+        },
+        {
+          "name": "Claudia Hellmann",
+          "url": "https://open.spotify.com/artist/6t3V9pmMXf2jnHdinWDyi9"
+        },
+        {
+          "name": "Marilyn Tyler",
+          "url": "https://open.spotify.com/artist/4hw9AibkwX6OM5uuNHI2Ws"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504998,
+      "name": "Die Walk\u00fcre, Act III Scene 1: Hojotoho! Hojotoho! \"Walk\u00fcrenritt\" \u2013 War't ihr K\u00fchnen zu zwei? - 2012 Remaster",
+      "url": "https://open.spotify.com/track/0aStTOTxkS2vFyqJOfPf3d"
+    },
+    {
+      "album": {
         "name": "Kaufmann: Mozart/Schubert/Beethoven/Wagner",
         "url": "https://open.spotify.com/album/0JKWkBvahqY2IggcKodBSn"
       },
@@ -3606,64 +3664,6 @@
       "duration_ms": 231893,
       "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Winterst\u00fcrme wichen dem Wonnemond\"",
       "url": "https://open.spotify.com/track/6VFnrpvuT9rF4nvMdw6B9Q"
-    },
-    {
-      "album": {
-        "name": "Wagner: Die Walk\u00fcre",
-        "url": "https://open.spotify.com/album/6sBYzKzbrGncOysgiiL3v1"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Vera Schlosser",
-          "url": "https://open.spotify.com/artist/5l2OeEkDnFJNVtj0yMOoOm"
-        },
-        {
-          "name": "Berit Lindholm",
-          "url": "https://open.spotify.com/artist/2B0iuy3WhZs05Uthb78wBa"
-        },
-        {
-          "name": "Brigitte Fassbaender",
-          "url": "https://open.spotify.com/artist/4BhpzQLhDh71GNvzKraKsu"
-        },
-        {
-          "name": "Helen Watts",
-          "url": "https://open.spotify.com/artist/79l0vgZYtIB6bDjQaTj2ix"
-        },
-        {
-          "name": "Helga Dernesch",
-          "url": "https://open.spotify.com/artist/6y5DFv8NK5xaBuA8mNnojz"
-        },
-        {
-          "name": "Vera Little",
-          "url": "https://open.spotify.com/artist/5xteZ6pjgpypNPL6eR1LdX"
-        },
-        {
-          "name": "Claudia Hellmann",
-          "url": "https://open.spotify.com/artist/6t3V9pmMXf2jnHdinWDyi9"
-        },
-        {
-          "name": "Marilyn Tyler",
-          "url": "https://open.spotify.com/artist/4hw9AibkwX6OM5uuNHI2Ws"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
-        }
-      ],
-      "date_added": "2023-12-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 504998,
-      "name": "Die Walk\u00fcre, WWV 86B / Act 3: \"Hojotoho! Heiaha!\"",
-      "url": "https://open.spotify.com/track/0aStTOTxkS2vFyqJOfPf3d"
     },
     {
       "album": {

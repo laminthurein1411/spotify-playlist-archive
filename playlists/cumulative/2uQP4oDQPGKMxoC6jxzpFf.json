@@ -7018,6 +7018,24 @@
     {
       "album": {
         "name": "Connected",
+        "url": "https://open.spotify.com/album/3NRQnGdFznbXtP8u2O4VKB"
+      },
+      "artists": [
+        {
+          "name": "Stereo MC's",
+          "url": "https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313000,
+      "name": "Connected",
+      "url": "https://open.spotify.com/track/1ZoE2naC9ySlPLdBZhS1rM"
+    },
+    {
+      "album": {
+        "name": "Connected",
         "url": "https://open.spotify.com/album/2IozNWNXp77fqFQOgzpLcw"
       },
       "artists": [
@@ -16881,6 +16899,24 @@
     },
     {
       "album": {
+        "name": "Ikiaqqik (Levitating)",
+        "url": "https://open.spotify.com/album/20Yf5y2inS6OZ57GAc9E5g"
+      },
+      "artists": [
+        {
+          "name": "Riit",
+          "url": "https://open.spotify.com/artist/51rJGI9Wto6CZqOqLStQxO"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202788,
+      "name": "Ikiaqqik (Levitating)",
+      "url": "https://open.spotify.com/track/5nYGItF671hLOfrPIRXRCb"
+    },
+    {
+      "album": {
         "name": "Dunya",
         "url": "https://open.spotify.com/album/45XoaObdMwc02uZjsuOfgq"
       },
@@ -20914,6 +20950,28 @@
       "duration_ms": 234698,
       "name": "Lover Come Back",
       "url": "https://open.spotify.com/track/7G9yE2L2bXxqaQKVL2rKAr"
+    },
+    {
+      "album": {
+        "name": "Disc One: All Their Greatest Hits 1991 - 2001",
+        "url": "https://open.spotify.com/album/3XHEreZGCpDgR2joJ2SV8K"
+      },
+      "artists": [
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        },
+        {
+          "name": "Ben Grosse",
+          "url": "https://open.spotify.com/artist/7jHrQgFiRvAJVTQSnm2HX1"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246800,
+      "name": "Lovers in a Dangerous Time",
+      "url": "https://open.spotify.com/track/6G0M1Wsz6zQQoJig92kbkY"
     },
     {
       "album": {
@@ -32056,6 +32114,24 @@
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "album": {
+        "name": "Sweet Caroline",
+        "url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203573,
+      "name": "Sweet Caroline",
+      "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"
     },
     {
       "album": {
