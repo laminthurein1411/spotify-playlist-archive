@@ -339,6 +339,32 @@
     },
     {
       "album": {
+        "name": "Blaue Stunden",
+        "url": "https://open.spotify.com/album/1DndcvOnocioZ39IRv5xp3"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155020,
+      "name": "Anders",
+      "url": "https://open.spotify.com/track/5RKvst7SDOCTWGlLcF6kSE"
+    },
+    {
+      "album": {
         "name": "Arbeitsmusik 2024",
         "url": "https://open.spotify.com/album/4qPx98Tg6ldLMDZVLA9QyD"
       },
@@ -608,6 +634,24 @@
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194087,
+      "name": "bad guy",
+      "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
     },
     {
       "album": {
@@ -5013,6 +5057,24 @@
     },
     {
       "album": {
+        "name": "Morgen",
+        "url": "https://open.spotify.com/album/2BUNxpK33SP0ctBYz1qlHp"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190258,
+      "name": "Morgen",
+      "url": "https://open.spotify.com/track/4YHB7lnoeFEHWtL0KtSklh"
+    },
+    {
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
       },
@@ -5044,6 +5106,24 @@
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
+    },
+    {
+      "album": {
+        "name": "Movin",
+        "url": "https://open.spotify.com/album/6QCAQ6yMORnlCBu3ZslblQ"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Movin",
+      "url": "https://open.spotify.com/track/4ZrZ4JTnITEhLSYpZw43vV"
     },
     {
       "album": {
@@ -6713,6 +6793,24 @@
     },
     {
       "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+    },
+    {
+      "album": {
         "name": "The Papercut Chronicles II",
         "url": "https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB"
       },
@@ -7584,6 +7682,24 @@
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
+    },
+    {
+      "album": {
+        "name": "undressed",
+        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
       "album": {
