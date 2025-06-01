@@ -2037,6 +2037,24 @@
     },
     {
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "album": {
         "name": "Astra",
         "url": "https://open.spotify.com/album/6URu3zeYOlrVHeDmY1pPlf"
       },
@@ -7951,6 +7969,24 @@
     },
     {
       "album": {
+        "name": "Songs From The Gang - A Celebration Of Joel Plaskett",
+        "url": "https://open.spotify.com/album/5mFCSCvG21jFfP8vhFrSnV"
+      },
+      "artists": [
+        {
+          "name": "Two Hours Traffic",
+          "url": "https://open.spotify.com/artist/2rkfMwg8RG78rGsWbGZ4tU"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153813,
+      "name": "Deny, Deny, Deny",
+      "url": "https://open.spotify.com/track/2XxQnsQ88sEC3gMmdBtuv7"
+    },
+    {
+      "album": {
         "name": "Deny, Deny, Deny",
         "url": "https://open.spotify.com/album/04dhcajaMoqmbt4oTrZ01W"
       },
@@ -8714,6 +8750,24 @@
       "duration_ms": 244977,
       "name": "Don't Go Breaking My Heart",
       "url": "https://open.spotify.com/track/6VWzk81ssjLIDz2KrRL8yr"
+    },
+    {
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186251,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
     },
     {
       "album": {
@@ -25935,6 +25989,24 @@
     },
     {
       "album": {
+        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
+        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
+      },
+      "artists": [
+        {
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206893,
+      "name": "People Everyday",
+      "url": "https://open.spotify.com/track/6JvodgYcsthsORxPsEYUoe"
+    },
+    {
+      "album": {
         "name": "90s Rap",
         "url": "https://open.spotify.com/album/5OUfobWMB44BvaRyEaT03G"
       },
@@ -26851,6 +26923,24 @@
     },
     {
       "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/2PpxaPsS6U1bhDNG2sMf2q"
+      },
+      "artists": [
+        {
+          "name": "Jully Black",
+          "url": "https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272520,
+      "name": "Queen",
+      "url": "https://open.spotify.com/track/6hdgxL8bkBZ1wl5rZl6mdA"
+    },
+    {
+      "album": {
         "name": "Quiet Now",
         "url": "https://open.spotify.com/album/16zwtG4AXawVoSjecjWaIJ"
       },
@@ -26956,6 +27046,28 @@
       "duration_ms": 208986,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/4uFKfIWqFNeJUIUuxMTcDe"
+    },
+    {
+      "album": {
+        "name": "Rally 'N'",
+        "url": "https://open.spotify.com/album/3NefSIbvFdppSNc1PsEi3Z"
+      },
+      "artists": [
+        {
+          "name": "Jully Black",
+          "url": "https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd"
+        },
+        {
+          "name": "Saukrates",
+          "url": "https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280640,
+      "name": "Rally 'N'",
+      "url": "https://open.spotify.com/track/2kPD293eLmYfHgV49u9h2U"
     },
     {
       "album": {
@@ -32302,6 +32414,24 @@
       "duration_ms": 193600,
       "name": "Sweet Ones",
       "url": "https://open.spotify.com/track/2ZjN2dU82pxJZPFsRHuUwt"
+    },
+    {
+      "album": {
+        "name": "Sweet Surrender / Basement Apartment (Protection Island Sessions)",
+        "url": "https://open.spotify.com/album/6FZtqRTTAUafJr11qBNlSb"
+      },
+      "artists": [
+        {
+          "name": "Haley Blais",
+          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
+        }
+      ],
+      "date_added": "2025-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221713,
+      "name": "Sweet Surrender",
+      "url": "https://open.spotify.com/track/1BEHL1b8IiSZKNWJgINZ4w"
     },
     {
       "album": {
