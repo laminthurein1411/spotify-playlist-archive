@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,153 songs - 5 day 14 hr 22 min
+2,158 songs - 5 day 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -845,6 +845,7 @@
 | [Human](https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:20 | 2025-04-06 |  |
 | [Human](https://open.spotify.com/track/2gJ6eTt4PrlHcjl9h3Ws9i) | [Twin Flames](https://open.spotify.com/artist/5rd4DwuxvrxyZoG0rC9YHi) | [Omen](https://open.spotify.com/album/06bmdZDfjxENvEm3jwKEx8) | 4:32 | 2025-03-12 |  |
 | [Human Behaviour](https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:12 | 2024-11-29 |  |
+| [Hunger Strike](https://open.spotify.com/track/4nZoAVPv2LEcY0LLWtyUlV) | [Shane Ghostkeeper](https://open.spotify.com/artist/7lIol35GIXSPiI3EiOqkxY) | [Songs For My People](https://open.spotify.com/album/3IFLpjfPJNHF2MjonXOnzc) | 3:43 | 2025-06-01 |  |
 | [Hungry Like the Wolf \- 2009 Remaster](https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 3:40 | 2024-12-03 |  |
 | [Hypnotize \- 2007 Remaster](https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 3:50 | 2025-03-26 |  |
 | [I Am Water](https://open.spotify.com/track/19tSnGTKpxjqIkROKAXXN8) | [July Talk](https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq) | [Remember Never Before](https://open.spotify.com/album/72uKcGYgxFDS0suNyqq2LU) | 4:09 | 2025-04-20 |  |
@@ -877,6 +878,7 @@
 | [I Love the Sound of Breaking Glass](https://open.spotify.com/track/2FqZ3hYaRor8Dc8W3xiWTT) | [Nick Lowe](https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7) | [Jesus of Cool](https://open.spotify.com/album/0LSWSMW0LVJX3fmSgDnk2A) | 3:14 | 2025-01-02 |  |
 | [I Love You I Don't Love You I Don't Know](https://open.spotify.com/track/3VYTQPLzAh24WKMBkM2KQ4) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Why You Wanna Leave, Runaway Queen?](https://open.spotify.com/album/0oTTQnhihdD5IDQeW2xoVL) | 3:47 | 2024-12-19 |  |
 | [I Melt with You](https://open.spotify.com/track/3xzRBn3ywzobJrc1efC7Sb) | [Modern English](https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF) | [After the Snow](https://open.spotify.com/album/6Pz5ErA6rBH5ErKP3i06qM) | 4:11 | 2025-01-07 |  |
+| [I Miss Those Days](https://open.spotify.com/track/7kK5ihEqZcXEWr1r8o99E2) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:37 | 2025-06-01 |  |
 | [I Need A Dollar](https://open.spotify.com/track/3oUphdZVPyrsprZ8FgbmQS) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Good Things](https://open.spotify.com/album/6G9PvX9f6Dq26JzsiVHIdl) | 4:03 | 2025-02-03 |  |
 | [I Pity the Country](https://open.spotify.com/track/1GyAagsfqUSPf5DdO3bBBe) | [Willie Dunn](https://open.spotify.com/artist/3jeo0fVqyC3Yw1K5VyxpV6) | [Native North America \(Vol\. 1\) : Aboriginal Folk, Rock, And Country 1966\-1985](https://open.spotify.com/album/305eIp6qJ0g5vdYoNaaERr) | 2:55 | 2025-03-29 |  |
 | [I Pity the Country](https://open.spotify.com/track/7q2RtCla6MGls0uJwVLYg5) | [Willie Dunn](https://open.spotify.com/artist/3jeo0fVqyC3Yw1K5VyxpV6) | [Native North America \(Vol\. 1\) : Aboriginal Folk, Rock, And Country 1966\-1985](https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen) | 2:55 | 2024-11-30 |  |
@@ -1493,6 +1495,8 @@
 | [Ribbon In The Sky](https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Original Musiquarium](https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab) | 5:37 | 2025-02-15 |  |
 | [Ride Like The Wind](https://open.spotify.com/track/0n0o1hAUf5WPdWKceJa1fK) | [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Groove Terminator](https://open.spotify.com/artist/1bA9XJwgaR3yVHNMTCqJ02), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK) | [History of House](https://open.spotify.com/album/7fxV023CrFXN5TjxAd3kW2) | 5:52 | 2025-02-24 |  |
 | [Right Action](https://open.spotify.com/track/6hADH7b57N5666cGv624vg) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Right Thoughts, Right Words, Right Action \(Deluxe Edition\)](https://open.spotify.com/album/5W7631WJASasWPAFFzDpzi) | 3:02 | 2025-04-04 |  |
+| [Right As Rain](https://open.spotify.com/track/6OLudcGaT6HQ5bXH54kI8i) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/5awrJZBt3rP9RO5hlYdZB0) | 3:17 | 2025-06-01 |  |
+| [Right Down The Line](https://open.spotify.com/track/2QkrXvBAfhE4QAr9Y5kOvh) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [NUDES](https://open.spotify.com/album/3y4k3cJW83i3KDSDJnPOX8) | 3:55 | 2025-06-01 |  |
 | [Right Here](https://open.spotify.com/track/5r3sgE99u4uPNDY5igvo4Q) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [Powder Blue](https://open.spotify.com/album/0kr5NBd2qdQNeZhzke5tHz) | 3:07 | 2025-04-06 |  |
 | [Right Here, for Now](https://open.spotify.com/track/2LxRUWNqcKcTo7zOrctebE) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:00 | 2025-05-09 |  |
 | [Right Here, for Now](https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:00 | 2024-12-09 |  |
@@ -2028,6 +2032,7 @@
 | [We Like](https://open.spotify.com/track/52j4ZPqoJCQaq4LlTrRUL7) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [We Like](https://open.spotify.com/album/6YJQgTzZksirShExF4rvCJ) | 3:07 | 2025-05-17 |  |
 | [WE PRAY \(feat\. Little Simz, Burna Boy, Elyanna & TINI\)](https://open.spotify.com/track/3oSt3uGgV6J1jOUyyeQH1K) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [tINI](https://open.spotify.com/artist/1u88vrRlJSMtOqP6ulmeCc) | [Hits 2025](https://open.spotify.com/album/2jP0U2n6mUdOeGs1kMNCg3) | 3:53 | 2025-05-03 |  |
 | [We Used To Be Friends](https://open.spotify.com/track/7hPO1N8dk3vH8kCYqHhJZX) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/1QKL1Z8iNiS4G2XW37c7fF) | 3:19 | 2025-01-08 |  |
+| [We Were Here](https://open.spotify.com/track/5324JvTUrlVccbspYQmX7a) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Watin](https://open.spotify.com/album/42rAIuXgRtLB5Qe6Lur5AN) | 3:45 | 2025-06-01 |  |
 | [We Were Here](https://open.spotify.com/track/14dTiJTsSR6XcpTWKBMhrA) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Skin & Earth](https://open.spotify.com/album/6s7WpIWoAG0LiBzQuuPh9o) | 3:49 | 2025-04-09 |  |
 | [We Will Become Silhouettes](https://open.spotify.com/track/2Lum7cLDAZGbDVLXHyisEa) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up](https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz) | 5:00 | 2024-12-31 |  |
 | [We Will Still Need A Song](https://open.spotify.com/track/4c7VnhlsbffQkivNMp1V38) | [Hawksley Workman](https://open.spotify.com/artist/6TXT0xgAes45U8vyHeCIZJ) | [Lover/Fighter](https://open.spotify.com/album/78ofbt0qp6WPJSVCA4UkNe) | 3:49 | 2025-02-26 |  |
