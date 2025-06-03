@@ -2179,6 +2179,24 @@
     },
     {
       "album": {
+        "name": "My All To You",
+        "url": "https://open.spotify.com/album/6meWLme3zfqggs1SfGOwIh"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Deer",
+          "url": "https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192509,
+      "name": "Atungak",
+      "url": "https://open.spotify.com/track/5klYfa8KQmXha11eE90YSg"
+    },
+    {
+      "album": {
         "name": "Merry Christmas II You",
         "url": "https://open.spotify.com/album/4q88opkbXkvvL0iIvbs0pv"
       },
@@ -4298,6 +4316,24 @@
       "duration_ms": 199586,
       "name": "Bow And Arrow",
       "url": "https://open.spotify.com/track/7FvbfYJjjWzvF53mqHVULa"
+    },
+    {
+      "album": {
+        "name": "Panther in the Dollhouse",
+        "url": "https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn"
+      },
+      "artists": [
+        {
+          "name": "Whitehorse",
+          "url": "https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242171,
+      "name": "Boys Like You",
+      "url": "https://open.spotify.com/track/4fVlXHAcLDrrj5yIU7DRUP"
     },
     {
       "album": {

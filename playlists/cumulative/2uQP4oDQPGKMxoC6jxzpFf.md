@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,158 songs - 5 day 14 hr 40 min
+2,160 songs - 5 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Athena](https://open.spotify.com/track/1FzfXpRRwJCy6zCZgEiYIk) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Athena](https://open.spotify.com/album/1TYPqgLnfLQHY3bOrGCiZg) | 3:13 | 2025-05-22 |  |
 | [Atomic Number](https://open.spotify.com/track/6dA9wLJzLDS3Vfk7m3qIPI) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED), [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586), [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [case/lang/veirs](https://open.spotify.com/album/0U5U4AU94YjYY2QoOpmwfN) | 2:57 | 2024-12-09 |  |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2025-05-03 |  |
+| [Atungak](https://open.spotify.com/track/5klYfa8KQmXha11eE90YSg) | [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [My All To You](https://open.spotify.com/album/6meWLme3zfqggs1SfGOwIh) | 3:12 | 2025-06-02 |  |
 | [Auld Lang Syne \- The New Year's Anthem](https://open.spotify.com/track/2Ev1OlcyNEsKyrijT5Tnwp) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas II You](https://open.spotify.com/album/4q88opkbXkvvL0iIvbs0pv) | 3:47 | 2025-01-01 |  |
 | [Auppalialirmat](https://open.spotify.com/track/087AQn2WpwomG2owv7osYV) | [Juurini](https://open.spotify.com/artist/4hJndL9GhSQZ3rymH5P5cx) | [Aqqutinni](https://open.spotify.com/album/5BqCJhWXj4qacCa3ZbFzkd) | 3:48 | 2025-05-13 |  |
 | [Austin](https://open.spotify.com/track/1ltvCt3c0a42HpTfG8ZoF2) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:09 | 2025-05-05 |  |
@@ -238,6 +239,7 @@
 | [Borrow Trouble](https://open.spotify.com/track/461JI71P8eY2zUWAkyKs7b) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 4:05 | 2025-04-21 |  |
 | [Both Sides Now](https://open.spotify.com/track/1pjATX7sbd6Y4jMVqIvzHk) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Both Sides Now](https://open.spotify.com/album/2zK66VRY3rDGDuZcGvRJdZ) | 5:45 | 2024-12-21 |  |
 | [Bow And Arrow](https://open.spotify.com/track/7FvbfYJjjWzvF53mqHVULa) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [Funeral Sky](https://open.spotify.com/album/6bwuGWJKDEOLcgblDRLeJd) | 3:19 | 2025-02-01 |  |
+| [Boys Like You](https://open.spotify.com/track/4fVlXHAcLDrrj5yIU7DRUP) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [Panther in the Dollhouse](https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn) | 4:02 | 2025-06-02 |  |
 | [Brass in Pocket \- 2006 Remaster](https://open.spotify.com/track/1QaJWSCk3UMKLotnPCIHh1) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders](https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw) | 3:05 | 2024-12-10 |  |
 | [Break For You](https://open.spotify.com/track/3Se8tSB8mzb7EgAieHsFut) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Lost In Translation](https://open.spotify.com/album/2QNQe0cnmzYYc0QcKeEZgb) | 2:34 | 2025-05-18 |  |
 | [Break For You](https://open.spotify.com/track/3Y37BUtMctTp22i1LC1sE7) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Break For You](https://open.spotify.com/album/6mRtETwPNimVfkeyKOMzBH) | 2:34 | 2024-11-27 |  |
