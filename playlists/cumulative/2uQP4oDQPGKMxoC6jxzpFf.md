@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,166 songs - 5 day 15 hr 9 min
+2,171 songs - 5 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -815,6 +815,7 @@
 | [Holding On](https://open.spotify.com/track/33h88DOJHwUkb22IPmZhiw) | [Jayli Wolf](https://open.spotify.com/artist/09AACzWu09h30NeqLRn4Tx) | [Holding On](https://open.spotify.com/album/2Krm7Qb2JGVBtYB4yMbSpI) | 4:12 | 2025-05-16 |  |
 | [Holding On](https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [A Deeper Understanding](https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF) | 5:50 | 2025-05-11 |  |
 | [Home](https://open.spotify.com/track/2x1jP9BexWtOKudvuUHbaD) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up from Below](https://open.spotify.com/album/2tLdKDCv86cEamk2nrL7q9) | 5:03 | 2024-12-14 |  |
+| [Home](https://open.spotify.com/track/6xKMnppUHCWTVuL0dtGXLE) | [Gloria Barnes](https://open.spotify.com/artist/4YC8d6LulqAmlZcNKw7c5L) | [Lost in Sound \- Rare Soul & Funk Essentials](https://open.spotify.com/album/6BbMWc3YyOT6BXQP1I36OV) | 2:49 | 2025-06-04 |  |
 | [Home \- Remix](https://open.spotify.com/track/2jRMDx1Xu8pvsIUxIePXAt) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Humberto Gatica](https://open.spotify.com/artist/67K364KAVvBthhmq70ct4h) | [It's Time](https://open.spotify.com/album/457fktVFXVwjQTl9wOLlfg) | 3:41 | 2025-03-22 |  |
 | [Homesick](https://open.spotify.com/track/0jkzxxDG8z3Y5OmfNl1VM0) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:14 | 2025-05-03 |  |
 | [Homesick \(with Sam Fender\)](https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Homesick \(with Sam Fender\)](https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I) | 3:14 | 2024-11-24 |  |
@@ -916,6 +917,7 @@
 | [I'm Ready](https://open.spotify.com/track/1ic6A9vauGtfV80avpIOT1) | [Kinnie Starr](https://open.spotify.com/artist/209owUSIqCjOCdahzFWdl8), [Spek](https://open.spotify.com/artist/7CmqWdR7GBgII9peqTNnwR) | [Feed the Fire](https://open.spotify.com/album/2LdEPwotP2w3cvMELOX2ge) | 3:46 | 2024-12-02 |  |
 | [I'm so Happy I Cry](https://open.spotify.com/track/0Bu4nhcEJkmWLilzKZec8q) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13), [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN) | [Have You Lost Your Mind yet?](https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy) | 3:24 | 2025-02-28 |  |
 | [I'm Trying](https://open.spotify.com/track/71Y8O75I49N4HuCZFPeoTC) | [Terry Browne](https://open.spotify.com/artist/5xnNtqjewkiiaZ3U6k2cor) | [I'm Trying](https://open.spotify.com/album/3874pdpvK9fE8iUhvf3CgU) | 3:34 | 2025-04-20 |  |
+| [Ice Box](https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [21](https://open.spotify.com/album/2dGxINFRaJEwDRXohf5gTE) | 4:16 | 2025-06-04 |  |
 | [Id Rather Go Blind](https://open.spotify.com/track/6ScPWXnvQMzqIwXZH4ZLC5) | [Crystal Shawanda](https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG) | [Voodoo Woman](https://open.spotify.com/album/3pJrVJIRvh6VqLclBfFVo8) | 4:54 | 2025-03-26 |  |
 | [Identivacation](https://open.spotify.com/track/6t3dfOxdghpLw8clHXxT2f) | [Jordan Klassen](https://open.spotify.com/artist/70QS2gTlkKW2rNjlmMBNp8) | [Tell Me What To Do](https://open.spotify.com/album/59iDkt4z9gEE2732tVgqty) | 3:06 | 2025-05-18 |  |
 | [If I Can't Have You](https://open.spotify.com/track/2bT1PH7Cw3J9p3t7nlXCdh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes \(Deluxe\)](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) | 3:11 | 2025-05-04 |  |
@@ -1730,6 +1732,7 @@
 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 | 2025-05-17 |  |
 | [Sugah Daddy](https://open.spotify.com/track/53l4LGUeZKCDZI1u25kQDN) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:02 | 2025-01-25 |  |
 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 | 2025-05-05 |  |
+| [Sugar in the Tank](https://open.spotify.com/track/27Xxf6AtaSpXE47Xzvua9r) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Send A Prayer My Way](https://open.spotify.com/album/7wVTqZ02NOssDk9xfo9Imf) | 3:42 | 2025-06-04 |  |
 | [Sugarcube](https://open.spotify.com/track/2nqaQ4WJ5tGTvGfQCvpBWT) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 3:21 | 2025-05-27 |  |
 | [SUMMERTIMEISDONE](https://open.spotify.com/track/6Lvoj1mTHOAW7GYJcH6RLR) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [SATIN PLAYGROUND](https://open.spotify.com/album/7Kw9RX7X7oZDleBCmnE7ol) | 2:44 | 2024-12-24 |  |
 | [Sun in an Empty Room](https://open.spotify.com/track/4r1AS456lSXXXv6aVpDT4e) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Reunion Tour](https://open.spotify.com/album/1RIXytPt0J9WcBOvsklInr) | 4:00 | 2025-05-07 |  |
@@ -1779,6 +1782,7 @@
 | [Take A Picture](https://open.spotify.com/track/1DeAGiPjHLeEVtDZbJYhwu) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Take A Picture](https://open.spotify.com/album/5DPvkZHGqus5zPLRcWyJ6K) | 5:36 | 2025-01-11 |  |
 | [Take It On Faith](https://open.spotify.com/track/4ZimkIYHB032BXtoZWXVD6) | [Matt Mays](https://open.spotify.com/artist/0VlFTYaJsPHdN3Vb3EvBsn) | [Coyote](https://open.spotify.com/album/1kVIe2RWafhJb1QtFywm6v) | 4:26 | 2025-03-26 |  |
 | [Take It to the Limit](https://open.spotify.com/track/4jFTI7T2x5O1HhgucphWs2) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Deep In The Night](https://open.spotify.com/album/3WXJKq5laQmRa0Ff6YDN7r) | 4:07 | 2025-02-04 |  |
+| [Take It to the Limit](https://open.spotify.com/track/4JjMZQyUwq0AnzLefRRljB) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs), [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Take It to the Limit](https://open.spotify.com/album/2xk1ostPIBfKqChwmfT4ty) | 3:50 | 2025-06-04 |  |
 | [Take Me Anywhere](https://open.spotify.com/track/1PKmLqzJRzOu0dnXJEPph7) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 2:30 | 2025-03-12 |  |
 | [TAKE ME OUT!](https://open.spotify.com/track/7icUZpZTk6xXt5SVXKHNaA) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [I Might Start Smoking](https://open.spotify.com/album/7HoJCVGroN6NBBWCz66v1j) | 3:03 | 2025-04-14 |  |
 | [Take Me to Church](https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:01 | 2025-05-21 |  |
@@ -1847,6 +1851,7 @@
 | [The Needle Has Landed](https://open.spotify.com/track/3U9q4Cg5wl1zhShxsNFivf) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 3:45 | 2025-02-17 |  |
 | [The New Year](https://open.spotify.com/track/4nPNsnv4QEiIzihzCU5zHH) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe) | 4:06 | 2025-01-02 |  |
 | [The Old Apartment](https://open.spotify.com/track/5HjviQMuDBIvcyNXJtka23) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Born on a Pirate Ship \(Enhanced Edition\)](https://open.spotify.com/album/0ZhGG0DUBuvVNyICBnHlpZ) | 3:29 | 2025-05-08 |  |
+| [The Only Heartbreaker](https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:04 | 2025-06-04 |  |
 | [The Only One I Know](https://open.spotify.com/track/7ziicmUOzWXAkdPriOmFk9) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Some Friendly](https://open.spotify.com/album/6Bb253vXd4mFULDwLhNf7u) | 3:58 | 2024-12-11 |  |
 | [The Other Man](https://open.spotify.com/track/5wtifIEA8OilqQAJN5Nj6V) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Pretty Together](https://open.spotify.com/album/7c3oGpFEheVdCqaMjnECoE) | 3:52 | 2025-03-27 |  |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2024-12-02 |  |
