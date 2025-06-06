@@ -8331,6 +8331,24 @@
     },
     {
       "album": {
+        "name": "Natural Light",
+        "url": "https://open.spotify.com/album/5mbEX4VVc8PY11n3RPqrGT"
+      },
+      "artists": [
+        {
+          "name": "Dan Mangan",
+          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181494,
+      "name": "Diminishing Returns",
+      "url": "https://open.spotify.com/track/6QmNuanzOQNCgV2uhpQFL7"
+    },
+    {
+      "album": {
         "name": "Pretty Red Bird",
         "url": "https://open.spotify.com/album/4CVvKdcEb3rkac230DsOQB"
       },
@@ -11343,6 +11361,28 @@
     },
     {
       "album": {
+        "name": "Gangsta's Paradise",
+        "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
+      },
+      "artists": [
+        {
+          "name": "Coolio",
+          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
+        },
+        {
+          "name": "L.V.",
+          "url": "https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240693,
+      "name": "Gangsta's Paradise",
+      "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
+    },
+    {
+      "album": {
         "name": "Gaslighter",
         "url": "https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4"
       },
@@ -11626,6 +11666,24 @@
       "duration_ms": 197840,
       "name": "Get Up, Stand Up",
       "url": "https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1"
+    },
+    {
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233626,
+      "name": "Getaway Car",
+      "url": "https://open.spotify.com/track/0VE4kBnHJUgtMf0dy6DRmW"
     },
     {
       "album": {
@@ -15580,6 +15638,24 @@
       "duration_ms": 240306,
       "name": "How To Love",
       "url": "https://open.spotify.com/track/7xyN0pha5zIbwvXeIADGpe"
+    },
+    {
+      "album": {
+        "name": "How to Sing for Money",
+        "url": "https://open.spotify.com/album/3z6inZH9eQk8JgfwSgQXCM"
+      },
+      "artists": [
+        {
+          "name": "Maggie Andrew",
+          "url": "https://open.spotify.com/artist/4PJuPTnsXBp1QY667NS0Oo"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209117,
+      "name": "How to Sing for Money",
+      "url": "https://open.spotify.com/track/2hk2miVnaS7ycQCYZrCPad"
     },
     {
       "album": {
@@ -19928,6 +20004,28 @@
       "duration_ms": 173888,
       "name": "Life I Wanted",
       "url": "https://open.spotify.com/track/3So7Hy4evTP8sqkrVftZQy"
+    },
+    {
+      "album": {
+        "name": "The Renaissance",
+        "url": "https://open.spotify.com/album/6V5Ct3kX5Yk74z4MLZB6h9"
+      },
+      "artists": [
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281040,
+      "name": "Life Is Better",
+      "url": "https://open.spotify.com/track/4ihpHBBrKr6wpyAkhoyfmh"
     },
     {
       "album": {
@@ -26202,6 +26300,24 @@
       "duration_ms": 299286,
       "name": "People Everyday",
       "url": "https://open.spotify.com/track/6PFoMn4Zt2cgMbb0RBa4b7"
+    },
+    {
+      "album": {
+        "name": "Twice Removed",
+        "url": "https://open.spotify.com/album/5hxtaQ8kpaFeG10B9GQvGB"
+      },
+      "artists": [
+        {
+          "name": "Sloan",
+          "url": "https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217244,
+      "name": "People of the Sky",
+      "url": "https://open.spotify.com/track/1JEtDaxkehuNXRVpwXwaW5"
     },
     {
       "album": {
@@ -33603,6 +33719,24 @@
     },
     {
       "album": {
+        "name": "Supposed Former Infatuation Junkie",
+        "url": "https://open.spotify.com/album/2QXT4rGSfqjqfgpZ059yKp"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258773,
+      "name": "Thank U",
+      "url": "https://open.spotify.com/track/3CVDronuSnhguSUguPoseM"
+    },
+    {
+      "album": {
         "name": "The Collection (Standard Edition)",
         "url": "https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg"
       },
@@ -39386,6 +39520,28 @@
       "duration_ms": 252960,
       "name": "Without A Leg To Stand On",
       "url": "https://open.spotify.com/track/31J0OSQnOjWtLBdrcD0rEm"
+    },
+    {
+      "album": {
+        "name": "Cunningham Bird",
+        "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252960,
+      "name": "Without A Leg To Stand On",
+      "url": "https://open.spotify.com/track/4CDF9sHXsSNSNUGOgvFI3f"
     },
     {
       "album": {
