@@ -3687,6 +3687,24 @@
     },
     {
       "album": {
+        "name": "TAO",
+        "url": "https://open.spotify.com/album/2IJp6htTG6YKq92J2eMqBF"
+      },
+      "artists": [
+        {
+          "name": "Shad",
+          "url": "https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198007,
+      "name": "Black Averageness",
+      "url": "https://open.spotify.com/track/4imyXkhKrOy8x6g8iuQjML"
+    },
+    {
+      "album": {
         "name": "I Do Not Want What I Haven't Got",
         "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
       },
@@ -7861,6 +7879,24 @@
     },
     {
       "album": {
+        "name": "Amanda Marshall",
+        "url": "https://open.spotify.com/album/0TyKRzOsoZgXrXrcXnPvqt"
+      },
+      "artists": [
+        {
+          "name": "Amanda Marshall",
+          "url": "https://open.spotify.com/artist/2ON3fLFbL1rHfHEjeYNKsO"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337600,
+      "name": "Dark Horse",
+      "url": "https://open.spotify.com/track/4cg24ri2Qov4CiPccp7Szn"
+    },
+    {
+      "album": {
         "name": "Woke Myself Up",
         "url": "https://open.spotify.com/album/3gaY1BRkDYXzD88fg7QwTq"
       },
@@ -9912,6 +9948,32 @@
       "duration_ms": 194800,
       "name": "Evening Dream",
       "url": "https://open.spotify.com/track/2KMj4lDK37Faq302m2Wq7l"
+    },
+    {
+      "album": {
+        "name": "Everybody Gets Down",
+        "url": "https://open.spotify.com/album/2itGQCqttw47maPiLdncOM"
+      },
+      "artists": [
+        {
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161093,
+      "name": "Everybody Gets Down",
+      "url": "https://open.spotify.com/track/0Z3YRaL0NvDgPdhTQTnqip"
     },
     {
       "album": {
@@ -16857,6 +16919,24 @@
     },
     {
       "album": {
+        "name": "Lift",
+        "url": "https://open.spotify.com/album/0dbzv2RA0E0LVzmyjLIYVQ"
+      },
+      "artists": [
+        {
+          "name": "Busty and the Bass",
+          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259618,
+      "name": "I Try (Living Room Session)",
+      "url": "https://open.spotify.com/track/19WKGmbQas2P96TzAOldOS"
+    },
+    {
+      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -19426,6 +19506,24 @@
       "duration_ms": 176431,
       "name": "know that you're not alone",
       "url": "https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn"
+    },
+    {
+      "album": {
+        "name": "KOFFEE",
+        "url": "https://open.spotify.com/album/5L4jCtM0ZxghguzR7pQ81S"
+      },
+      "artists": [
+        {
+          "name": "Original Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147330,
+      "name": "KOFFEE",
+      "url": "https://open.spotify.com/track/0dWKOf4DweFGtwUvSmbdbj"
     },
     {
       "album": {
@@ -27841,6 +27939,36 @@
     },
     {
       "album": {
+        "name": "The Score (Expanded Edition)",
+        "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
+      },
+      "artists": [
+        {
+          "name": "Fugees",
+          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "name": "Pras",
+          "url": "https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226933,
+      "name": "Ready or Not",
+      "url": "https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp"
+    },
+    {
+      "album": {
         "name": "What's The 411?",
         "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
       },
@@ -32079,6 +32207,36 @@
     },
     {
       "album": {
+        "name": "One More Saturday Night",
+        "url": "https://open.spotify.com/album/38QPffzI4T8m7ngEFGw2q4"
+      },
+      "artists": [
+        {
+          "name": "The Halluci Nation",
+          "url": "https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z"
+        },
+        {
+          "name": "Antoine",
+          "url": "https://open.spotify.com/artist/0XHIO7wbDir4IM0l9nuNf5"
+        },
+        {
+          "name": "Tom Power",
+          "url": "https://open.spotify.com/artist/1whgnnXDi5t3jeqO0BPxyz"
+        },
+        {
+          "name": "Chippewa Travellers",
+          "url": "https://open.spotify.com/artist/4AaS8zEHLC20ExfrnuSMmV"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189695,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/5Yo8AWioptAr6s4ohAhInR"
+    },
+    {
+      "album": {
         "name": "Jaime",
         "url": "https://open.spotify.com/album/5Ut4UnPCzdFIksOf2XtL6M"
       },
@@ -35668,6 +35826,24 @@
       "duration_ms": 197879,
       "name": "They Gutted This City",
       "url": "https://open.spotify.com/track/4n0pAf3z7uCk3cKzINwBlK"
+    },
+    {
+      "album": {
+        "name": "MASS",
+        "url": "https://open.spotify.com/album/01NHwqYaAAT9gnXBGHjaim"
+      },
+      "artists": [
+        {
+          "name": "Bedouin Soundclash",
+          "url": "https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197880,
+      "name": "They Gutted This City",
+      "url": "https://open.spotify.com/track/2E6Xjj5tLwci8ky1bN2T5S"
     },
     {
       "album": {
@@ -40414,6 +40590,24 @@
       "duration_ms": 224506,
       "name": "Yellow Brick Road",
       "url": "https://open.spotify.com/track/4Zivh7wXDM4b82lqRPIWAN"
+    },
+    {
+      "album": {
+        "name": "The Pointer Sisters",
+        "url": "https://open.spotify.com/album/4mzvakrydkVKHDK1qkKvyu"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361600,
+      "name": "Yes We Can Can",
+      "url": "https://open.spotify.com/track/5cfCiy2vEqsInb0m2SCJd9"
     },
     {
       "album": {
