@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,218 songs - 5 day 18 hr 29 min
+2,222 songs - 5 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1051,6 +1051,7 @@
 | [Kinda Complicated](https://open.spotify.com/track/7of3eLR7wKUieYZQtRPHNv) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Hôtel de Ville](https://open.spotify.com/album/4tSyMoAffvFeEEzIG3cJ5E) | 3:01 | 2025-04-20 |  |
 | [Kintsukuroi](https://open.spotify.com/track/4iQ7FTo23wetOS6NighSd9) | [Hey Rosetta!](https://open.spotify.com/artist/52ue4x5xVjLx4cw2HEXMhi) | [Second Sight](https://open.spotify.com/album/5rOAMAmEQWCAbc9gefTaFb) | 3:30 | 2024-11-27 |  |
 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 | 2025-05-16 |  |
+| [Kiss from a Rose](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1) | 4:48 | 2025-06-11 |  |
 | [Knock The Door](https://open.spotify.com/track/01YT44qYFnb4ioVl2KGN3I) | [Spek](https://open.spotify.com/artist/08GOo5iQklmf62JyrfKcsi) | [Knock The Door](https://open.spotify.com/album/26PFj9ecPuBhsQ0vQnc3sS) | 3:49 | 2025-04-16 |  |
 | [Knocks Me Off My Feet](https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [My Heart](https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV) | 3:42 | 2025-02-27 |  |
 | [know that you're not alone](https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [know that you're not alone](https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl) | 2:56 | 2025-05-10 |  |
@@ -1302,6 +1303,7 @@
 | [Never Going Back Again \- 2004 Remaster](https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 2:14 | 2025-05-13 |  |
 | [Never Going Back Again \- Live](https://open.spotify.com/track/7nyDtq03hKMzL9xcHeGDAm) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Live at the Bass Performance Hall](https://open.spotify.com/album/4I8fSNYh03Bhwf6lP8X3By) | 3:37 | 2024-11-21 |  |
 | [Never Gonna Give You Up](https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6) | 3:33 | 2024-11-28 |  |
+| [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 | 2025-06-11 |  |
 | [Never Need Me](https://open.spotify.com/track/2gWY1fvwvKPQFFoahY4p3v) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:25 | 2025-05-04 |  |
 | [never say ily again](https://open.spotify.com/track/0L0zR06VtQkI5BB5Pb91bm) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [MISS SICK WORLD](https://open.spotify.com/album/79oS6Ri5JCrY40hGDgCdAS) | 3:16 | 2024-11-24 |  |
 | [Never Tear Us Apart](https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:05 | 2025-04-11 |  |
@@ -1331,6 +1333,7 @@
 | [No More Drama](https://open.spotify.com/track/7nWsh14AHpnTzq1Xejz90U) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 5:26 | 2024-12-19 |  |
 | [No More Tears \(Enough Is Enough\)](https://open.spotify.com/track/2WOxDSMVbPy8rsK9oMtWuj) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U), [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Summer: The Original Hits](https://open.spotify.com/album/2TNGyJVlzMUsD5mry6qsw2) | 4:48 | 2025-04-05 |  |
 | [No Puede Ser](https://open.spotify.com/track/2ljXREIxA3lT2ondeozRYF) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [El Swing Que Yo Tengo](https://open.spotify.com/album/0IHxZjy8PyE5I5CBwF0JlW) | 3:12 | 2025-05-03 |  |
+| [No Rain, No Flowers](https://open.spotify.com/track/2aCRmuNL8RaBi8h7BbmTsT) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/23zADDjNU8SsruJg2Fcg88) | 3:16 | 2025-06-11 |  |
 | [No Reason To Cry Out Your Eyes](https://open.spotify.com/track/75LTvafvnZuTCCo2lrALlb) | [Hawksley Workman](https://open.spotify.com/artist/6TXT0xgAes45U8vyHeCIZJ) | [Lover/Fighter](https://open.spotify.com/album/78ofbt0qp6WPJSVCA4UkNe) | 3:16 | 2025-04-08 |  |
 | [No Roots](https://open.spotify.com/track/5E2Ov10oFPy0qNoNr1qmdc) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [No Roots](https://open.spotify.com/album/21hhJkcGRo53z5SWzO7A9K) | 3:55 | 2025-05-04 |  |
 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 | 2025-03-21 |  |
@@ -2148,6 +2151,7 @@
 | [White Collar Boy](https://open.spotify.com/track/6sgs5mVCxzuwJYDPSo9waa) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Life Pursuit](https://open.spotify.com/album/3G6qfauXGRxcWaCFZvGaLU) | 3:20 | 2024-11-25 |  |
 | [White Flag](https://open.spotify.com/track/5bIAVYcUJ2PlezWJg0i8lv) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/7vFffWRCAH13VwwmlZTr8m) | 3:19 | 2025-02-16 |  |
 | [White Flag](https://open.spotify.com/track/7ktiE42EYVPNnezrXB5UZt) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [White Flag](https://open.spotify.com/album/01ggM10A4O5lP74y2PxxKR) | 3:19 | 2024-11-22 |  |
+| [WHITE PAPER PALM TREES](https://open.spotify.com/track/5AkkV33I0Gh04gMHBounLU) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [A6](https://open.spotify.com/album/1B770BdBdTMmC0u8kUybHa) | 3:40 | 2025-06-11 |  |
 | [Who Can It Be Now?](https://open.spotify.com/track/5BCykgPXc7zEBg2oU0klvy) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/146RggLMNzNZL1ZVr8hbCw) | 3:25 | 2025-04-18 |  |
 | [Who Taught You to Live Like That?](https://open.spotify.com/track/3E3ZEUuuEkzaQzOjYahjVU) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Never Hear the End of It](https://open.spotify.com/album/0VE9Zs4eCqsbaEJ48hH3PP) | 3:02 | 2025-01-20 |  |
 | [Who's Gonna](https://open.spotify.com/track/1jDtugS5TBPnLUT7c9EFl4) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [No Tears On This Ride](https://open.spotify.com/album/3vNG82Nj8itqtUjNM9g3HG) | 2:58 | 2025-05-30 |  |
