@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAABYaSBeLkjobTQ0YZPy1ADriTZI9y",
+  "snapshot_id": "AAAACM4twr/g5AS8rmpTcc6NJ7cFeUoQ",
   "tracks": [
     {
       "added_at": "2023-03-04 08:16:23",
@@ -75,6 +75,54 @@
       "duration_ms": 236466,
       "name": "For Her",
       "url": "https://open.spotify.com/track/5BTWh85WbDMSsQTvkw8WEI"
+    },
+    {
+      "added_at": "2025-07-09 06:48:01",
+      "album": {
+        "name": "Next To Normal (Original London Cast Recording)",
+        "url": "https://open.spotify.com/album/5IWkvoiJdAJgbebPS47Uy6"
+      },
+      "artists": [
+        {
+          "name": "Jack Wolfe",
+          "url": "https://open.spotify.com/artist/2fuwv10XgJs4sLjQXqaQnb"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "I'm Alive",
+      "url": "https://open.spotify.com/track/4hWkVEHdEOSzpjQa0NRttw"
+    },
+    {
+      "added_at": "2025-07-09 06:49:32",
+      "album": {
+        "name": "Next To Normal (Original London Cast Recording)",
+        "url": "https://open.spotify.com/album/5IWkvoiJdAJgbebPS47Uy6"
+      },
+      "artists": [
+        {
+          "name": "Jack Wolfe",
+          "url": "https://open.spotify.com/artist/2fuwv10XgJs4sLjQXqaQnb"
+        }
+      ],
+      "duration_ms": 112077,
+      "name": "There's a World",
+      "url": "https://open.spotify.com/track/5aB6tAvucmfVZL7zfZa9IC"
+    },
+    {
+      "added_at": "2025-07-09 06:49:58",
+      "album": {
+        "name": "Next To Normal (Original London Cast Recording)",
+        "url": "https://open.spotify.com/album/5IWkvoiJdAJgbebPS47Uy6"
+      },
+      "artists": [
+        {
+          "name": "Jack Wolfe",
+          "url": "https://open.spotify.com/artist/2fuwv10XgJs4sLjQXqaQnb"
+        }
+      ],
+      "duration_ms": 93135,
+      "name": "I'm Alive (Reprise)",
+      "url": "https://open.spotify.com/track/26kaVx2Jx7YkYespsRJ0LB"
     }
   ],
   "unique_name": "Musical",

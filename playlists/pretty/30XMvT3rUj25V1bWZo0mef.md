@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/30XMvT3rUj25V1bWZo0mef.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 4 songs - 17 min 46 sec
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 7 songs - 25 min 5 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,5 +12,8 @@ pretty - [cumulative](/playlists/cumulative/30XMvT3rUj25V1bWZo0mef.md) - [plain]
 | 2 | [Being Alive](https://open.spotify.com/track/4GDSnxxtmIyVS4Twl7Y7UB) | [Stephen Sondheim](https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1) | [Company](https://open.spotify.com/album/6PaCKF5VoZp0Q1anuqXjf1) | 5:06 |
 | 3 | [I'd Do Anything For Love \(But I Won't Do That\) \- Single Edit](https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell II: Back Into Hell](https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z) | 5:16 |
 | 4 | [For Her](https://open.spotify.com/track/5BTWh85WbDMSsQTvkw8WEI) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Original Broadway Cast of The Great Gatsby \- A New Musical](https://open.spotify.com/artist/7yHJ9NFHBIguBEjpJwRNXM) | [The Great Gatsby \- A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1ROa0bSRzWi67kUyzfyfq6) | 3:56 |
+| 5 | [I'm Alive](https://open.spotify.com/track/4hWkVEHdEOSzpjQa0NRttw) | [Jack Wolfe](https://open.spotify.com/artist/2fuwv10XgJs4sLjQXqaQnb) | [Next To Normal \(Original London Cast Recording\)](https://open.spotify.com/album/5IWkvoiJdAJgbebPS47Uy6) | 3:54 |
+| 6 | [There's a World](https://open.spotify.com/track/5aB6tAvucmfVZL7zfZa9IC) | [Jack Wolfe](https://open.spotify.com/artist/2fuwv10XgJs4sLjQXqaQnb) | [Next To Normal \(Original London Cast Recording\)](https://open.spotify.com/album/5IWkvoiJdAJgbebPS47Uy6) | 1:52 |
+| 7 | [I'm Alive \(Reprise\)](https://open.spotify.com/track/26kaVx2Jx7YkYespsRJ0LB) | [Jack Wolfe](https://open.spotify.com/artist/2fuwv10XgJs4sLjQXqaQnb) | [Next To Normal \(Original London Cast Recording\)](https://open.spotify.com/album/5IWkvoiJdAJgbebPS47Uy6) | 1:33 |
 
-Snapshot ID: `AAAABYaSBeLkjobTQ0YZPy1ADriTZI9y`
+Snapshot ID: `AAAACM4twr/g5AS8rmpTcc6NJ7cFeUoQ`

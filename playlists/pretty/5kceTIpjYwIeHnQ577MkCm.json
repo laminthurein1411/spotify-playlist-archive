@@ -761,7 +761,7 @@
         },
         {
           "name": "Chorus of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/3wRbiKfTNxoQm0Ds85lMfU"
+          "url": "https://open.spotify.com/artist/06MDD2tGLJbN2URk3WzXAm"
         },
         {
           "name": "Orchestra of the Royal Opera House, Covent Garden",
@@ -769,7 +769,7 @@
         }
       ],
       "duration_ms": 329733,
-      "name": "Verdi: Nabucco, Act 3: Chorus of the Hebrew Slaves. \"Va pensiero, sull'ali dorate\"",
+      "name": "Verdi: Nabucco, Act 3: Chorus of the Hebrew Slaves. \"Va pensiero, sull'ali dorate\" (Coro)",
       "url": "https://open.spotify.com/track/7J5Lyjmr4CmBAXH2COCNko"
     },
     {
@@ -2585,7 +2585,7 @@
         }
       ],
       "duration_ms": 325009,
-      "name": "Les p\u00eacheurs de perles, WD 13 / Act 1: \"Au fond du temple saint\"",
+      "name": "Les p\u00eacheurs de perles, WD 13, Act I: Au fond du temple saint \"Pearl Fishers' Duet\"",
       "url": "https://open.spotify.com/track/6Dkjc0jzDgNtHf6Kr0HTLf"
     },
     {
@@ -3077,7 +3077,7 @@
         }
       ],
       "duration_ms": 183266,
-      "name": "Serse / Act I HWV40: \"Ombra mai fu\"",
+      "name": "Serse, HWV 40, Act I: Ombra mai fu \"Largo\"",
       "url": "https://open.spotify.com/track/56S04BxQD4FsePfNQIt6Cd"
     },
     {
@@ -5233,7 +5233,7 @@
         }
       ],
       "duration_ms": 220093,
-      "name": "Le nozze di Figaro, K.492 / Act 1: \"Non pi\u00f9 andrai\"",
+      "name": "Le nozze di Figaro, K. 492, Act I: No. 10, Non pi\u00f9 andrai",
       "url": "https://open.spotify.com/track/2NCRRyy44OFKmMcnONlque"
     },
     {
@@ -5461,7 +5461,7 @@
         }
       ],
       "duration_ms": 400053,
-      "name": "Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 2: No. 9, Waltz of the Snowflakes",
+      "name": "Tchaikovsky: The Nutcracker, Op. 71, Act 1: No. 9, Waltz of the Snowflakes",
       "url": "https://open.spotify.com/track/5jXB4p8pQu9Ahv10ibU8fG"
     },
     {
@@ -6786,10 +6786,14 @@
         {
           "name": "Min Kym",
           "url": "https://open.spotify.com/artist/16Y4iTVdcQ7S3FhpwrXzK7"
+        },
+        {
+          "name": "Gordon Back",
+          "url": "https://open.spotify.com/artist/6WzJzmtyvk7e4Io7rfsvHn"
         }
       ],
       "duration_ms": 201600,
-      "name": "Elgar: Salut d' Amour, Op. 12",
+      "name": "Elgar: Salut d'amour, Op. 12",
       "url": "https://open.spotify.com/track/1HW3I6KUzjYPEMqZrlFN66"
     },
     {
@@ -11097,7 +11101,7 @@
         }
       ],
       "duration_ms": 247303,
-      "name": "Im Abendrot, D.799",
+      "name": "Im Abendrot, D. 799",
       "url": "https://open.spotify.com/track/5vQTQiCFQVy5Jfm1tz4R8V"
     },
     {
@@ -12397,7 +12401,7 @@
         }
       ],
       "duration_ms": 203760,
-      "name": "Handel: Serse, HWV 40, Act 1, Scene 1: Arioso. \"Ombra mai f\u00f9\" (Serse)",
+      "name": "Handel: Serse, HWV 40, Act 1: Arioso. \"Ombra mai f\u00f9\" (Serse)",
       "url": "https://open.spotify.com/track/4fBqGaGJfEqTQDX4d7Hcil"
     },
     {
@@ -15165,7 +15169,7 @@
         }
       ],
       "duration_ms": 299255,
-      "name": "Lohengrin, WWV 75: Einsam in tr\u00fcben Tagen",
+      "name": "Lohengrin, WWV 75: Einsam in tr\u00fcben Tagen \"Elsa's Dream\"",
       "url": "https://open.spotify.com/track/4DZypFJzir5t38ntUloqbU"
     },
     {
@@ -16940,16 +16944,16 @@
           "url": "https://open.spotify.com/artist/28zJ68gN34mByp7NEYNdse"
         },
         {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
           "name": "Orchestra Del Teatro Dell'Opera Di Roma",
           "url": "https://open.spotify.com/artist/05pJB6sDGej7vpC9V6bjV8"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
         }
       ],
       "duration_ms": 500720,
-      "name": "Air des clochettes",
+      "name": "Lakm\u00e9: Air des clochettes",
       "url": "https://open.spotify.com/track/3yKaohZhkciRdCyZ3U4biM"
     },
     {
@@ -17332,16 +17336,20 @@
           "url": "https://open.spotify.com/artist/1DkjobCFpG0oItpueTYIvp"
         },
         {
+          "name": "Ch\u0153urs de la Monnaie",
+          "url": "https://open.spotify.com/artist/0HAs7n1x1vIbY4RUXBbhIC"
+        },
+        {
           "name": "Jessye Norman",
           "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
         },
         {
-          "name": "Orchestre De L'Op\u00e9ra National Du Th\u00e9atre Royal De La Monnaie, Bruxelles",
-          "url": "https://open.spotify.com/artist/1nQQwLw4ngFsfjKt7H5u9s"
+          "name": "Orchestre Symphonique De La Monnaie",
+          "url": "https://open.spotify.com/artist/3U398c1BOzXp0EXMGZuVgL"
         }
       ],
       "duration_ms": 263360,
-      "name": "Offenbach: Les Contes d'Hoffmann, Act 4: \"Belle nuit, \u00f4 nuit d'amour\" (Barcarolle) [Nicklausse, Giulietta, Chorus]",
+      "name": "Offenbach: Les contes d'Hoffmann, Act 4: Barcarolle. \"Belle nuit, \u00f4 nuit d'amour\" (Nicklausse, Giulietta, Ch\u0153ur)",
       "url": "https://open.spotify.com/track/04KKsHL2Wf5wqgjhrW9N9G"
     },
     {
@@ -17393,7 +17401,7 @@
         }
       ],
       "duration_ms": 422573,
-      "name": "Je dis que rien ne m'\u00e9pouvante",
+      "name": "Carmen: Je dis que rien ne m'\u00e9pouvante",
       "url": "https://open.spotify.com/track/0OkOzdISE6yDrr8Jefbhbf"
     },
     {
@@ -17421,7 +17429,7 @@
         }
       ],
       "duration_ms": 173520,
-      "name": "Turandot / Act 3: \"Tu che di gel sei cinta\"",
+      "name": "Turandot, Act III: Tu che di gel sei cinta",
       "url": "https://open.spotify.com/track/6qEqj2oobX81HzLCYHdDRC"
     },
     {

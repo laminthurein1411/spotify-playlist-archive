@@ -65,6 +65,6 @@
 | [Wires](https://open.spotify.com/track/5v8aEcHcaJIGYpfVVPtJjI) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I'm Sorry...](https://open.spotify.com/album/4hRjuAxpm9X6h1H95QVgJ9) | 3:13 | 2021-02-22 |  |
 | [Wolf in Sheep's Clothing](https://open.spotify.com/track/55Fpeuuc2sbQiy74eA1gTt) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k), [William Beckett](https://open.spotify.com/artist/7CtuVv4AQbupHTsr3E4d9p) | [Duality](https://open.spotify.com/album/4mPWTksMsByAvomErPtJwK) | 3:07 | 2021-02-22 |  |
 | [Worst in Me](https://open.spotify.com/track/5fxTqRkibJsbCD1FSz8U8X) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Worst in Me](https://open.spotify.com/album/4KmG1YlzckTGUqq9IA5pyY) | 3:17 | 2021-02-22 |  |
-| [ザ・ワード II](https://open.spotify.com/track/3OCxOUUH3FUf8xk0RuWADJ) | [セキトオ・シゲオ](https://open.spotify.com/artist/4fP5zCJRf168wiWHG9tR9m) | [華麗なるエレクトーン \-ザ・ワード\-](https://open.spotify.com/album/2rwQ71x5mXHX162ce5ypy7) | 3:03 | 2021-06-05 |  |
+| [ザ・ワード II](https://open.spotify.com/track/3OCxOUUH3FUf8xk0RuWADJ) | [SHIGEO SEKITO](https://open.spotify.com/artist/4fP5zCJRf168wiWHG9tR9m) | [華麗なるエレクトーン \-ザ・ワード\-](https://open.spotify.com/album/2rwQ71x5mXHX162ce5ypy7) | 3:03 | 2021-06-05 |  |
 
 \*This playlist was first scraped on 2025-05-18. Prior content cannot be recovered.

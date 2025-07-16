@@ -63,6 +63,42 @@
     },
     {
       "album": {
+        "name": "Next To Normal (Original London Cast Recording)",
+        "url": "https://open.spotify.com/album/5IWkvoiJdAJgbebPS47Uy6"
+      },
+      "artists": [
+        {
+          "name": "Jack Wolfe",
+          "url": "https://open.spotify.com/artist/2fuwv10XgJs4sLjQXqaQnb"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "I'm Alive",
+      "url": "https://open.spotify.com/track/4hWkVEHdEOSzpjQa0NRttw"
+    },
+    {
+      "album": {
+        "name": "Next To Normal (Original London Cast Recording)",
+        "url": "https://open.spotify.com/album/5IWkvoiJdAJgbebPS47Uy6"
+      },
+      "artists": [
+        {
+          "name": "Jack Wolfe",
+          "url": "https://open.spotify.com/artist/2fuwv10XgJs4sLjQXqaQnb"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93135,
+      "name": "I'm Alive (Reprise)",
+      "url": "https://open.spotify.com/track/26kaVx2Jx7YkYespsRJ0LB"
+    },
+    {
+      "album": {
         "name": "Scrooge: A Christmas Carol (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/0uAyYMSn6mbPX2pFBOkCPY"
       },
@@ -78,6 +114,24 @@
       "duration_ms": 206850,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2wF1qGJikDPfyKtPdRNW6W"
+    },
+    {
+      "album": {
+        "name": "Next To Normal (Original London Cast Recording)",
+        "url": "https://open.spotify.com/album/5IWkvoiJdAJgbebPS47Uy6"
+      },
+      "artists": [
+        {
+          "name": "Jack Wolfe",
+          "url": "https://open.spotify.com/artist/2fuwv10XgJs4sLjQXqaQnb"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112077,
+      "name": "There's a World",
+      "url": "https://open.spotify.com/track/5aB6tAvucmfVZL7zfZa9IC"
     }
   ],
   "url": "https://open.spotify.com/playlist/30XMvT3rUj25V1bWZo0mef"

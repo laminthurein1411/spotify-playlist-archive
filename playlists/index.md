@@ -34,6 +34,7 @@
 - [Slow ⏩](/playlists/pretty/0tSyqg2TUZxNhLw1DVKPe8.md)
 - [Thai](/playlists/pretty/6WhkG7zqualtkO8ld0lpvD.md)
 - [Top ten metal moments in classical music](/playlists/pretty/2X6i2ckpFnXksw8E1OySwF.md)
+- [Traditional Irish Session Music](/playlists/pretty/0CZe2n5EyVq8JbeMFod0zX.md)
 - [Triple J's new music hitlist](/playlists/pretty/3EFGsKtpaZI5JtEoBQjfVf.md)
 - [Various Song](/playlists/pretty/7w7SKepcJODLAAIe5X2Zsi.md)
 - [Western Songs](/playlists/pretty/3Tc3UlmKYcDbyewaWm7pFu.md)
@@ -41,5 +42,4 @@
 - [dAnCe 🕺](/playlists/pretty/3K9Kpz7u5Pa3XEr9FNc8q1.md)
 - [import of College Radio Collage \(posted\)](/playlists/pretty/5UxXdIqu2mZa5HOPe3RJcO.md)
 - [import of My forgotten tracks](/playlists/pretty/4E2JIttVpFRWV0riyir9Dq.md)
-- [listentothis weekly list](/playlists/pretty/4TNdaavewbREGsOVlI6WNj.md)
 - [pov: you're the villain everybody loves](/playlists/pretty/0DYAjc7FTZtp1k1qh83X1g.md)

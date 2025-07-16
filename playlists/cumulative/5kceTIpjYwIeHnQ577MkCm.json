@@ -629,36 +629,6 @@
     },
     {
       "album": {
-        "name": "Arias from Faust, La boh\u00e8me, Dinorah, Carmen, Turandot, Semiramide, Lakm\u00e9",
-        "url": "https://open.spotify.com/album/2I2K99bgXIcHSJJscZvHrq"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Delibes",
-          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
-        },
-        {
-          "name": "Anna Moffo",
-          "url": "https://open.spotify.com/artist/28zJ68gN34mByp7NEYNdse"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Dell'Opera Di Roma",
-          "url": "https://open.spotify.com/artist/05pJB6sDGej7vpC9V6bjV8"
-        }
-      ],
-      "date_added": "2023-12-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 500720,
-      "name": "Air des clochettes",
-      "url": "https://open.spotify.com/track/3yKaohZhkciRdCyZ3U4biM"
-    },
-    {
-      "album": {
         "name": "Jazz Oldies",
         "url": "https://open.spotify.com/album/2tGSNVCAlLz1IXm1CP2O3S"
       },
@@ -2120,6 +2090,32 @@
       "duration_ms": 282986,
       "name": "Carmen, WD 31 / Act I: \"L'amour est un oiseau rebelle\" (Havanaise)",
       "url": "https://open.spotify.com/track/2Z6cboXjX5doFEjwvMzML2"
+    },
+    {
+      "album": {
+        "name": "Arias from Faust, La boh\u00e8me, Dinorah, Carmen, Turandot, Semiramide, Lakm\u00e9",
+        "url": "https://open.spotify.com/album/2I2K99bgXIcHSJJscZvHrq"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Anna Moffo",
+          "url": "https://open.spotify.com/artist/28zJ68gN34mByp7NEYNdse"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422573,
+      "name": "Carmen: Je dis que rien ne m'\u00e9pouvante",
+      "url": "https://open.spotify.com/track/0OkOzdISE6yDrr8Jefbhbf"
     },
     {
       "album": {
@@ -4914,13 +4910,17 @@
         {
           "name": "Min Kym",
           "url": "https://open.spotify.com/artist/16Y4iTVdcQ7S3FhpwrXzK7"
+        },
+        {
+          "name": "Gordon Back",
+          "url": "https://open.spotify.com/artist/6WzJzmtyvk7e4Io7rfsvHn"
         }
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 201600,
-      "name": "Elgar: Salut d' Amour, Op. 12",
+      "name": "Elgar: Salut d'amour, Op. 12",
       "url": "https://open.spotify.com/track/1HW3I6KUzjYPEMqZrlFN66"
     },
     {
@@ -6256,7 +6256,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 203760,
-      "name": "Handel: Serse, HWV 40, Act 1, Scene 1: Arioso. \"Ombra mai f\u00f9\" (Serse)",
+      "name": "Handel: Serse, HWV 40, Act 1: Arioso. \"Ombra mai f\u00f9\" (Serse)",
       "url": "https://open.spotify.com/track/4fBqGaGJfEqTQDX4d7Hcil"
     },
     {
@@ -7120,7 +7120,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 247303,
-      "name": "Im Abendrot, D.799",
+      "name": "Im Abendrot, D. 799",
       "url": "https://open.spotify.com/track/5vQTQiCFQVy5Jfm1tz4R8V"
     },
     {
@@ -7210,32 +7210,6 @@
       "duration_ms": 107500,
       "name": "Isonzo",
       "url": "https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn"
-    },
-    {
-      "album": {
-        "name": "Arias from Faust, La boh\u00e8me, Dinorah, Carmen, Turandot, Semiramide, Lakm\u00e9",
-        "url": "https://open.spotify.com/album/2I2K99bgXIcHSJJscZvHrq"
-      },
-      "artists": [
-        {
-          "name": "Georges Bizet",
-          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
-        },
-        {
-          "name": "Anna Moffo",
-          "url": "https://open.spotify.com/artist/28zJ68gN34mByp7NEYNdse"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        }
-      ],
-      "date_added": "2023-12-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 422573,
-      "name": "Je dis que rien ne m'\u00e9pouvante",
-      "url": "https://open.spotify.com/track/0OkOzdISE6yDrr8Jefbhbf"
     },
     {
       "album": {
@@ -9713,6 +9687,36 @@
     },
     {
       "album": {
+        "name": "Arias from Faust, La boh\u00e8me, Dinorah, Carmen, Turandot, Semiramide, Lakm\u00e9",
+        "url": "https://open.spotify.com/album/2I2K99bgXIcHSJJscZvHrq"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Delibes",
+          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
+        },
+        {
+          "name": "Anna Moffo",
+          "url": "https://open.spotify.com/artist/28zJ68gN34mByp7NEYNdse"
+        },
+        {
+          "name": "Orchestra Del Teatro Dell'Opera Di Roma",
+          "url": "https://open.spotify.com/artist/05pJB6sDGej7vpC9V6bjV8"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500720,
+      "name": "Lakm\u00e9: Air des clochettes",
+      "url": "https://open.spotify.com/track/3yKaohZhkciRdCyZ3U4biM"
+    },
+    {
+      "album": {
         "name": "Lament",
         "url": "https://open.spotify.com/album/2mcyu22ctFQMquFacds9Gt"
       },
@@ -9867,6 +9871,36 @@
     },
     {
       "album": {
+        "name": "The No. 1 Opera Album 2007",
+        "url": "https://open.spotify.com/album/5UNlwtGRROJ7KUgEnLZR5h"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "Scottish Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/45y5kS0Nhm3v7Do6W5dbcS"
+        },
+        {
+          "name": "Sir Charles Mackerras",
+          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220093,
+      "name": "Le nozze di Figaro, K. 492, Act I: No. 10, Non pi\u00f9 andrai",
+      "url": "https://open.spotify.com/track/2NCRRyy44OFKmMcnONlque"
+    },
+    {
+      "album": {
         "name": "Cecilia Bartoli \u2013 Mozart Arias",
         "url": "https://open.spotify.com/album/42WHLzjH40QE12cTEuGGKb"
       },
@@ -10018,36 +10052,6 @@
       "duration_ms": 207946,
       "name": "Le nozze di Figaro, K.492 - Original version, Vienna 1786 / Act 2: \"Porgi amor\"",
       "url": "https://open.spotify.com/track/6YQZjIxG1RwdXJExLP4RcJ"
-    },
-    {
-      "album": {
-        "name": "The No. 1 Opera Album 2007",
-        "url": "https://open.spotify.com/album/5UNlwtGRROJ7KUgEnLZR5h"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Bryn Terfel",
-          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
-        },
-        {
-          "name": "Scottish Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/45y5kS0Nhm3v7Do6W5dbcS"
-        },
-        {
-          "name": "Sir Charles Mackerras",
-          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
-        }
-      ],
-      "date_added": "2023-12-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220093,
-      "name": "Le nozze di Figaro, K.492 / Act 1: \"Non pi\u00f9 andrai\"",
-      "url": "https://open.spotify.com/track/2NCRRyy44OFKmMcnONlque"
     },
     {
       "album": {
@@ -10890,7 +10894,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 325009,
-      "name": "Les p\u00eacheurs de perles, WD 13 / Act 1: \"Au fond du temple saint\"",
+      "name": "Les p\u00eacheurs de perles, WD 13, Act I: Au fond du temple saint \"Pearl Fishers' Duet\"",
       "url": "https://open.spotify.com/track/6Dkjc0jzDgNtHf6Kr0HTLf"
     },
     {
@@ -11080,7 +11084,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 299255,
-      "name": "Lohengrin, WWV 75: Einsam in tr\u00fcben Tagen",
+      "name": "Lohengrin, WWV 75: Einsam in tr\u00fcben Tagen \"Elsa's Dream\"",
       "url": "https://open.spotify.com/track/4DZypFJzir5t38ntUloqbU"
     },
     {
@@ -13976,19 +13980,23 @@
           "url": "https://open.spotify.com/artist/1DkjobCFpG0oItpueTYIvp"
         },
         {
+          "name": "Ch\u0153urs de la Monnaie",
+          "url": "https://open.spotify.com/artist/0HAs7n1x1vIbY4RUXBbhIC"
+        },
+        {
           "name": "Jessye Norman",
           "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
         },
         {
-          "name": "Orchestre De L'Op\u00e9ra National Du Th\u00e9atre Royal De La Monnaie, Bruxelles",
-          "url": "https://open.spotify.com/artist/1nQQwLw4ngFsfjKt7H5u9s"
+          "name": "Orchestre Symphonique De La Monnaie",
+          "url": "https://open.spotify.com/artist/3U398c1BOzXp0EXMGZuVgL"
         }
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 263360,
-      "name": "Offenbach: Les Contes d'Hoffmann, Act 4: \"Belle nuit, \u00f4 nuit d'amour\" (Barcarolle) [Nicklausse, Giulietta, Chorus]",
+      "name": "Offenbach: Les contes d'Hoffmann, Act 4: Barcarolle. \"Belle nuit, \u00f4 nuit d'amour\" (Nicklausse, Giulietta, Ch\u0153ur)",
       "url": "https://open.spotify.com/track/04KKsHL2Wf5wqgjhrW9N9G"
     },
     {
@@ -16758,7 +16766,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 183266,
-      "name": "Serse / Act I HWV40: \"Ombra mai fu\"",
+      "name": "Serse, HWV 40, Act I: Ombra mai fu \"Largo\"",
       "url": "https://open.spotify.com/track/56S04BxQD4FsePfNQIt6Cd"
     },
     {
@@ -17834,6 +17842,36 @@
         {
           "name": "Berliner Philharmoniker",
           "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Libera",
+          "url": "https://open.spotify.com/artist/235C4ktJ2aGIyqaBlXyg7e"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400053,
+      "name": "Tchaikovsky: The Nutcracker, Op. 71, Act 1: No. 9, Waltz of the Snowflakes",
+      "url": "https://open.spotify.com/track/5jXB4p8pQu9Ahv10ibU8fG"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Nutcracker",
+        "url": "https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
         }
       ],
       "date_added": "2023-12-07",
@@ -17894,36 +17932,6 @@
       "duration_ms": 415813,
       "name": "Tchaikovsky: The Nutcracker, Op. 71, Act 2: No. 13, Waltz of the Flowers",
       "url": "https://open.spotify.com/track/0CJuLeZpCdqrqoCMXWZw8k"
-    },
-    {
-      "album": {
-        "name": "Tchaikovsky: The Nutcracker",
-        "url": "https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Sir Simon Rattle",
-          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Libera",
-          "url": "https://open.spotify.com/artist/235C4ktJ2aGIyqaBlXyg7e"
-        }
-      ],
-      "date_added": "2023-12-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 400053,
-      "name": "Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 2: No. 9, Waltz of the Snowflakes",
-      "url": "https://open.spotify.com/track/5jXB4p8pQu9Ahv10ibU8fG"
     },
     {
       "album": {
@@ -18887,36 +18895,6 @@
     },
     {
       "album": {
-        "name": "Un bel di - Puccini Scenes & Arias",
-        "url": "https://open.spotify.com/album/6riZmU9PzbLE2cyWdk5O17"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Mirella Freni",
-          "url": "https://open.spotify.com/artist/5dz9lXIYillOvg5xH0t5EN"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "date_added": "2023-12-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173520,
-      "name": "Turandot / Act 3: \"Tu che di gel sei cinta\"",
-      "url": "https://open.spotify.com/track/6qEqj2oobX81HzLCYHdDRC"
-    },
-    {
-      "album": {
         "name": "Birgit Nilsson's Greatest Songs and Arias",
         "url": "https://open.spotify.com/album/12GPcsPSyHdaTnIONfigpr"
       },
@@ -19020,6 +18998,36 @@
       "duration_ms": 177333,
       "name": "Turandot, Act III: Nessun dorma!",
       "url": "https://open.spotify.com/track/74WjYdm3Lvbwnds4thYPUU"
+    },
+    {
+      "album": {
+        "name": "Un bel di - Puccini Scenes & Arias",
+        "url": "https://open.spotify.com/album/6riZmU9PzbLE2cyWdk5O17"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Mirella Freni",
+          "url": "https://open.spotify.com/artist/5dz9lXIYillOvg5xH0t5EN"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173520,
+      "name": "Turandot, Act III: Tu che di gel sei cinta",
+      "url": "https://open.spotify.com/track/6qEqj2oobX81HzLCYHdDRC"
     },
     {
       "album": {
@@ -19647,7 +19655,7 @@
         },
         {
           "name": "Chorus of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/3wRbiKfTNxoQm0Ds85lMfU"
+          "url": "https://open.spotify.com/artist/06MDD2tGLJbN2URk3WzXAm"
         },
         {
           "name": "Orchestra of the Royal Opera House, Covent Garden",
@@ -19658,7 +19666,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 329733,
-      "name": "Verdi: Nabucco, Act 3: Chorus of the Hebrew Slaves. \"Va pensiero, sull'ali dorate\"",
+      "name": "Verdi: Nabucco, Act 3: Chorus of the Hebrew Slaves. \"Va pensiero, sull'ali dorate\" (Coro)",
       "url": "https://open.spotify.com/track/7J5Lyjmr4CmBAXH2COCNko"
     },
     {
