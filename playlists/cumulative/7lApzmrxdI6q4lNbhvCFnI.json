@@ -53,6 +53,32 @@
     },
     {
       "album": {
+        "name": "Faire Is the Heaven: Music Of the English Church",
+        "url": "https://open.spotify.com/album/0BnSC2ltaMLu3h4GnDqguk"
+      },
+      "artists": [
+        {
+          "name": "Herbert Howells",
+          "url": "https://open.spotify.com/artist/0Artcj84fSLUN93JectewP"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190520,
+      "name": "3 Carol Anthems: No. 1, Sing Lullaby",
+      "url": "https://open.spotify.com/track/0cJux49rvJullJQIyhYcQE"
+    },
+    {
+      "album": {
         "name": "Sacred Love",
         "url": "https://open.spotify.com/album/2HcQ66ewJyXsMKaHA3dubN"
       },
@@ -1617,7 +1643,7 @@
     },
     {
       "album": {
-        "name": "Rutter: Te Deum and Other Church Music",
+        "name": "Rutter: Te Deum & Other Church Music",
         "url": "https://open.spotify.com/album/3d3fcE2ijUOoXvQ2VLxenX"
       },
       "artists": [
@@ -4848,7 +4874,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 136560,
-      "name": "If ye love me",
+      "name": "If Ye Love Me",
       "url": "https://open.spotify.com/track/2NjcAszEdomxtNhmVqb8tU"
     },
     {
@@ -11382,32 +11408,6 @@
       "duration_ms": 195293,
       "name": "Sicut cervus: I. Sicut cervus desiderat",
       "url": "https://open.spotify.com/track/5xkrA4nf1k3gm0LS0ILa1x"
-    },
-    {
-      "album": {
-        "name": "Faire Is the Heaven: Music Of the English Church",
-        "url": "https://open.spotify.com/album/0BnSC2ltaMLu3h4GnDqguk"
-      },
-      "artists": [
-        {
-          "name": "Herbert Howells",
-          "url": "https://open.spotify.com/artist/0Artcj84fSLUN93JectewP"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        },
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        }
-      ],
-      "date_added": "2023-12-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190520,
-      "name": "Sing lullaby",
-      "url": "https://open.spotify.com/track/0cJux49rvJullJQIyhYcQE"
     },
     {
       "album": {
