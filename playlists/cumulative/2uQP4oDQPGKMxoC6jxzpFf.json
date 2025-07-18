@@ -8808,7 +8808,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 269133,
       "name": "Demons",
       "url": "https://open.spotify.com/track/6yg2YFuiKFcTw3Y8XdHIYr"
@@ -9094,7 +9094,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 153372,
       "name": "Didn't (feat. Cavetown)",
       "url": "https://open.spotify.com/track/2Oy5czpSv3bQ6AfD2gl8VI"
@@ -15981,6 +15981,24 @@
     },
     {
       "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/2h3Qf8SAl6A7izLystROhr"
+      },
+      "artists": [
+        {
+          "name": "Wolf Saga",
+          "url": "https://open.spotify.com/artist/0Lwn2PjwIw7QaoN7gHyqCA"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293895,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/7FVnw5keApeODK1MO6lUBP"
+    },
+    {
+      "album": {
         "name": "aloha",
         "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
       },
@@ -20692,7 +20710,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 190042,
       "name": "Just Let Me Lie to You",
       "url": "https://open.spotify.com/track/7HO8mA1m9dco8V4tVWxgcO"
@@ -20920,6 +20938,24 @@
       "duration_ms": 218037,
       "name": "Keep Me Free",
       "url": "https://open.spotify.com/track/0Rng9afGARkdQVYii2MViG"
+    },
+    {
+      "album": {
+        "name": "Peter Dreams and MOONRIIVR",
+        "url": "https://open.spotify.com/album/1tnT7wbDkCf5M1bNGlZJx2"
+      },
+      "artists": [
+        {
+          "name": "Peter Dreams",
+          "url": "https://open.spotify.com/artist/55zmcbCA9XmEOPDGfvkxmv"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218037,
+      "name": "Keep Me Free",
+      "url": "https://open.spotify.com/track/0wsCiqlM5pXKQJoCt6AALH"
     },
     {
       "album": {
@@ -22817,6 +22853,42 @@
     },
     {
       "album": {
+        "name": "Definitely Maybe",
+        "url": "https://open.spotify.com/album/3LzKUdUTdJb6P7xGN6SotC"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276866,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/5IfBLN9VPPJOwcKmAZhdXe"
+    },
+    {
+      "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/69t1bgIFUfJlkXLBqeadWi"
+      },
+      "artists": [
+        {
+          "name": "Sloan",
+          "url": "https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207167,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/0DJUcAHIDGJanKxQhzKEdZ"
+    },
+    {
+      "album": {
         "name": "The Navigator",
         "url": "https://open.spotify.com/album/5adjXoQAbZTTTFmifa3qCN"
       },
@@ -22868,6 +22940,24 @@
       "duration_ms": 241440,
       "name": "London",
       "url": "https://open.spotify.com/track/6Nn1FQ50BtcFmGsUMptp0T"
+    },
+    {
+      "album": {
+        "name": "The Dutchess",
+        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241306,
+      "name": "London Bridge",
+      "url": "https://open.spotify.com/track/7jRoWfRlLnGYEIEn4t4kbq"
     },
     {
       "album": {
@@ -25618,6 +25708,24 @@
       "duration_ms": 257426,
       "name": "My Life",
       "url": "https://open.spotify.com/track/7ytES33eLYS9WaZLKqWfYM"
+    },
+    {
+      "album": {
+        "name": "Dance Fever",
+        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231408,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/7jQuTeWHCKKLc2QV6MPunK"
     },
     {
       "album": {
@@ -34475,6 +34583,24 @@
     },
     {
       "album": {
+        "name": "Hopes And Fears",
+        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236160,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
+    },
+    {
+      "album": {
         "name": "Somewhere Only We Know",
         "url": "https://open.spotify.com/album/4PD9RC7CU9xi7GIdzXoM9g"
       },
@@ -37939,6 +38065,24 @@
     },
     {
       "album": {
+        "name": "Like Water For Chocolate",
+        "url": "https://open.spotify.com/album/0ZSwTSaR9VUe3uYsXNQgub"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261693,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5NiUrZVKyLpsyj62Roq5FW"
+    },
+    {
+      "album": {
         "name": "The Light Of Christmas Day (From \"Love The Coopers\" Soundtrack)",
         "url": "https://open.spotify.com/album/3B9kzvGmlBGIe7OBKpo5xJ"
       },
@@ -38982,7 +39126,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 197880,
       "name": "They Gutted This City",
       "url": "https://open.spotify.com/track/2E6Xjj5tLwci8ky1bN2T5S"
@@ -43086,7 +43230,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 229094,
       "name": "Where I'm Coming From",
       "url": "https://open.spotify.com/track/1rx5sneo95xLf3IyW2g1Ui"
@@ -43522,6 +43666,24 @@
       "duration_ms": 189586,
       "name": "Wind It Up",
       "url": "https://open.spotify.com/track/1GeECVH4Msg1zLm8DExkbH"
+    },
+    {
+      "album": {
+        "name": "Downhill",
+        "url": "https://open.spotify.com/album/6QR9NO8Cx92dMaqNjIHbF2"
+      },
+      "artists": [
+        {
+          "name": "Carson McHone",
+          "url": "https://open.spotify.com/artist/1IOeIjSSt8AcZXEriZXcvx"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269842,
+      "name": "Winter Breaking",
+      "url": "https://open.spotify.com/track/2joOFaJDiYxSGw5BCsyOTQ"
     },
     {
       "album": {
