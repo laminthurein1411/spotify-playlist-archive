@@ -15963,6 +15963,24 @@
     },
     {
       "album": {
+        "name": "Reasons To Stay",
+        "url": "https://open.spotify.com/album/0psNIDTnFUCKeuEuI0vMQO"
+      },
+      "artists": [
+        {
+          "name": "Tanika Charles",
+          "url": "https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201440,
+      "name": "Here When You're Ready",
+      "url": "https://open.spotify.com/track/4zcbBRlPbtUYTwLSvFetIZ"
+    },
+    {
+      "album": {
         "name": "Loma Vista",
         "url": "https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg"
       },
@@ -22107,6 +22125,24 @@
     },
     {
       "album": {
+        "name": "Get Lifted",
+        "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217466,
+      "name": "Let's Get Lifted",
+      "url": "https://open.spotify.com/track/5m4rsr2D2uwMgOgORtpxSA"
+    },
+    {
+      "album": {
         "name": "Let's Go Back",
         "url": "https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul"
       },
@@ -25996,7 +26032,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 209080,
       "name": "Name of God",
       "url": "https://open.spotify.com/track/71zgehvCv0MpqOk3jj0f55"
@@ -30700,7 +30736,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 188755,
       "name": "RED FUTURE (feat. Electric Fields)",
       "url": "https://open.spotify.com/track/2p1UpmRJBVHek5DKL0tbQa"
@@ -32066,7 +32102,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 194786,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/0wJw5QXDKXTYn8IVyh3wqz"
@@ -36736,6 +36772,24 @@
     {
       "album": {
         "name": "Non-Stop Erotic Cabaret",
+        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
+      },
+      "artists": [
+        {
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153800,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
+    },
+    {
+      "album": {
+        "name": "Non-Stop Erotic Cabaret",
         "url": "https://open.spotify.com/album/1R4TikWrz6Mz53aB66dZRn"
       },
       "artists": [
@@ -38586,6 +38640,24 @@
       "duration_ms": 192680,
       "name": "The Sound of Music",
       "url": "https://open.spotify.com/track/1SSHXplhtqpAR67Dlw4ht0"
+    },
+    {
+      "album": {
+        "name": "Closer To Grey",
+        "url": "https://open.spotify.com/album/6A6RTFXwJWesdPhSGnm0tF"
+      },
+      "artists": [
+        {
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196203,
+      "name": "The Sound Of Silence",
+      "url": "https://open.spotify.com/track/0P15IgSE0jbe0z7t7jvDf7"
     },
     {
       "album": {
