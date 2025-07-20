@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,052 songs - 2 day 14 hr 28 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,058 songs - 2 day 14 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1060,5 +1060,11 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 | 1050 | [Break Stuff](https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 2:46 |
 | 1051 | [Girls](https://open.spotify.com/track/7m8wiHGjtlJ5UQvqiCjhV5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s) | 1:59 |
 | 1052 | [Starburster](https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:41 |
+| 1053 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 |
+| 1054 | [In the Air](https://open.spotify.com/track/7wwgLjHYUf7D03suPyCjCK) | [Regina Hardon](https://open.spotify.com/artist/0u4d1CnvM94IJaE9wS2qLw) | [Bucket Pussy EP](https://open.spotify.com/album/2wvdFXU8WajqxmGNIfbRk3) | 2:49 |
+| 1055 | [Instructions](https://open.spotify.com/track/5AfpkwxgSyFEC23XGCcMJa) | [Regina Hardon](https://open.spotify.com/artist/0u4d1CnvM94IJaE9wS2qLw) | [Instructions](https://open.spotify.com/album/5O1vI7ccp4E3WOu9XlVu0U) | 4:02 |
+| 1056 | [The Diary of Jane \- Single Version](https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Phobia \(Clean Version\)](https://open.spotify.com/album/2usyeZYdUHKlNHKDKgAYSo) | 3:20 |
+| 1057 | [Mirrorball \- 2015 Remaster](https://open.spotify.com/track/2lT967WBRtZN4k04VtjACR) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Walking Wounded \(Deluxe Edition\)](https://open.spotify.com/album/4wGUmFfJaJksaMCzGnRWL5) | 3:27 |
+| 1058 | [Whoa Whoa Whoa](https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW) | [Watsky](https://open.spotify.com/artist/3mJ9GlkLzj8Ka7Z7EQaCMi) | [All You Can Do](https://open.spotify.com/album/2oFd5zCNTe0q3061ss0Fm9) | 3:07 |
 
-Snapshot ID: `AAAEVvF/8GQxlAPebhjuTvfgocFQGIZO`
+Snapshot ID: `AAAEXD2o6yqwtMTN2b1LTK42N+JPbx4A`

@@ -4,7 +4,7 @@
 
 > 
 
-121 songs - 6 hr 40 min
+124 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Et Bam](https://open.spotify.com/track/3qYfcGBdH6Nqe18QTGgfXz) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Et Bam](https://open.spotify.com/album/1oKPZz10joNRUeoG3qFKD8) | 3:39 | 2022-05-07 |  |
 | [Et maintenant \(Version 1966\) \- Remasterisé en 2011](https://open.spotify.com/track/5z3LJpwfI91bj3ogU8l0sk) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Edition 60e anniversaire](https://open.spotify.com/album/50RvSoNqk5x7zFROrImpIL) | 2:39 | 2023-12-09 |  |
 | [Fais comme l'oiseau](https://open.spotify.com/track/725PsGr5yXLJl8uENrVXPa) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais comme l'oiseau](https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP) | 3:06 | 2023-12-09 |  |
+| [Gabriela](https://open.spotify.com/track/0RvJfhqX0Ktl5H9wzhNjTJ) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Ben É Samba Bom \(1964\)](https://open.spotify.com/album/3p1lsEa1gZjIWwUDKA0AbT) | 2:52 | 2025-07-19 |  |
 | [Gwendolyne](https://open.spotify.com/track/7B4uAyj4X3qs8YXdV4wwhS) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Gwendolyne](https://open.spotify.com/album/33JwmtWxEH0Jh0IqK9OIMj) | 2:48 | 2025-04-03 |  |
 | [Hoch](https://open.spotify.com/track/7gqefhSJfWyN1qQ2huvEze) | [Tim Bendzko](https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl) | [FILTER](https://open.spotify.com/album/3UZVvbtFNygVU4Pr7oTU5l) | 2:48 | 2022-12-28 |  |
 | [Il est cinq heures, Paris s'éveille](https://open.spotify.com/track/1Gw2viJ4XE9hylW4ujtNef) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:53 | 2023-12-09 |  |
@@ -127,7 +128,9 @@
 | [Zou bisou bisou](https://open.spotify.com/track/4qqf1avpzRUnVowNQd1jFw) | [Gillian Hills](https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL) | [Twistin’ The Rock, Vol\. 9](https://open.spotify.com/album/0MSicRahv1o4WgJ6pXjUkg) | 2:15 | 2023-12-09 |  |
 | [À bicyclette](https://open.spotify.com/track/5px3ShFMjwhidOFVVc0Z4R) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [La Bicyclette](https://open.spotify.com/album/2DS4hsoeFgvqhzsCJ0tmbj) | 2:42 | 2023-12-09 |  |
 | [Écoute Chérie](https://open.spotify.com/track/1zyUz3eZ3sytdaR9lfW17q) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:44 | 2025-05-21 |  |
+| [И я](https://open.spotify.com/track/3eYySzaaWFz0E91CtqllEv) | [ANAZED](https://open.spotify.com/artist/3Uk305Q7Tf5kEm1HUtQy5Q) | [И я](https://open.spotify.com/album/2YdxcYRXKE5oWjWOykfr4q) | 2:21 | 2025-07-19 |  |
 | [Колыбельная](https://open.spotify.com/track/47RyOrXqLydmsPrsVU7nTw) | [Rauf & Faik](https://open.spotify.com/artist/0a3zDmrvmZcORfPeONPvfL) | [Колыбельная](https://open.spotify.com/album/25egsfoMlUTUKa6HVCS962) | 3:53 | 2023-10-12 |  |
+| [Спящая красавица](https://open.spotify.com/track/64Uiv4X755MZm6N597IT0M) | [polnalyubvi](https://open.spotify.com/artist/3cmfyZ8hRHaN2CO9Qo4j35) | [Сказки лесной нимфы](https://open.spotify.com/album/3LFGKPdcr1UsYAY1ln1VPh) | 2:16 | 2025-07-19 |  |
 | [это ли счастье?](https://open.spotify.com/track/4KGq63QyNHWz44M5S6PWGo) | [Rauf & Faik](https://open.spotify.com/artist/0a3zDmrvmZcORfPeONPvfL) | [это ли счастье?](https://open.spotify.com/album/6RIr3dE6hBSv7Y0l2e1gCZ) | 3:24 | 2023-10-12 |  |
 
 \*This playlist was first scraped on 2025-05-18. Prior content cannot be recovered.

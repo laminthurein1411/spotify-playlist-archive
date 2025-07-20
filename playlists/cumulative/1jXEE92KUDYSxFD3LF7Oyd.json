@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "Ben \u00c9 Samba Bom (1964)",
+        "url": "https://open.spotify.com/album/3p1lsEa1gZjIWwUDKA0AbT"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172426,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/0RvJfhqX0Ktl5H9wzhNjTJ"
+    },
+    {
+      "album": {
         "name": "Gwendolyne",
         "url": "https://open.spotify.com/album/33JwmtWxEH0Jh0IqK9OIMj"
       },
@@ -2191,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "\u0418 \u044f",
+        "url": "https://open.spotify.com/album/2YdxcYRXKE5oWjWOykfr4q"
+      },
+      "artists": [
+        {
+          "name": "ANAZED",
+          "url": "https://open.spotify.com/artist/3Uk305Q7Tf5kEm1HUtQy5Q"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "\u0418 \u044f",
+      "url": "https://open.spotify.com/track/3eYySzaaWFz0E91CtqllEv"
+    },
+    {
+      "album": {
         "name": "\u041a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u043d\u0430\u044f",
         "url": "https://open.spotify.com/album/25egsfoMlUTUKa6HVCS962"
       },
@@ -2206,6 +2242,24 @@
       "duration_ms": 233397,
       "name": "\u041a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u043d\u0430\u044f",
       "url": "https://open.spotify.com/track/47RyOrXqLydmsPrsVU7nTw"
+    },
+    {
+      "album": {
+        "name": "\u0421\u043a\u0430\u0437\u043a\u0438 \u043b\u0435\u0441\u043d\u043e\u0439 \u043d\u0438\u043c\u0444\u044b",
+        "url": "https://open.spotify.com/album/3LFGKPdcr1UsYAY1ln1VPh"
+      },
+      "artists": [
+        {
+          "name": "polnalyubvi",
+          "url": "https://open.spotify.com/artist/3cmfyZ8hRHaN2CO9Qo4j35"
+        }
+      ],
+      "date_added": "2025-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136065,
+      "name": "\u0421\u043f\u044f\u0449\u0430\u044f \u043a\u0440\u0430\u0441\u0430\u0432\u0438\u0446\u0430",
+      "url": "https://open.spotify.com/track/64Uiv4X755MZm6N597IT0M"
     },
     {
       "album": {

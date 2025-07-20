@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 122 songs - 6 hr 43 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 125 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,5 +130,8 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 120 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 | 121 | [ALL IN \(Lieblingslieder\)](https://open.spotify.com/track/3VIEbpdr64a1mNSa8MqBAm) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [ALL IN \(Lieblingslieder\)](https://open.spotify.com/album/3l4OJNnPVJGK8Dg9dvkRFZ) | 2:43 |
 | 122 | [Deslocado](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Deslocado](https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R) | 2:59 |
+| 123 | [Gabriela](https://open.spotify.com/track/0RvJfhqX0Ktl5H9wzhNjTJ) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Ben É Samba Bom \(1964\)](https://open.spotify.com/album/3p1lsEa1gZjIWwUDKA0AbT) | 2:52 |
+| 124 | [И я](https://open.spotify.com/track/3eYySzaaWFz0E91CtqllEv) | [ANAZED](https://open.spotify.com/artist/3Uk305Q7Tf5kEm1HUtQy5Q) | [И я](https://open.spotify.com/album/2YdxcYRXKE5oWjWOykfr4q) | 2:21 |
+| 125 | [Спящая красавица](https://open.spotify.com/track/64Uiv4X755MZm6N597IT0M) | [polnalyubvi](https://open.spotify.com/artist/3cmfyZ8hRHaN2CO9Qo4j35) | [Сказки лесной нимфы](https://open.spotify.com/album/3LFGKPdcr1UsYAY1ln1VPh) | 2:16 |
 
-Snapshot ID: `AAAAQLhbv0lgUrOLlyIFjw4AqgwUjLg9`
+Snapshot ID: `AAAAQw1TVvB285gfPSgxweTS0B4QjoAd`
