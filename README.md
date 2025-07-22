@@ -1,4 +1,6 @@
 # spotify-playlist-archive [![Workflow status](https://github.com/laminthurein1411/spotify-playlist-archive/actions/workflows/main.yml/badge.svg)](https://github.com/laminthurein1411/spotify-playlist-archive/actions/workflows/main.yml) <a href="https://www.buymeacoffee.com/mackorone"><img align="right" height=36 alt="Save the Children" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"></a>
+![My Spotify Playlist](https://github.com/laminthurein1411/spotify-playlist-archive/blob/main/playlists/index.md)
+
 
 > Daily snapshots of public Spotify playlists
 
