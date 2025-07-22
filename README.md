@@ -47,5 +47,5 @@
 - [pov: you're the villain everybody loves](/playlists/pretty/0DYAjc7FTZtp1k1qh83X1g.md)
 
   
-[Credit to mackorone](https://github.com/mackorone/spotify-playlist-archive)
+[:copyright:mackorone](https://github.com/mackorone/spotify-playlist-archive)
 
