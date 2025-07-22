@@ -3345,6 +3345,24 @@
     },
     {
       "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/0K1tV9gVLicGJEMeuS1Jng"
+      },
+      "artists": [
+        {
+          "name": "Begonia",
+          "url": "https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211316,
+      "name": "Beats",
+      "url": "https://open.spotify.com/track/5ykFvRaWHGvoZOvTcJIuSG"
+    },
+    {
+      "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp"
       },
@@ -33170,6 +33188,24 @@
       "duration_ms": 266466,
       "name": "She Cleans Up",
       "url": "https://open.spotify.com/track/5Lbwx92tmkpsxKJiwnYAIZ"
+    },
+    {
+      "album": {
+        "name": "Mahashmashana",
+        "url": "https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266466,
+      "name": "She Cleans Up",
+      "url": "https://open.spotify.com/track/5nEkWBNfUA87RY6ZSx2aR3"
     },
     {
       "album": {

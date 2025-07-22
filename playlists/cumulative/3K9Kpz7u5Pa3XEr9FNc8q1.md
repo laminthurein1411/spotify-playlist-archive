@@ -4,7 +4,7 @@
 
 > 
 
-52 songs - 2 hr 46 min
+53 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [SexyBack \(feat\. Timbaland\)](https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [FutureSex/LoveSounds](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) | 4:02 | 2023-07-26 |  |
 | [Soarele si Luna](https://open.spotify.com/track/6SO3p9lb1qiPMN1e7iHAjv) | [Pasha Parfeni](https://open.spotify.com/artist/1J9gxGgm6LhmCwTCdekIXb) | [Soarele si Luna](https://open.spotify.com/album/49qCedDRPg3yBRXtVmBYqJ) | 2:58 | 2023-05-27 |  |
 | [Soft Spot](https://open.spotify.com/track/31dK8fLdLeNQVyrwZ1unsy) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Soft Spot](https://open.spotify.com/album/5YxR0EDEfl0o1gyhCrvY3R) | 4:22 | 2024-11-24 |  |
+| [Such a Whore \- Stellular Remix](https://open.spotify.com/track/7KadcZ035nhuPqrV8ct1Dj) | [JVLA](https://open.spotify.com/artist/24D8gx0257CDd1HAuqNuHu) | [Such a Whore \(Stellular Remix\)](https://open.spotify.com/album/2XTN3F9oVWePXgKUWr6iY6) | 2:27 | 2025-07-21 |  |
 | [Sunglasses At Night](https://open.spotify.com/track/1QbQL5m30YNvukitIqAnFG) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [The Singles](https://open.spotify.com/album/5BDE3Z6clvwbPoWWwiSyGp) | 5:20 | 2022-04-29 |  |
 | [Super Max! YoHé, YoHo!](https://open.spotify.com/track/4G3VpVB5EADmLNUtaWaCYx) | [Pitstop Boys](https://open.spotify.com/artist/24UwzhsMtaOjBOL6483Jr6) | [Super Max! YoHé, YoHo!](https://open.spotify.com/album/1FzddcgdRmgACnOyQwucP6) | 3:29 | 2022-05-07 |  |
 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 | 2022-11-29 |  |

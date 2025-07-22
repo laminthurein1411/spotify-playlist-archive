@@ -753,6 +753,24 @@
     },
     {
       "album": {
+        "name": "Such a Whore (Stellular Remix)",
+        "url": "https://open.spotify.com/album/2XTN3F9oVWePXgKUWr6iY6"
+      },
+      "artists": [
+        {
+          "name": "JVLA",
+          "url": "https://open.spotify.com/artist/24D8gx0257CDd1HAuqNuHu"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147639,
+      "name": "Such a Whore - Stellular Remix",
+      "url": "https://open.spotify.com/track/7KadcZ035nhuPqrV8ct1Dj"
+    },
+    {
+      "album": {
         "name": "The Singles",
         "url": "https://open.spotify.com/album/5BDE3Z6clvwbPoWWwiSyGp"
       },

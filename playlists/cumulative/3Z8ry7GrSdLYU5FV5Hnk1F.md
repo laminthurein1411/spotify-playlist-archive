@@ -4,7 +4,7 @@
 
 > 
 
-218 songs - 12 hr 45 min
+220 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Psycho](https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:30 | 2020-01-17 |  |
 | [Puss](https://open.spotify.com/track/3qcTnkyiU6w416H1Yo8Oio) | [JIMIN](https://open.spotify.com/artist/0bxSJJ7V2M4Zb9lpRzWPD8), [Iron](https://open.spotify.com/artist/2IQN0IrTeIM0xhtiFAK9Ed) | [UNPRETTY RAPSTAR COMPILATION](https://open.spotify.com/album/4Bwf5QocWbCCGGyzRGqlpr) | 3:02 | 2020-05-20 |  |
 | [Remember Me](https://open.spotify.com/track/0MUr8rSAkenVoJHi2PrYyI) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [From\. VICTON](https://open.spotify.com/album/42JTLWcHangnY1NyE8da1k) | 3:21 | 2020-03-13 |  |
+| [Rendezvous](https://open.spotify.com/track/4nKnOIDXFjRSMG4vkXDwzY) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [WHO WE ARE](https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz) | 3:40 | 2025-07-21 |  |
 | [REVEAL](https://open.spotify.com/track/14tNUeer5gUbUYvhYYTclS) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 1ST ALBUM \[REVEAL\]](https://open.spotify.com/album/0mCPYdhQPWUQtQSp4CSxNh) | 3:22 | 2020-02-21 |  |
 | [Ridin'](https://open.spotify.com/track/0EMD15EVNwDlgGH2CH6ZEL) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Reload](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) | 3:21 | 2020-05-09 |  |
 | [Ring Ring Ring](https://open.spotify.com/track/4J7BrgAOT3jk0SC13FWzp6) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [VERIVERY 1st Mini Album \[VERI\-US\]](https://open.spotify.com/album/12iSKqcAwzn5EZhwjN4M2k) | 3:06 | 2019-12-23 |  |
@@ -220,6 +221,7 @@
 | [Wind](https://open.spotify.com/track/3wAnnPyxgYbKW86WOeC22K) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [FTISLAND 10th Anniversary Album \[OVER 10 YEARS\]](https://open.spotify.com/album/6ioh52pRau8PDCNUkXzUqG) | 4:22 | 2019-12-26 |  |
 | [Without You](https://open.spotify.com/track/6P79WvoWD60NKDHxKNxfxn) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [Golden Child 1st Album Repackage \[Without You\]](https://open.spotify.com/album/2iNuqI81QpukRsKAmEIJeF) | 3:44 | 2020-02-07 |  |
 | [WONDERLAND](https://open.spotify.com/track/6k67RdkVjTZj79c1cRz7IQ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN : All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:19 | 2019-12-21 |  |
+| [You & Me](https://open.spotify.com/track/6xXCn7H2Yl8SDD6jxo5SpN) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/2Joq37Cjv3ZL7M2faHWe3b) | 2:59 | 2025-07-21 |  |
 | [You Are My Baby](https://open.spotify.com/track/7960724PkEhdd4ho1QSPP7) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [The Package 더 패키지 \(Original Television Soundtrack\) Special](https://open.spotify.com/album/7sYKzI1xivZ5EELsHRtZly) | 3:07 | 2020-01-16 |  |
 | [고백](https://open.spotify.com/track/7E3Z49vl4sHMFfkjSSJRmZ) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Autumn story](https://open.spotify.com/album/6mNWjSRKSTi427CvjnBxog) | 3:05 | 2019-12-21 |  |
 | [듣고있니](https://open.spotify.com/track/0xtcdQSK41nY9ZBKFTog2k) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [My Strange Hero \(Original Television Soundtrack\)](https://open.spotify.com/album/5t27DXWGsE36mcjB4LWMmh) | 3:51 | 2020-01-16 |  |

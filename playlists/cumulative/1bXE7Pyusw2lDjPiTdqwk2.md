@@ -4,7 +4,7 @@
 
 > 
 
-380 songs - 1 day 0 hr 49 min
+382 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [I Don't Want to Live Without You](https://open.spotify.com/track/19aYH2zhbnTNx4plfenrIk) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Inside Information](https://open.spotify.com/album/7w6HSgAb9MseMM4DDx3Ls2) | 3:57 | 2024-05-06 |  |
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2022-02-02 |  |
 | [i hate u, i love u \(feat\. olivia o'brien\)](https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [us](https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf) | 4:11 | 2022-02-08 |  |
+| [I Have Forgiven Jesus](https://open.spotify.com/track/2Q7xmg3wUI6LvLW0z5nUgA) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [You Are the Quarry](https://open.spotify.com/album/0Lm2IOzemQ5aQqDGge3xVB) | 3:41 | 2025-07-21 |  |
 | [I Know It's Over](https://open.spotify.com/track/2RTLIQRc8yogHh08waQDVa) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [You and I \(Expanded Edition\)](https://open.spotify.com/album/4pmq7Cvj5fkPcspI8FaqPm) | 7:04 | 2024-05-06 |  |
 | [I Know It's Over \- 2011 Remaster](https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 5:49 | 2025-04-14 |  |
 | [I Know The End](https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 5:44 | 2023-02-04 |  |
@@ -181,6 +182,7 @@
 | [i tried](https://open.spotify.com/track/37EQsOkuUxhqV1yJcPC1TY) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [i tried](https://open.spotify.com/album/5fvv0vjvISZwMuHE49g89U) | 2:40 | 2022-04-21 |  |
 | [I Wish It Was Me \- Stripped](https://open.spotify.com/track/1X9XRjQ6lkHZAouznupAem) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [Stripped \- EP](https://open.spotify.com/album/2wfKDcaHuhTELfNixGPSxm) | 3:33 | 2022-02-21 |  |
 | [I Won't Give Up](https://open.spotify.com/track/5ivF4eQBqJiVL5IAE9jRyl) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is a Four Letter Word](https://open.spotify.com/album/7oD9oCCtFhg5RoLtMR5TKl) | 4:00 | 2022-02-08 |  |
+| [I Won't Miss A Thing](https://open.spotify.com/track/5UgPB3ivHBCkhftx2wGBy2) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [I Won't Miss A Thing](https://open.spotify.com/album/6tAI8qCWzBSZYvsxU1qX3w) | 3:54 | 2025-07-21 |  |
 | [I'll Be Waiting](https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 2:52 | 2023-04-24 |  |
 | [I'm So Tired](https://open.spotify.com/track/6JgHKt0WwdwlXIht6M0mqa) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [Instrument Soundtrack](https://open.spotify.com/album/1owNOVlXTqmDVo4M2Z20uk) | 1:58 | 2025-05-28 |  |
 | [I'm With You](https://open.spotify.com/track/2LJN8OntCcpn3IIfP5VyZF) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/3S9ZdKgCTuobkoIWUK2gH0) | 4:01 | 2022-02-08 |  |

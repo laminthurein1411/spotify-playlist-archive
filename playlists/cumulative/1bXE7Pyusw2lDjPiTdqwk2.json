@@ -2959,6 +2959,24 @@
     },
     {
       "album": {
+        "name": "You Are the Quarry",
+        "url": "https://open.spotify.com/album/0Lm2IOzemQ5aQqDGge3xVB"
+      },
+      "artists": [
+        {
+          "name": "Morrissey",
+          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221573,
+      "name": "I Have Forgiven Jesus",
+      "url": "https://open.spotify.com/track/2Q7xmg3wUI6LvLW0z5nUgA"
+    },
+    {
+      "album": {
         "name": "You and I (Expanded Edition)",
         "url": "https://open.spotify.com/album/4pmq7Cvj5fkPcspI8FaqPm"
       },
@@ -3176,6 +3194,24 @@
       "duration_ms": 240165,
       "name": "I Won't Give Up",
       "url": "https://open.spotify.com/track/5ivF4eQBqJiVL5IAE9jRyl"
+    },
+    {
+      "album": {
+        "name": "I Won't Miss A Thing",
+        "url": "https://open.spotify.com/album/6tAI8qCWzBSZYvsxU1qX3w"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234609,
+      "name": "I Won't Miss A Thing",
+      "url": "https://open.spotify.com/track/5UgPB3ivHBCkhftx2wGBy2"
     },
     {
       "album": {

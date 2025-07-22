@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,429 songs - 6 day 7 hr 49 min
+2,431 songs - 6 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Be Your Man](https://open.spotify.com/track/27yYvBisCKHzDI2NhyBsCO) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f) | 3:32 | 2025-05-16 | 2025-07-16 |
 | [Beaches](https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 3:50 | 2024-11-22 |  |
 | [Beats](https://open.spotify.com/track/05vBt0IxXpzxLtxdRtWcWj) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [Fear](https://open.spotify.com/album/0OxG7ChzjX2L33v7KuvcXU) | 3:31 | 2025-01-08 |  |
+| [Beats](https://open.spotify.com/track/5ykFvRaWHGvoZOvTcJIuSG) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [Fear](https://open.spotify.com/album/0K1tV9gVLicGJEMeuS1Jng) | 3:31 | 2025-07-21 |  |
 | [Beautiful Boy \(Darling Boy\) \- Remastered 2010](https://open.spotify.com/track/5URfZHMlUWTWxPvvSBWcPk) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy](https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp) | 4:05 | 2025-05-18 |  |
 | [Beautiful Faces](https://open.spotify.com/track/7LvyCItkVB6Bx8pPuzSRZA) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Zeros](https://open.spotify.com/album/18hrkvndprWjt9olhQlRcH) | 3:16 | 2025-01-19 |  |
 | [Beautiful Neighbourhoods](https://open.spotify.com/track/68Akdtq94V0YedxSePSuwv) | [Braden Lam](https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr) | [Beautiful Neighbourhoods](https://open.spotify.com/album/3agjdu4O2rZrb2FmXudi0Z) | 4:31 | 2024-12-24 |  |
@@ -1784,6 +1785,7 @@
 | [Shameika](https://open.spotify.com/track/2pDKE8Q40TDGPl1O11DKKn) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Fetch The Bolt Cutters](https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj) | 4:08 | 2024-11-23 |  |
 | [Shapeshifter](https://open.spotify.com/track/60O0pUJdobzFB11e88Y9m1) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:06 | 2025-01-19 |  |
 | [She Cleans Up](https://open.spotify.com/track/5Lbwx92tmkpsxKJiwnYAIZ) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [She Cleans Up](https://open.spotify.com/album/2jBrpMTObbw10ytlkx23u4) | 4:26 | 2024-12-30 |  |
+| [She Cleans Up](https://open.spotify.com/track/5nEkWBNfUA87RY6ZSx2aR3) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Mahashmashana](https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw) | 4:26 | 2025-07-21 |  |
 | [She Works Hard For The Money](https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [She Works Hard For The Money](https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2) | 5:20 | 2024-12-19 |  |
 | [She's Gone](https://open.spotify.com/track/64pV9pR1xKDo8geaB3DVRe) | [Emm Gryner](https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM) | [She's Gone](https://open.spotify.com/album/6QVgw5cHQq2QPrLvZ26Js1) | 3:20 | 2025-01-06 |  |
 | [SHELL \( OF A MAN \)](https://open.spotify.com/track/79ckbJiCdKrGYPTmpFlc7u) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:39 | 2025-07-13 |  |
