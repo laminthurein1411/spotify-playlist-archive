@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,431 songs - 6 day 7 hr 57 min
+2,433 songs - 6 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,7 +515,7 @@
 | [Disappointing the Internet](https://open.spotify.com/track/0wpQc6DuoM3B9VsAzSHNtv) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Disappointing the Internet](https://open.spotify.com/album/3KXnbWDUt4OfEbLtCwkBPs) | 2:46 | 2024-12-04 |  |
 | [Dive](https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:20 | 2024-11-28 |  |
 | [Do The Thing Right](https://open.spotify.com/track/48o9cPGgwf8SJIQ0t5b38A) | [Zaki Ibrahim](https://open.spotify.com/artist/0lN4VNRbAtvcJrvzlIxy1T) | [The Secret Life of Planets](https://open.spotify.com/album/5YjTnpk8WySkzKAf3zWq0o) | 3:46 | 2024-12-01 |  |
-| [Do You Like Me?](https://open.spotify.com/track/4deAN7JXhdHHifxOp0TTjU) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:47 | 2025-05-14 | 2025-07-16 |
+| [Do You Like Me?](https://open.spotify.com/track/4deAN7JXhdHHifxOp0TTjU) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:47 | 2025-05-14 |  |
 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2024-12-12 |  |
 | [Do You Realize??](https://open.spotify.com/track/50QvqRn846FVQMIldLGYAX) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Last Leaf On The Tree](https://open.spotify.com/album/6eMDYYqusiE28W797x0ArK) | 3:11 | 2024-12-02 |  |
 | [Do You Really Want To Hurt Me?](https://open.spotify.com/track/5AN3APhvb91MZHRCFx90Vu) | [The Heptones](https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4) | [Changing Times](https://open.spotify.com/album/37AZfmTrInMSobJUWbdJdM) | 4:22 | 2025-02-28 |  |
@@ -529,6 +529,7 @@
 | [Don't Bring Me Down](https://open.spotify.com/track/7y8NWS6gR3Wz4C7W8Bh0WL) | [Juliana Hatfield](https://open.spotify.com/artist/4L1danWWAgSc0b7nBgY9CB) | [Don't Bring Me Down](https://open.spotify.com/album/5boaoJqtaoZDbitdsLa0K3) | 3:59 | 2025-01-18 |  |
 | [Don't Dream It's Over](https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 3:56 | 2025-01-06 |  |
 | [Don't Dream It's Over](https://open.spotify.com/track/2kyezitNXSQaIa1nsQRWVp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Divine Discontent](https://open.spotify.com/album/0DlPNJ1lhOgcunXTsBboC0) | 4:03 | 2025-04-15 |  |
+| [Don't Get Me Wrong \- 2007 Remaster](https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Get Close \(Expanded & Remastered\)](https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3) | 3:47 | 2025-07-22 |  |
 | [Don't Get Me Wrong \- 2007 Remaster](https://open.spotify.com/track/7dyzZ1pOznrXBXwzunv2si) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Get Close \(2007 Remaster\)](https://open.spotify.com/album/2xXTqs2uDgtid7J4hnfzQL) | 3:47 | 2025-01-11 |  |
 | [Don't Go \(Girls and Boys\) \- Radio Edit](https://open.spotify.com/track/6mhIZVhsP0NXYjFyGGrZjO) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [Don't Go \(Girls and Boys\)](https://open.spotify.com/album/3mMvOZJLNa2DY1akDAGmPZ) | 3:16 | 2025-01-11 |  |
 | [Don't Go Breaking My Heart](https://open.spotify.com/track/6VWzk81ssjLIDz2KrRL8yr) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Don't Go Breaking My Heart](https://open.spotify.com/album/45iEoFk6kVIz3PTmmP2gXm) | 4:04 | 2025-04-20 |  |
@@ -2210,6 +2211,7 @@
 | [Two Punks In Love](https://open.spotify.com/track/4dIPtEnmudhZPD8MsAtzSK) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Two Punks In Love](https://open.spotify.com/album/3koAGDxVGllCXSbgS4mI9U) | 3:15 | 2024-12-01 |  |
 | [Two Steps](https://open.spotify.com/track/0bkH6VKNzdauNIWhydSjJa) | [Tanika Charles](https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I) | [Soul Run](https://open.spotify.com/album/7dtFPPkpgAfHjJnnWLfMkF) | 3:46 | 2025-01-22 |  |
 | [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 | 2025-06-18 |  |
+| [Type Dangerous \- The Brazil Funk Remix](https://open.spotify.com/track/7xa8fAugOwINDATQGs8y8J) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Type Dangerous \- The Remixes](https://open.spotify.com/album/7Jv4EKxbrxJYaatg4lSd4v) | 2:26 | 2025-07-22 |  |
 | [U Can't Touch This](https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu) | [MC Hammer](https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW) | [Please Hammer Don't Hurt 'Em](https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN) | 4:17 | 2025-02-12 |  |
 | [U Got It Bad](https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:07 | 2025-06-20 |  |
 | [U\-turn](https://open.spotify.com/track/5VvR8ub7sv0x27WYlDgWIt) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Love You to Death](https://open.spotify.com/album/0zqoBumDciJGNoOsvfTP5U) | 2:58 | 2025-03-22 |  |
@@ -2354,7 +2356,7 @@
 | [WHITE PAPER PALM TREES](https://open.spotify.com/track/5AkkV33I0Gh04gMHBounLU) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [A6](https://open.spotify.com/album/1B770BdBdTMmC0u8kUybHa) | 3:40 | 2025-06-11 |  |
 | [Who Can It Be Now?](https://open.spotify.com/track/5BCykgPXc7zEBg2oU0klvy) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/146RggLMNzNZL1ZVr8hbCw) | 3:25 | 2025-04-18 |  |
 | [Who Taught You to Live Like That?](https://open.spotify.com/track/3E3ZEUuuEkzaQzOjYahjVU) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Never Hear the End of It](https://open.spotify.com/album/0VE9Zs4eCqsbaEJ48hH3PP) | 3:02 | 2025-01-20 |  |
-| [Who's Gonna](https://open.spotify.com/track/1jDtugS5TBPnLUT7c9EFl4) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [No Tears On This Ride](https://open.spotify.com/album/3vNG82Nj8itqtUjNM9g3HG) | 2:58 | 2025-05-30 | 2025-07-16 |
+| [Who's Gonna](https://open.spotify.com/track/1jDtugS5TBPnLUT7c9EFl4) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [No Tears On This Ride](https://open.spotify.com/album/3vNG82Nj8itqtUjNM9g3HG) | 2:58 | 2025-05-30 |  |
 | [Who's Gonna](https://open.spotify.com/track/2X3xur7x1K5PYiWrzJfM1O) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Who's Gonna](https://open.spotify.com/album/4PJdPJ45GyTzBrKYgJIheH) | 2:58 | 2024-11-28 |  |
 | [Why Can't I?](https://open.spotify.com/track/4z4PB23xYTg1oANmyZovsw) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Liz Phair](https://open.spotify.com/album/0rbgxvTKe3Y4VRar4sIYzT) | 3:28 | 2025-01-13 |  |
 | [Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U) | 4:49 | 2024-12-02 |  |
