@@ -3165,6 +3165,24 @@
     },
     {
       "album": {
+        "name": "Bars and BBQs",
+        "url": "https://open.spotify.com/album/5QnYhS0d7Rdm51J1WAgFt5"
+      },
+      "artists": [
+        {
+          "name": "Shad",
+          "url": "https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165813,
+      "name": "Bars and BBQs",
+      "url": "https://open.spotify.com/track/0B0uNI2m1ACui50VLP3mcB"
+    },
+    {
+      "album": {
         "name": "Sweet Surrender / Basement Apartment (Protection Island Sessions)",
         "url": "https://open.spotify.com/album/6FZtqRTTAUafJr11qBNlSb"
       },
@@ -3652,6 +3670,24 @@
       "duration_ms": 251960,
       "name": "Beside Myself",
       "url": "https://open.spotify.com/track/6xgsyj1SIF0qpvT6ntGGDm"
+    },
+    {
+      "album": {
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/7rAkJkbVbKmui9uwb6lsti"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/02hoDPXm6rAPzzvtYE97Fg"
     },
     {
       "album": {
@@ -8483,6 +8519,24 @@
     },
     {
       "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157563,
+      "name": "Dancing In The Courthouse",
+      "url": "https://open.spotify.com/track/5fX8WljoAFrmFrFqahjz4Y"
+    },
+    {
+      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -8498,6 +8552,24 @@
       "duration_ms": 241306,
       "name": "Dancing In the Dark",
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+    },
+    {
+      "album": {
+        "name": "Dancing In The Dark",
+        "url": "https://open.spotify.com/album/5MKkL2rwshzZ93F1cvUuBA"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200539,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/2ZFfGgz5RonguqJlm6ajoR"
     },
     {
       "album": {
@@ -13401,6 +13473,24 @@
     },
     {
       "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308626,
+      "name": "Glory Box",
+      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
+    },
+    {
+      "album": {
         "name": "Life and Life Only",
         "url": "https://open.spotify.com/album/6NN5AVmw54dqOXfNYFVloD"
       },
@@ -14228,7 +14318,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 189533,
       "name": "Goon",
       "url": "https://open.spotify.com/track/6YtvHPRDy9ustxHDdCdzMp"
@@ -25740,7 +25830,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 200985,
       "name": "My Angel",
       "url": "https://open.spotify.com/track/2ljCJxlSAAsARG4TmJV5yJ"
@@ -28408,6 +28498,24 @@
       "duration_ms": 159222,
       "name": "One Love",
       "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
+    },
+    {
+      "album": {
+        "name": "One More Dance Around The Sun",
+        "url": "https://open.spotify.com/album/2zfsEsAIMyUPZ7OGLZA5FS"
+      },
+      "artists": [
+        {
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286211,
+      "name": "One More Dance Around The Sun",
+      "url": "https://open.spotify.com/track/0wlIJpKDJN3DvOSSKtSj74"
     },
     {
       "album": {
@@ -35649,6 +35757,24 @@
     },
     {
       "album": {
+        "name": "Brighten the Corners",
+        "url": "https://open.spotify.com/album/1Q6ikDUK4RFtLI3N9Lll9h"
+      },
+      "artists": [
+        {
+          "name": "Pavement",
+          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187426,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/47PSYUK5a0uR87DUc9NR2g"
+    },
+    {
+      "album": {
         "name": "stick of gum",
         "url": "https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS"
       },
@@ -39422,6 +39548,24 @@
       "duration_ms": 124577,
       "name": "There\u2019s a Field (That\u2019s Only Yours)",
       "url": "https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM"
+    },
+    {
+      "album": {
+        "name": "Wheatfield Soul",
+        "url": "https://open.spotify.com/album/5AXYslqV5fXOt8ayqflk4g"
+      },
+      "artists": [
+        {
+          "name": "The Guess Who",
+          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225920,
+      "name": "These Eyes",
+      "url": "https://open.spotify.com/track/5lEyMg4GNKnMbaarvT4sRd"
     },
     {
       "album": {
@@ -44378,6 +44522,24 @@
       "duration_ms": 258906,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/1qPbGZqppFwLwcBC1JQ6Vr"
+    },
+    {
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills, Nash & Young",
+          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233773,
+      "name": "Woodstock",
+      "url": "https://open.spotify.com/track/2iqKVzMZpyUVPwxIVaQkhm"
     },
     {
       "album": {
