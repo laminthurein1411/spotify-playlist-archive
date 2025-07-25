@@ -2772,7 +2772,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
@@ -6725,6 +6725,24 @@
     },
     {
       "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282493,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/5QdBAG8cpZhM3kIAQLDRN2"
+    },
+    {
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM"
       },
@@ -8349,7 +8367,7 @@
     },
     {
       "album": {
-        "name": "Crying, Laughing, Loving, Lying",
+        "name": "Crying Laughing Loving Lying",
         "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
       },
       "artists": [
@@ -8362,7 +8380,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 183200,
-      "name": "Crying, Laughing, Loving, Lying",
+      "name": "Crying Laughing Loving Lying",
       "url": "https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ"
     },
     {
@@ -17848,7 +17866,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 188947,
       "name": "I Believe in Love (and it\u2019s very hard)",
       "url": "https://open.spotify.com/track/1h4K4Xyd8WNQS1CiVGvAag"
@@ -23160,6 +23178,24 @@
       "duration_ms": 207167,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/0DJUcAHIDGJanKxQhzKEdZ"
+    },
+    {
+      "album": {
+        "name": "Dream Destroyer",
+        "url": "https://open.spotify.com/album/3GLefW3E8RIwaZRUgSK6w2"
+      },
+      "artists": [
+        {
+          "name": "Sloan",
+          "url": "https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207167,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/0nTdBTZwkT3kzqUjf43cOU"
     },
     {
       "album": {
@@ -32668,7 +32704,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 187700,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/4BZCJ0fl5MphZLIsYYzpvJ"
@@ -36216,6 +36252,24 @@
       "duration_ms": 222654,
       "name": "Sugar in the Tank",
       "url": "https://open.spotify.com/track/27Xxf6AtaSpXE47Xzvua9r"
+    },
+    {
+      "album": {
+        "name": "Total Reggae: Chart Hits Reggae Style",
+        "url": "https://open.spotify.com/album/7xoAvPaXEwxSDWnA0BJJsl"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163720,
+      "name": "Sugar Sugar",
+      "url": "https://open.spotify.com/track/06RAXBywc2KoY5dC53arSP"
     },
     {
       "album": {
@@ -45056,6 +45110,24 @@
       "duration_ms": 300773,
       "name": "You Get What You Give",
       "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
+    },
+    {
+      "album": {
+        "name": "Hangin' Tough",
+        "url": "https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK"
+      },
+      "artists": [
+        {
+          "name": "New Kids On The Block",
+          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249960,
+      "name": "You Got It (The Right Stuff)",
+      "url": "https://open.spotify.com/track/4buDeg67vos7KP1yHrS9wl"
     },
     {
       "album": {
