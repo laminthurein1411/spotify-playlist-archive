@@ -3760,6 +3760,10 @@
         {
           "name": "Blood Orange",
           "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
         }
       ],
       "date_added": "2025-01-26",
@@ -18502,7 +18506,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 175080,
       "name": "I Pity the Country",
       "url": "https://open.spotify.com/track/1GyAagsfqUSPf5DdO3bBBe"
@@ -27595,6 +27599,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/3RA0A7RkflJudveefNw8H7"
+      },
+      "artists": [
+        {
+          "name": "Falana",
+          "url": "https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/1IOOLV6bwrN4uH4KWHei0R"
+    },
+    {
+      "album": {
         "name": "Not Dead Yet",
         "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
       },
@@ -28270,6 +28292,24 @@
       "duration_ms": 166440,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/0ohAtRF9SX1XTCQIYvOReA"
+    },
+    {
+      "album": {
+        "name": "On Rolls the Wheel",
+        "url": "https://open.spotify.com/album/06yirzfYrQC1bQaicU9n7L"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232302,
+      "name": "On Rolls the Wheel",
+      "url": "https://open.spotify.com/track/0QA8zWdU1bEWFYq0s0t6Qv"
     },
     {
       "album": {
@@ -34334,7 +34374,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 203419,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/7qZc5AW4oNHnEIrTF8Mhbt"
@@ -37864,6 +37904,24 @@
       "duration_ms": 240333,
       "name": "Tempted",
       "url": "https://open.spotify.com/track/5r2z0FHOoFI06GZEVGDjzM"
+    },
+    {
+      "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461946,
+      "name": "Tender",
+      "url": "https://open.spotify.com/track/42cxPm9jgbaxIVN77XA1m6"
     },
     {
       "album": {
@@ -43594,7 +43652,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 186789,
       "name": "When It Comes to You",
       "url": "https://open.spotify.com/track/03mAeaoAjOKeJ6KaU4K1Sf"
@@ -45530,7 +45588,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 203733,
       "name": "You've Got a Friend",
       "url": "https://open.spotify.com/track/5UHpNbocPg0TdGOkf6QX8Z"

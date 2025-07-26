@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAABdmJShpIOdLwRHPjhkeDHkjG5szjd",
+  "snapshot_id": "AAABd/V5BBbYLF75spiv8eUfmTMo/QXp",
   "tracks": [
     {
       "added_at": "2022-01-08 16:08:30",
@@ -6287,6 +6287,22 @@
       "duration_ms": 221573,
       "name": "I Have Forgiven Jesus",
       "url": "https://open.spotify.com/track/2Q7xmg3wUI6LvLW0z5nUgA"
+    },
+    {
+      "added_at": "2025-07-25 11:49:16",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 232796,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
     }
   ],
   "unique_name": "Sad Hours",

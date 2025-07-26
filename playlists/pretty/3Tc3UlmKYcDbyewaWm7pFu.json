@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAEawTH2h/F/ckVDxLgj0lNNK0x2UTp",
+  "snapshot_id": "AAAEbCHAXmwyOgYm8FB+Wzi+QwDbkU4P",
   "tracks": [
     {
       "added_at": "2019-12-20 13:17:42",
@@ -17999,6 +17999,22 @@
       "duration_ms": 189947,
       "name": "Man Made of Meat",
       "url": "https://open.spotify.com/track/5gR6gTGOGsg9zcR7JhvwQz"
+    },
+    {
+      "added_at": "2025-07-25 06:52:03",
+      "album": {
+        "name": "Stay (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/7wUcX4YqUcJcbtG8IwRI1m"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "duration_ms": 213855,
+      "name": "Stay - triple j Like A Version",
+      "url": "https://open.spotify.com/track/2nhx0geVbP2x8gLnsUB2YL"
     }
   ],
   "unique_name": "Western Songs",

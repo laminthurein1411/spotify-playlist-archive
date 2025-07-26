@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,071 songs - 2 day 15 hr 37 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,072 songs - 2 day 15 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1079,5 +1079,6 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 | 1069 | [Cry](https://open.spotify.com/track/7mDTvYD2ieE4Q28XFziMfJ) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/63yRRBtLX8eqbOLD6f0y9U) | 4:16 |
 | 1070 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/3W7KHojYGgYaoX9ogKO9hU) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/7Li2N39grodaHIg2QU7MSk) | 4:46 |
 | 1071 | [Man Made of Meat](https://open.spotify.com/track/5gR6gTGOGsg9zcR7JhvwQz) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 3:09 |
+| 1072 | [Stay \- triple j Like A Version](https://open.spotify.com/track/2nhx0geVbP2x8gLnsUB2YL) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Stay \(triple j Like A Version\)](https://open.spotify.com/album/7wUcX4YqUcJcbtG8IwRI1m) | 3:33 |
 
-Snapshot ID: `AAAEawTH2h/F/ckVDxLgj0lNNK0x2UTp`
+Snapshot ID: `AAAEbCHAXmwyOgYm8FB+Wzi+QwDbkU4P`
