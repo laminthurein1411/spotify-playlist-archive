@@ -2815,7 +2815,7 @@
     {
       "added_at": "2023-12-01 05:08:47",
       "album": {
-        "name": "Rutter: Requiem / Magnificat",
+        "name": "Rutter: Requiem & Magnificat",
         "url": "https://open.spotify.com/album/4D9G7TmExILUglcjD47Jcs"
       },
       "artists": [
@@ -2824,12 +2824,12 @@
           "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
         },
         {
-          "name": "Patricia Forbes",
-          "url": "https://open.spotify.com/artist/5LopB2Pull3ZlzrVrKzzzS"
-        },
-        {
           "name": "The Cambridge Singers",
           "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "Patricia Forbes",
+          "url": "https://open.spotify.com/artist/5LopB2Pull3ZlzrVrKzzzS"
         },
         {
           "name": "City of London Sinfonia",

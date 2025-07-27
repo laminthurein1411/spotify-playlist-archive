@@ -409,7 +409,7 @@
         }
       ],
       "duration_ms": 325000,
-      "name": "Die Walkure, Act III: Ride of the Valkyries",
+      "name": "Die Walk\u00fcre, Act III: Ride of the Valkyries",
       "url": "https://open.spotify.com/track/2e8MxBgVWMSQmxb2zcuCoq"
     },
     {
@@ -15121,7 +15121,7 @@
         }
       ],
       "duration_ms": 267960,
-      "name": "L'Italiana in Algeri: Cruda sorte! Amor tiranno! (Isabella)",
+      "name": "L'Italiana in Algeri (the Italian Girl in Algiers): L'Italiana in Algeri: Cruda sorte! Amor tiranno! [Isabella]",
       "url": "https://open.spotify.com/track/4ZaPQMS2M02zGYHz4LLxgm"
     },
     {
@@ -15642,6 +15642,10 @@
         {
           "name": "Jules Massenet",
           "url": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
+        },
+        {
+          "name": "Joyce DiDonato",
+          "url": "https://open.spotify.com/artist/6uFDUz42zInHQ1T2JFqNrE"
         },
         {
           "name": "Kazushi Ono",

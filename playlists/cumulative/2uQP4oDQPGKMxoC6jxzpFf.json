@@ -1835,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "Bad Hair Day",
+        "url": "https://open.spotify.com/album/0Jlz2oUJcRROhY8MFMp609"
+      },
+      "artists": [
+        {
+          "name": "\"Weird Al\" Yankovic",
+          "url": "https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202920,
+      "name": "Amish Paradise (Parody of \"Gangsta's Paradise\" by Coolio)",
+      "url": "https://open.spotify.com/track/5r96TaQquRrlo3Ym3ZlSL2"
+    },
+    {
+      "album": {
         "name": "AMPM",
         "url": "https://open.spotify.com/album/36QJpbcTU7gQEHahNOsWNp"
       },
@@ -2048,6 +2066,24 @@
       "duration_ms": 253650,
       "name": "Another Log on the Fire",
       "url": "https://open.spotify.com/track/5xXe7Drb1delVr1cJ0lXFq"
+    },
+    {
+      "album": {
+        "name": "\"Weird Al\" Yankovic",
+        "url": "https://open.spotify.com/album/1gnhuWdl30liEUM2jy9lxl"
+      },
+      "artists": [
+        {
+          "name": "\"Weird Al\" Yankovic",
+          "url": "https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158160,
+      "name": "Another One Rides the Bus",
+      "url": "https://open.spotify.com/track/23tktWr4FmFoJ6xEGqj3u2"
     },
     {
       "album": {
@@ -20631,6 +20667,32 @@
     },
     {
       "album": {
+        "name": "Black Radio 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/1KT2Z6ctgebnYJFuas27AX"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        },
+        {
+          "name": "Malcolm Jamal Warner",
+          "url": "https://open.spotify.com/artist/6A9y5Imt5aHX9zmpthihDL"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329560,
+      "name": "Jesus Children",
+      "url": "https://open.spotify.com/track/6hgrKSQrK7mx0xMOMr75tY"
+    },
+    {
+      "album": {
         "name": "99 Nights",
         "url": "https://open.spotify.com/album/37EYSu5EaOgHhB7stzTkHn"
       },
@@ -24766,7 +24828,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 173510,
       "name": "MANIC PIXIE PACIFIST",
       "url": "https://open.spotify.com/track/3hxk8h6WfOq0CwJzuOaXYP"
@@ -34403,6 +34465,24 @@
     },
     {
       "album": {
+        "name": "Off The Deep End",
+        "url": "https://open.spotify.com/album/6qr3P9IV7X8zSmRWUfKTNL"
+      },
+      "artists": [
+        {
+          "name": "\"Weird Al\" Yankovic",
+          "url": "https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225133,
+      "name": "Smells Like Nirvana",
+      "url": "https://open.spotify.com/track/3rREGSHjY1RmsTj81wL5X4"
+    },
+    {
+      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -44005,6 +44085,24 @@
     },
     {
       "album": {
+        "name": "Straight Outta Lynwood",
+        "url": "https://open.spotify.com/album/5qNws4KuryY0VNrdtcDwkR"
+      },
+      "artists": [
+        {
+          "name": "\"Weird Al\" Yankovic",
+          "url": "https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170640,
+      "name": "White & Nerdy (Parody of \"Ridin'\" by Chamillionaire feat. Krayzie Bone)",
+      "url": "https://open.spotify.com/track/60R2v9lheAu3lwZwAFxMZK"
+    },
+    {
+      "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/63cWWrn5EbzAiyeEoELIeF"
       },
@@ -44652,6 +44750,24 @@
       "duration_ms": 233773,
       "name": "Woodstock",
       "url": "https://open.spotify.com/track/2iqKVzMZpyUVPwxIVaQkhm"
+    },
+    {
+      "album": {
+        "name": "Mandatory Fun",
+        "url": "https://open.spotify.com/album/36jlZKG1sNZQA2HbWdYveV"
+      },
+      "artists": [
+        {
+          "name": "\"Weird Al\" Yankovic",
+          "url": "https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223120,
+      "name": "Word Crimes",
+      "url": "https://open.spotify.com/track/4JqQWAr47pGEoaMArpA7Z3"
     },
     {
       "album": {
