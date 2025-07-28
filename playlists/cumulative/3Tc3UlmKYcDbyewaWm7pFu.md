@@ -4,7 +4,7 @@
 
 > 
 
-1,072 songs - 2 day 15 hr 41 min
+1,076 songs - 2 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Hold On](https://open.spotify.com/track/5vjLSffimiIP26QG5WcN2K) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Hold On](https://open.spotify.com/album/2EfmyRWheMtmVTCIsptsLi) | 3:18 | 2021-12-11 |  |
 | [Home](https://open.spotify.com/track/3lyLqIn8mybyEFTs8JJaLf) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh) | 3:45 | 2019-12-30 |  |
 | [Home](https://open.spotify.com/track/0uZzdkuzJEjFzaRR2HQ5mj) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Perfect \- EP](https://open.spotify.com/album/2AZsm9cX8g9P3sSoZlQiOR) | 3:14 | 2020-03-10 |  |
+| [Home](https://open.spotify.com/track/59q99ZtlQkieaZFjkCwJ8J) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Songs From The Road, Vol\. 1](https://open.spotify.com/album/5BQYyqKLuKy2NxgdDt6HKD) | 2:07 | 2025-07-27 |  |
 | [Home For A Rest](https://open.spotify.com/track/13KMLmD3NOIorpl27lVoLf) | [Spirit Of The West](https://open.spotify.com/artist/1wheYCHOG8jXrzyqvbEjKH) | [Spirituality 1983\-2008: The Consummate Compendium](https://open.spotify.com/album/5GzEx1UQnAqBOVyCahgKbC) | 4:36 | 2025-03-19 |  |
 | [Homicide \(feat\. Eminem\)](https://open.spotify.com/track/7M2tXmeS15NAzEn7ABFeBg) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Confessions of a Dangerous Mind](https://open.spotify.com/album/0XLwImzaZEtqHE4NHAepDz) | 4:05 | 2021-02-23 |  |
 | [Honey, I'm Home](https://open.spotify.com/track/39IoZIC8eEirT1v70rqSPq) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:35 | 2020-03-15 |  |
@@ -684,6 +685,7 @@
 | [Paralyzed](https://open.spotify.com/track/7l4mdOTSYwOayDaHc3s0PV) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:43 | 2022-04-16 |  |
 | [PARAMOUR \(feat\. AURORA\)](https://open.spotify.com/track/1erjalqVwLQT2t1ZWcas9P) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [PARAMOUR \(feat\. AURORA\)](https://open.spotify.com/album/79NhJfhqNZgDUJtwIn1V1k) | 2:48 | 2022-01-15 |  |
 | [Paris](https://open.spotify.com/track/72jbDTw1piOOj770jWNeaG) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 3:41 | 2020-03-07 |  |
+| [Parklife](https://open.spotify.com/track/3mqRLlD9j92BBv1ueFhJ1l) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 3:07 | 2025-07-27 |  |
 | [Past Lives](https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 4:34 | 2020-06-27 |  |
 | [Payphone](https://open.spotify.com/track/1LmN9SSHISbtp9LoaR5ZVJ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Overexposed](https://open.spotify.com/album/5x7JzoE4A3DwwU6FPt8qws) | 3:51 | 2019-12-20 |  |
 | [People Watching](https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [People Watching](https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw) | 2:38 | 2021-11-22 |  |
@@ -770,6 +772,7 @@
 | [Sharing Locations \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/3T9BKc4kB7ukeNQrCqv6ZV) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 2:41 | 2021-12-10 |  |
 | [She Will Be Loved](https://open.spotify.com/track/5s5t0OFg9lIlBFaCI14K1i) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF) | 4:17 | 2019-12-30 |  |
 | [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 | 2025-07-21 |  |
+| [She's My Collar \(feat\. Kali Uchis\)](https://open.spotify.com/track/3lIxtCaROdRDuTnNBDm3n2) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 3:29 | 2025-07-27 |  |
 | [Shit Show](https://open.spotify.com/track/0t9X8kIUL4QqoWq6HM5o2G) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Shit Show](https://open.spotify.com/album/67Z2Ig6ut4g6d0MhxTKjfp) | 3:20 | 2022-01-16 |  |
 | [Should Have Known Better](https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 5:07 | 2021-11-21 |  |
 | [Shout To The Top \- Full Version](https://open.spotify.com/track/6rmeuhnICjrgsrcKM6af5L) | [The Style Council](https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN) | [Our Favourite Shop \(Deluxe Edition\)](https://open.spotify.com/album/589d7vHMtOyqhXGsf5h9Rc) | 4:14 | 2022-06-08 |  |
@@ -1022,6 +1025,7 @@
 | [Whoa Whoa Whoa](https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW) | [Watsky](https://open.spotify.com/artist/3mJ9GlkLzj8Ka7Z7EQaCMi) | [All You Can Do](https://open.spotify.com/album/2oFd5zCNTe0q3061ss0Fm9) | 3:07 | 2025-07-19 |  |
 | [Why Do I Love You](https://open.spotify.com/track/5VOCNmhLyo0goDbA2DMAGs) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [World of Our Own \(Expanded Edition\)](https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ) | 3:38 | 2023-05-11 |  |
 | [Why Not Me?](https://open.spotify.com/track/1YnRzw2S56QR16zhKZJMiv) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Euphoria](https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc) | 3:39 | 2020-04-08 |  |
+| [Why Oh Why](https://open.spotify.com/track/3zziUw73PNVvWAS3kJtvbi) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Songs From The Road, Vol\. 1](https://open.spotify.com/album/5BQYyqKLuKy2NxgdDt6HKD) | 3:13 | 2025-07-27 |  |
 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 | 2021-02-23 |  |
 | [Wicked Streets](https://open.spotify.com/track/20hW80qQCtVEHIJgeBJsBW) | [J\. Bernardt](https://open.spotify.com/artist/6LiV1FV5nwdp3k6n3LMoQn) | [Running Days](https://open.spotify.com/album/4SDpkwpZUml5RpQOz44dsf) | 5:00 | 2024-06-16 |  |
 | [Wild World](https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 3:28 | 2024-05-06 |  |

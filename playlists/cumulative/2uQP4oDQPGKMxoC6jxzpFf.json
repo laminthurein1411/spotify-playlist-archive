@@ -7819,6 +7819,24 @@
     },
     {
       "album": {
+        "name": "Common Touch",
+        "url": "https://open.spotify.com/album/2ADUvQtpzjyq0JFLGxvzJF"
+      },
+      "artists": [
+        {
+          "name": "Wardrobe",
+          "url": "https://open.spotify.com/artist/7l4xhRQHi7oJKgqHiI3tCg"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187219,
+      "name": "Common Touch",
+      "url": "https://open.spotify.com/track/1K7nNOI5TNRQOiqpVOdrBo"
+    },
+    {
+      "album": {
         "name": "Compete With Loneliness",
         "url": "https://open.spotify.com/album/0xeNRioyq54f5QIjQ5VWZA"
       },
@@ -10176,6 +10194,24 @@
       "duration_ms": 275133,
       "name": "Don't Want to Be a Fool",
       "url": "https://open.spotify.com/track/2rgMQNOF91LdmJClQAgqW9"
+    },
+    {
+      "album": {
+        "name": "Covers One",
+        "url": "https://open.spotify.com/album/34WkSeCkKh4wMsz7AFtU0F"
+      },
+      "artists": [
+        {
+          "name": "The Wind and The Wave",
+          "url": "https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249586,
+      "name": "Don't You (Forget About Me)",
+      "url": "https://open.spotify.com/track/5hOaRdlUqUSZ5nv8kQx1DF"
     },
     {
       "album": {
@@ -15503,6 +15539,24 @@
     },
     {
       "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/0T2fCvX8krkCmt5fvEpUWc"
+      },
+      "artists": [
+        {
+          "name": "Joel Plaskett",
+          "url": "https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193826,
+      "name": "Head Over Heels Into Heaven",
+      "url": "https://open.spotify.com/track/7zSpMcf8pHJTghbBZ6HuRa"
+    },
+    {
+      "album": {
         "name": "In Standard Definition",
         "url": "https://open.spotify.com/album/1ACpj2XQ2dsTQ1fZsAEYiq"
       },
@@ -16270,6 +16324,24 @@
       "duration_ms": 293895,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/7FVnw5keApeODK1MO6lUBP"
+    },
+    {
+      "album": {
+        "name": "Heureux comme \u00e7a",
+        "url": "https://open.spotify.com/album/4sI3aKZhpwWd8wLEPeASqm"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169226,
+      "name": "Heureux comme \u00e7a",
+      "url": "https://open.spotify.com/track/1beumnMJjECxbkF6o0WkVT"
     },
     {
       "album": {
@@ -22429,6 +22501,24 @@
     },
     {
       "album": {
+        "name": "Symphony in Effect",
+        "url": "https://open.spotify.com/album/1gz6hrPGkSNJCQa6fuN3ns"
+      },
+      "artists": [
+        {
+          "name": "Maestro Fresh Wes",
+          "url": "https://open.spotify.com/artist/1dwKQTuExr4n8IwmXzyN2K"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299706,
+      "name": "Let Your Backbone Slide - Power Mix",
+      "url": "https://open.spotify.com/track/5Cwq2apC9VlJ5XQf3pBrNi"
+    },
+    {
+      "album": {
         "name": "Let's Get It On (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1pwi5nEtbeFghwkwRTcZFe"
       },
@@ -23096,7 +23186,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 234560,
       "name": "Little Bit Closer",
       "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
@@ -23568,6 +23658,24 @@
       "duration_ms": 173786,
       "name": "Lost In Nostalgia",
       "url": "https://open.spotify.com/track/5rmXP6ylbfTGpl8Gc7hTcX"
+    },
+    {
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/78JxIticjNz5ZB3iNYEP6g"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236813,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/0boz2COxgC376hg1Drao5V"
     },
     {
       "album": {
@@ -35780,6 +35888,24 @@
       "duration_ms": 239960,
       "name": "Stay Home with You",
       "url": "https://open.spotify.com/track/2Vc8gvA0yYJob6CSqF3hNk"
+    },
+    {
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     },
     {
       "album": {

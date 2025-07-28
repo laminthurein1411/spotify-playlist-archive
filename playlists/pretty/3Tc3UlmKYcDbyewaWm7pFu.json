@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAEbCHAXmwyOgYm8FB+Wzi+QwDbkU4P",
+  "snapshot_id": "AAAEcMRr3uNmyGXkBZjRnq4qEOsssP4x",
   "tracks": [
     {
       "added_at": "2019-12-20 13:17:42",
@@ -18015,6 +18015,74 @@
       "duration_ms": 213855,
       "name": "Stay - triple j Like A Version",
       "url": "https://open.spotify.com/track/2nhx0geVbP2x8gLnsUB2YL"
+    },
+    {
+      "added_at": "2025-07-27 03:59:25",
+      "album": {
+        "name": "Songs From The Road, Vol. 1",
+        "url": "https://open.spotify.com/album/5BQYyqKLuKy2NxgdDt6HKD"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        }
+      ],
+      "duration_ms": 193915,
+      "name": "Why Oh Why",
+      "url": "https://open.spotify.com/track/3zziUw73PNVvWAS3kJtvbi"
+    },
+    {
+      "added_at": "2025-07-27 03:59:32",
+      "album": {
+        "name": "Songs From The Road, Vol. 1",
+        "url": "https://open.spotify.com/album/5BQYyqKLuKy2NxgdDt6HKD"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        }
+      ],
+      "duration_ms": 127164,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/59q99ZtlQkieaZFjkCwJ8J"
+    },
+    {
+      "added_at": "2025-07-27 07:23:17",
+      "album": {
+        "name": "Humanz (Deluxe)",
+        "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 209560,
+      "name": "She's My Collar (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/3lIxtCaROdRDuTnNBDm3n2"
+    },
+    {
+      "added_at": "2025-07-27 07:23:43",
+      "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "Parklife",
+      "url": "https://open.spotify.com/track/3mqRLlD9j92BBv1ueFhJ1l"
     }
   ],
   "unique_name": "Western Songs",
