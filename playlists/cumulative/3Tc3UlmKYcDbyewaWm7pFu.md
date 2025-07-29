@@ -4,7 +4,7 @@
 
 > 
 
-1,076 songs - 2 day 15 hr 53 min
+1,077 songs - 2 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -778,6 +778,7 @@
 | [Shout To The Top \- Full Version](https://open.spotify.com/track/6rmeuhnICjrgsrcKM6af5L) | [The Style Council](https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN) | [Our Favourite Shop \(Deluxe Edition\)](https://open.spotify.com/album/589d7vHMtOyqhXGsf5h9Rc) | 4:14 | 2022-06-08 |  |
 | [Silver Lining](https://open.spotify.com/track/13xVnZKZDEGbmXkzBFpJDD) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/7MvVdSQGWm8z82TZrR4G2z) | 3:19 | 2025-02-27 |  |
 | [Simple Song](https://open.spotify.com/track/48bo7uexDvAThcRDvEB2W7) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Port Of Morrow](https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi) | 4:15 | 2021-01-29 |  |
+| [Simply Are](https://open.spotify.com/track/34R6NKHmz7WBlemuZR6HVw) | [Arto Lindsay](https://open.spotify.com/artist/2914JagOufmP5BY9qLDxtF), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Melvin Gibbs](https://open.spotify.com/artist/3n2knKFx0TQPOTyyPHM2g1) | [Encyclopedia of Arto](https://open.spotify.com/album/6Fm4TsPdg9tRiNkPzyo8W5) | 3:44 | 2025-07-28 |  |
 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2024-06-10 |  |
 | [Siren Song](https://open.spotify.com/track/3nKCmdfFSB49NPGRsfD4wh) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Siren Song](https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq) | 3:03 | 2024-06-10 |  |
 | [Sisyphus](https://open.spotify.com/track/403vzOZN0tETDpvFipkNIL) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 4:07 | 2024-04-04 |  |

@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAEcMRr3uNmyGXkBZjRnq4qEOsssP4x",
+  "snapshot_id": "AAAEcZOoaRRWkr5pi/R4a3k3SeawHLSp",
   "tracks": [
     {
       "added_at": "2019-12-20 13:17:42",
@@ -18083,6 +18083,30 @@
       "duration_ms": 187040,
       "name": "Parklife",
       "url": "https://open.spotify.com/track/3mqRLlD9j92BBv1ueFhJ1l"
+    },
+    {
+      "added_at": "2025-07-28 06:53:37",
+      "album": {
+        "name": "Encyclopedia of Arto",
+        "url": "https://open.spotify.com/album/6Fm4TsPdg9tRiNkPzyo8W5"
+      },
+      "artists": [
+        {
+          "name": "Arto Lindsay",
+          "url": "https://open.spotify.com/artist/2914JagOufmP5BY9qLDxtF"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Melvin Gibbs",
+          "url": "https://open.spotify.com/artist/3n2knKFx0TQPOTyyPHM2g1"
+        }
+      ],
+      "duration_ms": 224522,
+      "name": "Simply Are",
+      "url": "https://open.spotify.com/track/34R6NKHmz7WBlemuZR6HVw"
     }
   ],
   "unique_name": "Western Songs",

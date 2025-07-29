@@ -1631,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "Spirit of the Golden Juice",
+        "url": "https://open.spotify.com/album/7xWtIMu5yHtVcLJajoQtHP"
+      },
+      "artists": [
+        {
+          "name": "F. J. McMahon",
+          "url": "https://open.spotify.com/artist/5sdXP8axwZ2P3SZ0firqoL"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184589,
+      "name": "Early Blue",
+      "url": "https://open.spotify.com/track/299aa9kZNZhCGIbf7YRLq0"
+    },
+    {
+      "album": {
         "name": "Sing To Me Instead",
         "url": "https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F"
       },
@@ -6250,6 +6268,24 @@
       "duration_ms": 268853,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/3IBhpCAFOJxynTfrw0t2LN"
+    },
+    {
+      "album": {
+        "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
+        "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212133,
+      "name": "Til The Morning",
+      "url": "https://open.spotify.com/track/0rnnu0SMZ4jTGhOAQfoeq6"
     },
     {
       "album": {

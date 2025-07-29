@@ -95,6 +95,36 @@
     },
     {
       "album": {
+        "name": "Star Wars Sampler",
+        "url": "https://open.spotify.com/album/0FFKU6tUqBwgANE5DGLA3c"
+      },
+      "artists": [
+        {
+          "name": "London Voices",
+          "url": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "New London Children's Choir",
+          "url": "https://open.spotify.com/artist/6NjmXZS0hvrKr02zn34lLb"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166973,
+      "name": "Cantina Band - From \"Star Wars: A New Hope\"",
+      "url": "https://open.spotify.com/track/2zF7IDI6UsLXpwl3FjukPS"
+    },
+    {
+      "album": {
         "name": "Warmer In The Winter (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7wfjL0ZBEycLvXzJmHF45g"
       },
@@ -876,6 +906,24 @@
       "duration_ms": 122694,
       "name": "Seal the Room",
       "url": "https://open.spotify.com/track/6DuQ7ojvl1RTLbsguBQaCO"
+    },
+    {
+      "album": {
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/6BX8C9KcgTeyHBLn83A0qn"
+      },
+      "artists": [
+        {
+          "name": "Kevin MacLeod",
+          "url": "https://open.spotify.com/artist/4fSMtiyC6lF5BUO1tUMWMs"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136620,
+      "name": "Sneaky Snitch",
+      "url": "https://open.spotify.com/track/7I31xQWQOO9bVYRkJumQIf"
     },
     {
       "album": {
