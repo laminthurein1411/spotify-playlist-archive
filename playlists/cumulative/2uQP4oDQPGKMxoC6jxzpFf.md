@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,465 songs - 6 day 10 hr 3 min
+2,467 songs - 6 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Cowboy's Dream](https://open.spotify.com/track/7qQsHmX6RK246YBVROaaQu) | [Ashley Ghostkeeper](https://open.spotify.com/artist/5HQAO0zoMcRR0C7WcrLRe5) | [Cowboy's Dream](https://open.spotify.com/album/2w8p1qn1J23Sa6z642ZfzM) | 3:11 | 2025-06-22 |  |
 | [Crabbuckit](https://open.spotify.com/track/5ONb0fTAqTygOmGfLHqi28) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Collected](https://open.spotify.com/album/6uNDNflKRjEjnEESQUQrXT) | 4:06 | 2025-02-07 |  |
 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD) | 3:33 | 2024-12-08 |  |
+| [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 | 2025-07-29 |  |
 | [Crazy](https://open.spotify.com/track/6XrjVmlk0dxQxqUfw3LXzP) | [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [Critical Hit](https://open.spotify.com/album/1eJcCQWhDRYdT3wDyUZ1E1) | 3:56 | 2024-12-01 |  |
 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 2:43 | 2025-01-10 |  |
 | [Crazy Streets](https://open.spotify.com/track/3mZxkPLaRuGEJITfLotgD9) | [Ewan Currie](https://open.spotify.com/artist/5ckcxH3nT0anT1fg9DGX5e) | [Crazy Streets](https://open.spotify.com/album/5xjU73KhYHafgthfUZqRbn) | 3:48 | 2025-05-07 |  |
@@ -1289,6 +1290,7 @@
 | [Love Alone](https://open.spotify.com/track/1qBOFi4RL3dPOgoQMQ8tkY) | [Anachnid](https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO) | [Love Alone](https://open.spotify.com/album/11r93iWsgjzlkyDp2jymBc) | 4:06 | 2024-12-08 |  |
 | [Love And Affection](https://open.spotify.com/track/6Mnne5V9ZifNID59dswUcZ) | [Joan Armatrading](https://open.spotify.com/artist/1bdAJUX6JPsnYHbTl5jbk6) | [Joan Armatrading](https://open.spotify.com/album/3BsE4yVwIOxM38hDnzrMlx) | 4:32 | 2025-02-15 |  |
 | [Love as a Weapon](https://open.spotify.com/track/1xmR0KjApWPii6HSLlVuJb) | [Little Scream](https://open.spotify.com/artist/2U7njwghtRR6ofLobG32Lk) | [Cult Following](https://open.spotify.com/album/5xhPUWy7WRYFHCTDnxCBF7) | 4:52 | 2025-03-02 |  |
+| [LOVE IN THE DARK](https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:59 | 2025-07-29 |  |
 | [Love Like That \(feat\. Ali Sethi\)](https://open.spotify.com/track/6vBuBiZkJDabpSEZqZFYNS) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Love Like That \(feat\. Ali Sethi\)](https://open.spotify.com/album/370o1v7cPpNPuFnOGEgVCN) | 2:40 | 2024-11-21 |  |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2024-11-21 |  |
 | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/album/66SYFOZM5lxnGsBot10yqI) | 3:08 | 2024-12-01 |  |
@@ -2447,7 +2449,7 @@
 | [You I'm Waiting On](https://open.spotify.com/track/2LCJeh15hsqAvRXkjCdogT) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Tears You Hide](https://open.spotify.com/album/6Oovk78GoqKNU9YCr5vgaG) | 2:59 | 2025-01-05 |  |
 | [You Know I Love You Still](https://open.spotify.com/track/6O42i13GUz5Juh2JlipDrM) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [BUG](https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo) | 3:17 | 2024-12-31 |  |
 | [You Know I'm No Good](https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 4:16 | 2025-01-03 |  |
-| [You Learn](https://open.spotify.com/track/3V5qEaGZr52PrvHQ1n9JLI) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 3:59 | 2025-05-02 | 2025-07-16 |
+| [You Learn](https://open.spotify.com/track/3V5qEaGZr52PrvHQ1n9JLI) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 3:59 | 2025-05-02 |  |
 | [You Learn](https://open.spotify.com/track/3aYQd9OqItLUKbX06czwJu) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6j1k8wmYevBQURQjzl7tCt) | 3:59 | 2024-12-28 |  |
 | [You Let Me Down](https://open.spotify.com/track/5vItiIbaaoTxihU8uAlRbq) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:13 | 2025-02-07 |  |
 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Step II](https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo) | 6:40 | 2025-05-06 |  |
