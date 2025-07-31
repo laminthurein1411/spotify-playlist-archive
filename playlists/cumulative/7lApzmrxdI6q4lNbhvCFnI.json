@@ -470,6 +470,10 @@
       },
       "artists": [
         {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
           "name": "The Graduate Choir, nz",
           "url": "https://open.spotify.com/artist/004oG2V410A3DdwkDGp9xU"
         },
@@ -9414,10 +9418,6 @@
       },
       "artists": [
         {
-          "name": "Irving Fine",
-          "url": "https://open.spotify.com/artist/4v1Z9CANOOeZdnkB1WbxYc"
-        },
-        {
           "name": "Aaron Copland",
           "url": "https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU"
         },
@@ -9436,13 +9436,17 @@
         {
           "name": "Robert Hanson",
           "url": "https://open.spotify.com/artist/77RB8WkgINfdXJutsMUQv5"
+        },
+        {
+          "name": "Irving Fine",
+          "url": "https://open.spotify.com/artist/4v1Z9CANOOeZdnkB1WbxYc"
         }
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 146893,
-      "name": "Old American Songs I (arr. I. Fine): V. I Bought me a Cat",
+      "name": "Old American Songs I: V. I Bought me a Cat (Arr. I. Fine)",
       "url": "https://open.spotify.com/track/6bgLs1zkwOScpjFAgFAe8Y"
     },
     {
@@ -11366,6 +11370,10 @@
         {
           "name": "The Cathedral Singers",
           "url": "https://open.spotify.com/artist/6GCii6lkUhkzTrznRyCuVh"
+        },
+        {
+          "name": "Richard Proulx",
+          "url": "https://open.spotify.com/artist/5eKrMraIZ0J5BPm0kEr7Dq"
         }
       ],
       "date_added": "2023-12-01",

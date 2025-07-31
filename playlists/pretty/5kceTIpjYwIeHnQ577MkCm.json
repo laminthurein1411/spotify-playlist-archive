@@ -4956,10 +4956,6 @@
           "url": "https://open.spotify.com/artist/1FgrbE7MKeBnuxiIyv7TTp"
         },
         {
-          "name": "Evgeny Stetsyuk",
-          "url": "https://open.spotify.com/artist/3YaUQbeHqH0q4e99zU9jqZ"
-        },
-        {
           "name": "Dmitri Hvorostovsky",
           "url": "https://open.spotify.com/artist/5P6p90HYfFxo4GTmHJjeNe"
         },
@@ -4981,7 +4977,7 @@
         }
       ],
       "duration_ms": 134040,
-      "name": "Katyusha",
+      "name": "Katyusha (Arr. E. Stetsyuk)",
       "url": "https://open.spotify.com/track/4zelY7oHTdvYYhVkhUuDte"
     },
     {
@@ -7029,7 +7025,7 @@
         }
       ],
       "duration_ms": 214453,
-      "name": "Les contes d'Hoffmann (The Tales of Hoffmann): Act II: Entr'acte [Barcarolle]: Belle nuit, o nuit d'amour",
+      "name": "Les contes d'Hoffmann, Act II: Entr'acte (Barcarolle): Belle nuit, o nuit d'amour",
       "url": "https://open.spotify.com/track/7cC3Ju4X0WcTRmER6QwZt3"
     },
     {
@@ -14317,7 +14313,7 @@
         }
       ],
       "duration_ms": 206853,
-      "name": "La forza del destino: Act II: La Vergine degli Angeli",
+      "name": "La forza del destino, Act II: La Vergine degli Angeli",
       "url": "https://open.spotify.com/track/4M0jI49XqUfiS4rTJbLYTN"
     },
     {
@@ -14857,7 +14853,7 @@
         }
       ],
       "duration_ms": 403186,
-      "name": "Il trovatore: Act IV: D'amor sull'ali rosee vanne",
+      "name": "Il trovatore, Act IV: D'amor sull'ali rosee vanne",
       "url": "https://open.spotify.com/track/4e34qDzYuqb1RUNKaT0pvi"
     },
     {
@@ -18101,7 +18097,7 @@
         }
       ],
       "duration_ms": 142373,
-      "name": "Der Wanderer an den Mond, Op. 80, No. 1, D. 870",
+      "name": "Der Wanderer an den Mond, Op. 80 No. 1, D. 870: Der Wanderer an den Mond, Op. 80, No. 1, D. 870",
       "url": "https://open.spotify.com/track/0QUcNZOvNPkvYhbPrfWWu2"
     },
     {
@@ -18125,7 +18121,7 @@
         }
       ],
       "duration_ms": 233426,
-      "name": "Das Zugenglocklein, D. 871",
+      "name": "Das Z\u00fcgengl\u00f6cklein, Op. 80, No. 2, D. 871: Das Zugenglocklein, D. 871",
       "url": "https://open.spotify.com/track/7jY1wxviX1i1r4puMw0Fxs"
     },
     {
@@ -18237,7 +18233,7 @@
         }
       ],
       "duration_ms": 123760,
-      "name": "4 Refrainlieder, Op. 95, D. 866: No. 2. Bei dir allein",
+      "name": "4 Refrainlieder, Op. 95, D. 866: No. 2, Bei dir allein",
       "url": "https://open.spotify.com/track/068FJfMiIwpx23e7PiulOA"
     },
     {
@@ -18261,7 +18257,7 @@
         }
       ],
       "duration_ms": 270800,
-      "name": "4 Refrainlieder, Op. 95, D. 866: No. 4. Irdisches Gluck",
+      "name": "4 Refrainlieder, Op. 95, D. 866: No. 4, Irdisches Gluck",
       "url": "https://open.spotify.com/track/3wD5z6M0LXBiSKGab6Hg1f"
     },
     {

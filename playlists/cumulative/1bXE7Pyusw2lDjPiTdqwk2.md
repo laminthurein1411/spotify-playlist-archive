@@ -4,7 +4,7 @@
 
 > 
 
-385 songs - 1 day 1 hr 7 min
+386 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [King Park](https://open.spotify.com/track/1mwvhdWyZruSSMhvOWbfCv) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Wildlife](https://open.spotify.com/album/4BDDKxyTMgE1UZh7Wzdx28) | 6:54 | 2025-04-14 |  |
 | [La chanson de Prévert](https://open.spotify.com/track/0Y04xGwKImCqVSFZQI5All) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [L'étonnant Serge Gainsbourg \(N°3\)](https://open.spotify.com/album/5sMMhisGphUYvtb9jmdydj) | 3:02 | 2025-04-14 |  |
 | [Last Day of Our Acquaintance](https://open.spotify.com/track/3EYW4bmuPLRo74rf3Yrsw9) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:38 | 2025-04-14 |  |
+| [Last Night I Dreamt That Somebody Loved Me \- 2011 Remaster](https://open.spotify.com/track/17zN523CEjJWBGXrUb3xex) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 5:05 | 2025-07-30 |  |
 | [Lay By Me](https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Melancholic](https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J) | 2:50 | 2022-03-20 |  |
 | [leaving home](https://open.spotify.com/track/45J4EoznoID3g0ByvfIJV0) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [leaving home](https://open.spotify.com/album/3MnjEipevFo8fPiOfaiBNw) | 2:53 | 2023-03-15 |  |
 | [Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:59 | 2025-04-12 |  |

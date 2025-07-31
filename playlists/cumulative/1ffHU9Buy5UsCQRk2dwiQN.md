@@ -4,7 +4,7 @@
 
 > 
 
-294 songs - 18 hr 19 min
+295 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [The Killing Moon](https://open.spotify.com/track/0cOf4csnt4DeXSkFmBjULw) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Ocean Rain](https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7) | 5:48 | 2024-02-03 |  |
 | [The King of Wishful Thinking](https://open.spotify.com/track/0gXTCSzaCOzNoRb9FeE62N) | [Go West](https://open.spotify.com/artist/7bKupnlF7XOfR1En3K8oAL) | [Indian Summer](https://open.spotify.com/album/622XQ6bN45EZWtogSS84P0) | 4:01 | 2024-05-06 |  |
 | [The Lady In Red](https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Into The Light](https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5) | 4:16 | 2022-10-30 |  |
+| [The Masochism Tango](https://open.spotify.com/track/71IXig0Us2yMMOPG7bdbF5) | [Tom Lehrer](https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO) | [Selling Out](https://open.spotify.com/album/0RS4g4IreV0rhUbFFkY43E) | 2:55 | 2025-07-30 |  |
 | [The Moon Is Blue](https://open.spotify.com/track/3RlGLTcM9OwrAA0ErwJ2rA) | [Colourbox](https://open.spotify.com/artist/0uAnwMXg0tsGQsOdVwudkb) | [Colourbox](https://open.spotify.com/album/4lMp7JWVmd6QI3KLosFbc8) | 4:37 | 2025-01-13 |  |
 | [The Night Has A Thousand Eyes](https://open.spotify.com/track/79Znjf4idnnAIitAdHT5dk) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Very Best Of](https://open.spotify.com/album/7d0HZUrDOmRKEzHvJv3ITe) | 2:35 | 2023-07-19 |  |
 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 | 2023-08-01 |  |

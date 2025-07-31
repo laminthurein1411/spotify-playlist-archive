@@ -3739,6 +3739,24 @@
     },
     {
       "album": {
+        "name": "Strangeways, Here We Come",
+        "url": "https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305600,
+      "name": "Last Night I Dreamt That Somebody Loved Me - 2011 Remaster",
+      "url": "https://open.spotify.com/track/17zN523CEjJWBGXrUb3xex"
+    },
+    {
+      "album": {
         "name": "Melancholic",
         "url": "https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J"
       },

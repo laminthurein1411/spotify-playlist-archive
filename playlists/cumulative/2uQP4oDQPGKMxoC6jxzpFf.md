@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,467 songs - 6 day 10 hr 11 min
+2,469 songs - 6 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Be Happy](https://open.spotify.com/track/5X82VFLvjpeWQlTSShqqj0) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 5:49 | 2024-11-29 |  |
 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 | 2024-12-03 |  |
 | [Be Your Man](https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Be Your Man](https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu) | 3:32 | 2024-11-27 |  |
-| [Be Your Man](https://open.spotify.com/track/27yYvBisCKHzDI2NhyBsCO) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f) | 3:32 | 2025-05-16 | 2025-07-16 |
+| [Be Your Man](https://open.spotify.com/track/27yYvBisCKHzDI2NhyBsCO) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f) | 3:32 | 2025-05-16 |  |
 | [Beaches](https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 3:50 | 2024-11-22 |  |
 | [Beats](https://open.spotify.com/track/05vBt0IxXpzxLtxdRtWcWj) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [Fear](https://open.spotify.com/album/0OxG7ChzjX2L33v7KuvcXU) | 3:31 | 2025-01-08 |  |
 | [Beats](https://open.spotify.com/track/5ykFvRaWHGvoZOvTcJIuSG) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [Fear](https://open.spotify.com/album/0K1tV9gVLicGJEMeuS1Jng) | 3:31 | 2025-07-21 |  |
@@ -658,7 +658,7 @@
 | [Fireworks](https://open.spotify.com/track/3qJImzh896FdKl5mJfpFaC) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 4:14 | 2025-05-26 |  |
 | [Fireworks](https://open.spotify.com/track/3lHpyOxyejGeE73kYKZJLs) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [The Sun](https://open.spotify.com/album/02CRRcqdMBr8GStxOh28xU) | 3:18 | 2025-01-19 |  |
 | [First Place](https://open.spotify.com/track/5Td5Y4mFerZdmgs2mmGw9A) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [First Place](https://open.spotify.com/album/4t8vZxmCJHeUWcaQlKtBK6) | 2:33 | 2024-12-22 |  |
-| [First Thing Smokin'](https://open.spotify.com/track/0rALhVKdan2uNBuz50bXtN) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [LOONY](https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy) | 3:43 | 2025-05-16 | 2025-07-16 |
+| [First Thing Smokin'](https://open.spotify.com/track/0rALhVKdan2uNBuz50bXtN) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [LOONY](https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy) | 3:43 | 2025-05-16 |  |
 | [First Thing Smokin'](https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt) | 3:44 | 2024-11-24 |  |
 | [Fisherman's Blues](https://open.spotify.com/track/166UshyvcAAP8KZmBWqFf9) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [The Whole of the Moon: The Music of Mike Scott & The Waterboys](https://open.spotify.com/album/3lemeg4rr7EfotxVHEQfJg) | 4:23 | 2025-02-09 |  |
 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 | 2025-07-12 |  |
@@ -678,6 +678,7 @@
 | [Foolish](https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 3:47 | 2025-01-07 |  |
 | [Fools Gold \- Remastered 2009](https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 9:54 | 2025-04-19 |  |
 | [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 | 2025-05-16 |  |
+| [Footloose \- From "Footloose" Soundtrack](https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Footloose \(15th Anniversary Collectors' Edition\)](https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC) | 3:46 | 2025-07-30 |  |
 | [For The First Time](https://open.spotify.com/track/5HI8RPlmfLmoaDyemH9vNZ) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Always Tomorrow](https://open.spotify.com/album/4Y7Lc550FiGQYWzr3icx2j) | 3:38 | 2025-04-06 |  |
 | [For The Living](https://open.spotify.com/track/3BeRR0JPSjJVPwkrU6Ders) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [I Need to Stay Here](https://open.spotify.com/album/6ViPAxxhRt4On7JSILjIhp) | 2:59 | 2025-03-16 |  |
 | [For You](https://open.spotify.com/track/3KYeya16huq2TscsnWpNxr) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Harmony](https://open.spotify.com/album/1aoVW0UzWXSSYc24TWQuQV) | 4:04 | 2025-02-15 |  |
@@ -2133,6 +2134,7 @@
 | [The Truth](https://open.spotify.com/track/5l7icgnicl7JToRxPkSXyy) | [Handsome Boy Modeling School](https://open.spotify.com/artist/3pkmfqaBNsMqnXus05PNfP), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [So...How's Your Girl?](https://open.spotify.com/album/11xrdpHkh2KUuxPGEfQZKG) | 5:37 | 2025-01-01 |  |
 | [The Twist](https://open.spotify.com/track/4YCnTYbq3oL1Lqpyxg33CU) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [Dancin' Party: The Chubby Checker Collection \(1960\-1966\)](https://open.spotify.com/album/0YgWInMbwTXPCaHRUHqoeY) | 2:35 | 2025-04-08 |  |
 | [The Waiting](https://open.spotify.com/track/4ZA0EXmjnZIYguEMf0Mc88) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 3:58 | 2024-12-05 |  |
+| [The Way We’re Born](https://open.spotify.com/track/1ZUJlM6cVMBbrGZp24ClZl) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Edge Of The Earth](https://open.spotify.com/album/3dzRpXVj0YAmnCkeJ6Lt6M) | 3:58 | 2025-07-30 |  |
 | [The Way We’re Born](https://open.spotify.com/track/1vqvgR9ij66qlgMMa1wnjn) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Home](https://open.spotify.com/album/2nQoXfaAd6ZFqb6ylCqySD) | 3:58 | 2025-05-22 | 2025-07-16 |
 | [The Way We’re Born](https://open.spotify.com/track/72mOr7IJpz4PKkdGccoXRx) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Without You](https://open.spotify.com/album/0RoqW9lQOIlK1q69WtrAtS) | 3:58 | 2025-04-01 |  |
 | [The Way You Move](https://open.spotify.com/track/6XGGZIuplEKNv5A1NvZ4Db) | [Alex Germys](https://open.spotify.com/artist/0cI6OkaZLXsri5KKsbEUnD), [Carla Katz](https://open.spotify.com/artist/7r7nCaAoqyPRrqHw987pl5), [K1D](https://open.spotify.com/artist/6vkNDrbuaVIuKwAylGos5o) | [The Way You Move](https://open.spotify.com/album/1EZ71L5eTUE0uBFj5CiULL) | 3:40 | 2025-03-08 |  |

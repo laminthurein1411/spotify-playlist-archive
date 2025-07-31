@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ffHU9Buy5UsCQRk2dwiQN.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 1 like - 294 songs - 18 hr 19 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 1 like - 295 songs - 18 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -302,5 +302,6 @@ pretty - [cumulative](/playlists/cumulative/1ffHU9Buy5UsCQRk2dwiQN.md) - [plain]
 | 292 | [Could It Be Magic](https://open.spotify.com/track/6FDrn47S3Q4s9rhLHm4um0) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Barry Manilow I](https://open.spotify.com/album/57vciHCWBA2JvPDdhZ5dHE) | 6:49 |
 | 293 | [Relight My Fire \- Single Version](https://open.spotify.com/track/6UW4Uo5zRI5gJw5urNwiwN) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Relight My Fire \(Expanded Edition\)](https://open.spotify.com/album/0zHX5CKQciDiMewajwcAf4) | 3:45 |
 | 294 | [Brother Louie](https://open.spotify.com/track/5zWZ9iNevP0397xB3jWV2z) | [Modern Talking](https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7) | [Ready For Romance](https://open.spotify.com/album/3g5K7IOTOSY6nIfu7lj562) | 3:42 |
+| 295 | [The Masochism Tango](https://open.spotify.com/track/71IXig0Us2yMMOPG7bdbF5) | [Tom Lehrer](https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO) | [Selling Out](https://open.spotify.com/album/0RS4g4IreV0rhUbFFkY43E) | 2:55 |
 
-Snapshot ID: `AAABKKf5EZrQLcxIcex45+ip3QrAJzuy`
+Snapshot ID: `AAABKciGy+2OeS2oAzItprxwaMv+ae4H`

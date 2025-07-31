@@ -4487,6 +4487,24 @@
     },
     {
       "album": {
+        "name": "Selling Out",
+        "url": "https://open.spotify.com/album/0RS4g4IreV0rhUbFFkY43E"
+      },
+      "artists": [
+        {
+          "name": "Tom Lehrer",
+          "url": "https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175213,
+      "name": "The Masochism Tango",
+      "url": "https://open.spotify.com/track/71IXig0Us2yMMOPG7bdbF5"
+    },
+    {
+      "album": {
         "name": "Colourbox",
         "url": "https://open.spotify.com/album/4lMp7JWVmd6QI3KLosFbc8"
       },
