@@ -4,10 +4,11 @@
 
 > 
 
-127 songs - 6 hr 58 min
+129 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [24 mila baci \- Remastered](https://open.spotify.com/track/1UDlD1z55fRXcJIDzJtMfk) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Collezione D'Oro \(Remastered\)](https://open.spotify.com/album/0CWYt6XEAFX2NqnbD0Mx8k) | 2:14 | 2025-07-31 |  |
 | [7 элемент](https://open.spotify.com/track/5iFhkFf9JLA3XiROdYsg1i) | [Vitas](https://open.spotify.com/artist/0UK6JkgUMa28b4t8eCtg6P) | [Философия чуда](https://open.spotify.com/album/7yPAnDgrwZgJz6sTgxViwt) | 4:10 | 2025-07-29 |  |
 | [Aimer à perdre la raison](https://open.spotify.com/track/5okI57GiUG0innS360o2bH) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Ferrat Chante Aragon: L'intégrale](https://open.spotify.com/album/1zRWFeLiYxPW48gefbBpV5) | 2:23 | 2023-12-09 |  |
 | [Aline](https://open.spotify.com/track/4pU5MiapjzzbqvXfKhcZT9) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Aline](https://open.spotify.com/album/1ZfOSvrmz8by3bdz0w6NBA) | 2:49 | 2023-12-09 |  |
@@ -45,6 +46,7 @@
 | [Fais comme l'oiseau](https://open.spotify.com/track/725PsGr5yXLJl8uENrVXPa) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais comme l'oiseau](https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP) | 3:06 | 2023-12-09 |  |
 | [Gabriela](https://open.spotify.com/track/0RvJfhqX0Ktl5H9wzhNjTJ) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Ben É Samba Bom \(1964\)](https://open.spotify.com/album/3p1lsEa1gZjIWwUDKA0AbT) | 2:52 | 2025-07-19 |  |
 | [Gwendolyne](https://open.spotify.com/track/7B4uAyj4X3qs8YXdV4wwhS) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Gwendolyne](https://open.spotify.com/album/33JwmtWxEH0Jh0IqK9OIMj) | 2:48 | 2025-04-03 |  |
+| [Hier encore](https://open.spotify.com/track/4ciRwt5dGHKKm8Et8r1xJ0) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Que c'est triste Venise \(Remastered 2014\)](https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK) | 2:23 | 2025-07-31 |  |
 | [Hoch](https://open.spotify.com/track/7gqefhSJfWyN1qQ2huvEze) | [Tim Bendzko](https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl) | [FILTER](https://open.spotify.com/album/3UZVvbtFNygVU4Pr7oTU5l) | 2:48 | 2022-12-28 |  |
 | [Il est cinq heures, Paris s'éveille](https://open.spotify.com/track/1Gw2viJ4XE9hylW4ujtNef) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:53 | 2023-12-09 |  |
 | [Il venait d'avoir 18 ans](https://open.spotify.com/track/4ci1FpTYDsWGEww9cHm9sN) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 2:59 | 2023-12-09 |  |

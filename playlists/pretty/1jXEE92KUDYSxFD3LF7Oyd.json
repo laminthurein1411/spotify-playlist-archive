@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAAR2QBvnGwYH3nLm6xH+EuMaQk2LV3",
+  "snapshot_id": "AAAASax5Hs2dIZyFLaJI65PlGl+E6bh9",
   "tracks": [
     {
       "added_at": "2022-05-07 13:03:51",
@@ -2079,6 +2079,38 @@
       "duration_ms": 250000,
       "name": "7 \u044d\u043b\u0435\u043c\u0435\u043d\u0442",
       "url": "https://open.spotify.com/track/5iFhkFf9JLA3XiROdYsg1i"
+    },
+    {
+      "added_at": "2025-07-31 02:21:50",
+      "album": {
+        "name": "Que c'est triste Venise (Remastered 2014)",
+        "url": "https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 143466,
+      "name": "Hier encore",
+      "url": "https://open.spotify.com/track/4ciRwt5dGHKKm8Et8r1xJ0"
+    },
+    {
+      "added_at": "2025-07-31 06:15:20",
+      "album": {
+        "name": "Collezione D'Oro (Remastered)",
+        "url": "https://open.spotify.com/album/0CWYt6XEAFX2NqnbD0Mx8k"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+        }
+      ],
+      "duration_ms": 134973,
+      "name": "24 mila baci - Remastered",
+      "url": "https://open.spotify.com/track/1UDlD1z55fRXcJIDzJtMfk"
     }
   ],
   "unique_name": "European \ud83c\udfe4",

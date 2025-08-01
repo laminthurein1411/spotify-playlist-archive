@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAABKciGy+2OeS2oAzItprxwaMv+ae4H",
+  "snapshot_id": "AAABKuYKUmXJ5i4Whx8qkbFENzzj2zsU",
   "tracks": [
     {
       "added_at": "2022-08-29 13:28:19",
@@ -4807,6 +4807,26 @@
       "duration_ms": 175213,
       "name": "The Masochism Tango",
       "url": "https://open.spotify.com/track/71IXig0Us2yMMOPG7bdbF5"
+    },
+    {
+      "added_at": "2025-07-31 02:23:41",
+      "album": {
+        "name": "Hooked On A Feeling",
+        "url": "https://open.spotify.com/album/6fBMaH0IiymemwFKmn18Ze"
+      },
+      "artists": [
+        {
+          "name": "Blue Swede",
+          "url": "https://open.spotify.com/artist/0UpuH5U4nZ3UGGUJi0Zfbp"
+        },
+        {
+          "name": "Bj\u00f6rn Skifs",
+          "url": "https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Hooked On A Feeling",
+      "url": "https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd"
     }
   ],
   "unique_name": "Oldie song",

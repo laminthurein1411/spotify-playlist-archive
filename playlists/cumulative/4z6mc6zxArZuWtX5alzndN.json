@@ -82,16 +82,12 @@
       },
       "artists": [
         {
-          "name": "Franz Grothe",
-          "url": "https://open.spotify.com/artist/1Cj7uHOWqLTMtWvSqkrNaG"
-        },
-        {
           "name": "Kirsten Heiberg",
           "url": "https://open.spotify.com/artist/7mIGzX7OFa7ZEPTtqEkZ3O"
         },
         {
-          "name": "Studio Orchestra",
-          "url": "https://open.spotify.com/artist/3uLEaCSipnNQy3KvmwpDrl"
+          "name": "Franz Grothe",
+          "url": "https://open.spotify.com/artist/1Cj7uHOWqLTMtWvSqkrNaG"
         }
       ],
       "date_added": "2023-12-09",
@@ -485,7 +481,7 @@
     },
     {
       "album": {
-        "name": "The Golden Era of the German Dance Orchestra: Paul Godwin & seine Jazz-Symphoniker, 1926 - 1933",
+        "name": "Die goldene \u00c4ra deutscher Tanzorchester: Paul Godwin & seine Jazz-Symphoniker (Recordings 1926-1933)",
         "url": "https://open.spotify.com/album/46VQ4xVopH8aPircwj1VXQ"
       },
       "artists": [
@@ -496,13 +492,17 @@
         {
           "name": "Paul Godwin Jazz-Symphoniker",
           "url": "https://open.spotify.com/artist/6jZQIOmDh8CAlNhxuBxtGA"
+        },
+        {
+          "name": "Paul Godwin",
+          "url": "https://open.spotify.com/artist/3D9vopEI140WVm9p2tgLig"
         }
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 200320,
-      "name": "Auf Wiedersehn, Herr Doktor! (Foxtrott)",
+      "name": "Auf Wiedersehn, Herr Doktor!",
       "url": "https://open.spotify.com/track/50hAMmMnbg7zRgiPTGod1F"
     },
     {
@@ -1532,10 +1532,6 @@
       },
       "artists": [
         {
-          "name": "Franz Grothe",
-          "url": "https://open.spotify.com/artist/1Cj7uHOWqLTMtWvSqkrNaG"
-        },
-        {
           "name": "Luigi Bernauer",
           "url": "https://open.spotify.com/artist/0fhVI9YsgXHmiEak64esUx"
         },
@@ -1619,10 +1615,6 @@
         "url": "https://open.spotify.com/album/3ljxaiDke97KVbO7vfcCUy"
       },
       "artists": [
-        {
-          "name": "Michael Jary",
-          "url": "https://open.spotify.com/artist/5zmB60R1aUNUM4Dj5MTDMf"
-        },
         {
           "name": "Luigi Bernauer",
           "url": "https://open.spotify.com/artist/0fhVI9YsgXHmiEak64esUx"
@@ -2506,10 +2498,6 @@
       },
       "artists": [
         {
-          "name": "Gerhard Mohr",
-          "url": "https://open.spotify.com/artist/6BxhdOKai7MSdVTyiczcZa"
-        },
-        {
           "name": "Eric Harden Dance Orchestra",
           "url": "https://open.spotify.com/artist/7pVUgzxXSQmQmp6Z1D1fQK"
         },
@@ -3148,16 +3136,8 @@
       },
       "artists": [
         {
-          "name": "Franz Grothe",
-          "url": "https://open.spotify.com/artist/1Cj7uHOWqLTMtWvSqkrNaG"
-        },
-        {
           "name": "Sven Olof Sandberg",
           "url": "https://open.spotify.com/artist/79My95YgT8fupTGAwkPKdO"
-        },
-        {
-          "name": "Studio Orchestra",
-          "url": "https://open.spotify.com/artist/3uLEaCSipnNQy3KvmwpDrl"
         },
         {
           "name": "Benny De Weille",
@@ -3835,10 +3815,6 @@
         "url": "https://open.spotify.com/album/5JZaDAjKRuqwmFQRYrCGxg"
       },
       "artists": [
-        {
-          "name": "Gerhard Mohr",
-          "url": "https://open.spotify.com/artist/6BxhdOKai7MSdVTyiczcZa"
-        },
         {
           "name": "Metropol-vokalisten",
           "url": "https://open.spotify.com/artist/4pN31R59Fx19ZAmGA9LJws"
@@ -4980,6 +4956,10 @@
         {
           "name": "Joe Bund Dance Orchestra",
           "url": "https://open.spotify.com/artist/5vc7PubOV1N6KMe4u9KjEw"
+        },
+        {
+          "name": "Joe Bund",
+          "url": "https://open.spotify.com/artist/3VWnfQmn3Dc3GcC2reP285"
         }
       ],
       "date_added": "2023-12-09",
@@ -5002,6 +4982,10 @@
         {
           "name": "Jazz-Harmonika Albert Vossen",
           "url": "https://open.spotify.com/artist/43S7STmzCq6fO5YjCosrMB"
+        },
+        {
+          "name": "Albert Vossen",
+          "url": "https://open.spotify.com/artist/5pm7WyX8hTWjDkBPiq9Ggy"
         }
       ],
       "date_added": "2023-12-09",
@@ -5562,6 +5546,10 @@
         {
           "name": "Joe Bund Dance Orchestra",
           "url": "https://open.spotify.com/artist/5vc7PubOV1N6KMe4u9KjEw"
+        },
+        {
+          "name": "Joe Bund",
+          "url": "https://open.spotify.com/artist/3VWnfQmn3Dc3GcC2reP285"
         }
       ],
       "date_added": "2023-12-09",
@@ -6386,10 +6374,6 @@
       },
       "artists": [
         {
-          "name": "Gerhard Mohr",
-          "url": "https://open.spotify.com/artist/6BxhdOKai7MSdVTyiczcZa"
-        },
-        {
           "name": "Herbert Ernst Groh",
           "url": "https://open.spotify.com/artist/3hiIEur8Mi78AweUgXajdf"
         },
@@ -6582,10 +6566,6 @@
       },
       "artists": [
         {
-          "name": "Gerhard Mohr",
-          "url": "https://open.spotify.com/artist/6BxhdOKai7MSdVTyiczcZa"
-        },
-        {
           "name": "Peter Igelhoff",
           "url": "https://open.spotify.com/artist/3sZlfzSi4mMqmJkCoVEDa5"
         },
@@ -6766,6 +6746,10 @@
         {
           "name": "Jazz-Harmonika Albert Vossen",
           "url": "https://open.spotify.com/artist/43S7STmzCq6fO5YjCosrMB"
+        },
+        {
+          "name": "Albert Vossen",
+          "url": "https://open.spotify.com/artist/5pm7WyX8hTWjDkBPiq9Ggy"
         }
       ],
       "date_added": "2023-12-09",
@@ -7196,6 +7180,10 @@
         {
           "name": "Jazz-Harmonika Albert Vossen",
           "url": "https://open.spotify.com/artist/43S7STmzCq6fO5YjCosrMB"
+        },
+        {
+          "name": "Albert Vossen",
+          "url": "https://open.spotify.com/artist/5pm7WyX8hTWjDkBPiq9Ggy"
         }
       ],
       "date_added": "2023-12-09",
@@ -7922,16 +7910,8 @@
       },
       "artists": [
         {
-          "name": "Franz Grothe",
-          "url": "https://open.spotify.com/artist/1Cj7uHOWqLTMtWvSqkrNaG"
-        },
-        {
           "name": "Helge Rosvaenge",
           "url": "https://open.spotify.com/artist/0oDcyjX5WyJOIzXRJPKDEq"
-        },
-        {
-          "name": "Studio Orchestra",
-          "url": "https://open.spotify.com/artist/3uLEaCSipnNQy3KvmwpDrl"
         },
         {
           "name": "Hans Schwieger",

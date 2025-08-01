@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,469 songs - 6 day 10 hr 19 min
+2,472 songs - 6 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [BLACK PARADE](https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BLACK PARADE](https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN) | 4:41 | 2025-07-10 |  |
 | [Blame Brett](https://open.spotify.com/track/6twjuBZfRJIZnoHrghzWLk) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:57 | 2024-12-01 |  |
 | [Blame Brett \(feat\. Royal & The Serpent\)](https://open.spotify.com/track/5qPmI0WgZ624bsXQ9iYOtD) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Blame Brett \(feat\. Royal & The Serpent\)](https://open.spotify.com/album/5WM5bjR2J83u3dryKTZTn3) | 2:57 | 2025-04-09 |  |
+| [Blank Space](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 | 2025-07-31 |  |
 | [Blank Space \(Taylor's Version\)](https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2024-12-11 |  |
 | [Blinded By The Light](https://open.spotify.com/track/7kNNylJ1kswWbHeRM6UDuE) | [Manfred Mann's Earth Band](https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q) | [The Roaring Silence](https://open.spotify.com/album/1qVP93dewrI7bukJAFPIvV) | 7:08 | 2025-04-10 |  |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2025-01-09 |  |
@@ -463,6 +464,7 @@
 | [Cryin'](https://open.spotify.com/track/05ZF8dfBVOdJqBizUepvVa) | [Celeigh Cardinal](https://open.spotify.com/artist/7HAq3UBI3pb8ok9k7dkdGR) | [Cryin'](https://open.spotify.com/album/4vaG6QTEIz7uvwD2ANP0YZ) | 4:45 | 2025-05-21 |  |
 | [Crying Laughing Loving Lying](https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying Laughing Loving Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 3:03 | 2025-01-22 |  |
 | [Cursed](https://open.spotify.com/track/4MlstlvEZVegz6fvYkCB61) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:20 | 2025-04-16 |  |
+| [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-31 |  |
 | [Dance In Your Car](https://open.spotify.com/track/53dncaY2CpfUzOAzMfp2zw) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [The Trill: A Journey So Far](https://open.spotify.com/album/0xXMwQ5HFQ7JTrXW6x0osm) | 3:52 | 2025-01-03 |  |
 | [Dance to the Music](https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:59 | 2025-06-28 |  |
 | [Dance With My Father](https://open.spotify.com/track/7snmvZMLdGGk3l9PcvoYSM) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:26 | 2025-05-24 |  |
@@ -1157,6 +1159,7 @@
 | [Keep Me Free](https://open.spotify.com/track/0Rng9afGARkdQVYii2MViG) | [Peter Dreams](https://open.spotify.com/artist/55zmcbCA9XmEOPDGfvkxmv) | [Keep Me Free](https://open.spotify.com/album/24lanOWGBoyBK7JT32mejS) | 3:38 | 2024-12-22 |  |
 | [Keep Me Free](https://open.spotify.com/track/0wsCiqlM5pXKQJoCt6AALH) | [Peter Dreams](https://open.spotify.com/artist/55zmcbCA9XmEOPDGfvkxmv) | [Peter Dreams and MOONRIIVR](https://open.spotify.com/album/1tnT7wbDkCf5M1bNGlZJx2) | 3:38 | 2025-07-17 |  |
 | [Keep Running](https://open.spotify.com/track/18208vwsd5r5nZCIErn9lz) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Keep Running](https://open.spotify.com/album/4tWFWP7kT1N5INCyEcwExT) | 3:13 | 2025-01-05 |  |
+| [Keep Running](https://open.spotify.com/track/2sKYZ1k5CEofSj2zOUOFCZ) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Hello, I'm Britti.](https://open.spotify.com/album/09WQABIo1U9D8H8SO7WK0a) | 3:13 | 2025-07-31 |  |
 | [Keep Your Head Up](https://open.spotify.com/track/5fpEDGQX0Ah3utGnFYulQZ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:24 | 2025-04-14 |  |
 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 | 2025-01-25 |  |
 | [Kids Come Back Again At Christmas](https://open.spotify.com/track/0QIPbJqeZzNXhj7L9ddehQ) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Kids Come Back Again At Christmas \- Single](https://open.spotify.com/album/6VhPNQlVsDc3GPZ9R1X3Ij) | 3:00 | 2024-12-23 |  |

@@ -557,7 +557,7 @@
     },
     {
       "album": {
-        "name": "Rachmaninov: All-night Vigil, \"Vespers\"",
+        "name": "Rachmaninoff: All-Night Vigil",
         "url": "https://open.spotify.com/album/288sdS0v20INn6IXSWDrqz"
       },
       "artists": [
@@ -566,8 +566,8 @@
           "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
         },
         {
-          "name": "Latvian Radio Choir",
-          "url": "https://open.spotify.com/artist/1FPk3Fo5EyBYOxEiT2V0jP"
+          "name": "Latvijas Radio koris",
+          "url": "https://open.spotify.com/artist/6AoN1KBbhQZPBqYXS7rIWI"
         },
         {
           "name": "Sigvards K\u013cava",
@@ -578,12 +578,12 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 369706,
-      "name": "All-night Vigil, Op. 37, \"Vespers\": Blessed is the man",
+      "name": "All-Night Vigil, Op. 37: No. 3, Blessed Is the Man",
       "url": "https://open.spotify.com/track/6VsZvdt3KKrz5FCgg31utk"
     },
     {
       "album": {
-        "name": "Rachmaninov: All-night Vigil, \"Vespers\"",
+        "name": "Rachmaninoff: All-Night Vigil",
         "url": "https://open.spotify.com/album/288sdS0v20INn6IXSWDrqz"
       },
       "artists": [
@@ -592,8 +592,8 @@
           "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
         },
         {
-          "name": "Latvian Radio Choir",
-          "url": "https://open.spotify.com/artist/1FPk3Fo5EyBYOxEiT2V0jP"
+          "name": "Latvijas Radio koris",
+          "url": "https://open.spotify.com/artist/6AoN1KBbhQZPBqYXS7rIWI"
         },
         {
           "name": "Sigvards K\u013cava",
@@ -604,7 +604,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186573,
-      "name": "All-night Vigil, Op. 37, \"Vespers\": Hail, O Virgin Mother (Ave Maria)",
+      "name": "All-Night Vigil, Op. 37: No. 6, Rejoice, O Virgin Mother",
       "url": "https://open.spotify.com/track/0XLrsJLDA9o24HAQ5Dr9hh"
     },
     {
@@ -1748,16 +1748,16 @@
       },
       "artists": [
         {
-          "name": "Mack Wilberg",
-          "url": "https://open.spotify.com/artist/2Zpql3RdMQjunbDKk1bIiz"
-        },
-        {
           "name": "Traditional",
           "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
         },
         {
           "name": "BYU Men's Chorus",
           "url": "https://open.spotify.com/artist/52QyVRbjUEr2G9cY2kv0OS"
+        },
+        {
+          "name": "Mack Wilberg",
+          "url": "https://open.spotify.com/artist/2Zpql3RdMQjunbDKk1bIiz"
         }
       ],
       "date_added": "2023-12-01",
@@ -2876,12 +2876,12 @@
       },
       "artists": [
         {
-          "name": "John Alexander",
-          "url": "https://open.spotify.com/artist/0c1HO40XuExWwY1BAUz6S3"
-        },
-        {
           "name": "Pacific Chorale",
           "url": "https://open.spotify.com/artist/1dPPkiP4fFCPHEvgQjXmmW"
+        },
+        {
+          "name": "John Alexander",
+          "url": "https://open.spotify.com/artist/0c1HO40XuExWwY1BAUz6S3"
         }
       ],
       "date_added": "2023-12-01",
@@ -4364,7 +4364,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 113440,
-      "name": "Holy is the True Light",
+      "name": "Holy Is the True Light",
       "url": "https://open.spotify.com/track/4Nt4bxfgbxBDrYP7LAtW7E"
     },
     {
@@ -4754,10 +4754,6 @@
       },
       "artists": [
         {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
           "name": "Traditional",
           "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
         },
@@ -4774,7 +4770,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189577,
-      "name": "I Wonder as I Wander (arr. J. Rutter)",
+      "name": "I Wonder as I Wander (Arr. J. Rutter)",
       "url": "https://open.spotify.com/track/1UcyVoNlRekzHftPH5EXe1"
     },
     {
@@ -10714,18 +10710,6 @@
           "url": "https://open.spotify.com/artist/7JGm87dimVhNloFjoaXtfc"
         },
         {
-          "name": "Jacqueline Kerrod",
-          "url": "https://open.spotify.com/artist/13t5xKPQfWsfDVidplbpJ9"
-        },
-        {
-          "name": "Christopher Williams",
-          "url": "https://open.spotify.com/artist/3nSTpkXILmt81zYj6AsWdM"
-        },
-        {
-          "name": "Daniel Thomas Davis",
-          "url": "https://open.spotify.com/artist/6TVWO0jwemmzVqyWaSkg3K"
-        },
-        {
           "name": "Jacqueline Horner-Kwiatek",
           "url": "https://open.spotify.com/artist/3TBLQvxsUbXSlCySDAPnFg"
         },
@@ -10748,6 +10732,18 @@
         {
           "name": "Elizabeth Weinfield",
           "url": "https://open.spotify.com/artist/1Zol6tZuMVP1KmpqFDjTN0"
+        },
+        {
+          "name": "Jacqueline Kerrod",
+          "url": "https://open.spotify.com/artist/13t5xKPQfWsfDVidplbpJ9"
+        },
+        {
+          "name": "Christopher Williams",
+          "url": "https://open.spotify.com/artist/3nSTpkXILmt81zYj6AsWdM"
+        },
+        {
+          "name": "Daniel Thomas Davis",
+          "url": "https://open.spotify.com/artist/6TVWO0jwemmzVqyWaSkg3K"
         }
       ],
       "date_added": "2023-12-01",
@@ -13374,12 +13370,12 @@
       },
       "artists": [
         {
-          "name": "John Alexander",
-          "url": "https://open.spotify.com/artist/0c1HO40XuExWwY1BAUz6S3"
-        },
-        {
           "name": "Pacific Chorale",
           "url": "https://open.spotify.com/artist/1dPPkiP4fFCPHEvgQjXmmW"
+        },
+        {
+          "name": "John Alexander",
+          "url": "https://open.spotify.com/artist/0c1HO40XuExWwY1BAUz6S3"
         }
       ],
       "date_added": "2023-12-01",
