@@ -3,8 +3,8 @@
   "num_followers": 0,
   "original_name": "Choral and Chant",
   "owner": {
-    "name": "Kyaw Swar",
-    "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
   "snapshot_id": "AAAAFPPXFrNLtAIwtBUXWZcIFKaAd1rI",
   "tracks": [
@@ -193,7 +193,7 @@
         }
       ],
       "duration_ms": 190302,
-      "name": "Nearer, My God, to Thee (Arr. J.L. Stevens): Nearer, My God, to Thee (Arr. J.L. Stevens)",
+      "name": "Nearer, My God, to Thee (Arr. J.L. Stevens)",
       "url": "https://open.spotify.com/track/670KQpQBh0sXyoKWnPAuNb"
     },
     {
@@ -6584,8 +6584,8 @@
           "url": "https://open.spotify.com/artist/2jCMYMc6XOSoJo1MTQS8qA"
         },
         {
-          "name": "Latvian Radio Choir",
-          "url": "https://open.spotify.com/artist/1FPk3Fo5EyBYOxEiT2V0jP"
+          "name": "Latvijas Radio koris",
+          "url": "https://open.spotify.com/artist/6AoN1KBbhQZPBqYXS7rIWI"
         },
         {
           "name": "Sigvards K\u013cava",
@@ -6593,7 +6593,7 @@
         }
       ],
       "duration_ms": 199426,
-      "name": "3 Khora (3 Choruses): No. 2. Lyubov Svyataya (Sacred love)",
+      "name": "3 Khora: No. 2, Lyubov Svyataya (3 Choruses: Sacred Love)",
       "url": "https://open.spotify.com/track/6h54nyPJdQd4XdMzXFtPDO"
     },
     {
@@ -7951,7 +7951,7 @@
     {
       "added_at": "2023-12-01 05:09:25",
       "album": {
-        "name": "2014 Texas Music Educators Association (TMEA): Texas Two Year College Choral Directors Association All-State Choir",
+        "name": "2014 Texas Music Educators Association (TMEA): Texas Two Year College Choral Directors Association All-State Choir [Live]",
         "url": "https://open.spotify.com/album/2M6OtSPusn28E5UMhjG6KR"
       },
       "artists": [
@@ -7973,7 +7973,7 @@
         }
       ],
       "duration_ms": 543341,
-      "name": "Lead, Kindly Light",
+      "name": "Lead, Kindly Light (Live)",
       "url": "https://open.spotify.com/track/3QDfzx40dDTYvneFGWAjOI"
     },
     {
@@ -8196,12 +8196,12 @@
           "url": "https://open.spotify.com/artist/15lRUiqnNSQsU2oIawSYrr"
         },
         {
-          "name": "Corey Everly",
-          "url": "https://open.spotify.com/artist/4PDMjphBoGN5r3opiaXS5M"
-        },
-        {
           "name": "James Jordan",
           "url": "https://open.spotify.com/artist/61UExWH2clZAUQFKTL6i26"
+        },
+        {
+          "name": "Corey Everly",
+          "url": "https://open.spotify.com/artist/4PDMjphBoGN5r3opiaXS5M"
         }
       ],
       "duration_ms": 312186,
