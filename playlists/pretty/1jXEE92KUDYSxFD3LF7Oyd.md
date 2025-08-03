@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 100 songs - 5 hr 31 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 129 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,34 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 98 | [Amoureux de ma femme](https://open.spotify.com/track/3lzHuQKxPntttBRs71cqkX) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Amoureux de ma femme](https://open.spotify.com/album/5Mf7FOBJFbHJMDeKWQiJIi) | 2:38 |
 | 99 | [Jolie môme](https://open.spotify.com/track/0cJSWKB0XV6B4zSFzTtS6b) | [Léo Ferré](https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo) | [Leo Chante Ferre](https://open.spotify.com/album/0staVF20KfnK1HCYJLNSsf) | 2:39 |
 | 100 | [Coucher de soleil](https://open.spotify.com/track/0yyPnKHkjfXCqHbFCHq9Gj) | [Yves Duteil](https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl) | [Ça n'est pas c'qu'on fait qui compte](https://open.spotify.com/album/0bkr0gIOZT9y6OMewfL1Ue) | 1:17 |
+| 101 | [Zou bisou bisou](https://open.spotify.com/track/4qqf1avpzRUnVowNQd1jFw) | [Gillian Hills](https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL) | [Twistin’ The Rock, Vol\. 9](https://open.spotify.com/album/0MSicRahv1o4WgJ6pXjUkg) | 2:15 |
+| 102 | [Quand on n'a que l'amour \- Arrangements différents](https://open.spotify.com/track/607sF1ISzfKaWa29eF3I14) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [15 Ans D'Amour](https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG) | 2:33 |
+| 103 | [Mortel](https://open.spotify.com/track/52BJXx9gsB7bC1gEWXy8lr) | [Rouquine](https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ) | [Masculine](https://open.spotify.com/album/5An9RJ5X95wK8egiqkSV7O) | 3:42 |
+| 104 | [Populaire](https://open.spotify.com/track/6WEZfTQrfoFG0EXRNqOJCP) | [Rouquine](https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ) | [Mammifère](https://open.spotify.com/album/1yLxHtZ5T4V4Ku0P46alhD) | 3:21 |
+| 105 | [L'amour à la main](https://open.spotify.com/track/7wOsUMQ85sFREtcnMYjsYu) | [Rouquine](https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ) | [Mammifère](https://open.spotify.com/album/1yLxHtZ5T4V4Ku0P46alhD) | 2:43 |
+| 106 | [Mon amour](https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Mon amour](https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn) | 3:00 |
+| 107 | [Mi sono innamorato di te](https://open.spotify.com/track/5ZO497MmiaF5Q1arqAT5Wg) | [Luigi Tenco](https://open.spotify.com/artist/4F9VFl80sWpvTfXwLJZbhK) | [Lontano, lontano nel tempo](https://open.spotify.com/album/44vAlFlydCLj7aDbMObDYE) | 2:49 |
+| 108 | [Ti Amo](https://open.spotify.com/track/6GKuVYC3oC8xjnNmDZyPF0) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Ti amo](https://open.spotify.com/album/0wX6lGqIoR0pE1vwJUVR29) | 4:05 |
+| 109 | [Un homme](https://open.spotify.com/track/7fu7J4k1mdnmpfVXFuEShk) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Meilleure vie](https://open.spotify.com/album/2KAitQgR9RBW0Ew8f3Kzre) | 2:37 |
+| 110 | [La chansonnette](https://open.spotify.com/track/4oDzpv149NfGCDBUvq9st8) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Rengaine Ta Rengaine](https://open.spotify.com/album/4RoMDOB9JNTPj9sPsy13Th) | 2:45 |
+| 111 | [Roi](https://open.spotify.com/track/7LPGJhkRDEW6KopWhD8DbX) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF) | [Euphories](https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV) | 3:42 |
+| 112 | [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 |
+| 113 | [RÓA](https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg) | [RÓA](https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2) | 2:42 |
+| 114 | [Gwendolyne](https://open.spotify.com/track/7B4uAyj4X3qs8YXdV4wwhS) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Gwendolyne](https://open.spotify.com/album/33JwmtWxEH0Jh0IqK9OIMj) | 2:48 |
+| 115 | [Les Champs\-Elysées](https://open.spotify.com/track/4dPITmujWbI8ibU1QVidCE) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c), [John Schroeder](https://open.spotify.com/artist/2jw2YfYzjGvjDW7IxnLw5c) | [En Français](https://open.spotify.com/album/6C9NWuw1M1aFd633eMyNXd) | 3:04 |
+| 116 | [Le Festin](https://open.spotify.com/track/12hNVeWLSUXzOySe86H2KI) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX), [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille Original Soundtrack \(International Version\)](https://open.spotify.com/album/39xxmPYtF4hIZOWMJDQX4R) | 2:50 |
+| 117 | [Écoute Chérie](https://open.spotify.com/track/1zyUz3eZ3sytdaR9lfW17q) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:44 |
+| 118 | [Est\-ce que tu m'aimes ? \- Pilule bleue](https://open.spotify.com/track/3a9TMd2Yrza6HXqqlfMtfy) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:57 |
+| 119 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
+| 120 | [ALL IN \(Lieblingslieder\)](https://open.spotify.com/track/3VIEbpdr64a1mNSa8MqBAm) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [ALL IN \(Lieblingslieder\)](https://open.spotify.com/album/3l4OJNnPVJGK8Dg9dvkRFZ) | 2:43 |
+| 121 | [Deslocado](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Deslocado](https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R) | 2:59 |
+| 122 | [Gabriela](https://open.spotify.com/track/0RvJfhqX0Ktl5H9wzhNjTJ) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Ben É Samba Bom \(1964\)](https://open.spotify.com/album/3p1lsEa1gZjIWwUDKA0AbT) | 2:52 |
+| 123 | [И я](https://open.spotify.com/track/3eYySzaaWFz0E91CtqllEv) | [ANAZED](https://open.spotify.com/artist/3Uk305Q7Tf5kEm1HUtQy5Q) | [И я](https://open.spotify.com/album/2YdxcYRXKE5oWjWOykfr4q) | 2:21 |
+| 124 | [Спящая красавица](https://open.spotify.com/track/64Uiv4X755MZm6N597IT0M) | [polnalyubvi](https://open.spotify.com/artist/3cmfyZ8hRHaN2CO9Qo4j35) | [Сказки лесной нимфы](https://open.spotify.com/album/3LFGKPdcr1UsYAY1ln1VPh) | 2:16 |
+| 125 | [Nur wegen dir](https://open.spotify.com/track/19VrCmegsh8IqFfvpht5yw) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Schlagschatten](https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI) | 3:01 |
+| 126 | [В последний раз](https://open.spotify.com/track/3AQaEqdtm7DVQlBZBw6ZQh) | [Ансамбль Весёлые ребята](https://open.spotify.com/artist/7x91sJkli6lEJbMEdHnYf8) | [Музыкальный Глобус](https://open.spotify.com/album/0ggc96WgrOAIWsvQbRG8zl) | 3:10 |
+| 127 | [7 элемент](https://open.spotify.com/track/5iFhkFf9JLA3XiROdYsg1i) | [Vitas](https://open.spotify.com/artist/0UK6JkgUMa28b4t8eCtg6P) | [Философия чуда](https://open.spotify.com/album/7yPAnDgrwZgJz6sTgxViwt) | 4:10 |
+| 128 | [Hier encore](https://open.spotify.com/track/4ciRwt5dGHKKm8Et8r1xJ0) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Que c'est triste Venise \(Remastered 2014\)](https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK) | 2:23 |
+| 129 | [24 mila baci \- Remastered](https://open.spotify.com/track/1UDlD1z55fRXcJIDzJtMfk) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Collezione D'Oro \(Remastered\)](https://open.spotify.com/album/0CWYt6XEAFX2NqnbD0Mx8k) | 2:14 |
 
 Snapshot ID: `AAAASax5Hs2dIZyFLaJI65PlGl+E6bh9`

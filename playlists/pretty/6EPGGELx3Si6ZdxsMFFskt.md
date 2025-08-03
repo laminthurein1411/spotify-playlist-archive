@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6EPGGELx3Si6ZdxsMFFskt.md) - [plain]
 
 > 
 
-[](https://open.spotify.com/user/null) - 0 likes - 74 songs - 5 hr 15 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 74 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
