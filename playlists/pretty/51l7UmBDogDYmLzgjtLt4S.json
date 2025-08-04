@@ -724,12 +724,12 @@
           "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
         },
         {
-          "name": "Orchestre Lamoureux",
-          "url": "https://open.spotify.com/artist/0Kt5snrp3j13r4wV8lorZ3"
-        },
-        {
           "name": "Igor Markevitch",
           "url": "https://open.spotify.com/artist/56m7L0fmmJXctpLrG0GEFc"
+        },
+        {
+          "name": "Orchestre Lamoureux",
+          "url": "https://open.spotify.com/artist/0Kt5snrp3j13r4wV8lorZ3"
         }
       ],
       "duration_ms": 490680,

@@ -4,7 +4,7 @@
 
 > 
 
-386 songs - 1 day 1 hr 12 min
+388 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [I Lost a Friend](https://open.spotify.com/track/49MMefftWPcltNP4OOJGSs) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [I Lost a Friend](https://open.spotify.com/album/1bByr1MYr1salM8ZJJb7Sd) | 3:57 | 2022-02-02 |  |
 | [I Lost Myself](https://open.spotify.com/track/2d41Jt4R1j5BhvtC9UsmGf) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [I Lost Myself](https://open.spotify.com/album/6gtVd5iKISpDs2LhREGBoc) | 3:11 | 2022-03-20 |  |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 | 2022-02-14 |  |
+| [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2025-08-03 |  |
 | [i think i wanna text u](https://open.spotify.com/track/4hH46xhExjwEGfuWFgnOc3) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [vaultboy EP](https://open.spotify.com/album/0SiHxjCWqC4ODGKirRUk9L) | 3:16 | 2022-02-02 |  |
 | [i tried](https://open.spotify.com/track/37EQsOkuUxhqV1yJcPC1TY) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [i tried](https://open.spotify.com/album/5fvv0vjvISZwMuHE49g89U) | 2:40 | 2022-04-21 |  |
 | [I Wish It Was Me \- Stripped](https://open.spotify.com/track/1X9XRjQ6lkHZAouznupAem) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [Stripped \- EP](https://open.spotify.com/album/2wfKDcaHuhTELfNixGPSxm) | 3:33 | 2022-02-21 |  |
@@ -345,6 +346,7 @@
 | [The Lost And Found](https://open.spotify.com/track/5j4AQAkpslJ8D4sqyredP5) | [Gary Clark](https://open.spotify.com/artist/3EGfGUVmEPyyUEF8szBVwE), [John Carney](https://open.spotify.com/artist/7g5vwvz7YbwdcgaYjZU9lH) | [Modern Love: Season 1 \(Music From The Amazon Original Series\)](https://open.spotify.com/album/0pmmdB2cBGwrExnk7vKhY0) | 4:47 | 2022-02-06 |  |
 | [The Memorious](https://open.spotify.com/track/2YYby5OJMGVggh5LZmb2M4) | [Swans](https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA) | [The Beggar](https://open.spotify.com/album/5e925G5F00QzYCyg3AAMeS) | 8:38 | 2025-04-14 |  |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2022-11-23 |  |
+| [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 | 2025-08-03 |  |
 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 | 2022-02-02 |  |
 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 | 2022-02-08 |  |
 | [The Sound of Silence \- Acoustic Version](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 3:05 | 2023-03-15 |  |

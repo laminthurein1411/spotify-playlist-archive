@@ -277,6 +277,24 @@
     },
     {
       "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227250,
+      "name": "16 CARRIAGES",
+      "url": "https://open.spotify.com/track/6XXxKsu3RJeN3ZvbMYrgQW"
+    },
+    {
+      "album": {
         "name": "mySOUL",
         "url": "https://open.spotify.com/album/0qXCohVBpF3muXSZc9sDyJ"
       },
@@ -16382,7 +16400,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 192409,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/5kaXHT3isS4yktjhZlczTl"
@@ -19336,7 +19354,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 243160,
       "name": "I'm Like A Bird",
       "url": "https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi"
@@ -28653,6 +28671,24 @@
     },
     {
       "album": {
+        "name": "Lucius",
+        "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278920,
+      "name": "Old Tape",
+      "url": "https://open.spotify.com/track/3eczqzv8ScyR9VjHjD3kjl"
+    },
+    {
+      "album": {
         "name": "Gold Rush",
         "url": "https://open.spotify.com/album/5PCVQKjEnyxqaWi9M45Gz9"
       },
@@ -35699,6 +35735,24 @@
     },
     {
       "album": {
+        "name": "nipiy",
+        "url": "https://open.spotify.com/album/3Jco6in23tJMrvZFLtLqyT"
+      },
+      "artists": [
+        {
+          "name": "n\u00eahiyawak",
+          "url": "https://open.spotify.com/artist/1ABpOPFTkd957JpeQUN3U4"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196760,
+      "name": "somnambulist",
+      "url": "https://open.spotify.com/track/4qZKt7X9tbe90PqSQQLTmb"
+    },
+    {
+      "album": {
         "name": "Dusty In Memphis",
         "url": "https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2"
       },
@@ -36361,6 +36415,24 @@
     },
     {
       "album": {
+        "name": "You Can't Stop The Bum Rush",
+        "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
+      },
+      "artists": [
+        {
+          "name": "LEN",
+          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265533,
+      "name": "Steal My Sunshine",
+      "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
+    },
+    {
+      "album": {
         "name": "Recover",
         "url": "https://open.spotify.com/album/5lrEK5teqluvpVefLxHbf7"
       },
@@ -36538,7 +36610,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 148533,
       "name": "stick of gum",
       "url": "https://open.spotify.com/track/5Av99i2cutN34Nyyd7Ux8U"
@@ -38346,6 +38418,24 @@
       "duration_ms": 341626,
       "name": "Tangled up in Blue",
       "url": "https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu"
+    },
+    {
+      "album": {
+        "name": "Personne",
+        "url": "https://open.spotify.com/album/16Yty0Qb0Zl1jOm71wdFxu"
+      },
+      "artists": [
+        {
+          "name": "tha\u00efs",
+          "url": "https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210746,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/1SQe4tfMX6j49s8WhnyPRX"
     },
     {
       "album": {
