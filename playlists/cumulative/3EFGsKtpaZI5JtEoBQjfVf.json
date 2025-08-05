@@ -131,6 +131,28 @@
     },
     {
       "album": {
+        "name": "black british music (2025)",
+        "url": "https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "3x",
+      "url": "https://open.spotify.com/track/3cfQ8cCFhqekaqSsuhKXAj"
+    },
+    {
+      "album": {
         "name": "4303",
         "url": "https://open.spotify.com/album/7DOC2DDC7HLk9Bh9semWdW"
       },
@@ -1263,6 +1285,24 @@
     },
     {
       "album": {
+        "name": "Better Believe It",
+        "url": "https://open.spotify.com/album/11yd4Tq10XnALX5PNyMnVh"
+      },
+      "artists": [
+        {
+          "name": "Carla Geneve",
+          "url": "https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142892,
+      "name": "Better Believe It",
+      "url": "https://open.spotify.com/track/1HVKhb3gOi1QB60iRQ0oYH"
+    },
+    {
+      "album": {
         "name": "Big Blue House",
         "url": "https://open.spotify.com/album/5LcW4MSTa1i7LEtO2gUCEQ"
       },
@@ -2139,6 +2179,28 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3YXq7tReAnoD0qcw01kIZr"
+      },
+      "artists": [
+        {
+          "name": "Lex Leary",
+          "url": "https://open.spotify.com/artist/5UeTExBbZXlzxbTtLXVoGj"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151132,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7lakQp8GQETKdIvUvniBzL"
+    },
+    {
+      "album": {
         "name": "Clothes Off",
         "url": "https://open.spotify.com/album/5aN07Khrurpekp7Ur0Akma"
       },
@@ -2612,6 +2674,32 @@
       "duration_ms": 167347,
       "name": "dark place",
       "url": "https://open.spotify.com/track/3RrPdmhquZWhdHaU9Ijcql"
+    },
+    {
+      "album": {
+        "name": "Darlin' (feat. Sean Paul & Brodie)",
+        "url": "https://open.spotify.com/album/5wofMSWoc56Ed4urOvi6IT"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Brodie",
+          "url": "https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154532,
+      "name": "Darlin' (feat. Sean Paul & Brodie)",
+      "url": "https://open.spotify.com/track/481HO06BUHTaujWTpOyhKA"
     },
     {
       "album": {
@@ -4323,6 +4411,28 @@
     },
     {
       "album": {
+        "name": "gossip",
+        "url": "https://open.spotify.com/album/4pJ8Wb8NLmDvFnAhjgRBtA"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199690,
+      "name": "gossip",
+      "url": "https://open.spotify.com/track/2XSYE9iLNTZDCRG7FgOuBM"
+    },
+    {
+      "album": {
         "name": "Greatest Hit",
         "url": "https://open.spotify.com/album/0L2O3JD8zvDNChgDCp6qpJ"
       },
@@ -5201,6 +5311,24 @@
     },
     {
       "album": {
+        "name": "I'm Not Sorry",
+        "url": "https://open.spotify.com/album/3079nT3EARPRRCFIqfGANZ"
+      },
+      "artists": [
+        {
+          "name": "Evie Irie",
+          "url": "https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168906,
+      "name": "I'm Not Sorry",
+      "url": "https://open.spotify.com/track/1oKAhXZsG5BaeTYiLfRGc3"
+    },
+    {
+      "album": {
         "name": "I'm Ready",
         "url": "https://open.spotify.com/album/3FhlITBoUSseIJRaEJkHUn"
       },
@@ -5987,6 +6115,24 @@
     },
     {
       "album": {
+        "name": "LAST MAN STANDING",
+        "url": "https://open.spotify.com/album/2ZdaLdroDh69cI4FqsRo19"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203755,
+      "name": "LAST MAN STANDING",
+      "url": "https://open.spotify.com/track/1EWQItYxD9C6dicju78MWC"
+    },
+    {
+      "album": {
         "name": "LAST NIGHT",
         "url": "https://open.spotify.com/album/5vMvW1eoR9W9FpZ857sJIL"
       },
@@ -6404,6 +6550,24 @@
       "duration_ms": 259700,
       "name": "Lose Yourself Again",
       "url": "https://open.spotify.com/track/3OVP3FARH2ruqcTeSXFESk"
+    },
+    {
+      "album": {
+        "name": "The Art of Uncommon Practice",
+        "url": "https://open.spotify.com/album/0bwVKmuHz8SJcrYLUO4PQ9"
+      },
+      "artists": [
+        {
+          "name": "The Dreggs",
+          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246392,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/3d8cGc2g76ZGSZBSpTqQDN"
     },
     {
       "album": {
@@ -6966,6 +7130,24 @@
       "duration_ms": 174693,
       "name": "Moi",
       "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
+    },
+    {
+      "album": {
+        "name": "MONDAY",
+        "url": "https://open.spotify.com/album/4ynZBEDB0SRtuPt7qbX6wB"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243664,
+      "name": "MONDAY",
+      "url": "https://open.spotify.com/track/13VNbW9gblZQVVM2a7ZQf5"
     },
     {
       "album": {
@@ -8959,6 +9141,24 @@
     },
     {
       "album": {
+        "name": "Fall From The Light",
+        "url": "https://open.spotify.com/album/1djGELF1UPU0WaaG8ChI7m"
+      },
+      "artists": [
+        {
+          "name": "Hilltop Hoods",
+          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233730,
+      "name": "Something Bigger Than This",
+      "url": "https://open.spotify.com/track/3wakWNFC7RfNmM0lRWb5DZ"
+    },
+    {
+      "album": {
         "name": "Sorry I'm Late, I Didn't Want To Come",
         "url": "https://open.spotify.com/album/0L0HjrYb1wTsyzwwe1qgy2"
       },
@@ -9969,6 +10169,24 @@
     },
     {
       "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
+    {
+      "album": {
         "name": "The Way I Love You",
         "url": "https://open.spotify.com/album/5LM2wQNoA6LlS5aTR4PKJj"
       },
@@ -10171,6 +10389,24 @@
     },
     {
       "album": {
+        "name": "Tonight's Entertainment",
+        "url": "https://open.spotify.com/album/6zVQzXbS80z2vfRC5Q9GQr"
+      },
+      "artists": [
+        {
+          "name": "The Rions",
+          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190546,
+      "name": "Tonight's Entertainment",
+      "url": "https://open.spotify.com/track/5kvqx6p387CAYhVigt5OdR"
+    },
+    {
+      "album": {
         "name": "TONKZ",
         "url": "https://open.spotify.com/album/2sznAjcZ78AxMNBH0gtYkl"
       },
@@ -10230,6 +10466,24 @@
       "duration_ms": 192866,
       "name": "Tough Luck",
       "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
+    },
+    {
+      "album": {
+        "name": "Toyota Camry",
+        "url": "https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190728,
+      "name": "Toyota Camry",
+      "url": "https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa"
     },
     {
       "album": {

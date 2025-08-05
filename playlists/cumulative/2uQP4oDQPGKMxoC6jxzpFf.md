@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,494 songs - 6 day 11 hr 55 min
+2,497 songs - 6 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [Common People \- Full Length Version](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 | 2024-12-30 |  |
 | [Common Touch](https://open.spotify.com/track/1K7nNOI5TNRQOiqpVOdrBo) | [Wardrobe](https://open.spotify.com/artist/7l4xhRQHi7oJKgqHiI3tCg) | [Common Touch](https://open.spotify.com/album/2ADUvQtpzjyq0JFLGxvzJF) | 3:07 | 2025-07-27 |  |
 | [Compete With Loneliness](https://open.spotify.com/track/00B8SF4WVhp5hQ1GexcDRI) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Compete With Loneliness](https://open.spotify.com/album/0xeNRioyq54f5QIjQ5VWZA) | 2:03 | 2025-04-19 |  |
+| [Complicated](https://open.spotify.com/track/226PUvIuxGdceSijXXZRRz) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Complicated](https://open.spotify.com/album/7FqJvfHEUv3vbv9FZhpsgW) | 3:09 | 2025-08-04 |  |
 | [Complicated \(feat\. Annie DiRusso\)](https://open.spotify.com/track/3RwGfoDPQwwXrUnSBHTiT8) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I), [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Complicated \(feat\. Annie DiRusso\)](https://open.spotify.com/album/5j5dgRfP8beP4LcGtlEo8s) | 4:24 | 2025-03-20 |  |
 | [Compromise](https://open.spotify.com/track/06X4YnufV8PcAMJm1VdaGn) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [The Old Prince](https://open.spotify.com/album/4dPlglX9hWIUld9UcP7R3M) | 3:15 | 2025-04-20 |  |
 | [Conceited](https://open.spotify.com/track/5ZdqVCiXrvMGpY8cux5g8t) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 3:59 | 2024-12-09 |  |
@@ -681,6 +682,7 @@
 | [Flowers \(feat\. MAVI\)](https://open.spotify.com/track/3CpSbGWLULW06a2bGScKfl) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [PANIC](https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ) | 3:02 | 2024-12-01 |  |
 | [Fly Like an Eagle](https://open.spotify.com/track/4Nwm4lvNRxXkGR6aMmtdKm) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Hits](https://open.spotify.com/album/1EbspINwTMQK6wh9zS5Uv1) | 4:14 | 2025-03-01 |  |
 | [Foolish](https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 3:47 | 2025-01-07 |  |
+| [Fools Gold \(Alternate Version\)](https://open.spotify.com/track/79xXJeDYYSylxbvUQbZ5xW) | [Jules](https://open.spotify.com/artist/41pF6U6NhiJZJci8kuWLNw) | [People Watching](https://open.spotify.com/album/1dHTcYZJ2TbZDbHSVAZumy) | 3:18 | 2025-08-04 |  |
 | [Fools Gold \- Remastered 2009](https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 9:54 | 2025-04-19 |  |
 | [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 | 2025-05-16 |  |
 | [Footloose \- From "Footloose" Soundtrack](https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Footloose \(15th Anniversary Collectors' Edition\)](https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC) | 3:46 | 2025-07-30 |  |
@@ -2443,6 +2445,7 @@
 | [Word Crimes](https://open.spotify.com/track/4JqQWAr47pGEoaMArpA7Z3) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Mandatory Fun](https://open.spotify.com/album/36jlZKG1sNZQA2HbWdYveV) | 3:43 | 2025-07-26 |  |
 | [Work](https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 3:44 | 2025-01-13 |  |
 | [Work It](https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 4:23 | 2025-08-02 |  |
+| [Work Out Fine](https://open.spotify.com/track/5cw3pQeMoEyHDLoHU2HtyK) | [Joel Plaskett Emergency](https://open.spotify.com/artist/64WWINLIAzJ2CgzZWkywB3), [Joel Plaskett](https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC) | [Truthfully Truthfully](https://open.spotify.com/album/2jb5honmODYA7CyAz9P4pv) | 3:36 | 2025-08-04 |  |
 | [Work Song](https://open.spotify.com/track/3iHKxpf4KDJHXAOKwMwpTF) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Work Song](https://open.spotify.com/album/7cyTW83kF7LJJHDdCkQSwO) | 2:19 | 2025-04-08 |  |
 | [Worthy](https://open.spotify.com/track/1krA127HmUwvlJXTqNiozw) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Nuela Charles](https://open.spotify.com/album/2dOsYwZCIRAk7DVGrsjceZ) | 3:05 | 2025-04-11 |  |
 | [Wouldn't It Be Nice](https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:33 | 2025-07-04 |  |

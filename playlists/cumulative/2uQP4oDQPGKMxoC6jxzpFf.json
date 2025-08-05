@@ -7909,6 +7909,24 @@
     },
     {
       "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/7FqJvfHEUv3vbv9FZhpsgW"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/226PUvIuxGdceSijXXZRRz"
+    },
+    {
+      "album": {
         "name": "Complicated (feat. Annie DiRusso)",
         "url": "https://open.spotify.com/album/5j5dgRfP8beP4LcGtlEo8s"
       },
@@ -12532,6 +12550,24 @@
       "duration_ms": 227386,
       "name": "Foolish",
       "url": "https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN"
+    },
+    {
+      "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/1dHTcYZJ2TbZDbHSVAZumy"
+      },
+      "artists": [
+        {
+          "name": "Jules",
+          "url": "https://open.spotify.com/artist/41pF6U6NhiJZJci8kuWLNw"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198919,
+      "name": "Fools Gold (Alternate Version)",
+      "url": "https://open.spotify.com/track/79xXJeDYYSylxbvUQbZ5xW"
     },
     {
       "album": {
@@ -45508,6 +45544,28 @@
       "duration_ms": 263226,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
+    },
+    {
+      "album": {
+        "name": "Truthfully Truthfully",
+        "url": "https://open.spotify.com/album/2jb5honmODYA7CyAz9P4pv"
+      },
+      "artists": [
+        {
+          "name": "Joel Plaskett Emergency",
+          "url": "https://open.spotify.com/artist/64WWINLIAzJ2CgzZWkywB3"
+        },
+        {
+          "name": "Joel Plaskett",
+          "url": "https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216533,
+      "name": "Work Out Fine",
+      "url": "https://open.spotify.com/track/5cw3pQeMoEyHDLoHU2HtyK"
     },
     {
       "album": {
