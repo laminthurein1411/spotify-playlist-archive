@@ -1799,6 +1799,28 @@
     },
     {
       "album": {
+        "name": "All We Can Do",
+        "url": "https://open.spotify.com/album/4cMgoEBdXsYCeVV3bLqDQs"
+      },
+      "artists": [
+        {
+          "name": "Anjulie",
+          "url": "https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV"
+        },
+        {
+          "name": "Pusher",
+          "url": "https://open.spotify.com/artist/2exudSjTjUksRJhnF5JZYn"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178009,
+      "name": "All We Can Do",
+      "url": "https://open.spotify.com/track/1g3w2eC3DU5G2Ige6C4nMa"
+    },
+    {
+      "album": {
         "name": "Wasteland, Baby!",
         "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
@@ -8924,6 +8946,24 @@
       "duration_ms": 201693,
       "name": "Dark Horse",
       "url": "https://open.spotify.com/track/3itu7oLe5UzpsqHfBvdyKs"
+    },
+    {
+      "album": {
+        "name": "That Was You and Me",
+        "url": "https://open.spotify.com/album/0tlymLEUiDaxrUVPSwG5BP"
+      },
+      "artists": [
+        {
+          "name": "Fortunate Ones",
+          "url": "https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208946,
+      "name": "Day to Day",
+      "url": "https://open.spotify.com/track/1DYwLlsQqo1dF7jLehbext"
     },
     {
       "album": {
@@ -18640,7 +18680,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 216200,
       "name": "i hope i never fall in love",
       "url": "https://open.spotify.com/track/19v4Pp2J8bkpZYmVcFRvjA"
@@ -18737,6 +18777,24 @@
     },
     {
       "album": {
+        "name": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5DMRGZTzA3vVcLDNQS1ynv"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246826,
+      "name": "I Left My Wallet in El Segundo",
+      "url": "https://open.spotify.com/track/6aeht0QSwiZN1esYfniHxr"
+    },
+    {
+      "album": {
         "name": "Jesus of Cool",
         "url": "https://open.spotify.com/album/0LSWSMW0LVJX3fmSgDnk2A"
       },
@@ -18788,6 +18846,24 @@
       "duration_ms": 227282,
       "name": "I Love You I Don't Love You I Don't Know",
       "url": "https://open.spotify.com/track/3VYTQPLzAh24WKMBkM2KQ4"
+    },
+    {
+      "album": {
+        "name": "Why You Wanna Leave, Runaway Queen?",
+        "url": "https://open.spotify.com/album/1KCKZT0JfjVXGrTyYrqEMb"
+      },
+      "artists": [
+        {
+          "name": "Lisa LeBlanc",
+          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227282,
+      "name": "I Love You, I Don\u2019t Love You, I Don\u2019t Know",
+      "url": "https://open.spotify.com/track/3HEmmZ9uCsaCCuv2jhJbX5"
     },
     {
       "album": {
@@ -26218,7 +26294,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 211453,
       "name": "Mountain Sound",
       "url": "https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd"
@@ -28316,6 +28392,28 @@
       "duration_ms": 215493,
       "name": "Now is the Time",
       "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
+    },
+    {
+      "album": {
+        "name": "Gonna Take A Miracle",
+        "url": "https://open.spotify.com/album/6867EFvLm4xENyg1pdcRdh"
+      },
+      "artists": [
+        {
+          "name": "Laura Nyro",
+          "url": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+        },
+        {
+          "name": "LaBelle",
+          "url": "https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302733,
+      "name": "Nowhere To Run",
+      "url": "https://open.spotify.com/track/4kRLFt1LhLQZQN3Vezu4nu"
     },
     {
       "album": {
@@ -34579,6 +34677,28 @@
     },
     {
       "album": {
+        "name": "Blended",
+        "url": "https://open.spotify.com/album/4uXNDDALQLWnRmXKbxG58a"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168613,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/7a0ndvdB17TuyHylT74KGw"
+    },
+    {
+      "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
       },
@@ -36020,6 +36140,24 @@
       "duration_ms": 212414,
       "name": "Space and Time",
       "url": "https://open.spotify.com/track/4V5rRfySgxrUbUz4ZvbcI4"
+    },
+    {
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/3r8dj1ruZN0PGP7dFjZhfo"
+      },
+      "artists": [
+        {
+          "name": "Tasha Angela",
+          "url": "https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212414,
+      "name": "Space and Time",
+      "url": "https://open.spotify.com/track/64xkEle4HvvF6uegKQRl9V"
     },
     {
       "album": {
@@ -44425,6 +44563,36 @@
     },
     {
       "album": {
+        "name": "Keep Me on Your Mind/See You Free",
+        "url": "https://open.spotify.com/album/1Z22z4kTZuFWTMMA7K9N9B"
+      },
+      "artists": [
+        {
+          "name": "Bonny Light Horseman",
+          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
+        },
+        {
+          "name": "Eric D. Johnson",
+          "url": "https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6"
+        },
+        {
+          "name": "Josh Kaufman",
+          "url": "https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197416,
+      "name": "When I Was Younger",
+      "url": "https://open.spotify.com/track/5PdIsdV4HHhy6MtSGLTMEO"
+    },
+    {
+      "album": {
         "name": "This Land",
         "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
       },
@@ -46557,7 +46725,7 @@
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 209946,
+      "duration_ms": 211133,
       "name": "Young Folks - Radio Edit",
       "url": "https://open.spotify.com/track/59J8dtbx60RmRua2snK50F"
     },
