@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 231973,
       "name": "And If Venice Is Sinking",
       "url": "https://open.spotify.com/track/1snI1enSpTISgIgSKmjsNj"
@@ -12557,6 +12557,24 @@
     },
     {
       "album": {
+        "name": "Floored",
+        "url": "https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic"
+      },
+      "artists": [
+        {
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244640,
+      "name": "Fly - Fly",
+      "url": "https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"
+    },
+    {
+      "album": {
         "name": "Hits",
         "url": "https://open.spotify.com/album/1EbspINwTMQK6wh9zS5Uv1"
       },
@@ -15979,6 +15997,24 @@
     },
     {
       "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171607,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/69YhwaZE5OTsijIt3Gp6P2"
+    },
+    {
+      "album": {
         "name": "Heart-Shaped Box",
         "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
       },
@@ -17004,7 +17040,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 172807,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/2iKeVpvA3zx8KaY8Lu73TM"
@@ -18264,7 +18300,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 176524,
       "name": "I Believe In Love Again",
       "url": "https://open.spotify.com/track/1xYsgHPHiR3IIdpRzkfKcE"
@@ -25728,6 +25764,24 @@
       "duration_ms": 205573,
       "name": "Message of Love",
       "url": "https://open.spotify.com/track/08xxP1zt8BaXwWr545EuHG"
+    },
+    {
+      "album": {
+        "name": "Pretenders II (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6eTHa4zNxrrykO2J3jFxpB"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205158,
+      "name": "Message of Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/5DbaLLjxAmlGfgyfroxwOq"
     },
     {
       "album": {
@@ -41147,6 +41201,28 @@
     },
     {
       "album": {
+        "name": "Thodi Si Daaru",
+        "url": "https://open.spotify.com/album/5VtCQYa9RJHYMQAfzAb1HQ"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180248,
+      "name": "Thodi Si Daaru",
+      "url": "https://open.spotify.com/track/3JiLQJmVW7d4O8AQDFB3oj"
+    },
+    {
+      "album": {
         "name": "Till The Sun Turns Black",
         "url": "https://open.spotify.com/album/6teArUjXEHY8nEbWiOf1Hq"
       },
@@ -42928,6 +43004,24 @@
       "duration_ms": 255385,
       "name": "Vending Machines",
       "url": "https://open.spotify.com/track/2Hw8otNNNMks0xHhkFRL8E"
+    },
+    {
+      "album": {
+        "name": "True Confessions (Collector's Edition)",
+        "url": "https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h"
+      },
+      "artists": [
+        {
+          "name": "Bananarama",
+          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229164,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae"
     },
     {
       "album": {
