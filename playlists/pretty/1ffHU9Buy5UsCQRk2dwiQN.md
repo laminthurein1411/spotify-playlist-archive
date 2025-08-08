@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ffHU9Buy5UsCQRk2dwiQN.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 1 like - 296 songs - 18 hr 24 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 1 like - 297 songs - 18 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -304,5 +304,6 @@ pretty - [cumulative](/playlists/cumulative/1ffHU9Buy5UsCQRk2dwiQN.md) - [plain]
 | 294 | [Brother Louie](https://open.spotify.com/track/5zWZ9iNevP0397xB3jWV2z) | [Modern Talking](https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7) | [Ready For Romance](https://open.spotify.com/album/3g5K7IOTOSY6nIfu7lj562) | 3:42 |
 | 295 | [The Masochism Tango](https://open.spotify.com/track/71IXig0Us2yMMOPG7bdbF5) | [Tom Lehrer](https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO) | [Selling Out](https://open.spotify.com/album/0RS4g4IreV0rhUbFFkY43E) | 2:55 |
 | 296 | [Hooked On A Feeling](https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd) | [Blue Swede](https://open.spotify.com/artist/0UpuH5U4nZ3UGGUJi0Zfbp), [Björn Skifs](https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF) | [Hooked On A Feeling](https://open.spotify.com/album/6fBMaH0IiymemwFKmn18Ze) | 2:52 |
+| 297 | [Pretty Little Baby](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 |
 
-Snapshot ID: `AAABKuYKUmXJ5i4Whx8qkbFENzzj2zsU`
+Snapshot ID: `AAABK/H2FU3CQiKQB+Y8leJYi4etIyr7`
