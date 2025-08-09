@@ -4,7 +4,7 @@
 
 > 
 
-55 songs - 2 hr 56 min
+56 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2022-01-30 |  |
 | [Because Of You](https://open.spotify.com/track/320jqrATpl9762bCQkmLDf) | [Gustaph](https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7) | [Because Of You](https://open.spotify.com/album/4Pbi89jb8k56Qh8hrwwbGu) | 3:01 | 2023-05-27 |  |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-11-29 |  |
+| [Blow](https://open.spotify.com/track/3pYDZTJM2tVBUhIRifWVzI) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal \(Expanded Edition\)](https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23) | 3:39 | 2025-08-08 |  |
 | [BOOM](https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [BOOM](https://open.spotify.com/album/47wyCwrChF50ZTFNOuWx99) | 2:59 | 2023-06-21 |  |
 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 | 2022-11-29 |  |
 | [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-05-27 |  |

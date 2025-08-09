@@ -14249,6 +14249,24 @@
     },
     {
       "album": {
+        "name": "Good Buddy",
+        "url": "https://open.spotify.com/album/2pVUCn4axh12NiqvpajS3e"
+      },
+      "artists": [
+        {
+          "name": "FONTINE",
+          "url": "https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154853,
+      "name": "Good Buddy",
+      "url": "https://open.spotify.com/track/6g2lV7jTfCUfcq51KK1tge"
+    },
+    {
+      "album": {
         "name": "Good Dream / Stowaway",
         "url": "https://open.spotify.com/album/3nIJ6OwyVRrRaV3iynN5HE"
       },
@@ -21411,6 +21429,24 @@
     },
     {
       "album": {
+        "name": "June Guitar",
+        "url": "https://open.spotify.com/album/7x28LDVChhkBuYz87lTuuC"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232213,
+      "name": "June Guitar",
+      "url": "https://open.spotify.com/track/04D3vlBBu49iC0XP7ys1i5"
+    },
+    {
+      "album": {
         "name": "Juniper (Radio Edit)",
         "url": "https://open.spotify.com/album/7mORJwsQlGrzhDmnekbbVj"
       },
@@ -22230,6 +22266,36 @@
       "duration_ms": 346266,
       "name": "Lady",
       "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
+    },
+    {
+      "album": {
+        "name": "Moulin Rouge",
+        "url": "https://open.spotify.com/album/1Kg7AyuyIMTfD6geg9VghI"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264846,
+      "name": "Lady Marmalade - From \"Moulin Rouge\" Soundtrack",
+      "url": "https://open.spotify.com/track/7GQqj9jRtDkMp8zByehXQI"
     },
     {
       "album": {
@@ -25500,6 +25566,24 @@
       "duration_ms": 205763,
       "name": "Maritime Moonshine",
       "url": "https://open.spotify.com/track/1Yrp7lcQXwhYyvzH3Z59aa"
+    },
+    {
+      "album": {
+        "name": "Martini.",
+        "url": "https://open.spotify.com/album/0orAwByMcTkgzx1VUPcahZ"
+      },
+      "artists": [
+        {
+          "name": "Sajaa.",
+          "url": "https://open.spotify.com/artist/3RHBPqbFICf6I20SEYa2DQ"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250051,
+      "name": "Martini.",
+      "url": "https://open.spotify.com/track/7ARsq0batl7n1v2qQysiH2"
     },
     {
       "album": {
@@ -28848,7 +28932,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 172173,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/1m7C5yBZGUJYGbb7WTljj3"
@@ -32454,6 +32538,24 @@
       "duration_ms": 180933,
       "name": "Right Here, for Now",
       "url": "https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc"
+    },
+    {
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201869,
+      "name": "Ring Ring Ring",
+      "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
     },
     {
       "album": {
@@ -38848,6 +38950,24 @@
     {
       "album": {
         "name": "Teeth",
+        "url": "https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0"
+      },
+      "artists": [
+        {
+          "name": "Sister Ray",
+          "url": "https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172638,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/0JNgAdyuKvjdepuvm1OPmX"
+    },
+    {
+      "album": {
+        "name": "Teeth",
         "url": "https://open.spotify.com/album/0NSSmu9dVU5TGt5B1euw7U"
       },
       "artists": [
@@ -41845,6 +41965,24 @@
     },
     {
       "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254626,
+      "name": "Tonight, Tonight - Remastered 2012",
+      "url": "https://open.spotify.com/track/7bu0znpSbTks0O6I98ij0W"
+    },
+    {
+      "album": {
         "name": "Too Attached",
         "url": "https://open.spotify.com/album/0Yl0YnOtGouj8QMD2LZhYQ"
       },
@@ -43260,6 +43398,24 @@
       "duration_ms": 260333,
       "name": "Waiting For The Sun",
       "url": "https://open.spotify.com/track/4SzvlUfcualqndA5MyOcDe"
+    },
+    {
+      "album": {
+        "name": "Burn The Plan",
+        "url": "https://open.spotify.com/album/1LN4RUHZuqpp7w5OPGrJkw"
+      },
+      "artists": [
+        {
+          "name": "Good Lovelies",
+          "url": "https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214720,
+      "name": "Waiting for You",
+      "url": "https://open.spotify.com/track/3DzuTsACGmTZSq4nlZvN2Y"
     },
     {
       "album": {
@@ -45411,6 +45567,24 @@
     },
     {
       "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220946,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt"
+    },
+    {
+      "album": {
         "name": "Creeland Covers",
         "url": "https://open.spotify.com/album/2lvghAkoGgKyqTFKGvYhtB"
       },
@@ -46200,6 +46374,24 @@
       "duration_ms": 194688,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/3L4MVIn1ZNIQC6LUHH6OlG"
+    },
+    {
+      "album": {
+        "name": "Codes and Keys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3IEZRCQABrX0v5RitIE0iy"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286653,
+      "name": "You Are a Tourist",
+      "url": "https://open.spotify.com/track/554xaetnSgd1JacizAVaGS"
     },
     {
       "album": {
