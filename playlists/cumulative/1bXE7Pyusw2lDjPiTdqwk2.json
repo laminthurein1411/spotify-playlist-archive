@@ -4605,6 +4605,28 @@
     },
     {
       "album": {
+        "name": "No Surprises (feat. Gregory Alan Isakov)",
+        "url": "https://open.spotify.com/album/3NzR0FrJVJsw1vF2TfUPQc"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Fraites",
+          "url": "https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly"
+        },
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257290,
+      "name": "No Surprises (feat. Gregory Alan Isakov)",
+      "url": "https://open.spotify.com/track/0ur0BoMX0LcblJzYsQxAS1"
+    },
+    {
+      "album": {
         "name": "Piano Piano 2",
         "url": "https://open.spotify.com/album/7JQSf3WvCov5K9oScX00XA"
       },
@@ -6322,6 +6344,42 @@
       "duration_ms": 202202,
       "name": "the older you get, the less you cry",
       "url": "https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt"
+    },
+    {
+      "album": {
+        "name": "Irish Folk Collection - 40 Tracks for St Patrick's Day",
+        "url": "https://open.spotify.com/album/6zIKCZ5kl5yJs3vB7zgkR8"
+      },
+      "artists": [
+        {
+          "name": "The Clancy Brothers & Tommy Makem",
+          "url": "https://open.spotify.com/artist/1qbwKI8FXh805XrxaOex4P"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163906,
+      "name": "The Parting Glass",
+      "url": "https://open.spotify.com/track/4zkjFX7owLylo1O2iL95ur"
+    },
+    {
+      "album": {
+        "name": "The Parting Glass (Live from the Late Late Show)",
+        "url": "https://open.spotify.com/album/53AzSufY9kjmbz1BELRn2A"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135133,
+      "name": "The Parting Glass - Live from the Late Late Show",
+      "url": "https://open.spotify.com/track/782her82K8V3a1JAL6LBbJ"
     },
     {
       "album": {

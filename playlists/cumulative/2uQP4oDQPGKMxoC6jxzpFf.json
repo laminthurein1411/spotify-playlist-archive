@@ -3905,6 +3905,24 @@
     },
     {
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/05T87IZuR7QiVw2dYYzTZa"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240403,
+      "name": "Better Broken",
+      "url": "https://open.spotify.com/track/4xspUAgQE3lzsleOh5Z0cE"
+    },
+    {
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/74nEPjhXH5Uql2Vld1NDij"
       },
@@ -20843,6 +20861,24 @@
     },
     {
       "album": {
+        "name": "Romance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210803,
+      "name": "It's Amazing To Be Young",
+      "url": "https://open.spotify.com/track/1NQn6ovexeHuKcEMVfvb30"
+    },
+    {
+      "album": {
         "name": "It's Amazing To Be Young",
         "url": "https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs"
       },
@@ -26226,6 +26262,24 @@
       "duration_ms": 338186,
       "name": "Money",
       "url": "https://open.spotify.com/track/5rgY6vN5CaEL3boucCi3CT"
+    },
+    {
+      "album": {
+        "name": "Navy Blues",
+        "url": "https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6"
+      },
+      "artists": [
+        {
+          "name": "Sloan",
+          "url": "https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233916,
+      "name": "Money City Maniacs",
+      "url": "https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH"
     },
     {
       "album": {
@@ -32538,6 +32592,24 @@
       "duration_ms": 180933,
       "name": "Right Here, for Now",
       "url": "https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc"
+    },
+    {
+      "album": {
+        "name": "Ring My Bell",
+        "url": "https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV"
+      },
+      "artists": [
+        {
+          "name": "Anita Ward",
+          "url": "https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491933,
+      "name": "Ring My Bell",
+      "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd"
     },
     {
       "album": {
@@ -39803,6 +39875,24 @@
     },
     {
       "album": {
+        "name": "One Chord to Another",
+        "url": "https://open.spotify.com/album/3gj3CtEtYFMLkZrJ4ftOTC"
+      },
+      "artists": [
+        {
+          "name": "Sloan",
+          "url": "https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152213,
+      "name": "The Lines You Amend",
+      "url": "https://open.spotify.com/track/5QH1hWHqOFjvggbgI5xb0q"
+    },
+    {
+      "album": {
         "name": "Breakfast In America",
         "url": "https://open.spotify.com/album/7i75GRwJbhDDiLi2uQHTtZ"
       },
@@ -42852,6 +42942,24 @@
       "duration_ms": 236840,
       "name": "Underground",
       "url": "https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa"
+    },
+    {
+      "album": {
+        "name": "Smeared",
+        "url": "https://open.spotify.com/album/4wyn8yXUI03KqajP3dHjSf"
+      },
+      "artists": [
+        {
+          "name": "Sloan",
+          "url": "https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285302,
+      "name": "Underwhelmed",
+      "url": "https://open.spotify.com/track/7EPKTiAQSvu9HwZDqvGelg"
     },
     {
       "album": {
@@ -46934,6 +47042,24 @@
       "duration_ms": 266200,
       "name": "You'll Never Find Another Love Like Mine",
       "url": "https://open.spotify.com/track/6OylYIXrIH2E3hgg7Dqz5M"
+    },
+    {
+      "album": {
+        "name": "You're Gonna Get It",
+        "url": "https://open.spotify.com/album/7nBX2PIvRcqyuiQpYD5wUe"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240385,
+      "name": "You're Gonna Get It",
+      "url": "https://open.spotify.com/track/7HWTeC4ENUwVBWFCBiCrFI"
     },
     {
       "album": {
