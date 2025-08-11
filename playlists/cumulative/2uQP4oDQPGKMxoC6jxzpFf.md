@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,531 songs - 6 day 14 hr 14 min
+2,536 songs - 6 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [1st Time](https://open.spotify.com/track/4udjo5nLK61pKajakfrndc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [1st Time](https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG) | 3:01 | 2025-03-11 |  |
 | [2 Kool 2 Be 4\-Gotten](https://open.spotify.com/track/3LIYWsqYx8OGbSWESovIkN) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:42 | 2025-05-05 |  |
 | [2 Kool 2 Be 4\-Gotten](https://open.spotify.com/track/1GsBlZAvEZNRJxnUFd0Fop) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x) | 4:42 | 2025-01-27 |  |
+| [25](https://open.spotify.com/track/2hmthpXeX6wixx4r4b5Adj) | [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [Hymns For The Bitter](https://open.spotify.com/album/3hao2Dudf5oo6RGVkrLJ44) | 2:41 | 2025-08-10 |  |
 | [25](https://open.spotify.com/track/5MqU9NhTlMa3DxwEhE6z9J) | [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [25](https://open.spotify.com/album/2IAppLYgcRpa7FC6oNFbOV) | 2:41 | 2025-06-08 |  |
 | [4 American Dollars](https://open.spotify.com/track/6fx7gWBYL9eq2BfbiaiV5d) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Heavy Light](https://open.spotify.com/album/5yMALYLW7R0woM1lHhINfg) | 5:42 | 2025-03-03 |  |
 | [4 American Dollars](https://open.spotify.com/track/4yKvIwTl5ATNa17NOobHqh) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Heavy Light](https://open.spotify.com/album/0rDM3D2mqmsilAjpUj1p0W) | 5:42 | 2025-05-18 | 2025-07-16 |
@@ -521,11 +522,12 @@
 | [Didn't \(feat\. Cavetown\)](https://open.spotify.com/track/2Oy5czpSv3bQ6AfD2gl8VI) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Didn't \(feat\. Cavetown\)](https://open.spotify.com/album/00r2WdTybcemQTrVEwFeon) | 2:33 | 2025-05-16 |  |
 | [Didn't \(feat\. Cavetown\)](https://open.spotify.com/track/2fiVO5EExDfft9EErfzMzD) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [POWER](https://open.spotify.com/album/5YMMVf8CozIqS0IDOoqTAD) | 2:33 | 2024-11-23 |  |
 | [Different Kind Of Love](https://open.spotify.com/track/5gy7tyFsQIFcxMajZlghLD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Silences](https://open.spotify.com/album/4nneOM4v04jUA5AROq5qr3) | 3:24 | 2025-01-21 |  |
+| [Different Morning](https://open.spotify.com/track/1dgLqwIcn0PgMU8UpbvDDS) | [Tanika Charles](https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Papillon de Nuit: The Night Butterfly](https://open.spotify.com/album/1lAUp2Lt6KX2aV0kzB0inF) | 5:04 | 2025-08-10 |  |
 | [Digital Witness](https://open.spotify.com/track/5L16tlSHNt93RiiRiCc8ya) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent](https://open.spotify.com/album/2CJnMhwEEkS8R1ctgt5llf) | 3:22 | 2025-02-07 |  |
 | [Diminishing Returns](https://open.spotify.com/track/53AeNSNPhCkxQpbNmUm4OK) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Diminishing Returns](https://open.spotify.com/album/1gyhsgpxkxYsDDqEannppZ) | 3:01 | 2025-05-23 |  |
 | [Diminishing Returns](https://open.spotify.com/track/6QmNuanzOQNCgV2uhpQFL7) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Natural Light](https://open.spotify.com/album/5mbEX4VVc8PY11n3RPqrGT) | 3:01 | 2025-06-05 |  |
 | [Dirt Roads](https://open.spotify.com/track/6RZWXGpNOtSyXnnnAOwUni) | [Tia Wood](https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC) | [Pretty Red Bird](https://open.spotify.com/album/4CVvKdcEb3rkac230DsOQB) | 3:12 | 2024-11-22 |  |
-| [Dirt Roads](https://open.spotify.com/track/6abgej5aQVjWvSFydjqo6o) | [Tia Wood](https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC) | [Dirt Roads](https://open.spotify.com/album/45mNHIYIE7iJmIMMAMeha9) | 3:12 | 2025-04-11 | 2025-07-16 |
+| [Dirt Roads](https://open.spotify.com/track/6abgej5aQVjWvSFydjqo6o) | [Tia Wood](https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC) | [Dirt Roads](https://open.spotify.com/album/45mNHIYIE7iJmIMMAMeha9) | 3:12 | 2025-04-11 |  |
 | [Dirty Nikes](https://open.spotify.com/track/70sIa830bGDPfSupoIIH6o) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Moments in Between](https://open.spotify.com/album/1xb5UcJNNWcn1yDnY6LPYl) | 3:18 | 2025-01-21 |  |
 | [Dirty Work \(From Hacks Season 3\)](https://open.spotify.com/track/3nzR13bHUZQRNnWHuxEf2h) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Dirty Work \(From Hacks Season 3\)](https://open.spotify.com/album/1a4ly9vEHKWV34UnBKOpbH) | 3:12 | 2025-01-02 |  |
 | [Dis Generation \(feat\. Busta Rhymes\)](https://open.spotify.com/track/2Pp3QD3thPnk2kCxmu2MHK) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [We got it from Here..\. Thank You 4 Your service](https://open.spotify.com/album/3WvQpufOsPzkZvcSuynCf3) | 3:33 | 2025-02-22 |  |
@@ -652,6 +654,7 @@
 | [Feeling Good](https://open.spotify.com/track/7u6HRyEoWlUkoEsbQxX7sa) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Feeling Good: Her Greatest Hits And Remixes](https://open.spotify.com/album/2sYpGtr8LUH2qXeY0lBQc5) | 2:55 | 2024-11-29 |  |
 | [Felt This Way](https://open.spotify.com/track/2OyyV7E8D0iL3pVi44Yfok) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated Side B](https://open.spotify.com/album/449tCkuH49Wlto9x3r4XfW) | 3:37 | 2025-01-23 |  |
 | [Ferris Wheel](https://open.spotify.com/track/0yiJNNm39cp1T7RnXOMVLX) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Free Love](https://open.spotify.com/album/2KAPJ40On8JY1Yt64JJgTk) | 2:57 | 2025-03-20 |  |
+| [Fiddlers Green](https://open.spotify.com/track/73Fb9RsDgAYIszbMEpLNzn) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Performance And Cocktails \(Deluxe Edition\)](https://open.spotify.com/album/0QA22Bo9p1xhEOJ8rFol6o) | 4:01 | 2025-08-10 |  |
 | [Fidelity](https://open.spotify.com/track/1J2WmkS1Z18AuDWZCgIC5K) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) | 3:46 | 2025-04-11 |  |
 | [Fight The Power](https://open.spotify.com/track/1yo16b3u0lptm6Cs7lx4AD) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Fear Of A Black Planet](https://open.spotify.com/album/0aFNb4RDk2hmKKLa0bzXNz) | 4:42 | 2025-03-01 |  |
 | [FIGURES](https://open.spotify.com/track/3U3J5v3rkx89WnFEQvAJD5) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Kiddo](https://open.spotify.com/album/2q7EwuXduuQGDJrPYPVFyw) | 4:00 | 2024-12-04 |  |
@@ -1460,6 +1463,7 @@
 | [My Sweet Lord \(2014 Remaster\)](https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 4:41 | 2025-07-10 |  |
 | [Mystery](https://open.spotify.com/track/0YsLm3mpqjELlj7N8iRoO4) | [David Myles](https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf) | [It's Only a Little Loneliness](https://open.spotify.com/album/4ZRQS7I2IlLKLNyDV6ON7P) | 3:25 | 2025-02-18 |  |
 | [Mystic Light](https://open.spotify.com/track/5CAfqtSWbJQLlusAEb2d3A) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/3SaOC7YKiYYtVSTww9SuTx) | 3:16 | 2025-05-06 |  |
+| [Mâcher tes bottes](https://open.spotify.com/track/1OLQnvlJsL5wK4c0kafuk4) | [Avec pas d'casque](https://open.spotify.com/artist/2B8PoAfMwmcONoQTgiLzgn) | [Cardinal](https://open.spotify.com/album/2LxxBrPPkW6lefOLdGctwU) | 3:27 | 2025-08-10 |  |
 | [Nada](https://open.spotify.com/track/52zGiyWKJ54237c8othn63) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/33bM8o4IrrktRBlAcxcoDr) | 4:58 | 2025-04-21 |  |
 | [Naked as We Came](https://open.spotify.com/track/4FuBIkfhZMoRgrDiHL6TYG) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/2diNeeePw7kIT2K4DYCdJx) | 2:32 | 2024-12-14 |  |
 | [Naked Eye](https://open.spotify.com/track/6YtkOhiHmf46w1noltVnF2) | [Luscious Jackson](https://open.spotify.com/artist/1EcRE2Nnqg2spdn2otakhg) | [Fever In Fever Out](https://open.spotify.com/album/0GDMOxPfDWThpQJaGpJjqh) | 4:40 | 2025-02-20 |  |
@@ -2285,6 +2289,7 @@
 | [Try](https://open.spotify.com/track/4VeD7QbCk5VKrEcmD4AQTj) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Greatest Hits Vol\. 1](https://open.spotify.com/album/7KTn9mcZqIiELn31JHxpbi) | 4:00 | 2025-04-08 |  |
 | [Try](https://open.spotify.com/track/2aObIMukKJF947LpdzZhXS) | [jacksoul](https://open.spotify.com/artist/3xEW8BqMGXWkxTZbQhtnLE) | [mySOUL](https://open.spotify.com/album/4dNnQkemwZ7HWemdD8DyPD) | 3:57 | 2025-02-22 |  |
 | [Try](https://open.spotify.com/track/6sYTEXhTijY6ulSTY9mMIZ) | [POSTDATA](https://open.spotify.com/artist/05mMvlRkzuup4xMEKV8619) | [Run Wild](https://open.spotify.com/album/2sF2kfMWRDJCYl1SAXBLPy) | 4:16 | 2025-05-08 |  |
+| [Try \- 2012 Remaster](https://open.spotify.com/track/13lYKkKAYEVCkGAyrFGZjF) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Outskirts](https://open.spotify.com/album/0o6RdxMt0NZvMISpQJduVY) | 4:05 | 2025-08-10 |  |
 | [Try a Little Tenderness](https://open.spotify.com/track/2mxpmQLdFou7zbLQjTC069) | [Peter Dreams](https://open.spotify.com/artist/55zmcbCA9XmEOPDGfvkxmv) | [Try a Little Tenderness](https://open.spotify.com/album/66WiYjRv8K9P91qIKVgtv8) | 3:36 | 2025-05-23 |  |
 | [Tu ne seras jamais là](https://open.spotify.com/track/2NFa1vElKE3810Snp4HyUb) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Impossible à aimer](https://open.spotify.com/album/1k6lh8sWWBUuJQDqqW10XX) | 3:07 | 2025-01-06 |  |
 | [Tulsa Time](https://open.spotify.com/track/4JUtgvNgUYzcIsMnBl0kxS) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6), [Jim Cuddy](https://open.spotify.com/artist/1RprcCfY08k2trEW0m3aHg) | [Tulsa Time](https://open.spotify.com/album/4RX8Yc7XD764cRaOC5q1CD) | 3:21 | 2025-01-31 |  |
@@ -2538,6 +2543,6 @@
 | [Your Power](https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:05 | 2024-12-09 |  |
 | [Your Rocky Spine](https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Ongiara](https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI) | 3:36 | 2025-02-03 |  |
 | [Ziibi](https://open.spotify.com/track/1EmCKDZ0pSNaAlmFO2xWTL) | [OMBIIGIZI](https://open.spotify.com/artist/6M9etLgzbkyne0y9cvxGAG) | [Ziibi](https://open.spotify.com/album/2FeiGRihkGi8wig02L7FRr) | 3:47 | 2024-12-21 |  |
-| [Ziibi](https://open.spotify.com/track/5MkK72dUTS5OTf6uIbwjp4) | [OMBIIGIZI](https://open.spotify.com/artist/6M9etLgzbkyne0y9cvxGAG) | [SHAME](https://open.spotify.com/album/7GtUuBWgxDr9WXoUD0aD2o) | 3:47 | 2025-05-11 | 2025-07-16 |
+| [Ziibi](https://open.spotify.com/track/5MkK72dUTS5OTf6uIbwjp4) | [OMBIIGIZI](https://open.spotify.com/artist/6M9etLgzbkyne0y9cvxGAG) | [SHAME](https://open.spotify.com/album/7GtUuBWgxDr9WXoUD0aD2o) | 3:47 | 2025-05-11 |  |
 
 \*This playlist was first scraped on 2025-05-18. Prior content cannot be recovered.
