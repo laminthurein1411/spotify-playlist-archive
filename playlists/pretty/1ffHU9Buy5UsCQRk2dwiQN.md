@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ffHU9Buy5UsCQRk2dwiQN.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 1 like - 297 songs - 18 hr 27 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 1 like - 298 songs - 18 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -305,5 +305,6 @@ pretty - [cumulative](/playlists/cumulative/1ffHU9Buy5UsCQRk2dwiQN.md) - [plain]
 | 295 | [The Masochism Tango](https://open.spotify.com/track/71IXig0Us2yMMOPG7bdbF5) | [Tom Lehrer](https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO) | [Selling Out](https://open.spotify.com/album/0RS4g4IreV0rhUbFFkY43E) | 2:55 |
 | 296 | [Hooked On A Feeling](https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd) | [Blue Swede](https://open.spotify.com/artist/0UpuH5U4nZ3UGGUJi0Zfbp), [Björn Skifs](https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF) | [Hooked On A Feeling](https://open.spotify.com/album/6fBMaH0IiymemwFKmn18Ze) | 2:52 |
 | 297 | [Pretty Little Baby](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 |
+| 298 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 |
 
-Snapshot ID: `AAABK/H2FU3CQiKQB+Y8leJYi4etIyr7`
+Snapshot ID: `AAABLBqUGLc2G22uyDIv7vR3toL6oUaE`
