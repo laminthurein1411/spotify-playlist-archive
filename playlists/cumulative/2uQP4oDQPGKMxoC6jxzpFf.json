@@ -4426,6 +4426,24 @@
     {
       "album": {
         "name": "Bloom Baby Bloom",
+        "url": "https://open.spotify.com/album/58BK7mF9rWpAqmhecXSa0E"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227586,
+      "name": "Bloom Baby Bloom",
+      "url": "https://open.spotify.com/track/0Obgb93iSF4OgKuOCeOCfY"
+    },
+    {
+      "album": {
+        "name": "Bloom Baby Bloom",
         "url": "https://open.spotify.com/album/2jKqk91xmXtQWlPrzI7r3w"
       },
       "artists": [
@@ -6332,6 +6350,24 @@
       "duration_ms": 284560,
       "name": "Car Wheels On A Gravel Road",
       "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
+    },
+    {
+      "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188690,
+      "name": "Caravan",
+      "url": "https://open.spotify.com/track/7sqIhAwAf2bxXVM9GcIJvM"
     },
     {
       "album": {
@@ -10587,6 +10623,28 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/2ytMXjfFwgzodwfe47zOnL"
+      },
+      "artists": [
+        {
+          "name": "The Hanging Stars",
+          "url": "https://open.spotify.com/artist/4xFe9Cm82gRgtZb8jlJX5b"
+        },
+        {
+          "name": "Bonnie Dobson",
+          "url": "https://open.spotify.com/artist/62dp4ukQTgdD8vhPD2gb67"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310786,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2eK9zWVs4CwsrUtO8QksCb"
+    },
+    {
+      "album": {
         "name": "Dress",
         "url": "https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys"
       },
@@ -10702,6 +10760,10 @@
         {
           "name": "Lil Yachty",
           "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Diana Gordon",
+          "url": "https://open.spotify.com/artist/71Ug2zQHWlJFjNCK8swHfL"
         }
       ],
       "date_added": "2025-03-07",
@@ -12958,7 +13020,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 203819,
       "name": "Forty Light Years",
       "url": "https://open.spotify.com/track/1pYtNoDWt37Kmm32PoFkPg"
@@ -17506,6 +17568,24 @@
       "duration_ms": 169743,
       "name": "Home",
       "url": "https://open.spotify.com/track/6xKMnppUHCWTVuL0dtGXLE"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6iB29E0Lo8vM1F0Hg5KTmR"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131898,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5LqHalawZqviSYyhq4KxMf"
     },
     {
       "album": {
@@ -30005,6 +30085,24 @@
     },
     {
       "album": {
+        "name": "Enough / One Tiny Flower / Out In The Dark / Stray Cats in Spain",
+        "url": "https://open.spotify.com/album/4iknF5vxANC5XsYM31184i"
+      },
+      "artists": [
+        {
+          "name": "Jeff Tweedy",
+          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213360,
+      "name": "Out in the Dark",
+      "url": "https://open.spotify.com/track/7MtQJKhe8vRTwhyCC2cl0O"
+    },
+    {
+      "album": {
         "name": "Sweet Justice",
         "url": "https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl"
       },
@@ -36066,6 +36164,24 @@
       "duration_ms": 296493,
       "name": "Somebody To Love - Remastered 2011",
       "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
+    },
+    {
+      "album": {
+        "name": "Streets of Your Town",
+        "url": "https://open.spotify.com/album/42lirLF5MgFge0b5AqQ2Aj"
+      },
+      "artists": [
+        {
+          "name": "Josh Rouse",
+          "url": "https://open.spotify.com/artist/38euc5ce2q2MMzaoJcPstz"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253624,
+      "name": "Somebody's Baby",
+      "url": "https://open.spotify.com/track/3X1sq5QiF8EaFTfDfh9Ngh"
     },
     {
       "album": {
@@ -43473,6 +43589,28 @@
     },
     {
       "album": {
+        "name": "Here and Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5U1SO7vSCl10H2zH7kDe0o"
+      },
+      "artists": [
+        {
+          "name": "Aysanabee",
+          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
+        },
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221122,
+      "name": "Video Games",
+      "url": "https://open.spotify.com/track/5ojgsoCVfOmwmHOWX9I9VT"
+    },
+    {
+      "album": {
         "name": "Pop Music: The Modern Era 1976-1999",
         "url": "https://open.spotify.com/album/0Jh7XIEQrNQAXm7a6hbJ1h"
       },
@@ -44130,6 +44268,24 @@
       "duration_ms": 232906,
       "name": "We Are Between",
       "url": "https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394"
+    },
+    {
+      "album": {
+        "name": "The Golden Casket",
+        "url": "https://open.spotify.com/album/0hnwu9WUcXrL23w5WPrbOX"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232906,
+      "name": "We Are Between",
+      "url": "https://open.spotify.com/track/73ptateUzEZc4xXGWlQpaa"
     },
     {
       "album": {

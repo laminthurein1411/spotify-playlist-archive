@@ -1399,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "One-X",
+        "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231400,
+      "name": "Animal I Have Become",
+      "url": "https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b"
+    },
+    {
+      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
       },
@@ -7593,6 +7611,24 @@
     },
     {
       "album": {
+        "name": "I Couldn't Fake It",
+        "url": "https://open.spotify.com/album/5zkYiEQ4IiHNmwn4S5Jj1q"
+      },
+      "artists": [
+        {
+          "name": "Capital Soiree",
+          "url": "https://open.spotify.com/artist/1sd5vbMAYXlLoJNTQfY0HV"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254466,
+      "name": "I Couldn't Fake It",
+      "url": "https://open.spotify.com/track/6k6S32in5u0FCgJCnvtV6u"
+    },
+    {
+      "album": {
         "name": "I Don't Want To Miss A Thing EP",
         "url": "https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3"
       },
@@ -10036,6 +10072,24 @@
       "duration_ms": 206458,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/1HfMVBKM75vxSfsQ5VefZ5"
+    },
+    {
+      "album": {
+        "name": "Mellow Gold",
+        "url": "https://open.spotify.com/album/1M1dhwZE65bqGfbUdMzvlj"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5NTZM8YYeKM2YsGSffVIge"
     },
     {
       "album": {
@@ -14029,6 +14083,24 @@
     },
     {
       "album": {
+        "name": "Bienvenido",
+        "url": "https://open.spotify.com/album/4zzJAKl9AfkUrlMUlrHkIO"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228204,
+      "name": "Say No More",
+      "url": "https://open.spotify.com/track/011Jwus1f7xJCyXQ4bNMbA"
+    },
+    {
+      "album": {
         "name": "Is There Anybody Out There?",
         "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
       },
@@ -15214,6 +15286,24 @@
       "duration_ms": 237780,
       "name": "Soul Mate",
       "url": "https://open.spotify.com/track/2xo3D4eKXs19ISgTcICbua"
+    },
+    {
+      "album": {
+        "name": "Strangeland",
+        "url": "https://open.spotify.com/album/6JWc4iAiJ9FjyK0B59ABb4"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218840,
+      "name": "Sovereign Light Caf\u00e9",
+      "url": "https://open.spotify.com/track/4QRkCwqwHFaZ7xeoR9CHL6"
     },
     {
       "album": {
