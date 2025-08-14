@@ -6245,6 +6245,24 @@
     },
     {
       "album": {
+        "name": "Candy From A Stranger",
+        "url": "https://open.spotify.com/album/75SNKsajA0KAlKJUQsrdwQ"
+      },
+      "artists": [
+        {
+          "name": "Jens Lekman",
+          "url": "https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225026,
+      "name": "Candy From A Stranger",
+      "url": "https://open.spotify.com/track/6pksOlkyBdrRZbMsuyDYO0"
+    },
+    {
+      "album": {
         "name": "Candy Rain",
         "url": "https://open.spotify.com/album/0GmC4fd7RwxsFoo5Ht4nKp"
       },
@@ -6674,7 +6692,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 206840,
       "name": "Caught Up On You",
       "url": "https://open.spotify.com/track/5AVbJXMVdVwcY9KzIK0VXY"
@@ -9396,6 +9414,24 @@
       "duration_ms": 186466,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V"
+    },
+    {
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/2wKWnv20DzkEJCuz3c9EWV"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234347,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/3NRMx8ZKh6OHPotPxW4O4C"
     },
     {
       "album": {
@@ -15178,6 +15214,24 @@
       "duration_ms": 192451,
       "name": "Grow Up Tomorrow",
       "url": "https://open.spotify.com/track/3ZSg0BeC4BU4t7JXnpDbCK"
+    },
+    {
+      "album": {
+        "name": "Gunslinger",
+        "url": "https://open.spotify.com/album/72J2Yu2M2hxayHP1La9Qwx"
+      },
+      "artists": [
+        {
+          "name": "Natalie Bergman",
+          "url": "https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207254,
+      "name": "Gunslinger",
+      "url": "https://open.spotify.com/track/3Jxg0rsL9ue8vssskTI7aN"
     },
     {
       "album": {
@@ -25887,6 +25941,24 @@
     },
     {
       "album": {
+        "name": "Wolastoqiyik Lintuwakonawa",
+        "url": "https://open.spotify.com/album/0C30aelNKP4cCkFKOyj8hy"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Dutcher",
+          "url": "https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286970,
+      "name": "Mehcinut",
+      "url": "https://open.spotify.com/track/3lkQb0PMZ19gyvB0qFKu2m"
+    },
+    {
+      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/5ei12KxBgQem1h0602ewLf"
       },
@@ -30368,6 +30440,24 @@
       "duration_ms": 140506,
       "name": "Panic - 2011 Remaster",
       "url": "https://open.spotify.com/track/64D3dzWyj0GpQT1AHx4kbK"
+    },
+    {
+      "album": {
+        "name": "pinball wanderer",
+        "url": "https://open.spotify.com/album/1VIHPyFmEF1W0NmjuKfq1w"
+      },
+      "artists": [
+        {
+          "name": "Andy Bell",
+          "url": "https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248240,
+      "name": "panic attack",
+      "url": "https://open.spotify.com/track/1p1aiOTMWmyOWd7kpJgXkH"
     },
     {
       "album": {
@@ -36650,6 +36740,24 @@
       "duration_ms": 212414,
       "name": "Space and Time",
       "url": "https://open.spotify.com/track/64xkEle4HvvF6uegKQRl9V"
+    },
+    {
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227093,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
     },
     {
       "album": {

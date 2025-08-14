@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,097 songs - 2 day 17 hr 16 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,103 songs - 2 day 17 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1105,5 +1105,11 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 | 1095 | [Say No More](https://open.spotify.com/track/011Jwus1f7xJCyXQ4bNMbA) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Bienvenido](https://open.spotify.com/album/4zzJAKl9AfkUrlMUlrHkIO) | 3:48 |
 | 1096 | [I Couldn't Fake It](https://open.spotify.com/track/6k6S32in5u0FCgJCnvtV6u) | [Capital Soiree](https://open.spotify.com/artist/1sd5vbMAYXlLoJNTQfY0HV) | [I Couldn't Fake It](https://open.spotify.com/album/5zkYiEQ4IiHNmwn4S5Jj1q) | 4:14 |
 | 1097 | [Loser](https://open.spotify.com/track/5NTZM8YYeKM2YsGSffVIge) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/1M1dhwZE65bqGfbUdMzvlj) | 3:55 |
+| 1098 | [Rose Pink Cadillac](https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/2VaOn32haUapQOYnerK32W) | 4:21 |
+| 1099 | [Last Night on Earth](https://open.spotify.com/track/5TpPSTItCwtZ8Sltr3vdzm) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 3:56 |
+| 1100 | [Believe \(Triple J Like A Version\)](https://open.spotify.com/track/24oDOsC6NhYkgKQUcpLBIm) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Believe \(Triple J Like A Version\)](https://open.spotify.com/album/3RNhkVTNmEXUSNeVt5S2AJ) | 3:17 |
+| 1101 | [Mundane](https://open.spotify.com/track/7dHGvkYkUy0awR7wPpvc17) | [Hardcastle](https://open.spotify.com/artist/6L95H90mXRQPcFar4Q7tAm) | [Hardcastle: 2018 \- 2020](https://open.spotify.com/album/6VgjjA4kAOIdkpmEbYHdl1) | 3:07 |
+| 1102 | [Kerosene](https://open.spotify.com/track/4oO61WlGgW7My1MjtMd2d0) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Kerosene](https://open.spotify.com/album/1sy71MBVudrlaboYrmgTmJ) | 3:14 |
+| 1103 | [Someday](https://open.spotify.com/track/4LOj7r7dNiGQHD1Ixtl3dd) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Someday](https://open.spotify.com/album/62ZCpVRnSLUpGikEBQgNKF) | 3:01 |
 
-Snapshot ID: `AAAEhRvNSARp7UFNqZLBP6Av6N7EWPn+`
+Snapshot ID: `AAAEiyEV9Mf7yMsmrD4TF49a0o+JaEG8`

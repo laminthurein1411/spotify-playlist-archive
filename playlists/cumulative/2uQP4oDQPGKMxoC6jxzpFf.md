@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,544 songs - 6 day 15 hr 3 min
+2,550 songs - 6 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Can't Wait Till Christmas](https://open.spotify.com/track/5EFDul5zvAw4yI3SV38cbP) | [jacksoul](https://open.spotify.com/artist/3xEW8BqMGXWkxTZbQhtnLE) | [Can't Wait Till Christmas](https://open.spotify.com/album/2P5W3sdpuzWJ7C9dvHjiQA) | 3:41 | 2024-12-23 |  |
 | [Candied Tangerines](https://open.spotify.com/track/0Y54daRRFZ6hizyMFzB2mL) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Candied Tangerines](https://open.spotify.com/album/0NKbmNpqQlTucTSbnA2fag) | 3:08 | 2025-03-23 |  |
 | [Candy Cane Lane](https://open.spotify.com/track/4KevTcBXEIYxXVyPE78XXm) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:32 | 2024-12-22 |  |
+| [Candy From A Stranger](https://open.spotify.com/track/6pksOlkyBdrRZbMsuyDYO0) | [Jens Lekman](https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx) | [Candy From A Stranger](https://open.spotify.com/album/75SNKsajA0KAlKJUQsrdwQ) | 3:45 | 2025-08-13 |  |
 | [Candy Rain](https://open.spotify.com/track/4j1Bk0BEIGCF9hR7cSwl9d) | [Soul For Real](https://open.spotify.com/artist/296LotOmbj7eOX7r9l46fK) | [Candy Rain](https://open.spotify.com/album/0GmC4fd7RwxsFoo5Ht4nKp) | 4:36 | 2024-12-05 |  |
 | [Canned Heat](https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Synkronized](https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv) | 5:31 | 2025-06-15 |  |
 | [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 | 2024-11-25 |  |
@@ -365,7 +366,7 @@
 | [Catch Me If You Can](https://open.spotify.com/track/7x5GAOhV1vACPQ289L8pzE) | [Tokyo Police Club](https://open.spotify.com/artist/3wyfo3svXNWnszGAEVey11) | [Just A Scratch // Catch Me If You Can](https://open.spotify.com/album/3HoaqxO8oCf0VlOh7UL2s3) | 3:10 | 2024-12-22 |  |
 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 | 2025-05-16 |  |
 | [Caught Up On You](https://open.spotify.com/track/3QjAG3LVB0P5x251vwinVm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Caught Up On You](https://open.spotify.com/album/6ICcS5WGbZr33DESzK9Xiq) | 3:26 | 2024-11-22 |  |
-| [Caught Up On You](https://open.spotify.com/track/5AVbJXMVdVwcY9KzIK0VXY) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:26 | 2025-05-02 | 2025-07-16 |
+| [Caught Up On You](https://open.spotify.com/track/5AVbJXMVdVwcY9KzIK0VXY) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:26 | 2025-05-02 |  |
 | [Cause = Time](https://open.spotify.com/track/5c0szSLiATMRIoHDixTOyf) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/5v5kO1pT4VIDPxUg0WayIS) | 5:30 | 2025-01-02 |  |
 | [Cavale](https://open.spotify.com/track/4uuJfZByuwD0ePKqQVozQY) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cavale](https://open.spotify.com/album/7zzOJDLD3vAL3tP8pQaJu3) | 3:43 | 2025-06-25 |  |
 | [Cave](https://open.spotify.com/track/4A8yDdwEYIQD2A8Ugd4Ume) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Never Better](https://open.spotify.com/album/6jOix6QfFFmpNXx3to7Sct) | 2:58 | 2025-01-20 |  |
@@ -513,6 +514,7 @@
 | [Deny, Deny, Deny](https://open.spotify.com/track/3GKpK68puUbxiVPAOZREEm) | [Two Hours Traffic](https://open.spotify.com/artist/2rkfMwg8RG78rGsWbGZ4tU) | [Deny, Deny, Deny](https://open.spotify.com/album/04dhcajaMoqmbt4oTrZ01W) | 2:33 | 2025-04-16 |  |
 | [Desire](https://open.spotify.com/track/4D01oA1mGouaAT7fubvKRT) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 2:59 | 2025-04-12 |  |
 | [Desperado](https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:06 | 2025-03-07 |  |
+| [Devotion](https://open.spotify.com/track/3NRMx8ZKh6OHPotPxW4O4C) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Devotion](https://open.spotify.com/album/2wKWnv20DzkEJCuz3c9EWV) | 3:54 | 2025-08-13 |  |
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2025-01-13 |  |
 | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe) | 3:33 | 2024-12-07 |  |
 | [Diamond](https://open.spotify.com/track/2wcRPZEV6gqUkCYhO1ARiz) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Loneliness Confetti](https://open.spotify.com/album/0Cinqm0u7kj6hQc1CIFjxu) | 3:19 | 2024-11-23 |  |
@@ -822,6 +824,7 @@
 | [Grieving](https://open.spotify.com/track/284nns1osTQ4MWtZuCidtd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Grieving](https://open.spotify.com/album/4SuTiRXMQeSQG6VhlPI3at) | 3:16 | 2025-05-17 |  |
 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 | 2024-11-29 |  |
 | [Grow Up Tomorrow](https://open.spotify.com/track/3ZSg0BeC4BU4t7JXnpDbCK) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Grow Up Tomorrow](https://open.spotify.com/album/7EhGibh7Pjq8f9Gn95tyVw) | 3:12 | 2024-11-24 |  |
+| [Gunslinger](https://open.spotify.com/track/3Jxg0rsL9ue8vssskTI7aN) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [Gunslinger](https://open.spotify.com/album/72J2Yu2M2hxayHP1La9Qwx) | 3:27 | 2025-08-13 |  |
 | [Half Empty](https://open.spotify.com/track/0NXt9NfHjlEJNXplC11xVy) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Three Rocks and a Slingshot](https://open.spotify.com/album/0ruEs6gcbL2jDvNsyVV5oF) | 3:24 | 2024-11-22 |  |
 | [Half\-Built Buildings](https://open.spotify.com/track/35tdVMfCQIAjBXgCPOxh7S) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Half\-Built Buildings](https://open.spotify.com/album/5c6EB9pqWchgiwUtN39Jl2) | 4:28 | 2024-12-16 |  |
 | [Halfway Broken](https://open.spotify.com/track/5U9WcuBcbcI4mIXvv175On) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Halfway Broken](https://open.spotify.com/album/6roIpbmKIBVXtsFHN4vrg0) | 3:14 | 2024-11-22 |  |
@@ -1395,6 +1398,7 @@
 | [Meaningless](https://open.spotify.com/track/6xrQkzFMwF4FFHezzS2VRG) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Phoenix](https://open.spotify.com/album/4l1MLKyDun3edi5lrDwtZG) | 3:37 | 2024-11-25 |  |
 | [Means I care](https://open.spotify.com/track/63bgBHUBX1rutghlrXZrvp) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:55 | 2025-05-09 |  |
 | [Medicine](https://open.spotify.com/track/28xPS2Els3jTO6pdgp2znH) | [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [Medicine](https://open.spotify.com/album/39D1A6YzvcAGdELvfnh9YG) | 2:42 | 2025-01-05 |  |
+| [Mehcinut](https://open.spotify.com/track/3lkQb0PMZ19gyvB0qFKu2m) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Wolastoqiyik Lintuwakonawa](https://open.spotify.com/album/0C30aelNKP4cCkFKOyj8hy) | 4:46 | 2025-08-13 |  |
 | [Melody Noir](https://open.spotify.com/track/2bbSVNYmAga2ISIgJ3JDM0) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [Wave](https://open.spotify.com/album/5ei12KxBgQem1h0602ewLf) | 3:15 | 2025-07-14 |  |
 | [Melt Session \#1 \[Feat\. Robert Glasper\]](https://open.spotify.com/track/1GmIFHYT3N2V3G0MoYhEil) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 4:01 | 2024-12-31 |  |
 | [Mercy Mercy](https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Mercy Mercy](https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB) | 2:58 | 2025-04-03 | 2025-07-16 |
@@ -1633,6 +1637,7 @@
 | [Pale Blue Eyes](https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pale Blue Eyes](https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D) | 3:09 | 2025-03-26 |  |
 | [Panama](https://open.spotify.com/track/62lj1EK8zKPNIn1c5SAPaJ) | [the bird and the bee](https://open.spotify.com/artist/65XA3lk0aG9XejO8y37jjD) | [Panama](https://open.spotify.com/album/0VrxaIhT1UwvilcB0cheLn) | 3:36 | 2025-05-19 |  |
 | [Panic \- 2011 Remaster](https://open.spotify.com/track/64D3dzWyj0GpQT1AHx4kbK) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 2:20 | 2025-04-16 |  |
+| [panic attack](https://open.spotify.com/track/1p1aiOTMWmyOWd7kpJgXkH) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [pinball wanderer](https://open.spotify.com/album/1VIHPyFmEF1W0NmjuKfq1w) | 4:08 | 2025-08-13 |  |
 | [Panic Attack](https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB) | 3:36 | 2024-11-28 |  |
 | [paper thin](https://open.spotify.com/track/4NevvmFYtCLxRvhAcNVhOB) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [eleven achers](https://open.spotify.com/album/5D2AToXPxIC5cBdbdOXHsM) | 3:06 | 2025-03-09 |  |
 | [Parade](https://open.spotify.com/track/0IU4OKwXvonfR3e3c49NAJ) | [Frontperson](https://open.spotify.com/artist/1WnOzyhRKLqKr7XXFcGMaf) | [Parade](https://open.spotify.com/album/2BbzNzMie146Tavq92CMth) | 3:11 | 2025-05-26 |  |
@@ -1970,6 +1975,7 @@
 | [Space](https://open.spotify.com/track/0gPJ080ZnDYqvySeZrnxxF) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Space](https://open.spotify.com/album/6An6N0j01qH7cOfGkaqBbJ) | 3:27 | 2025-02-22 |  |
 | [Space and Time](https://open.spotify.com/track/4V5rRfySgxrUbUz4ZvbcI4) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Space and Time](https://open.spotify.com/album/5mTbBJkYvytrLD7xoEcw4n) | 3:32 | 2024-11-21 |  |
 | [Space and Time](https://open.spotify.com/track/64xkEle4HvvF6uegKQRl9V) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Who I Am](https://open.spotify.com/album/3r8dj1ruZN0PGP7dFjZhfo) | 3:32 | 2025-08-05 |  |
+| [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 | 2025-08-13 |  |
 | [Special](https://open.spotify.com/track/3osBuOGzBR4wCFd5oHm0Un) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Version 2.0 \(20th Anniversary Deluxe Edition / Remastered\)](https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk) | 3:43 | 2025-01-07 |  |
 | [Special Occasion](https://open.spotify.com/track/4aFJx6fZT77kyMBYHDFIJP) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/2xkNgt8gOlCVVaURcRnj6P) | 4:31 | 2025-05-12 |  |
 | [Speed of Sound](https://open.spotify.com/track/7clUVcSOtkNWa58Gw5RfD4) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:47 | 2025-01-22 |  |

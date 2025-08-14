@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1bXE7Pyusw2lDjPiTdqwk2.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 395 songs - 1 day 1 hr 42 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 396 songs - 1 day 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -403,5 +403,6 @@ pretty - [cumulative](/playlists/cumulative/1bXE7Pyusw2lDjPiTdqwk2.md) - [plain]
 | 393 | [No Surprises \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/track/0ur0BoMX0LcblJzYsQxAS1) | [Jeremiah Fraites](https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Surprises \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/album/3NzR0FrJVJsw1vF2TfUPQc) | 4:17 |
 | 394 | [The Parting Glass](https://open.spotify.com/track/4zkjFX7owLylo1O2iL95ur) | [The Clancy Brothers & Tommy Makem](https://open.spotify.com/artist/1qbwKI8FXh805XrxaOex4P) | [Irish Folk Collection \- 40 Tracks for St Patrick's Day](https://open.spotify.com/album/6zIKCZ5kl5yJs3vB7zgkR8) | 2:43 |
 | 395 | [The Parting Glass \- Live from the Late Late Show](https://open.spotify.com/track/782her82K8V3a1JAL6LBbJ) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The Parting Glass \(Live from the Late Late Show\)](https://open.spotify.com/album/53AzSufY9kjmbz1BELRn2A) | 2:15 |
+| 396 | [Someday](https://open.spotify.com/track/4LOj7r7dNiGQHD1Ixtl3dd) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Someday](https://open.spotify.com/album/62ZCpVRnSLUpGikEBQgNKF) | 3:01 |
 
-Snapshot ID: `AAABgzjwKSxTxbIx16jZmDNSFImP5Pu0`
+Snapshot ID: `AAABhOrpw3Yf3wELhCsR8S4lFxlZMvgL`

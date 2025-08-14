@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAEhRvNSARp7UFNqZLBP6Av6N7EWPn+",
+  "snapshot_id": "AAAEiyEV9Mf7yMsmrD4TF49a0o+JaEG8",
   "tracks": [
     {
       "added_at": "2019-12-20 13:17:42",
@@ -18431,6 +18431,102 @@
       "duration_ms": 235000,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5NTZM8YYeKM2YsGSffVIge"
+    },
+    {
+      "added_at": "2025-08-13 04:28:54",
+      "album": {
+        "name": "Rose Pink Cadillac",
+        "url": "https://open.spotify.com/album/2VaOn32haUapQOYnerK32W"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 261911,
+      "name": "Rose Pink Cadillac",
+      "url": "https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB"
+    },
+    {
+      "added_at": "2025-08-13 04:42:09",
+      "album": {
+        "name": "21st Century Breakdown",
+        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "Last Night on Earth",
+      "url": "https://open.spotify.com/track/5TpPSTItCwtZ8Sltr3vdzm"
+    },
+    {
+      "added_at": "2025-08-13 10:26:33",
+      "album": {
+        "name": "Believe (Triple J Like A Version)",
+        "url": "https://open.spotify.com/album/3RNhkVTNmEXUSNeVt5S2AJ"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 197594,
+      "name": "Believe (Triple J Like A Version)",
+      "url": "https://open.spotify.com/track/24oDOsC6NhYkgKQUcpLBIm"
+    },
+    {
+      "added_at": "2025-08-13 10:39:03",
+      "album": {
+        "name": "Hardcastle: 2018 - 2020",
+        "url": "https://open.spotify.com/album/6VgjjA4kAOIdkpmEbYHdl1"
+      },
+      "artists": [
+        {
+          "name": "Hardcastle",
+          "url": "https://open.spotify.com/artist/6L95H90mXRQPcFar4Q7tAm"
+        }
+      ],
+      "duration_ms": 187767,
+      "name": "Mundane",
+      "url": "https://open.spotify.com/track/7dHGvkYkUy0awR7wPpvc17"
+    },
+    {
+      "added_at": "2025-08-13 10:45:45",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/1sy71MBVudrlaboYrmgTmJ"
+      },
+      "artists": [
+        {
+          "name": "The Royston Club",
+          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
+        }
+      ],
+      "duration_ms": 194217,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/4oO61WlGgW7My1MjtMd2d0"
+    },
+    {
+      "added_at": "2025-08-13 10:51:58",
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/62ZCpVRnSLUpGikEBQgNKF"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 181054,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/4LOj7r7dNiGQHD1Ixtl3dd"
     }
   ],
   "unique_name": "Western Songs",
