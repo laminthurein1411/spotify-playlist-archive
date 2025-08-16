@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5v2TvKCgsOTfBoWP4SEa3U.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 19 songs - 1 hr 16 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 20 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,5 +27,6 @@ pretty - [cumulative](/playlists/cumulative/5v2TvKCgsOTfBoWP4SEa3U.md) - [plain]
 | 17 | [Days Pass](https://open.spotify.com/track/7vRPLFjO47TOp55JdMDCM1) | [Adrián Berenguer](https://open.spotify.com/artist/7rIUiy8qJEFQ5oooWdnhQv) | [The Art of Loneliness](https://open.spotify.com/album/5BC4EGIInYVEQ7N0YU6FLd) | 2:55 |
 | 18 | [Carmina Burana: O Fortuna](https://open.spotify.com/track/6xez71zpAqQ6N5i8E1jHlD) | [Carl Orff](https://open.spotify.com/artist/4LXxsm5BF85PWnQ1dUDAze), [Michael Tilson Thomas](https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78), [The Cleveland Orchestra Chorus](https://open.spotify.com/artist/7i7P0aNPsW6hJVtHQUk2fm), [The Cleveland Orchestra](https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz) | [Orff: Carmina Burana](https://open.spotify.com/album/6qhs0KJyOcA7CERbkddjtE) | 2:24 |
 | 19 | [Symphony No\. 9 in E Minor, Op\. 95, B\. 178 "From the New World": IV\. Allegro con fuoco](https://open.spotify.com/track/6nqHzwOdGIaX57U6VU6kMO) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) | [Dvorák: Symphony No\. 9 in E Minor, Op\. 95, B\. 178 "From the New World" / Smetana: The Moldau](https://open.spotify.com/album/6FMu88LoghMcmme2aDkK3S) | 11:25 |
+| 20 | [Symphony No\. 5 in B\-flat Major, WAB 105: I\. Introduktion: Adagio, Allegro \- 2024 Remastered, Ottobeuren 1964](https://open.spotify.com/track/2jBoiQdG7XaN7jfVowb0fP) | [Anton Bruckner](https://open.spotify.com/artist/2bM3j1JQWBkmzuoZKu4zj2), [Eugen Jochum](https://open.spotify.com/artist/6XVxGOzn7c2rLi1GpXxm5v), [Royal Concertgebouw Orchestra](https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ) | [Bruckner: Symphony No\. 5 by Eugen Jochum \(2024 Remastered, Ottobeuren 1964\)](https://open.spotify.com/album/3cKHRYHg668f3TXMNfBVkz) | 21:03 |
 
-Snapshot ID: `AAAAFEF4NIDI5x94+Wy4G2RV05y6Ek4h`
+Snapshot ID: `AAAAFaPwxLgvB0vZGd6UkIWel1nl0ffW`

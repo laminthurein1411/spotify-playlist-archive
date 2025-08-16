@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,553 songs - 6 day 15 hr 41 min
+2,555 songs - 6 day 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1988,6 +1988,7 @@
 | [Spirits](https://open.spotify.com/track/60T49w6pqDRRVJQ2hWUd1c) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Spirits](https://open.spotify.com/album/546Fl3Gns3Fttgm5bdRO1Y) | 3:14 | 2025-02-02 |  |
 | [Spit It Out \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/73pICiosjURf6HJ6XEoexu) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [TIMELESS](https://open.spotify.com/album/4kPTj6wYQUYtgBOZb1E6Pg) | 3:38 | 2024-11-22 |  |
 | [Stadium Pow Wow](https://open.spotify.com/track/10qUlM8qSsDUoEaw4vNFeJ) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z), [Black Bear](https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7) | [Stadium Pow Wow](https://open.spotify.com/album/3cfp4IU8MrGQcxqSShCgA6) | 3:27 | 2025-06-21 |  |
+| [Stage Fright \- Remastered 2000](https://open.spotify.com/track/7uYK13jsmGi8flq2bF6r90) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA), [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Stage Fright \(Expanded Edition\)](https://open.spotify.com/album/4AxJWv0DDSY96U5ETJcCaY) | 3:43 | 2025-08-15 |  |
 | [Stand By Me](https://open.spotify.com/track/3azS2MvwBQ1ekjIXCzVXEr) | [Bearhead Sisters](https://open.spotify.com/artist/3lM0lK4jIbgoZTOfxisYcH) | [Women's Journey](https://open.spotify.com/album/0tCB9ISvkCoyhAraeW3mcJ) | 3:52 | 2025-07-01 |  |
 | [Star Stuff](https://open.spotify.com/track/4E2sMQHmVlmtN3y8S3iwhy) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/4OE2TQWRlPmYqiJiXsXjL0) | 2:55 | 2024-12-09 |  |
 | [Stardust](https://open.spotify.com/track/66FerF4GcQwGFfez0UaYfi) | [Scenic Route to Alaska](https://open.spotify.com/artist/4tUP4gz64sNmLHP1M2eLI5) | [Lasts Forever](https://open.spotify.com/album/6k0fvuLvsYeYlUwLJHP99Z) | 2:53 | 2025-05-17 |  |
@@ -2193,6 +2194,7 @@
 | [The Sound Of Silence](https://open.spotify.com/track/0P15IgSE0jbe0z7t7jvDf7) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Closer To Grey](https://open.spotify.com/album/6A6RTFXwJWesdPhSGnm0tF) | 3:16 | 2025-07-18 |  |
 | [The Spark](https://open.spotify.com/track/236i6yL5HtpbhWaT3LfJ8T) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Reliever](https://open.spotify.com/album/2jBD9PXFlLAMqitGuwOkbE) | 3:59 | 2025-01-12 |  |
 | [The Steps](https://open.spotify.com/track/5X2RisOZS9i5MsR8EVw58p) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 4:07 | 2025-02-09 |  |
+| [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-15 |  |
 | [The Sun Ain't Gonna Shine Anymore](https://open.spotify.com/track/3TnyLQBnHK78w1MKK5v0mf) | [Absolutely Free](https://open.spotify.com/artist/5DD56TbdQI5Xe9c8YSiTj5) | [The Sun Ain't Gonna Shine Anymore](https://open.spotify.com/album/0BVj44SkZKLBS3dQ5ipFGF) | 4:15 | 2025-06-28 |  |
 | [The Sweetest Taboo](https://open.spotify.com/track/4LrGrY6IyJUlkFu6Ms4myU) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:36 | 2025-07-19 |  |
 | [The Thing That Wrecks You](https://open.spotify.com/track/4ZT5geWeKg8Ar3IR2Gj22I) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Thing That Wrecks You](https://open.spotify.com/album/0WV6Fl639FaUQIJHTTjuOp) | 3:40 | 2025-05-12 |  |
@@ -2325,7 +2327,7 @@
 | [Umbrella](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:35 | 2025-02-11 |  |
 | [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 | 2025-05-11 |  |
 | [Underground](https://open.spotify.com/track/1yjsa9lWFeBPRNJbjGgmfV) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Underground](https://open.spotify.com/album/0I7IPohZdSKzNW3I5wRvcc) | 3:56 | 2024-11-26 |  |
-| [Underground](https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 3:56 | 2025-05-07 | 2025-07-16 |
+| [Underground](https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 3:56 | 2025-05-07 |  |
 | [Underwhelmed](https://open.spotify.com/track/7EPKTiAQSvu9HwZDqvGelg) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Smeared](https://open.spotify.com/album/4wyn8yXUI03KqajP3dHjSf) | 4:45 | 2025-08-09 |  |
 | [Une complainte dans le vent](https://open.spotify.com/track/0zSZP60JUfEWK9igY61Mlk) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Impossible à aimer](https://open.spotify.com/album/1k6lh8sWWBUuJQDqqW10XX) | 3:01 | 2024-12-07 |  |
 | [Unfortunate Love](https://open.spotify.com/track/3pFRVfJES5n3XF3XHWSxPP) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl), [Darren Frank](https://open.spotify.com/artist/6lHdlehZ5EbJk6nAYgxvvI) | [Aware](https://open.spotify.com/album/56DKqBFOzZBgmWCV5010wz) | 4:30 | 2025-01-24 |  |

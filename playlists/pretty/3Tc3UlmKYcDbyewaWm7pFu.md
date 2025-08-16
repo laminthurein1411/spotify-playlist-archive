@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,103 songs - 2 day 17 hr 37 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,105 songs - 2 day 17 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1111,5 +1111,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 | 1101 | [Mundane](https://open.spotify.com/track/7dHGvkYkUy0awR7wPpvc17) | [Hardcastle](https://open.spotify.com/artist/6L95H90mXRQPcFar4Q7tAm) | [Hardcastle: 2018 \- 2020](https://open.spotify.com/album/6VgjjA4kAOIdkpmEbYHdl1) | 3:07 |
 | 1102 | [Kerosene](https://open.spotify.com/track/4oO61WlGgW7My1MjtMd2d0) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Kerosene](https://open.spotify.com/album/1sy71MBVudrlaboYrmgTmJ) | 3:14 |
 | 1103 | [Someday](https://open.spotify.com/track/4LOj7r7dNiGQHD1Ixtl3dd) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Someday](https://open.spotify.com/album/62ZCpVRnSLUpGikEBQgNKF) | 3:01 |
+| 1104 | [So Far So Fake](https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 3:56 |
+| 1105 | [Like a Stone](https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:53 |
 
-Snapshot ID: `AAAEiyEV9Mf7yMsmrD4TF49a0o+JaEG8`
+Snapshot ID: `AAAEjX/khQLn/kQ8rjZR5OUW1Jjo3aQf`

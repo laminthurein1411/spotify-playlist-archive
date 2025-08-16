@@ -36985,6 +36985,28 @@
     },
     {
       "album": {
+        "name": "Stage Fright (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4AxJWv0DDSY96U5ETJcCaY"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        },
+        {
+          "name": "Todd Rundgren",
+          "url": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223693,
+      "name": "Stage Fright - Remastered 2000",
+      "url": "https://open.spotify.com/track/7uYK13jsmGi8flq2bF6r90"
+    },
+    {
+      "album": {
         "name": "Women's Journey",
         "url": "https://open.spotify.com/album/0tCB9ISvkCoyhAraeW3mcJ"
       },
@@ -40803,6 +40825,24 @@
     },
     {
       "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
+    {
+      "album": {
         "name": "The Sun Ain't Gonna Shine Anymore",
         "url": "https://open.spotify.com/album/0BVj44SkZKLBS3dQ5ipFGF"
       },
@@ -43310,7 +43350,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 236840,
       "name": "Underground",
       "url": "https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa"

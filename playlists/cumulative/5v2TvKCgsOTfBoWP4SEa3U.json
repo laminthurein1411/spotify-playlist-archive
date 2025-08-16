@@ -379,6 +379,32 @@
     },
     {
       "album": {
+        "name": "Bruckner: Symphony No. 5 by Eugen Jochum (2024 Remastered, Ottobeuren 1964)",
+        "url": "https://open.spotify.com/album/3cKHRYHg668f3TXMNfBVkz"
+      },
+      "artists": [
+        {
+          "name": "Anton Bruckner",
+          "url": "https://open.spotify.com/artist/2bM3j1JQWBkmzuoZKu4zj2"
+        },
+        {
+          "name": "Eugen Jochum",
+          "url": "https://open.spotify.com/artist/6XVxGOzn7c2rLi1GpXxm5v"
+        },
+        {
+          "name": "Royal Concertgebouw Orchestra",
+          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1263000,
+      "name": "Symphony No. 5 in B-flat Major, WAB 105: I. Introduktion: Adagio, Allegro - 2024 Remastered, Ottobeuren 1964",
+      "url": "https://open.spotify.com/track/2jBoiQdG7XaN7jfVowb0fP"
+    },
+    {
+      "album": {
         "name": "Dvor\u00e1k: Symphony No. 9 in E Minor, Op. 95, B. 178 \"From the New World\" / Smetana: The Moldau",
         "url": "https://open.spotify.com/album/6FMu88LoghMcmme2aDkK3S"
       },
