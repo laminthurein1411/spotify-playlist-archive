@@ -3657,6 +3657,24 @@
     },
     {
       "album": {
+        "name": "Year Of The Gentleman",
+        "url": "https://open.spotify.com/album/6dC6J5qkPcJ1iGshEN5MpX"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234360,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0GX5oOKtU0nnx5OkhenW2i"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
       },
@@ -4586,6 +4604,24 @@
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "album": {
+        "name": "Diet Pepsi (Live from 2025 Las Culturistas Culture Awards)",
+        "url": "https://open.spotify.com/album/6lZqIyM1KoSFp9OH6AAkTq"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194083,
+      "name": "Diet Pepsi - Live from 2025 Las Culturistas Culture Awards",
+      "url": "https://open.spotify.com/track/2LtosLi7dutfc3ZxFBEdAL"
     },
     {
       "album": {
@@ -11543,6 +11579,24 @@
     },
     {
       "album": {
+        "name": "Yes, Virginia",
+        "url": "https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR"
+      },
+      "artists": [
+        {
+          "name": "The Dresden Dolls",
+          "url": "https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167680,
+      "name": "My Alcoholic Friends",
+      "url": "https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso"
+    },
+    {
+      "album": {
         "name": "Revelation",
         "url": "https://open.spotify.com/album/3cZL4sLAaAYjrY7DQl5lC9"
       },
@@ -12294,6 +12348,24 @@
       "duration_ms": 195120,
       "name": "Notion",
       "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
+    },
+    {
+      "album": {
+        "name": "Notion (Acoustic)",
+        "url": "https://open.spotify.com/album/3wvVU9PeAD4ZOCsX1DSmPi"
+      },
+      "artists": [
+        {
+          "name": "The Rare Occasions",
+          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195503,
+      "name": "Notion - Acoustic",
+      "url": "https://open.spotify.com/track/4Xw8WDsBrcdtw9wHMFwKYb"
     },
     {
       "album": {

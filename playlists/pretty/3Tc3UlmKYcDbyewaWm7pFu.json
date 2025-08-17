@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAEjX/khQLn/kQ8rjZR5OUW1Jjo3aQf",
+  "snapshot_id": "AAAEkRF2uHbl1UsP4uR7vee4KYBbzWav",
   "tracks": [
     {
       "added_at": "2019-12-20 13:17:42",
@@ -18559,6 +18559,70 @@
       "duration_ms": 293960,
       "name": "Like a Stone",
       "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
+    },
+    {
+      "added_at": "2025-08-16 04:06:04",
+      "album": {
+        "name": "Diet Pepsi (Live from 2025 Las Culturistas Culture Awards)",
+        "url": "https://open.spotify.com/album/6lZqIyM1KoSFp9OH6AAkTq"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "duration_ms": 194083,
+      "name": "Diet Pepsi - Live from 2025 Las Culturistas Culture Awards",
+      "url": "https://open.spotify.com/track/2LtosLi7dutfc3ZxFBEdAL"
+    },
+    {
+      "added_at": "2025-08-16 11:08:55",
+      "album": {
+        "name": "Notion (Acoustic)",
+        "url": "https://open.spotify.com/album/3wvVU9PeAD4ZOCsX1DSmPi"
+      },
+      "artists": [
+        {
+          "name": "The Rare Occasions",
+          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
+        }
+      ],
+      "duration_ms": 195503,
+      "name": "Notion - Acoustic",
+      "url": "https://open.spotify.com/track/4Xw8WDsBrcdtw9wHMFwKYb"
+    },
+    {
+      "added_at": "2025-08-16 11:11:28",
+      "album": {
+        "name": "Yes, Virginia",
+        "url": "https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR"
+      },
+      "artists": [
+        {
+          "name": "The Dresden Dolls",
+          "url": "https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i"
+        }
+      ],
+      "duration_ms": 167680,
+      "name": "My Alcoholic Friends",
+      "url": "https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso"
+    },
+    {
+      "added_at": "2025-08-16 11:16:46",
+      "album": {
+        "name": "Year Of The Gentleman",
+        "url": "https://open.spotify.com/album/6dC6J5qkPcJ1iGshEN5MpX"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0GX5oOKtU0nnx5OkhenW2i"
     }
   ],
   "unique_name": "Western Songs",

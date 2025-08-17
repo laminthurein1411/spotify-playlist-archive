@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Northern Lights-Southern Cross (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fnE49AqsSBaLC62nfo3q1"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402506,
+      "name": "Acadian Driftwood - Remastered 2000",
+      "url": "https://open.spotify.com/track/6sJlkqZqUOLXjWKJrDgRmd"
+    },
+    {
+      "album": {
         "name": "Adagio",
         "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
       },
@@ -3724,7 +3742,7 @@
       ],
       "date_added": "2025-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 212773,
       "name": "Bend",
       "url": "https://open.spotify.com/track/2KbSpqx3616rgGoxIY5HwI"
@@ -19311,6 +19329,24 @@
     },
     {
       "album": {
+        "name": "Music From Big Pink (Remastered)",
+        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192104,
+      "name": "I Shall Be Released - Remastered 2000",
+      "url": "https://open.spotify.com/track/1IoRkyadylakMOukD7uN67"
+    },
+    {
+      "album": {
         "name": "My Love Divine Degree",
         "url": "https://open.spotify.com/album/1IsiXen1EXcsHlF5LVhUP0"
       },
@@ -31287,6 +31323,24 @@
     },
     {
       "album": {
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246960,
+      "name": "Pon de Replay",
+      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
+    },
+    {
+      "album": {
         "name": "Possibly Alaska",
         "url": "https://open.spotify.com/album/49wcI9B6Iarko0kcdyJC4B"
       },
@@ -33336,6 +33390,24 @@
       "duration_ms": 221881,
       "name": "Roots",
       "url": "https://open.spotify.com/track/786UosBZNpP00V9JQae8Cz"
+    },
+    {
+      "album": {
+        "name": "Heritage (Part One)",
+        "url": "https://open.spotify.com/album/3hvBFHhPPdRPKcEJauYQdx"
+      },
+      "artists": [
+        {
+          "name": "Shub",
+          "url": "https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237525,
+      "name": "Roots Run Deep",
+      "url": "https://open.spotify.com/track/5itMGciFMDy2KnatCYpeGi"
     },
     {
       "album": {
@@ -40443,6 +40515,24 @@
     },
     {
       "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211787,
+      "name": "The Night They Drove Old Dixie Down",
+      "url": "https://open.spotify.com/track/2nvcTDmZkRWKNMAL29sLHo"
+    },
+    {
+      "album": {
         "name": "Born on a Pirate Ship (Enhanced Edition)",
         "url": "https://open.spotify.com/album/0ZhGG0DUBuvVNyICBnHlpZ"
       },
@@ -41152,6 +41242,24 @@
       "duration_ms": 231000,
       "name": "The Ways I Punish Myself",
       "url": "https://open.spotify.com/track/4UiyIsi0G5UZohYDKkZpr5"
+    },
+    {
+      "album": {
+        "name": "Music From Big Pink (Remastered)",
+        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274493,
+      "name": "The Weight - Remastered 2000",
+      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
     },
     {
       "album": {
