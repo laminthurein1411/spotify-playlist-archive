@@ -252,7 +252,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 237252,
       "name": "116 West Main, Durham, NC",
       "url": "https://open.spotify.com/track/6U4Yvrh7VqIwYUQu7QkX4w"
@@ -5636,6 +5636,24 @@
       "duration_ms": 273440,
       "name": "Burnin Love",
       "url": "https://open.spotify.com/track/30uuYocMBzdEtcJTqFxC6U"
+    },
+    {
+      "album": {
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213173,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG"
     },
     {
       "album": {
@@ -25327,6 +25345,24 @@
     },
     {
       "album": {
+        "name": "Thee Black Boltz",
+        "url": "https://open.spotify.com/album/0MuAR8zcmZyGAwJcnkCpV1"
+      },
+      "artists": [
+        {
+          "name": "Tunde Adebimpe",
+          "url": "https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150908,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/3ffpAgPusYqOoQJmKWtnbW"
+    },
+    {
+      "album": {
         "name": "Magnetic",
         "url": "https://open.spotify.com/album/3P52UbRhg3RKPUHYzi1kFG"
       },
@@ -26184,6 +26220,24 @@
       "duration_ms": 211128,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/1iyu4sqRAln0vHlPiOfrTs"
+    },
+    {
+      "album": {
+        "name": "Mes sympathies",
+        "url": "https://open.spotify.com/album/6nug8dKzf1zge7Tsg5v07F"
+      },
+      "artists": [
+        {
+          "name": "Laurence H\u00e9lie",
+          "url": "https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284840,
+      "name": "Mes sympathies",
+      "url": "https://open.spotify.com/track/6XWLSX5OH4dU2WEYx0zH8H"
     },
     {
       "album": {
@@ -31472,6 +31526,24 @@
       "duration_ms": 323240,
       "name": "Praise You",
       "url": "https://open.spotify.com/track/3yGy1JYz3zQKlxSgjgpQqX"
+    },
+    {
+      "album": {
+        "name": "Praise You",
+        "url": "https://open.spotify.com/album/2RT7XJYngmx9fK4YS4Gt0b"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grace",
+          "url": "https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169050,
+      "name": "Praise You",
+      "url": "https://open.spotify.com/track/2AIjgEtKg9C4hq2OwRC3pw"
     },
     {
       "album": {

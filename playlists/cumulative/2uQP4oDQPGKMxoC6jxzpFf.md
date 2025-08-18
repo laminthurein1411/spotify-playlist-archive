@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,561 songs - 6 day 16 hr 15 min
+2,565 songs - 6 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [100 Days, 100 Nights](https://open.spotify.com/track/03PkUC7cfsjFERRSPxK0Eh) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [100 Days, 100 Nights](https://open.spotify.com/album/6GyF6sJs0yBOvVCVbYEK6V) | 3:45 | 2024-12-11 |  |
 | [100 Yard Dash](https://open.spotify.com/track/2OPANrnimcwWcVQuDk8ibD) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB) | 2:18 | 2024-11-29 |  |
 | [116 West Main, Durham, NC](https://open.spotify.com/track/4fw3YFz5Gk4ebwoI5YQelB) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [116 West Main, Durham, NC](https://open.spotify.com/album/5jWItxGvAWWVEL0bV7TuUI) | 3:57 | 2024-11-26 |  |
-| [116 West Main, Durham, NC](https://open.spotify.com/track/6U4Yvrh7VqIwYUQu7QkX4w) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Things Were Never Good If They're Not Good Now](https://open.spotify.com/album/2PP3lxuj6J2aWSF8kRfoRZ) | 3:57 | 2025-04-08 | 2025-07-16 |
+| [116 West Main, Durham, NC](https://open.spotify.com/track/6U4Yvrh7VqIwYUQu7QkX4w) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Things Were Never Good If They're Not Good Now](https://open.spotify.com/album/2PP3lxuj6J2aWSF8kRfoRZ) | 3:57 | 2025-04-08 |  |
 | [13](https://open.spotify.com/track/4pr2A1vgqaGJ1yj6hFr3aE) | [Allan Rayman](https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk) | [Roadhouse 01](https://open.spotify.com/album/3CbNgBzI7r9o0F6VjH9sTY) | 4:02 | 2025-06-29 |  |
 | [16 CARRIAGES](https://open.spotify.com/track/6XXxKsu3RJeN3ZvbMYrgQW) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:47 | 2025-08-03 |  |
 | [1979](https://open.spotify.com/track/6oHgB48IwxoauCc8JmbKGI) | [jacksoul](https://open.spotify.com/artist/3xEW8BqMGXWkxTZbQhtnLE) | [mySOUL](https://open.spotify.com/album/0qXCohVBpF3muXSZc9sDyJ) | 4:38 | 2025-01-21 |  |
@@ -309,6 +309,7 @@
 | [Burn That Bridge](https://open.spotify.com/track/50zIXVgn4BcRNubbQIsGeK) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Both Ways](https://open.spotify.com/album/7N2zsLq0Nd5FQQEEZYzoq2) | 3:27 | 2025-04-17 |  |
 | [Burn The Hard Drive \(feat\. Mura Masa\)](https://open.spotify.com/track/0NcSwjMDmstHIqrd5CL0sZ) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Burn The Hard Drive](https://open.spotify.com/album/3Ur6MPff5xkT9fDG2HJMUk) | 3:12 | 2024-11-26 |  |
 | [Burnin Love](https://open.spotify.com/track/30uuYocMBzdEtcJTqFxC6U) | [Shawnee Kish](https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ), [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [Burnin Love](https://open.spotify.com/album/0EAuMc1b78RmjJW98JmKfk) | 4:33 | 2024-11-25 |  |
+| [Burning](https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:33 | 2025-08-17 |  |
 | [Burning](https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:05 | 2024-12-08 |  |
 | [Burning Down the House](https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Burning Down the House](https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek) | 3:38 | 2025-01-09 |  |
 | [Burning Down the House \- 2005 Remaster](https://open.spotify.com/track/3yO1OjqT59JyjHaQZcCYDX) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:01 | 2025-04-19 |  |
@@ -1365,6 +1366,7 @@
 | [Maggie's Farm](https://open.spotify.com/track/5rGD8FFgHw74cp3RPhucyg) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 3:54 | 2025-01-18 |  |
 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 | 2025-04-18 |  |
 | [Magic Man](https://open.spotify.com/track/4sUlsy0tPv9n5nqrqeA0lE) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 5:28 | 2025-01-04 |  |
+| [Magnetic](https://open.spotify.com/track/3ffpAgPusYqOoQJmKWtnbW) | [Tunde Adebimpe](https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9) | [Thee Black Boltz](https://open.spotify.com/album/0MuAR8zcmZyGAwJcnkCpV1) | 2:30 | 2025-08-17 |  |
 | [Magnetic](https://open.spotify.com/track/46BIkntVmeG382rIo93J3d) | [Tunde Adebimpe](https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9) | [Magnetic](https://open.spotify.com/album/3P52UbRhg3RKPUHYzi1kFG) | 2:30 | 2024-12-10 |  |
 | [Magnets](https://open.spotify.com/track/0wdGkvP9ebAKRXHc7MUS9V) | [Ponder](https://open.spotify.com/artist/0GB6IrvGV6WhIAyFy4P4ah) | [Mark Collection, Vol\. 2](https://open.spotify.com/album/6ykFBG2QWVx7BOwVr3YYVD) | 2:27 | 2024-11-24 |  |
 | [Magpie](https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/4EHdBVY6WlYTQHWqP9BubZ) | 4:01 | 2024-11-23 |  |
@@ -1411,6 +1413,7 @@
 | [Merry Christmas Baby](https://open.spotify.com/track/1uMrImIU1EzbjCY9j1atc9) | [Chuck Brown](https://open.spotify.com/artist/2ssIfCr0vMmCuesIw9U4eg) | [The Spirit of Christmas](https://open.spotify.com/album/3RFINdIhUkIRpJpJqsvXX9) | 4:55 | 2024-12-18 |  |
 | [Merry Christmas, Baby](https://open.spotify.com/track/1xRkIo4BJUBy68UE64fxZG) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [A Whitehorse Winter Classic](https://open.spotify.com/album/5Ly5xVegdi8ZfTJyR43Yp6) | 2:47 | 2024-12-23 |  |
 | [Merry Go Round](https://open.spotify.com/track/1iyu4sqRAln0vHlPiOfrTs) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB) | [KARNEVAL](https://open.spotify.com/album/78OnKUK4yFB3bv7VGsEaZL) | 3:31 | 2025-01-06 |  |
+| [Mes sympathies](https://open.spotify.com/track/6XWLSX5OH4dU2WEYx0zH8H) | [Laurence Hélie](https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE) | [Mes sympathies](https://open.spotify.com/album/6nug8dKzf1zge7Tsg5v07F) | 4:44 | 2025-08-17 |  |
 | [Message of Love](https://open.spotify.com/track/08xxP1zt8BaXwWr545EuHG) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [The Singles](https://open.spotify.com/album/7vv7JlQIcLfao2c5rZpk59) | 3:25 | 2025-01-07 |  |
 | [Message of Love \- 2018 Remaster](https://open.spotify.com/track/5DbaLLjxAmlGfgyfroxwOq) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders II \(Deluxe Edition\)](https://open.spotify.com/album/6eTHa4zNxrrykO2J3jFxpB) | 3:25 | 2025-08-06 |  |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-12-02 |  |
@@ -1693,6 +1696,7 @@
 | [Powerless \(Say What You Want\)](https://open.spotify.com/track/4EdOyT1E50Nhnv6dGOmIT4) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Folklore](https://open.spotify.com/album/0n5YYYnL8cjKL2E7fmu1lu) | 3:52 | 2024-11-24 |  |
 | [Practice](https://open.spotify.com/track/34GzR0SBIwmqjgaGPdBWVv) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [Practice](https://open.spotify.com/album/4wWEslwP97WLcGQqbSk4Wh) | 3:17 | 2024-11-27 |  |
 | [Praise You](https://open.spotify.com/track/3yGy1JYz3zQKlxSgjgpQqX) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L) | 5:23 | 2025-04-04 |  |
+| [Praise You](https://open.spotify.com/track/2AIjgEtKg9C4hq2OwRC3pw) | [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [Praise You](https://open.spotify.com/album/2RT7XJYngmx9fK4YS4Gt0b) | 2:49 | 2025-08-17 |  |
 | [Precious](https://open.spotify.com/track/3MVampAV25NjwPM7YrZTtF) | [Adrian Sutherland](https://open.spotify.com/artist/6kLy0FIyVxqDVuvivOiuPZ) | [Precious Diamonds](https://open.spotify.com/album/1F3IzwSLXSSRyPqu9r99rM) | 2:53 | 2025-03-30 |  |
 | [Pressure](https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Pressure](https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B) | 3:13 | 2024-11-25 |  |
 | [Pretenders](https://open.spotify.com/track/2RikoxzNv1CLKXu3womYRH) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [From Capelton Hill](https://open.spotify.com/album/3qH5DVOeoRZmw3cMiiKM5u) | 3:01 | 2025-01-05 |  |
