@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,565 songs - 6 day 16 hr 29 min
+2,568 songs - 6 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,6 +643,7 @@
 | [Faded](https://open.spotify.com/track/4WP1XJnAUkZfTtMdZTaN9k) | [SoulDecision](https://open.spotify.com/artist/6hYrBYtoVGArYJcqvYxN4r) | [No One Does It Better](https://open.spotify.com/album/125budnbeWLmbMmMR6jV4t) | 3:28 | 2025-07-02 |  |
 | [fairytales](https://open.spotify.com/track/2X1BrCQpbBlvczxml8jbEd) | [STORRY](https://open.spotify.com/artist/2B3DdwYxUSSrYdda9V2UL0) | [fairytales](https://open.spotify.com/album/5VX5yWc9NI6ytjUvx41k6c) | 3:58 | 2025-03-09 |  |
 | [FALLBACK \(with Runkus\)](https://open.spotify.com/track/68nVM00QMoan1ZciZxFxrb) | [King Cruff](https://open.spotify.com/artist/4OpO9CxjDD3HQ2g4NnTato), [Runkus](https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ) | [FALLBACK \(with Runkus\)](https://open.spotify.com/album/2guWjqWfHUUAwJ6flCfZX8) | 3:02 | 2025-03-30 |  |
+| [Fam Jam \(Fe Sum Immigrins\)](https://open.spotify.com/track/3B0jWUpvPpnGIvux7DdG6t) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [Flying Colours](https://open.spotify.com/album/1ysjuK1TypW8UZTQgcbGFQ) | 3:44 | 2025-08-18 |  |
 | [Family Affair](https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 4:25 | 2024-11-30 |  |
 | [Family Affair \- Single Version](https://open.spotify.com/track/2GVEs1sn5Q1jB1976vQoAX) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's A Riot Goin' On \(Expanded Edition\)](https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO) | 3:05 | 2025-06-28 |  |
 | [Fancy](https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Fancy](https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG) | 3:11 | 2024-12-30 |  |
@@ -983,6 +984,7 @@
 | [how do you love a man](https://open.spotify.com/track/3oyd6Yexx7fgCToFcoXEyG) | [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [XO SKELETON](https://open.spotify.com/album/4Uiq57boKVYu31j88BeLm9) | 3:32 | 2025-02-02 |  |
 | [How Far](https://open.spotify.com/track/2zTzwai0kowjzmMC3wBALU) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/4NHxJvWRYeZU84HQ4X9FkT) | 3:55 | 2024-12-13 |  |
 | [How Far Will We Take It?](https://open.spotify.com/track/3FFQvAIq4grvS6nb6IwY3h) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [How Far Will We Take It?](https://open.spotify.com/album/0FkHwJW4XbyvYKzD1GVh3Y) | 2:52 | 2024-11-25 |  |
+| [How Far Will We Take It?](https://open.spotify.com/track/7MjcSEfhAaomWNYzO3gfHU) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 2:52 | 2025-08-18 |  |
 | [How I Loved You](https://open.spotify.com/track/5HRZBHg27GWeQU2yUzpiF8) | [Jenn Grant](https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L), [Amy Millan](https://open.spotify.com/artist/3lj7jldByrrpUgW5Je8o1p) | [Champagne Problems](https://open.spotify.com/album/4KAr2lRE1A7erS2HUspilz) | 4:33 | 2024-12-16 |  |
 | [How Long](https://open.spotify.com/track/1jGEhs68kynEO0qSLM1c9d) | [Slim Moore and the Mar\-Kays](https://open.spotify.com/artist/4ZLxaPDdyIHc1gIN9tPjeE) | [Introducing Slim Moore and the Mar\-Kays](https://open.spotify.com/album/4eLI3YzF0yrobxoUXdumGL) | 4:03 | 2025-01-12 |  |
 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 | 2025-01-09 |  |
@@ -2417,6 +2419,7 @@
 | [We Were Here](https://open.spotify.com/track/14dTiJTsSR6XcpTWKBMhrA) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Skin & Earth](https://open.spotify.com/album/6s7WpIWoAG0LiBzQuuPh9o) | 3:49 | 2025-02-16 |  |
 | [We Will Become Silhouettes](https://open.spotify.com/track/2Lum7cLDAZGbDVLXHyisEa) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up](https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz) | 5:00 | 2024-12-31 |  |
 | [We Will Still Need A Song](https://open.spotify.com/track/4c7VnhlsbffQkivNMp1V38) | [Hawksley Workman](https://open.spotify.com/artist/6TXT0xgAes45U8vyHeCIZJ) | [Lover/Fighter](https://open.spotify.com/album/78ofbt0qp6WPJSVCA4UkNe) | 3:49 | 2025-02-17 |  |
+| [We're All In This Together](https://open.spotify.com/track/3RDluCrOZYXajMMWtULmlI) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [Lo\-Fantasy \(Deluxe Version\)](https://open.spotify.com/album/23CTxqMYnWPCCwKbO64NcS) | 4:59 | 2025-08-18 |  |
 | [Weak \- Extended Radio Version](https://open.spotify.com/track/5EeEJAW939c3mvq0JnoEhP) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa), [Brian Alexander Morgan](https://open.spotify.com/artist/16QhCNTu9mNWg8HZVhgWqN) | [Weak \- EP](https://open.spotify.com/album/3dMwnkeMdQSZOMfpP2QuVx) | 4:55 | 2025-03-25 |  |
 | [Weak and Powerless \(In the Style of a Perfect Circle\) \[Karaoke Version\]](https://open.spotify.com/track/0UemUuzAcax7JVViTUE0wq) | [Ameritz Top Tracks](https://open.spotify.com/artist/6luvHB2gkRdRlNvcQSLmxQ) | [Karaoke \- In the Style of a Perfect Circle](https://open.spotify.com/album/5iFEwnySADlY2haxk1FDP6) | 3:15 | 2025-05-23 |  |
 | [Wear You Out](https://open.spotify.com/track/1Rfk20b8r3oKm53umKOgj6) | [Jane Penny](https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd) | [Surfacing](https://open.spotify.com/album/2ER1TDjFLnhzAk0zKqVl5p) | 3:31 | 2025-03-16 |  |

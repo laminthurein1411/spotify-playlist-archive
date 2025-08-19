@@ -1267,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "TO YOU, BY US (VOL. 1)",
+        "url": "https://open.spotify.com/album/2FqHRNZhfyTPbtIq49fDjm"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157097,
+      "name": "Before You Broke My Heart",
+      "url": "https://open.spotify.com/track/15vdxxFJZWyIM9jMTFiVhW"
+    },
+    {
+      "album": {
         "name": "Light Sides",
         "url": "https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn"
       },
@@ -1875,6 +1893,28 @@
     },
     {
       "album": {
+        "name": "Cannonball (feat. Don Toliver)",
+        "url": "https://open.spotify.com/album/3bUCIjSqiFKhRGAnb59VC8"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122568,
+      "name": "Cannonball (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/57yu1WujridphAAkPgpkhC"
+    },
+    {
+      "album": {
         "name": "car",
         "url": "https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O"
       },
@@ -2322,6 +2362,24 @@
       "duration_ms": 155000,
       "name": "CONTROL",
       "url": "https://open.spotify.com/track/4PFlZpluDUhUpo2QH1a7ph"
+    },
+    {
+      "album": {
+        "name": "Cool Star",
+        "url": "https://open.spotify.com/album/0D5vj3LKDCiFpgDOOQGDEf"
+      },
+      "artists": [
+        {
+          "name": "Cat & Calmell",
+          "url": "https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131052,
+      "name": "Cool Star",
+      "url": "https://open.spotify.com/track/4sdDmM79XDhdPn4QMObeun"
     },
     {
       "album": {
@@ -3617,6 +3675,24 @@
     },
     {
       "album": {
+        "name": "FACEDOWN",
+        "url": "https://open.spotify.com/album/0HvxP4GWEWPoENikGeEeee"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221818,
+      "name": "FACEDOWN",
+      "url": "https://open.spotify.com/track/3NeyGd5x77xBqeByPsTqq8"
+    },
+    {
+      "album": {
         "name": "Falling out of Touch",
         "url": "https://open.spotify.com/album/7be7aajivvusaA65WdhpZQ"
       },
@@ -4809,6 +4885,24 @@
     },
     {
       "album": {
+        "name": "Hey You",
+        "url": "https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211313,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
+    },
+    {
+      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/1h6FJ7fi2IBcYhmeno64Zl"
       },
@@ -5156,6 +5250,24 @@
       "duration_ms": 208797,
       "name": "How to Kill Houseplants",
       "url": "https://open.spotify.com/track/01RAcFOiB1p7Jd5OPARfdy"
+    },
+    {
+      "album": {
+        "name": "How To Live",
+        "url": "https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240043,
+      "name": "How To Live",
+      "url": "https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D"
     },
     {
       "album": {
@@ -6985,6 +7097,24 @@
     },
     {
       "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "album": {
         "name": "Man Of The Year",
         "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
       },
@@ -7593,6 +7723,24 @@
     },
     {
       "album": {
+        "name": "Nice Shoes",
+        "url": "https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195412,
+      "name": "Nice Shoes",
+      "url": "https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL"
+    },
+    {
+      "album": {
         "name": "Nice To Each Other",
         "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
       },
@@ -7648,6 +7796,28 @@
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "album": {
+        "name": "NO CAP",
+        "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233734,
+      "name": "NO CAP",
+      "url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
     },
     {
       "album": {
@@ -8058,6 +8228,24 @@
       "duration_ms": 208829,
       "name": "One Thing",
       "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
+    },
+    {
+      "album": {
+        "name": "One Way Ticket",
+        "url": "https://open.spotify.com/album/6LLAukYlxZgWkMgWPNEdRR"
+      },
+      "artists": [
+        {
+          "name": "Suzi",
+          "url": "https://open.spotify.com/artist/7yyW28zOEIrNs2Rs3eq9cI"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261226,
+      "name": "One Way Ticket",
+      "url": "https://open.spotify.com/track/6tIIXAtVoNj8kSjrTZ6Oce"
     },
     {
       "album": {
@@ -9203,6 +9391,24 @@
     },
     {
       "album": {
+        "name": "Sneakers",
+        "url": "https://open.spotify.com/album/7eYtfshBnYVsoDe6KcbQwX"
+      },
+      "artists": [
+        {
+          "name": "Dean Brady",
+          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217732,
+      "name": "Sneakers",
+      "url": "https://open.spotify.com/track/6vLRu22jXN9E6xFWEoYCcJ"
+    },
+    {
+      "album": {
         "name": "So Excited",
         "url": "https://open.spotify.com/album/2wFLtPEYR56o8ng2gvZIi8"
       },
@@ -9752,6 +9958,24 @@
       "duration_ms": 178666,
       "name": "Stop Calling",
       "url": "https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK"
+    },
+    {
+      "album": {
+        "name": "Strangers In Line",
+        "url": "https://open.spotify.com/album/2xDinZfwNHEqipnx1eicpY"
+      },
+      "artists": [
+        {
+          "name": "Mika James",
+          "url": "https://open.spotify.com/artist/5FwQLbdP9LLN75qt4oBNPO"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172466,
+      "name": "Strangers In Line",
+      "url": "https://open.spotify.com/track/2l7HI1DP7lIbFFcqthuX6R"
     },
     {
       "album": {
@@ -11346,6 +11570,24 @@
       "duration_ms": 194095,
       "name": "WRK",
       "url": "https://open.spotify.com/track/5HA7el8fgIjpdfE4oMfMdY"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268410,
+      "name": "Yamaha",
+      "url": "https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V"
     },
     {
       "album": {
