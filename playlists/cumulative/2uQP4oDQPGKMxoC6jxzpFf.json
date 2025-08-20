@@ -4945,6 +4945,24 @@
     },
     {
       "album": {
+        "name": "Hey Jude",
+        "url": "https://open.spotify.com/album/3i8EJ0Ypi3qptjM2Q3DLIL"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166866,
+      "name": "Born to Be Wild",
+      "url": "https://open.spotify.com/track/2U3J6weDBx3HdjQo7BbI47"
+    },
+    {
+      "album": {
         "name": "they said it would rain...",
         "url": "https://open.spotify.com/album/3BXsSGQ3Kc4OYnbQPSoegi"
       },
@@ -5282,6 +5300,24 @@
       "duration_ms": 201600,
       "name": "Bring it on Home to Me (feat. Charlie Bereal)",
       "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
+    },
+    {
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235893,
+      "name": "Bring Me To Life",
+      "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"
     },
     {
       "album": {
@@ -10880,6 +10916,36 @@
       "duration_ms": 271200,
       "name": "Dyslexic Heart",
       "url": "https://open.spotify.com/track/6h0lrpGtRIwbBiPHthDB3o"
+    },
+    {
+      "album": {
+        "name": "Let God Sort Em Out",
+        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119973,
+      "name": "E.B.I.T.D.A.",
+      "url": "https://open.spotify.com/track/3J4lO2oyDMLEYGdHgRcJHW"
     },
     {
       "album": {
@@ -20050,6 +20116,24 @@
       "duration_ms": 214216,
       "name": "I'm Trying",
       "url": "https://open.spotify.com/track/71Y8O75I49N4HuCZFPeoTC"
+    },
+    {
+      "album": {
+        "name": "Encouraging Words (Expanded Edition / Remastered 2010)",
+        "url": "https://open.spotify.com/album/4aq52dJS6IvmCfiCRU94oq"
+      },
+      "artists": [
+        {
+          "name": "Billy Preston",
+          "url": "https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173680,
+      "name": "I've Got A Feeling - Remastered 2010",
+      "url": "https://open.spotify.com/track/7szguSB82bbV0IwrujhRW7"
     },
     {
       "album": {
@@ -38200,6 +38284,24 @@
       "duration_ms": 185560,
       "name": "Sunday Girl - Remastered 2001",
       "url": "https://open.spotify.com/track/4niYgqetPxqqPn7oR2XXLX"
+    },
+    {
+      "album": {
+        "name": "Atlantis+",
+        "url": "https://open.spotify.com/album/43tdaB534UJweOvbCsq1zU"
+      },
+      "artists": [
+        {
+          "name": "K-OS",
+          "url": "https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227066,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/1f4KruoEH3LOR2SLhCyF3Y"
     },
     {
       "album": {
