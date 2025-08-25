@@ -4,7 +4,7 @@
 
 > 
 
-1,111 songs - 2 day 18 hr 7 min
+1,112 songs - 2 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1054,6 +1054,7 @@
 | [Where Do You Go](https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:32 | 2023-12-07 |  |
 | [Where I Stand](https://open.spotify.com/track/69aRqqcNYSCWEF4voEZ4Sv) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Midnight Sun \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11fknXHVexjkL3mFONyIFa) | 3:22 | 2022-02-08 |  |
 | [Wherever You Will Go](https://open.spotify.com/track/2n6FX3Jcg4b4Leoz0GOqBF) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/482njCey5m8quxX6ymvlIP) | 3:28 | 2020-05-04 |  |
+| [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 | 2025-08-24 |  |
 | [Who Do You Love](https://open.spotify.com/track/2fVHrSxsQbJUuj9MW9zG1e) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:46 | 2020-03-15 |  |
 | [Who Says](https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:15 | 2020-05-22 |  |
 | [Whoa Whoa Whoa](https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW) | [Watsky](https://open.spotify.com/artist/3mJ9GlkLzj8Ka7Z7EQaCMi) | [All You Can Do](https://open.spotify.com/album/2oFd5zCNTe0q3061ss0Fm9) | 3:07 | 2025-07-19 |  |
