@@ -4,7 +4,7 @@
 
 > 
 
-1,112 songs - 2 day 18 hr 10 min
+1,113 songs - 2 day 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -760,6 +760,7 @@
 | [Romeo & Juliet](https://open.spotify.com/track/1VyA8mbSyXOdJx2lguR8Uu) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Romeo & Juliet](https://open.spotify.com/album/6Bdil490atXzxeG4pevs7o) | 2:46 | 2022-01-16 |  |
 | [Rose Pink Cadillac](https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/2VaOn32haUapQOYnerK32W) | 4:21 | 2025-08-13 |  |
 | [Rude](https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Don't Kill the Magic](https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi) | 3:44 | 2021-10-03 |  |
+| [Run](https://open.spotify.com/track/2r8RwegunaKMYW4pDFEMKM) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE) | 3:15 | 2025-08-26 |  |
 | [Run Boy Run](https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [The Golden Age](https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2) | 3:33 | 2021-02-22 |  |
 | [Run Free](https://open.spotify.com/track/1oIdcFtf58sZbS7QyZQJ2P) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [IVIE](https://open.spotify.com/artist/2ol1cb6xyYpaxRTUsl1CYN) | [Run Free](https://open.spotify.com/album/37QAucQUcm3aCvRLxjtwKj) | 2:50 | 2020-03-07 |  |
 | [Runnin'](https://open.spotify.com/track/4x3qqSA4cP49oZQXPLnDBe) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Trespassing \(Deluxe Version\)](https://open.spotify.com/album/4mKnhWm5EZeZUfoUYUwT1h) | 3:48 | 2021-10-30 |  |
