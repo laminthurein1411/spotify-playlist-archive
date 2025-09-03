@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3CsSi2LenkqZY1q0XuKeBL.md) - [plain]
 
 > Collection Of All Types Of Music Genres With Japanese Songs.
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 4 likes - 496 songs - 1 day 11 hr 12 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 4 likes - 502 songs - 1 day 11 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -504,5 +504,11 @@ pretty - [cumulative](/playlists/cumulative/3CsSi2LenkqZY1q0XuKeBL.md) - [plain]
 | 494 | [ハルノユキ from polaris](https://open.spotify.com/track/0xT31iv2XzjRn6eqRRncEh) | [Lily, Sayonara.](https://open.spotify.com/artist/2SkaSsUw8OaFvPUusPl6le) | [僕らのポラリス](https://open.spotify.com/album/6Dgl8DIvnCmgOAg58Kk0wZ) | 6:20 |
 | 495 | [Angel](https://open.spotify.com/track/6jDgh47EnQDbnC7DZ8lq1b) | [SHE'S](https://open.spotify.com/artist/6TNooB9HDJ9Xs1GFPl2Fiv) | [Memories](https://open.spotify.com/album/3YArCCkpU8prA6RwmFm3EI) | 4:22 |
 | 496 | [Azalea](https://open.spotify.com/track/7kJBYHytiARJlRygfg5VCn) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Azalea](https://open.spotify.com/album/6YzdMduoJRWor9B5xqGKUm) | 3:28 |
+| 497 | [ニッポン笑顔百景](https://open.spotify.com/track/7HvLwBlGXvaWJZpg1IqwbS) | [Momokurotei Ichimon](https://open.spotify.com/artist/5YWCISv1Tkhx9fUlp10w46), [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ニッポン笑顔百景](https://open.spotify.com/album/3xafGKlmb5CcZsqWInSU7d) | 3:54 |
+| 498 | [il vento d'oro](https://open.spotify.com/track/17VP4tofJ3evJbtY8Tk1Qi) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.1 Overture](https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX) | 4:55 |
+| 499 | [悲しみがとまらない　I CAN'T STOP THE LONELINESS](https://open.spotify.com/track/3FYDqY5BRtx3IVSaiQZSze) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:23 |
+| 500 | [Remember Summer Days](https://open.spotify.com/track/1qUo7d5lAOclNVbTUY0A2R) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:55 |
+| 501 | [フィクション](https://open.spotify.com/track/543jStmHR1VrSfpxmjUIn6) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Chime](https://open.spotify.com/album/3foRklHeA5lXq56ZsEbkfv) | 3:50 |
+| 502 | [カワキヲアメク](https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/6R5yCaIbIwK9IQJErCb0FV) | 4:11 |
 
-Snapshot ID: `AAACD2SDwMIuOwrIswvJpH9m+FP8W2A1`
+Snapshot ID: `AAACFX6/AcDuP0n4GUwA5TYiVOgRg/0A`

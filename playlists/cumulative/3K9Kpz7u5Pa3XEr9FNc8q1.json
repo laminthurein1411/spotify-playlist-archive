@@ -605,6 +605,24 @@
     },
     {
       "album": {
+        "name": "Moskau - Das Neue Best Of Album",
+        "url": "https://open.spotify.com/album/5rb7ToU6CAX1H0gdk63SQd"
+      },
+      "artists": [
+        {
+          "name": "Dschinghis Khan",
+          "url": "https://open.spotify.com/artist/1g1nVvle9qO9AWIUWYvPAP"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270360,
+      "name": "Moskau",
+      "url": "https://open.spotify.com/track/5t77UGzgSBRDDnaxJvE9R3"
+    },
+    {
+      "album": {
         "name": "Eternals (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3qBn8Lw72Fs6zWyA7yFrMn"
       },

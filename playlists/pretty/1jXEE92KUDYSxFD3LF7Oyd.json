@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAASax5Hs2dIZyFLaJI65PlGl+E6bh9",
+  "snapshot_id": "AAAASlVOIGG70J2QUTzyPl50pgnMIymS",
   "tracks": [
     {
       "added_at": "2022-05-07 13:03:51",
@@ -2111,6 +2111,22 @@
       "duration_ms": 134973,
       "name": "24 mila baci - Remastered",
       "url": "https://open.spotify.com/track/1UDlD1z55fRXcJIDzJtMfk"
+    },
+    {
+      "added_at": "2025-09-02 06:10:38",
+      "album": {
+        "name": "Moskau - Das Neue Best Of Album",
+        "url": "https://open.spotify.com/album/5rb7ToU6CAX1H0gdk63SQd"
+      },
+      "artists": [
+        {
+          "name": "Dschinghis Khan",
+          "url": "https://open.spotify.com/artist/1g1nVvle9qO9AWIUWYvPAP"
+        }
+      ],
+      "duration_ms": 270360,
+      "name": "Moskau",
+      "url": "https://open.spotify.com/track/5t77UGzgSBRDDnaxJvE9R3"
     }
   ],
   "unique_name": "European \ud83c\udfe4",

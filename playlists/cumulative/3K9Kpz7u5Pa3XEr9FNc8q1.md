@@ -4,7 +4,7 @@
 
 > 
 
-58 songs - 3 hr 7 min
+59 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Like A G6](https://open.spotify.com/track/5AyL2kgLtTWEu3qO3B9SqK) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [The Cataracs](https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Free Wired](https://open.spotify.com/album/4axgysRjIB7ToC0DA7uxXC) | 3:36 | 2025-08-10 |  |
 | [Lionheart \(Fearless\)](https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lionheart \(Fearless\)](https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT) | 3:06 | 2022-11-28 |  |
 | [L’enfer](https://open.spotify.com/track/1CsuHmKOfCYxPoO4xjlAWV) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:09 | 2022-05-07 |  |
+| [Moskau](https://open.spotify.com/track/5t77UGzgSBRDDnaxJvE9R3) | [Dschinghis Khan](https://open.spotify.com/artist/1g1nVvle9qO9AWIUWYvPAP) | [Moskau \- Das Neue Best Of Album](https://open.spotify.com/album/5rb7ToU6CAX1H0gdk63SQd) | 4:30 | 2025-09-02 |  |
 | [Nach Mera Hero](https://open.spotify.com/track/2kfqZVhZYa1ny2ncjt4j5f) | [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD) | [Eternals \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3qBn8Lw72Fs6zWyA7yFrMn) | 3:09 | 2022-04-26 |  |
 | [Nails, Hair, Hips, Heels](https://open.spotify.com/track/60nXduun3ybrHhtDOUmGmV) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 1](https://open.spotify.com/album/18cAitZNvQLJBlNhDeSH2L) | 3:56 | 2023-02-08 |  |
 | [Oh No!!! \(from The Suicide Squad\)](https://open.spotify.com/track/7mYKxi4gqlSweFg2xigZ1w) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Oh No!!! \(from The Suicide Squad\)](https://open.spotify.com/album/4gG47LR7Xbk0E9k0zNCHZp) | 3:33 | 2022-04-26 |  |

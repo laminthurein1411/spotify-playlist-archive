@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7w7SKepcJODLAAIe5X2Zsi.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 4 likes - 195 songs - 14 hr 1 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 4 likes - 196 songs - 14 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,5 +203,6 @@ pretty - [cumulative](/playlists/cumulative/7w7SKepcJODLAAIe5X2Zsi.md) - [plain]
 | 193 | [Vivaldi: Il Giustino, RV 717, Act 1: "Vedrò con mio diletto" \(Anastasio\)](https://open.spotify.com/track/7KvRPHAu9K4biyXFswUuUl) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Jakub Józef Orliński](https://open.spotify.com/artist/5YLKYYoMNiA0VoOsSeA0Yy), [Maxim Emelyanychev](https://open.spotify.com/artist/36CgM42AtIA5SEne7Wou7q), [Il Pomo D'oro](https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z) | [Vedrò con mio diletto \(Vivaldi\)](https://open.spotify.com/album/4jUnTv7p5J4bKcah8LcPJq) | 5:37 |
 | 194 | [La foule \- Symphonique, orch\. Nathan Stornetta](https://open.spotify.com/track/2rQrEv6WPmqys743IVtkG7) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j), [Legendis Orchestra](https://open.spotify.com/artist/1XvxY2rMMnLfsXRW6hbpkA) | [Symphonique](https://open.spotify.com/album/3ry22siNcsQCSbklOtdTR7) | 2:59 |
 | 195 | [Autobahn](https://open.spotify.com/track/7e2ExzCUgjOntmlZCTDSWk) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [3\-D The Catalogue](https://open.spotify.com/album/3OVQjqmadnX07vrVhKjhtO) | 14:26 |
+| 196 | [Foggy Mountain Breakdown](https://open.spotify.com/track/0PlXgfunAKx3UHOWwZe7nb) | [Banjo Express Ensemble](https://open.spotify.com/artist/05J6xQ89UYrnxpHooXn6xJ), [Yannick Huet](https://open.spotify.com/artist/2yCO6IpldnhJo4Ug8WLL3y), [Christian et Philippe Bon](https://open.spotify.com/artist/4P9GmNzYgMMekGm55oaQSO), [Pascal Maucourant](https://open.spotify.com/artist/2UDoKSsxc7prUPK9eiyTfo), [Luis\-josé Landa](https://open.spotify.com/artist/4bQtzLgxS7bX0mWDv0BaAu) | [Best of Usa : Banjo Furioso](https://open.spotify.com/album/3iIW3UITm6DnbH7kin6iTm) | 2:13 |
 
-Snapshot ID: `AAAAY3Ec2ZimFts6NnXycDq/qtLMF+Zz`
+Snapshot ID: `AAAAZIPD3r7AAnbfAzRKExMncMGaDHz1`

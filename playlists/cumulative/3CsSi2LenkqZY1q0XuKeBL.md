@@ -4,7 +4,7 @@
 
 > Collection Of All Types Of Music Genres With Japanese Songs.
 
-491 songs - 1 day 10 hr 48 min
+497 songs - 1 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [I Miss You](https://open.spotify.com/track/697MjF1454XKvZmTuqkWmD) | [Jeff Slaugh](https://open.spotify.com/artist/4TlIlf5dgy6ciUGuYcRB7l), [Jeriqo](https://open.spotify.com/artist/3MYrBbhJlGYEZeI0n7Pn5t), [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [I Miss You](https://open.spotify.com/album/2vJ6FDg6ZMS56U8Wbiw2Oz) | 3:36 | 2020-06-09 |  |
 | [I'm getting on the bus to the other world, see ya!](https://open.spotify.com/track/3rCJptQKkXrTx6qUXqz7dD) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [It's Raining After All](https://open.spotify.com/album/6wCvVvG0xd0zePNxN0OnlV) | 3:14 | 2020-06-30 |  |
 | [Idea](https://open.spotify.com/track/30QnX1bcrFYqWQNKfWclr8) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q) | 4:40 | 2020-06-30 |  |
+| [il vento d'oro](https://open.spotify.com/track/17VP4tofJ3evJbtY8Tk1Qi) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.1 Overture](https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX) | 4:55 | 2025-09-02 |  |
 | [INORIBANA \- album extended ver.](https://open.spotify.com/track/22mgCE4TEzBRtVuQ7TtUt1) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [ALOHA](https://open.spotify.com/album/6yUCGCTTYQVS36wJ4JNHKy) | 5:00 | 2020-03-07 |  |
 | [Irony](https://open.spotify.com/track/5w65rfJaQDOQ0iAhOuQqiv) | [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p) | [Contrast](https://open.spotify.com/album/6zRvJSG5JLRAQ2YAmP8R1a) | 4:04 | 2020-07-16 |  |
 | [Is There Still Anything That Love Can Do?](https://open.spotify.com/track/56pvqFKGXPjubh5eY6sOlv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Weathering With You](https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q) | 6:54 | 2020-03-24 |  |
@@ -211,6 +212,7 @@
 | [RedZone](https://open.spotify.com/track/1i7ARXUlSe5vlKwWGXxWCy) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [RedZone / Dead or Alive](https://open.spotify.com/album/0vG3QKzQ8RViIQFZcKYdrV) | 3:47 | 2021-05-26 |  |
 | [REMEMBER](https://open.spotify.com/track/3zQfJvpdIOPxGLu3NR9zy4) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ), [Masato\(coldrain\)](https://open.spotify.com/artist/4f9hD6gIbmsHoQw9MFMnP8) | [TVアニメ『呪術廻戦』オリジナル･サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 4:03 | 2021-05-26 |  |
 | [REMEMBER](https://open.spotify.com/track/4jpZOzMQR0h0w3mH2kaxZQ) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO) | [RE/MEMBER](https://open.spotify.com/album/7IUvFh8aavKF37k3We0dbP) | 5:09 | 2020-06-30 |  |
+| [Remember Summer Days](https://open.spotify.com/track/1qUo7d5lAOclNVbTUY0A2R) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:55 | 2025-09-02 |  |
 | [RPG](https://open.spotify.com/track/5eTHocLVvzM8BC5Mfbpbgs) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Best of SEKAI NO OWARI \(in Japanese\)](https://open.spotify.com/album/5o79Pz8HCBePpYYPmP07Hn) | 4:51 | 2020-06-30 |  |
 | [Run Riot](https://open.spotify.com/track/4vmii8woPMsjUipYO6PCFr) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [haruhayuku marie](https://open.spotify.com/album/5fooN8UdGlMRVe5avioodP) | 4:12 | 2020-06-30 |  |
 | [S.O.S \- Movie Version 『ゼロワン Others 仮面ライダー滅亡迅雷』主題歌](https://open.spotify.com/track/3piud5ZICIBmOai4GarUSx) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [S.O.S \(Movie Version 『ゼロワン Others 仮面ライダー滅亡迅雷』主題歌\)](https://open.spotify.com/album/5QvTxHw0SdRWJqaxArBjan) | 2:16 | 2021-03-28 |  |
@@ -335,6 +337,7 @@
 | [オードトワレ](https://open.spotify.com/track/3ClKmzYZzsvOWLOcnH8V85) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [オードトワレ](https://open.spotify.com/album/1QBlEIx5tRYxLT5wvc3l3G) | 4:19 | 2021-05-13 |  |
 | [カラカラカラのカラ](https://open.spotify.com/track/2LEe6g4jPbwHNDM3dJCyCF) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク5](https://open.spotify.com/album/3WNehG6cwmM6dy37lXn70Z) | 8:01 | 2020-03-06 |  |
 | [カラメル](https://open.spotify.com/track/0UZrpjO9FIX9fn1q5m2Hgw) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [カラメル](https://open.spotify.com/album/7KkbFuxtqgr8txXH9uqOwX) | 3:28 | 2022-03-08 |  |
+| [カワキヲアメク](https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/6R5yCaIbIwK9IQJErCb0FV) | 4:11 | 2025-09-02 |  |
 | [キット](https://open.spotify.com/track/4jEPUGNeRiFfKesaXbQbRU) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [Oretachi Rookies](https://open.spotify.com/album/3uvRY3K4aT5wWpnEGhrPci) | 5:38 | 2020-06-27 |  |
 | [キヅアト](https://open.spotify.com/track/6bBTOkYn0vJJ33kH0IbZ0S) | [Centimillimental](https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw) | [キヅアト](https://open.spotify.com/album/3sxIQxV4xlToEveovmK1yH) | 4:03 | 2020-06-09 |  |
 | [キミの隣](https://open.spotify.com/track/6Qr70p5EHeQw9WqFBvyksU) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [Assortrip](https://open.spotify.com/album/0SqYPfOJIzouJ5IJykSuqy) | 4:39 | 2020-03-24 |  |
@@ -354,6 +357,7 @@
 | [トニカ](https://open.spotify.com/track/1IHrCKiDcsdkkBMaCZ6EMy) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [トニカ](https://open.spotify.com/album/22gHdbHGl6h3OS63ur7F4d) | 4:26 | 2020-06-30 |  |
 | [トワイライト](https://open.spotify.com/track/52jIpvmPa1bzF63VozFM79) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [High\-Voltage Dancer](https://open.spotify.com/album/3atENfScCoP1XFqmpsUlAq) | 4:57 | 2020-06-27 |  |
 | [ドライフラワー](https://open.spotify.com/track/7dH0dpi751EoguDDg3xx6J) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ドライフラワー](https://open.spotify.com/album/69BzgmDXpLIPQI4tUGuLZM) | 4:45 | 2021-11-21 |  |
+| [ニッポン笑顔百景](https://open.spotify.com/track/7HvLwBlGXvaWJZpg1IqwbS) | [Momokurotei Ichimon](https://open.spotify.com/artist/5YWCISv1Tkhx9fUlp10w46), [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ニッポン笑顔百景](https://open.spotify.com/album/3xafGKlmb5CcZsqWInSU7d) | 3:54 | 2025-09-02 |  |
 | [ニニニニニ](https://open.spotify.com/track/4n1x6ertRhSSdxaS4r49tB) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [NININININI](https://open.spotify.com/album/3eEMKO3CaWw8lCL1LE07Ar) | 3:21 | 2020-12-07 |  |
 | [ハッピーエンド](https://open.spotify.com/track/0ssEfLe9aqPhMmLXKqBw6J) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [アンコール](https://open.spotify.com/album/4BciHYMbN5HlyO899tmMc9) | 5:14 | 2020-07-16 |  |
 | [ハミングバード](https://open.spotify.com/track/6Ut31aC6eW1m24vMsP1ywu) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [ハミングバード](https://open.spotify.com/album/1mDVozxmBllMmQSBVWRefJ) | 4:18 | 2020-06-30 |  |
@@ -364,6 +368,7 @@
 | [パプリカ](https://open.spotify.com/track/0bdYJCO9clK9ew61Z7GqMf) | [Foorin](https://open.spotify.com/artist/3h95Ve9m3Q07d8VG6V9hEU) | [Paprika](https://open.spotify.com/album/1UJss5wLdjCTQ7tTWGoDCv) | 3:28 | 2020-03-10 |  |
 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 | 2020-06-30 |  |
 | [ビリーヴ](https://open.spotify.com/track/0fsan60OgxYamREqipnSQt) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [ビリーヴ](https://open.spotify.com/album/03EQXwgJ8Se0VgFFaiLyfP) | 3:39 | 2020-07-16 |  |
+| [フィクション](https://open.spotify.com/track/543jStmHR1VrSfpxmjUIn6) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Chime](https://open.spotify.com/album/3foRklHeA5lXq56ZsEbkfv) | 3:50 | 2025-09-02 |  |
 | [フラッシュバック](https://open.spotify.com/track/3XIhc1kgq55uVtMFfTBvdq) | [Lily, Sayonara.](https://open.spotify.com/artist/2SkaSsUw8OaFvPUusPl6le) | [ハッピーエンドで会いましょう](https://open.spotify.com/album/4MxAG7TheX39mWE0uPHQi1) | 5:08 | 2020-07-16 |  |
 | [プロローグ](https://open.spotify.com/track/67euLss26HkipHuMS85qrU) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [Prologue](https://open.spotify.com/album/2UuS6ISdXT6EPIlRuIFWjb) | 5:02 | 2020-03-09 |  |
 | [ベテルギウス](https://open.spotify.com/track/2sf18cEv463VgqmdjDsFpw) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ベテルギウス](https://open.spotify.com/album/25FWSs9iK7hQqyK2fdKvSV) | 3:50 | 2021-11-21 |  |
@@ -426,6 +431,7 @@
 | [心音](https://open.spotify.com/track/3wxYirejZ1NWKp2uy3Ir5N) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [心音](https://open.spotify.com/album/2sF3NUTrs7U4CV6d6qk2k6) | 4:01 | 2022-04-21 |  |
 | [思想犯](https://open.spotify.com/track/6SNXEbIkap8lN8cuDdjXox) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [思想犯](https://open.spotify.com/album/5hzo10fNdAXhEJ3o9nFAXS) | 4:12 | 2020-06-30 |  |
 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 | 2020-03-07 |  |
+| [悲しみがとまらない　I CAN'T STOP THE LONELINESS](https://open.spotify.com/track/3FYDqY5BRtx3IVSaiQZSze) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:23 | 2025-09-02 |  |
 | [惑星](https://open.spotify.com/track/7lTn7hTvBJEjAsgp9bzI6P) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [惑星](https://open.spotify.com/album/2xnrTv2fd77wRxaoQnxzIt) | 4:22 | 2020-06-30 |  |
 | [想いあい](https://open.spotify.com/track/1IX2ugtGQEdpKUf4kr2qPt) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [DAYS](https://open.spotify.com/album/4FGWU6jdrl9SDFvBFjh7vr) | 4:05 | 2020-06-27 |  |
 | [愛をとりもどせ!! \(MOVIE ver.\) \(真救世主伝説 北斗の拳 ラオウ伝 殉愛の章\)](https://open.spotify.com/track/6ANDigCedOKzZcrWAC47T0) | [CRYSTAL KING](https://open.spotify.com/artist/13Ld2FmNje0DaZQnAen9oh) | [愛をとりもどせ!! \(MOVIE ver.\)](https://open.spotify.com/album/6zLXLIZsR4O90iXe7GlsyU) | 4:04 | 2021-01-28 |  |

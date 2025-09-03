@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 129 songs - 7 hr 2 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 130 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,5 +137,6 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 127 | [7 элемент](https://open.spotify.com/track/5iFhkFf9JLA3XiROdYsg1i) | [Vitas](https://open.spotify.com/artist/0UK6JkgUMa28b4t8eCtg6P) | [Философия чуда](https://open.spotify.com/album/7yPAnDgrwZgJz6sTgxViwt) | 4:10 |
 | 128 | [Hier encore](https://open.spotify.com/track/4ciRwt5dGHKKm8Et8r1xJ0) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Que c'est triste Venise \(Remastered 2014\)](https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK) | 2:23 |
 | 129 | [24 mila baci \- Remastered](https://open.spotify.com/track/1UDlD1z55fRXcJIDzJtMfk) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Collezione D'Oro \(Remastered\)](https://open.spotify.com/album/0CWYt6XEAFX2NqnbD0Mx8k) | 2:14 |
+| 130 | [Moskau](https://open.spotify.com/track/5t77UGzgSBRDDnaxJvE9R3) | [Dschinghis Khan](https://open.spotify.com/artist/1g1nVvle9qO9AWIUWYvPAP) | [Moskau \- Das Neue Best Of Album](https://open.spotify.com/album/5rb7ToU6CAX1H0gdk63SQd) | 4:30 |
 
-Snapshot ID: `AAAASax5Hs2dIZyFLaJI65PlGl+E6bh9`
+Snapshot ID: `AAAASlVOIGG70J2QUTzyPl50pgnMIymS`

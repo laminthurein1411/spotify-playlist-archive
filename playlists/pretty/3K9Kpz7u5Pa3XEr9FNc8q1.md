@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3K9Kpz7u5Pa3XEr9FNc8q1.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 58 songs - 3 hr 7 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 59 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,5 +66,6 @@ pretty - [cumulative](/playlists/cumulative/3K9Kpz7u5Pa3XEr9FNc8q1.md) - [plain]
 | 56 | [Blow](https://open.spotify.com/track/3pYDZTJM2tVBUhIRifWVzI) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal \(Expanded Edition\)](https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23) | 3:39 |
 | 57 | [Like A G6](https://open.spotify.com/track/5AyL2kgLtTWEu3qO3B9SqK) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [The Cataracs](https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Free Wired](https://open.spotify.com/album/4axgysRjIB7ToC0DA7uxXC) | 3:36 |
 | 58 | [Closer](https://open.spotify.com/track/0GX5oOKtU0nnx5OkhenW2i) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Year Of The Gentleman](https://open.spotify.com/album/6dC6J5qkPcJ1iGshEN5MpX) | 3:54 |
+| 59 | [Moskau](https://open.spotify.com/track/5t77UGzgSBRDDnaxJvE9R3) | [Dschinghis Khan](https://open.spotify.com/artist/1g1nVvle9qO9AWIUWYvPAP) | [Moskau \- Das Neue Best Of Album](https://open.spotify.com/album/5rb7ToU6CAX1H0gdk63SQd) | 4:30 |
 
-Snapshot ID: `AAAAO34sSawa9QorrPP89yXJiaPhbGbO`
+Snapshot ID: `AAAAPOcG/8+M6LKVne4gER0+s/NZX08+`

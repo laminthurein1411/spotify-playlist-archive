@@ -107,6 +107,58 @@
     },
     {
       "album": {
+        "name": "Bizet: Carmen & L'arl\u00e9sienne Suites",
+        "url": "https://open.spotify.com/album/72DJCNYKojIpdLeRtX4iYi"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Orquestra Simf\u00f2nica de Barcelona i Nacional de Catalunya",
+          "url": "https://open.spotify.com/artist/3JMtC2Qi46h2vcbJfVYlgy"
+        },
+        {
+          "name": "Pablo Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/5cbPW0TtDXFDVlFHlUMPjD"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138040,
+      "name": "Carmen Suite No. 1 (Arr. E. Guiraud): II. Aragonaise",
+      "url": "https://open.spotify.com/track/1pLps4GXn3n4JcfCNAFwdh"
+    },
+    {
+      "album": {
+        "name": "Bizet: Carmen & L'arl\u00e9sienne Suites",
+        "url": "https://open.spotify.com/album/72DJCNYKojIpdLeRtX4iYi"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Orquestra Simf\u00f2nica de Barcelona i Nacional de Catalunya",
+          "url": "https://open.spotify.com/artist/3JMtC2Qi46h2vcbJfVYlgy"
+        },
+        {
+          "name": "Pablo Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/5cbPW0TtDXFDVlFHlUMPjD"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140906,
+      "name": "Carmen Suite No. 1 (Arr. E. Guiraud): VI. Les tor\u00e9adors",
+      "url": "https://open.spotify.com/track/00ZlsVT9DEE8vh3eBk3PTv"
+    },
+    {
+      "album": {
         "name": "Orff: Carmina Burana",
         "url": "https://open.spotify.com/album/6qhs0KJyOcA7CERbkddjtE"
       },

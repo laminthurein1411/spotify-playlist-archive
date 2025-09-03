@@ -1339,6 +1339,40 @@
     },
     {
       "album": {
+        "name": "Best of Usa : Banjo Furioso",
+        "url": "https://open.spotify.com/album/3iIW3UITm6DnbH7kin6iTm"
+      },
+      "artists": [
+        {
+          "name": "Banjo Express Ensemble",
+          "url": "https://open.spotify.com/artist/05J6xQ89UYrnxpHooXn6xJ"
+        },
+        {
+          "name": "Yannick Huet",
+          "url": "https://open.spotify.com/artist/2yCO6IpldnhJo4Ug8WLL3y"
+        },
+        {
+          "name": "Christian et Philippe Bon",
+          "url": "https://open.spotify.com/artist/4P9GmNzYgMMekGm55oaQSO"
+        },
+        {
+          "name": "Pascal Maucourant",
+          "url": "https://open.spotify.com/artist/2UDoKSsxc7prUPK9eiyTfo"
+        },
+        {
+          "name": "Luis-jos\u00e9 Landa",
+          "url": "https://open.spotify.com/artist/4bQtzLgxS7bX0mWDv0BaAu"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133071,
+      "name": "Foggy Mountain Breakdown",
+      "url": "https://open.spotify.com/track/0PlXgfunAKx3UHOWwZe7nb"
+    },
+    {
+      "album": {
         "name": "Carpenters With The Royal Philharmonic Orchestra",
         "url": "https://open.spotify.com/album/4NjqLEe5Rz11HB9aK5VLc2"
       },

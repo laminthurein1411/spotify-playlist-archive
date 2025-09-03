@@ -4,7 +4,7 @@
 
 > 
 
-195 songs - 14 hr 1 min
+196 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Experience](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:15 | 2022-05-01 |  |
 | [Fantasia in D Minor, K\. 397](https://open.spotify.com/track/7IHEJdJhju1F2rhIiwgawx) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Mozart: Piano Sonatas K.310, K.311 & K.533/494](https://open.spotify.com/album/37qHlAzBNRI9UahnOI9lvr) | 5:16 | 2022-05-01 |  |
 | [Final Attack](https://open.spotify.com/track/6MdZR7zIwg30i4SCuNnBCg) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Lights Out: Original Motion Picture Soundtrack](https://open.spotify.com/album/1O9bDZc0sb9pgrtcC8ORmS) | 3:08 | 2020-03-06 |  |
+| [Foggy Mountain Breakdown](https://open.spotify.com/track/0PlXgfunAKx3UHOWwZe7nb) | [Banjo Express Ensemble](https://open.spotify.com/artist/05J6xQ89UYrnxpHooXn6xJ), [Yannick Huet](https://open.spotify.com/artist/2yCO6IpldnhJo4Ug8WLL3y), [Christian et Philippe Bon](https://open.spotify.com/artist/4P9GmNzYgMMekGm55oaQSO), [Pascal Maucourant](https://open.spotify.com/artist/2UDoKSsxc7prUPK9eiyTfo), [Luis\-josé Landa](https://open.spotify.com/artist/4bQtzLgxS7bX0mWDv0BaAu) | [Best of Usa : Banjo Furioso](https://open.spotify.com/album/3iIW3UITm6DnbH7kin6iTm) | 2:13 | 2025-09-02 |  |
 | [For All We Know](https://open.spotify.com/track/6gdqXWUmLvBmoQ64qPLzei) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Carpenters With The Royal Philharmonic Orchestra](https://open.spotify.com/album/4NjqLEe5Rz11HB9aK5VLc2) | 2:56 | 2020-04-15 |  |
 | [Frolic \(Curb Your Enthusiasm Theme\)](https://open.spotify.com/track/5foxQ24C0x7W0B2OD46AJg) | [Luciano Michelini](https://open.spotify.com/artist/05Ih6MH2QyvgzQLZlh9yWM) | [TV Tunes](https://open.spotify.com/album/0U9IU6jBVJec7PHQyM90QZ) | 3:32 | 2022-07-09 |  |
 | [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/2EAgTVB2EdsMdqaqOk062L) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/6CGw0GbQ3PyJhXxHlBVjSk) | 3:36 | 2022-05-01 |  |

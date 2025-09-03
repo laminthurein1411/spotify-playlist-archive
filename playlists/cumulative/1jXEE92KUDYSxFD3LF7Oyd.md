@@ -4,7 +4,7 @@
 
 > 
 
-129 songs - 7 hr 2 min
+130 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Mon amour](https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Mon amour](https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn) | 3:00 | 2024-06-10 |  |
 | [Mon vieux](https://open.spotify.com/track/0BRnXs3uLJF2YVt3giM3S7) | [Daniel Guichard](https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs) | [CD Story](https://open.spotify.com/album/46GKFEQCo19hb1wwEXuZXT) | 3:28 | 2023-12-09 |  |
 | [Mortel](https://open.spotify.com/track/52BJXx9gsB7bC1gEWXy8lr) | [Rouquine](https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ) | [Masculine](https://open.spotify.com/album/5An9RJ5X95wK8egiqkSV7O) | 3:42 | 2024-03-27 |  |
+| [Moskau](https://open.spotify.com/track/5t77UGzgSBRDDnaxJvE9R3) | [Dschinghis Khan](https://open.spotify.com/artist/1g1nVvle9qO9AWIUWYvPAP) | [Moskau \- Das Neue Best Of Album](https://open.spotify.com/album/5rb7ToU6CAX1H0gdk63SQd) | 4:30 | 2025-09-02 |  |
 | [Ne me quitte pas \- Ré\-enregistrement 1972](https://open.spotify.com/track/45CkvJbPxUS5YLy8oOQTtG) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [15 Ans D'Amour](https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG) | 4:10 | 2023-12-09 |  |
 | [Non, je ne regrette rien](https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Eternelle](https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za) | 2:22 | 2023-12-09 |  |
 | [Nur wegen dir](https://open.spotify.com/track/19VrCmegsh8IqFfvpht5yw) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Schlagschatten](https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI) | 3:01 | 2025-07-28 |  |
