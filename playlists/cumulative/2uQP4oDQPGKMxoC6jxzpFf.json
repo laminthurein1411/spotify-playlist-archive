@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 352782,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1v5otq754gm9LG9BU6M1jz"
@@ -2145,6 +2145,24 @@
     },
     {
       "album": {
+        "name": "The Game (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
+    },
+    {
+      "album": {
         "name": "\"Weird Al\" Yankovic",
         "url": "https://open.spotify.com/album/1gnhuWdl30liEUM2jy9lxl"
       },
@@ -2610,6 +2628,24 @@
       "duration_ms": 292150,
       "name": "AUTOMATIC",
       "url": "https://open.spotify.com/track/053cg5mZoGpOYGWGn0AsCR"
+    },
+    {
+      "album": {
+        "name": "I Can Hear The Heart Beating As One",
+        "url": "https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318373,
+      "name": "Autumn Sweater",
+      "url": "https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs"
     },
     {
       "album": {
@@ -9342,6 +9378,24 @@
       "duration_ms": 196806,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/4Vu0rD2oUhjqSuM0taqdoF"
+    },
+    {
+      "album": {
+        "name": "Deja's View",
+        "url": "https://open.spotify.com/album/1vJAbaE5ol7MoTzZfEYeMG"
+      },
+      "artists": [
+        {
+          "name": "K. Forest",
+          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161776,
+      "name": "Deja's View",
+      "url": "https://open.spotify.com/track/2lOkBzsfI94veGKJVoksXX"
     },
     {
       "album": {
@@ -25411,6 +25465,28 @@
     },
     {
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/0wSXgdslbGhC6gw8vjgv9m"
+      },
+      "artists": [
+        {
+          "name": "Haviah Mighty",
+          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
+        },
+        {
+          "name": "Shantel May",
+          "url": "https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150523,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/2dQhFMS8pe5fPAOG709E4c"
+    },
+    {
+      "album": {
         "name": "Urban Hymns (Deluxe / Remastered 2016)",
         "url": "https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL"
       },
@@ -25520,6 +25596,24 @@
       "duration_ms": 304533,
       "name": "Lying On A Beach",
       "url": "https://open.spotify.com/track/2ZDFY9L76gQHFuwRl0pgaT"
+    },
+    {
+      "album": {
+        "name": "M A T R I A R C H",
+        "url": "https://open.spotify.com/album/2Pe2h7AO2EcbUWMPuV3LpY"
+      },
+      "artists": [
+        {
+          "name": "LOV",
+          "url": "https://open.spotify.com/artist/36HaK4wNnlYPVsZzGtvbw1"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197640,
+      "name": "M A T R I A R C H",
+      "url": "https://open.spotify.com/track/7DIjKCtWAIaFtVNqw94P4q"
     },
     {
       "album": {
@@ -30443,6 +30537,24 @@
     },
     {
       "album": {
+        "name": "Ordinary Creature",
+        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220226,
+      "name": "Ordinary Creature",
+      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
+    },
+    {
+      "album": {
         "name": "Get Lifted",
         "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
       },
@@ -33913,6 +34025,24 @@
     },
     {
       "album": {
+        "name": "Running Home",
+        "url": "https://open.spotify.com/album/11daOULnDqGxMe7B6CTt8t"
+      },
+      "artists": [
+        {
+          "name": "Jade LeMac",
+          "url": "https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Running Home",
+      "url": "https://open.spotify.com/track/2d0QRGVqmN3IunUZAHDUCU"
+    },
+    {
+      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD"
       },
@@ -34771,6 +34901,24 @@
     },
     {
       "album": {
+        "name": "Radio City",
+        "url": "https://open.spotify.com/album/3mtVgumHx6y9I2UvW4lUd5"
+      },
+      "artists": [
+        {
+          "name": "Big Star",
+          "url": "https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168066,
+      "name": "September Gurls",
+      "url": "https://open.spotify.com/track/74njazGdnO2igjEkb0mGiy"
+    },
+    {
+      "album": {
         "name": "serpentine",
         "url": "https://open.spotify.com/album/4lnf7Q5yp7SzDEbeILC8wk"
       },
@@ -35154,6 +35302,28 @@
       "duration_ms": 266466,
       "name": "She Cleans Up",
       "url": "https://open.spotify.com/track/5nEkWBNfUA87RY6ZSx2aR3"
+    },
+    {
+      "album": {
+        "name": "Without People",
+        "url": "https://open.spotify.com/album/4r9vIyMQT7a5iPBcHN9RNU"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        },
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200131,
+      "name": "She Waits For Me to Come Back Down",
+      "url": "https://open.spotify.com/track/22g2U0EvlbWUbvoobItp64"
     },
     {
       "album": {
@@ -45480,6 +45650,24 @@
       "duration_ms": 299706,
       "name": "We're All In This Together",
       "url": "https://open.spotify.com/track/3RDluCrOZYXajMMWtULmlI"
+    },
+    {
+      "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140178,
+      "name": "We're Going to Be Friends",
+      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
     },
     {
       "album": {

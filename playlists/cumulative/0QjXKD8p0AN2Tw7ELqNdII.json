@@ -363,6 +363,28 @@
     },
     {
       "album": {
+        "name": "A New Day (feat. Celine Dion)",
+        "url": "https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207223,
+      "name": "A New Day (feat. Celine Dion)",
+      "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
+    },
+    {
+      "album": {
         "name": "fruitcake",
         "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
       },
@@ -1519,6 +1541,24 @@
     },
     {
       "album": {
+        "name": "21 Gramm",
+        "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117249,
+      "name": "Bis tief in die Nacht",
+      "url": "https://open.spotify.com/track/4uVLSm8PxZI3R76vbbeppn"
+    },
+    {
+      "album": {
         "name": "Black Friday (pretty like the sun)",
         "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
       },
@@ -1680,6 +1720,32 @@
       "duration_ms": 180746,
       "name": "BMF",
       "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
+    },
+    {
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/77lRJx359HvAd8fcFqbbO8"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD"
     },
     {
       "album": {
@@ -1883,6 +1949,24 @@
     },
     {
       "album": {
+        "name": "Mixtape",
+        "url": "https://open.spotify.com/album/1V1dNfi7rebbHqcX1K4Mt8"
+      },
+      "artists": [
+        {
+          "name": "Ritter Lean",
+          "url": "https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144810,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/1CrGyHNz5qicP2Q5JQSS8E"
+    },
+    {
+      "album": {
         "name": "Virgin",
         "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
       },
@@ -1898,6 +1982,32 @@
       "duration_ms": 194038,
       "name": "Broken Glass",
       "url": "https://open.spotify.com/track/6xCKXznjcHv2hZWDA0pRIe"
+    },
+    {
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/6XfKpQ5ncl00Zn1fc4iLsJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217498,
+      "name": "Brother (with Post Malone & YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/6mGzRR8T7NQouNu7V37XMp"
     },
     {
       "album": {
@@ -2239,6 +2349,24 @@
     },
     {
       "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162266,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3"
+    },
+    {
+      "album": {
         "name": "clich\u00e9",
         "url": "https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi"
       },
@@ -2536,6 +2664,24 @@
       "duration_ms": 144041,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/0KCqe6I4jJ4nrrvp2qUy6R"
+    },
+    {
+      "album": {
+        "name": "Dancing Alone Again",
+        "url": "https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191432,
+      "name": "Dancing Alone Again",
+      "url": "https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo"
     },
     {
       "album": {
@@ -3179,6 +3325,24 @@
     },
     {
       "album": {
+        "name": "21 Gramm",
+        "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181778,
+      "name": "Ein Lied f\u00fcr dich",
+      "url": "https://open.spotify.com/track/3awCCyQfwNbQdf3lL5EL7C"
+    },
+    {
+      "album": {
         "name": "ein mensch",
         "url": "https://open.spotify.com/album/3bk3Ds1wrymdp0tbh564Z5"
       },
@@ -3582,6 +3746,24 @@
       "duration_ms": 168013,
       "name": "Fata Morgana (feat. Tokio Hotel)",
       "url": "https://open.spotify.com/track/7a4O4FPGjTL4084bbvFeJF"
+    },
+    {
+      "album": {
+        "name": "Faux Fur (like you like it)",
+        "url": "https://open.spotify.com/album/2nD51R8vddPKRGW7el4TPK"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143038,
+      "name": "Faux Fur (like you like it)",
+      "url": "https://open.spotify.com/track/6yVY5sNFFrpxloDUjwVOHU"
     },
     {
       "album": {
@@ -4133,6 +4315,24 @@
     },
     {
       "album": {
+        "name": "21 Gramm",
+        "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144768,
+      "name": "F\u00fcr die Kamera",
+      "url": "https://open.spotify.com/track/1RIvelzR9hlobAkw4UCiMa"
+    },
+    {
+      "album": {
         "name": "F\u00fcr Immer Jetzt",
         "url": "https://open.spotify.com/album/3FkH6cqrafzduLlfwedVJi"
       },
@@ -4557,6 +4757,28 @@
     },
     {
       "album": {
+        "name": "Gute Kinder",
+        "url": "https://open.spotify.com/album/1vaY4kZw0jAkzpOH6RC5oK"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        },
+        {
+          "name": "Esther Graf",
+          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126829,
+      "name": "Gute Kinder",
+      "url": "https://open.spotify.com/track/15HQjVHk00hqB96xEx4zfL"
+    },
+    {
+      "album": {
         "name": "GWHF",
         "url": "https://open.spotify.com/album/6Inm75nG55y057AcG6DjEw"
       },
@@ -4572,6 +4794,24 @@
       "duration_ms": 151427,
       "name": "GWHF",
       "url": "https://open.spotify.com/track/2Co26l5ypYisIadzB44Pcz"
+    },
+    {
+      "album": {
+        "name": "Haifischbecken",
+        "url": "https://open.spotify.com/album/0jL4GZTFvl6yaFHbDMIVCh"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139915,
+      "name": "Haifischbecken",
+      "url": "https://open.spotify.com/track/2sL7gSkWNsHU3zEMT67edU"
     },
     {
       "album": {
@@ -5132,6 +5372,24 @@
       "duration_ms": 227239,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
+    },
+    {
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169214,
+      "name": "House Tour",
+      "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
     },
     {
       "album": {
@@ -5744,6 +6002,24 @@
       "duration_ms": 161379,
       "name": "Jana",
       "url": "https://open.spotify.com/track/0NJ8C0C3ZXldUELdBKloX5"
+    },
+    {
+      "album": {
+        "name": "Jealous Type",
+        "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163647,
+      "name": "Jealous Type",
+      "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
     },
     {
       "album": {
@@ -8083,6 +8359,24 @@
     },
     {
       "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197817,
+      "name": "My Man on Willpower",
+      "url": "https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy"
+    },
+    {
+      "album": {
         "name": "Mystical Magical",
         "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
       },
@@ -8919,6 +9213,24 @@
     },
     {
       "album": {
+        "name": "Ego Death At A Bachelorette Party",
+        "url": "https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220101,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV"
+    },
+    {
+      "album": {
         "name": "Paradise (with Bipolar Sunshine)",
         "url": "https://open.spotify.com/album/6V5S9DCZk49kkNsnIh9gt7"
       },
@@ -9286,6 +9598,28 @@
       "duration_ms": 168288,
       "name": "Pusteblume",
       "url": "https://open.spotify.com/track/2exlK2N3UXrw5fVsAhSimu"
+    },
+    {
+      "album": {
+        "name": "QUE CE SOIT CLAIR",
+        "url": "https://open.spotify.com/album/3KPXmdrGHVCiVJNp1Q5jPx"
+      },
+      "artists": [
+        {
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+        },
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176010,
+      "name": "QUE CE SOIT CLAIR",
+      "url": "https://open.spotify.com/track/6eDKyG6jvCXaTyTdFOh9wA"
     },
     {
       "album": {
@@ -10141,6 +10475,24 @@
     },
     {
       "album": {
+        "name": "SHE DON'T NEED TO KNOW",
+        "url": "https://open.spotify.com/album/45oJTfBl4jrQ9nGCvYpksv"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150233,
+      "name": "SHE DON'T NEED TO KNOW",
+      "url": "https://open.spotify.com/track/4R6McrWJ5fpVuzsNwoukI9"
+    },
+    {
+      "album": {
         "name": "Shook",
         "url": "https://open.spotify.com/album/6CzSYXBYtypopA9bAZArQd"
       },
@@ -10529,6 +10881,28 @@
     },
     {
       "album": {
+        "name": "Something Wrong (with Don Toliver)",
+        "url": "https://open.spotify.com/album/6BzulXCJ5ZITGuNNFxEQ3a"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142451,
+      "name": "Something Wrong (with Don Toliver)",
+      "url": "https://open.spotify.com/track/1LR9rQCGhM0MqESvRQ9EFX"
+    },
+    {
+      "album": {
         "name": "Sommer macht melancholisch",
         "url": "https://open.spotify.com/album/4SVRaHNM1waus7mOFJMUla"
       },
@@ -10754,6 +11128,24 @@
       "duration_ms": 212000,
       "name": "STREIT",
       "url": "https://open.spotify.com/track/2uj2UZwhooohVKQREM7Wx8"
+    },
+    {
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183770,
+      "name": "Sugar Talking",
+      "url": "https://open.spotify.com/track/5B3GZOZYXNzWpUXQC42hxZ"
     },
     {
       "album": {
@@ -11162,6 +11554,24 @@
       "duration_ms": 110902,
       "name": "tau mich auf",
       "url": "https://open.spotify.com/track/6j8OrKDQHxXakjA7KKbWzj"
+    },
+    {
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160183,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
     },
     {
       "album": {
@@ -11970,6 +12380,24 @@
       "duration_ms": 194760,
       "name": "Tyrants",
       "url": "https://open.spotify.com/track/7oTvcGyX0llNf9X3pFy8sd"
+    },
+    {
+      "album": {
+        "name": "eat me alive / u don't have to tell me",
+        "url": "https://open.spotify.com/album/3mxQzFNEhn2XAr2UvCt2bI"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135919,
+      "name": "u don't have to tell me",
+      "url": "https://open.spotify.com/track/6U5AgSYUubKMrMDEazfSsF"
     },
     {
       "album": {
@@ -13032,6 +13460,24 @@
       "duration_ms": 173325,
       "name": "Wie?",
       "url": "https://open.spotify.com/track/36w8f4Cl7JqTbFDamAdq8Q"
+    },
+    {
+      "album": {
+        "name": "21 Gramm",
+        "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160986,
+      "name": "Wieder alleine",
+      "url": "https://open.spotify.com/track/66yIvZgthC79Tkeedb0ZAQ"
     },
     {
       "album": {
