@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAASlVOIGG70J2QUTzyPl50pgnMIymS",
+  "snapshot_id": "AAAATLTirXBphu01UpMQ6Cuu686sOdqc",
   "tracks": [
     {
       "added_at": "2022-05-07 13:03:51",
@@ -2127,6 +2127,38 @@
       "duration_ms": 270360,
       "name": "Moskau",
       "url": "https://open.spotify.com/track/5t77UGzgSBRDDnaxJvE9R3"
+    },
+    {
+      "added_at": "2025-09-05 04:47:14",
+      "album": {
+        "name": "Meine Lieder",
+        "url": "https://open.spotify.com/album/36VpMfIJBeA3UTkj5FvzRc"
+      },
+      "artists": [
+        {
+          "name": "Udo J\u00fcrgens",
+          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
+        }
+      ],
+      "duration_ms": 244936,
+      "name": "Griechischer Wein",
+      "url": "https://open.spotify.com/track/6acOaeELSjmb29hNussIXt"
+    },
+    {
+      "added_at": "2025-09-05 04:47:56",
+      "album": {
+        "name": "Melodie (Deluxe-Premium Edition)",
+        "url": "https://open.spotify.com/album/2wxL2f84bfAMCJojso5Ccc"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "Traum",
+      "url": "https://open.spotify.com/track/6D579iDSk3u8fCokhBl8dQ"
     }
   ],
   "unique_name": "European \ud83c\udfe4",

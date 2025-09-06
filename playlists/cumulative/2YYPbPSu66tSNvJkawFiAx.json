@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2Nite",
+        "url": "https://open.spotify.com/album/7g0tXuz4zBk1oKw3MEni26"
+      },
+      "artists": [
+        {
+          "name": "MIAW",
+          "url": "https://open.spotify.com/artist/2SNhbHpLD4lJoEcRKZY5lW"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233880,
+      "name": "2Nite",
+      "url": "https://open.spotify.com/track/1CHJyIFsChUnq0i80iHNxV"
+    },
+    {
+      "album": {
         "name": "about time",
         "url": "https://open.spotify.com/album/1tI4DHwaPnfJNrWV4Jo1oh"
       },
@@ -240,6 +258,28 @@
       "duration_ms": 208932,
       "name": "All Good Things",
       "url": "https://open.spotify.com/track/0IfbIeyUurMwBYIVFRvjEn"
+    },
+    {
+      "album": {
+        "name": "ALL IN (feat. Rimarkable)",
+        "url": "https://open.spotify.com/album/3phS7NrP1dng9uLLl6qsd2"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        },
+        {
+          "name": "Rimarkable",
+          "url": "https://open.spotify.com/artist/4t1z5s4veUPuhIwzvAvTle"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240160,
+      "name": "ALL IN - feat. Rimarkable",
+      "url": "https://open.spotify.com/track/6bz1pfPhwMYdRixP1oHxyZ"
     },
     {
       "album": {
@@ -1083,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "Before You Realize It",
+        "url": "https://open.spotify.com/album/3mrebd7MPHWhj8XlKQe9Pb"
+      },
+      "artists": [
+        {
+          "name": "The Mystery Lights",
+          "url": "https://open.spotify.com/artist/6AQxkjJQfz7CNjwZ5CTqJX"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275466,
+      "name": "Cerebral Crack",
+      "url": "https://open.spotify.com/track/41RZOhdJZYlFA4Nf0dh9sU"
+    },
+    {
+      "album": {
         "name": "Letters From The Atlantic",
         "url": "https://open.spotify.com/album/4t7ckccjrCGSqqUFrfQLpX"
       },
@@ -1102,6 +1160,24 @@
       "duration_ms": 210220,
       "name": "Change in Weather [Feat. MIA GLADSTONE]",
       "url": "https://open.spotify.com/track/0N496JaQOKmheVB9T3mJWP"
+    },
+    {
+      "album": {
+        "name": "Chateau Blues",
+        "url": "https://open.spotify.com/album/00JEIPiZLwrJx1EslEZO7z"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181138,
+      "name": "Chateau Blues",
+      "url": "https://open.spotify.com/track/75IGGN9fT7jNEyNJmSVHyq"
     },
     {
       "album": {
@@ -2353,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "Unicorn",
+        "url": "https://open.spotify.com/album/4DUTwccENusGfoeYUDVWe0"
+      },
+      "artists": [
+        {
+          "name": "RIO KOSTA",
+          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239276,
+      "name": "Follow The River",
+      "url": "https://open.spotify.com/track/4lqy6A33h6N9Yy1GhLkD93"
+    },
+    {
+      "album": {
         "name": "Blue Desert",
         "url": "https://open.spotify.com/album/1H96rR2NE8XkXZw5w9586X"
       },
@@ -3593,6 +3687,24 @@
     },
     {
       "album": {
+        "name": "Infinite Vibrations",
+        "url": "https://open.spotify.com/album/3JaRn60aADMWYrne69JTaF"
+      },
+      "artists": [
+        {
+          "name": "Mocky",
+          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222014,
+      "name": "Infinite Vibrations",
+      "url": "https://open.spotify.com/track/69FDFcncMjrTRIQ45n4PDV"
+    },
+    {
+      "album": {
         "name": "Come Ahead: The Remixes Vol 1 (Vocals)",
         "url": "https://open.spotify.com/album/3G6gf8a8vnCS6O42CHv7Iw"
       },
@@ -4323,6 +4435,24 @@
     },
     {
       "album": {
+        "name": "Transformation Time",
+        "url": "https://open.spotify.com/album/7vDMZ0wXQZXPGNWDlAII1X"
+      },
+      "artists": [
+        {
+          "name": "Bardo",
+          "url": "https://open.spotify.com/artist/1SFhamIrUHoA2hfFWBAAqn"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251258,
+      "name": "Love Me Like I Love You",
+      "url": "https://open.spotify.com/track/2E8IQ930h0Seh9h2GdN0tf"
+    },
+    {
+      "album": {
         "name": "Lovers Only",
         "url": "https://open.spotify.com/album/5SzdVGZnxac4bJmw1kI78U"
       },
@@ -4667,6 +4797,24 @@
     },
     {
       "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/1JgvMVfhrX7t3p2oAzO3aw"
+      },
+      "artists": [
+        {
+          "name": "Automatic",
+          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263297,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/0koaXm11b7sizUYJ67ebyn"
+    },
+    {
+      "album": {
         "name": "merlot and grigio",
         "url": "https://open.spotify.com/album/6RVaGktr5I9iuvJVF5ft1B"
       },
@@ -4686,6 +4834,68 @@
       "duration_ms": 206265,
       "name": "merlot and grigio",
       "url": "https://open.spotify.com/track/0Jc9dn7LaihjTPFoq4Eynp"
+    },
+    {
+      "album": {
+        "name": "Misbehave",
+        "url": "https://open.spotify.com/album/7atjOh2i7vkmg2uvW3qQUB"
+      },
+      "artists": [
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        },
+        {
+          "name": "Kapote",
+          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260736,
+      "name": "Misbehave",
+      "url": "https://open.spotify.com/track/3tuCmh1kbCEmk0mosm0ZB9"
+    },
+    {
+      "album": {
+        "name": "Miss Black America",
+        "url": "https://open.spotify.com/album/5lSpRx7o1F60p2ZFuTmgIg"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        },
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161306,
+      "name": "Miss Black America",
+      "url": "https://open.spotify.com/track/5b9uPys3CXkpjBqrqY5KbI"
+    },
+    {
+      "album": {
+        "name": "Freakquencies: Volume 1",
+        "url": "https://open.spotify.com/album/4gaNqy701TUFmsUtIFLfeD"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217224,
+      "name": "Modelizer",
+      "url": "https://open.spotify.com/track/1zfZ7aElZ3ZeM46P3CTtQE"
     },
     {
       "album": {
@@ -4939,6 +5149,28 @@
     },
     {
       "album": {
+        "name": "New Drug",
+        "url": "https://open.spotify.com/album/00KRGXQp3eHv5U5OL7j71T"
+      },
+      "artists": [
+        {
+          "name": "MIAW",
+          "url": "https://open.spotify.com/artist/2SNhbHpLD4lJoEcRKZY5lW"
+        },
+        {
+          "name": "Saffran",
+          "url": "https://open.spotify.com/artist/67Ri5DRp9vTHCs8mcnQf8s"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149444,
+      "name": "New Drug",
+      "url": "https://open.spotify.com/track/0cdSGonWY0fOgLh0hzvoPp"
+    },
+    {
+      "album": {
         "name": "Night Or Day",
         "url": "https://open.spotify.com/album/0AMKqFMsJRi3092NMEneaJ"
       },
@@ -5187,6 +5419,32 @@
     },
     {
       "album": {
+        "name": "Roy Ayers Delfonic Reworked #1",
+        "url": "https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Delfonic",
+          "url": "https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP"
+        },
+        {
+          "name": "Merry Clayton",
+          "url": "https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350293,
+      "name": "Oh What A Lonely Feeling - Delfonic Rework",
+      "url": "https://open.spotify.com/track/2YsACErCqxeNdWiU1MdKN6"
+    },
+    {
+      "album": {
         "name": "NOVA ERA/OHAYO SARAV\u00c1",
         "url": "https://open.spotify.com/album/5E8BvELjmXvZeBih4LVe1S"
       },
@@ -5282,6 +5540,24 @@
       "duration_ms": 198440,
       "name": "Organize",
       "url": "https://open.spotify.com/track/1hzMjhzZKJxeRcITmH9WjE"
+    },
+    {
+      "album": {
+        "name": "Mydnight",
+        "url": "https://open.spotify.com/album/2MVB6MztUF4iFQCcbBYmOe"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213706,
+      "name": "Our Home",
+      "url": "https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv"
     },
     {
       "album": {
@@ -5572,6 +5848,28 @@
       "duration_ms": 211126,
       "name": "Praise",
       "url": "https://open.spotify.com/track/08aaQA6A7UHvbPGsfPrAFe"
+    },
+    {
+      "album": {
+        "name": "Solar 9 Fender",
+        "url": "https://open.spotify.com/album/125JIiqXApC9orYUT1tb1h"
+      },
+      "artists": [
+        {
+          "name": "Ruby Red",
+          "url": "https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6"
+        },
+        {
+          "name": "asri",
+          "url": "https://open.spotify.com/artist/3VJMRvsUa5p0A5Opwi9OHc"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205161,
+      "name": "Predator / Prey",
+      "url": "https://open.spotify.com/track/3ERPhL9r7fRRT9AC7GRpbB"
     },
     {
       "album": {
@@ -7007,6 +7305,24 @@
     },
     {
       "album": {
+        "name": "AIN'T NO DAMN WAY!",
+        "url": "https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142246,
+      "name": "TARGET JOINT",
+      "url": "https://open.spotify.com/track/2g3S9jyG9dAchzKCCvOXLw"
+    },
+    {
+      "album": {
         "name": "The Thief Next to Jesus",
         "url": "https://open.spotify.com/album/4fmC67uHti9BxWUNAUb6wy"
       },
@@ -7976,6 +8292,40 @@
       "duration_ms": 140178,
       "name": "We're Going to Be Friends",
       "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
+    },
+    {
+      "album": {
+        "name": "Wear and Tear",
+        "url": "https://open.spotify.com/album/5bolRHcWoIIET6qafkDUtT"
+      },
+      "artists": [
+        {
+          "name": "Everything Is Recorded",
+          "url": "https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        },
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        },
+        {
+          "name": "Jah Wobble",
+          "url": "https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189135,
+      "name": "Wear and Tear",
+      "url": "https://open.spotify.com/track/4oGAWdRWgD0F5WGytn12JI"
     },
     {
       "album": {

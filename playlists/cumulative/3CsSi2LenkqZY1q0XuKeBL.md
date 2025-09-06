@@ -4,7 +4,7 @@
 
 > Collection Of All Types Of Music Genres With Japanese Songs.
 
-497 songs - 1 day 11 hr 14 min
+499 songs - 1 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [もっと大きな愛で包み込むから...](https://open.spotify.com/track/1gLIwSVE344uExfNNL99La) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB), [K](https://open.spotify.com/artist/2XP6sMIt93QYAb3mrkl2Hy) | [ON'O](https://open.spotify.com/album/5Ye6YfLo7W7Zh8bHLMi5x6) | 4:41 | 2020-06-27 |  |
 | [もののけ姫](https://open.spotify.com/track/6GNMsGRvKD64LRPKdIG1Q0) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [ジブリ名曲セレクション〜Dear GHIBLI](https://open.spotify.com/album/6RCUjz2HJI5pONu99Tss31) | 4:34 | 2020-07-16 |  |
 | [わけじゃない](https://open.spotify.com/track/75s7mcnFLaLEZsNC6Q8sG9) | [まるりとりゅうが](https://open.spotify.com/artist/6dcd2CUUMnZjue8tgSE68n) | [わけじゃない](https://open.spotify.com/album/7fanAoctrv1NSm1uVgAJ4q) | 4:10 | 2020-05-19 |  |
+| [アイビー](https://open.spotify.com/track/3y3gIFisu61Qc3NtRE7a2r) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [アイビー](https://open.spotify.com/album/58sJhrUW1QEwPl1W1zBPGY) | 4:31 | 2025-09-05 |  |
 | [アカシア](https://open.spotify.com/track/0tvPnYDLySJL9g7OHNJeyb) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [アカシア](https://open.spotify.com/album/68QVVJIcIoem5brTfzbSlo) | 4:22 | 2021-02-18 |  |
 | [アシンメトリー](https://open.spotify.com/track/4ybRIsoH4GOyjjViie3LWx) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi) | [Re:I](https://open.spotify.com/album/2NWLavCE5Y1Cm4K7ZxAfYz) | 4:50 | 2020-07-16 |  |
 | [アンチクロックワイズ](https://open.spotify.com/track/1IU8f6Bn1adKWETG3rduAj) | [After the Rain](https://open.spotify.com/artist/2v7nGZtRBqPyfcwcEYjDfX) | [アンチクロックワイズ](https://open.spotify.com/album/3tY1tx059Rh9ammdxokMJZ) | 3:48 | 2020-06-30 |  |
@@ -370,6 +371,7 @@
 | [ビリーヴ](https://open.spotify.com/track/0fsan60OgxYamREqipnSQt) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [ビリーヴ](https://open.spotify.com/album/03EQXwgJ8Se0VgFFaiLyfP) | 3:39 | 2020-07-16 |  |
 | [フィクション](https://open.spotify.com/track/543jStmHR1VrSfpxmjUIn6) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Chime](https://open.spotify.com/album/3foRklHeA5lXq56ZsEbkfv) | 3:50 | 2025-09-02 |  |
 | [フラッシュバック](https://open.spotify.com/track/3XIhc1kgq55uVtMFfTBvdq) | [Lily, Sayonara.](https://open.spotify.com/artist/2SkaSsUw8OaFvPUusPl6le) | [ハッピーエンドで会いましょう](https://open.spotify.com/album/4MxAG7TheX39mWE0uPHQi1) | 5:08 | 2020-07-16 |  |
+| [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 | 2025-09-05 |  |
 | [プロローグ](https://open.spotify.com/track/67euLss26HkipHuMS85qrU) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [Prologue](https://open.spotify.com/album/2UuS6ISdXT6EPIlRuIFWjb) | 5:02 | 2020-03-09 |  |
 | [ベテルギウス](https://open.spotify.com/track/2sf18cEv463VgqmdjDsFpw) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ベテルギウス](https://open.spotify.com/album/25FWSs9iK7hQqyK2fdKvSV) | 3:50 | 2021-11-21 |  |
 | [ポラリス](https://open.spotify.com/track/1f6HC5dTviPmopQjYi4uVT) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Polaris \(Special Edition\)](https://open.spotify.com/album/1NjH274ENXbPVgiq4BeWLN) | 3:44 | 2020-06-30 |  |

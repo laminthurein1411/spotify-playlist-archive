@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 130 songs - 7 hr 7 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 132 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,5 +138,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 128 | [Hier encore](https://open.spotify.com/track/4ciRwt5dGHKKm8Et8r1xJ0) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Que c'est triste Venise \(Remastered 2014\)](https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK) | 2:23 |
 | 129 | [24 mila baci \- Remastered](https://open.spotify.com/track/1UDlD1z55fRXcJIDzJtMfk) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Collezione D'Oro \(Remastered\)](https://open.spotify.com/album/0CWYt6XEAFX2NqnbD0Mx8k) | 2:14 |
 | 130 | [Moskau](https://open.spotify.com/track/5t77UGzgSBRDDnaxJvE9R3) | [Dschinghis Khan](https://open.spotify.com/artist/1g1nVvle9qO9AWIUWYvPAP) | [Moskau \- Das Neue Best Of Album](https://open.spotify.com/album/5rb7ToU6CAX1H0gdk63SQd) | 4:30 |
+| 131 | [Griechischer Wein](https://open.spotify.com/track/6acOaeELSjmb29hNussIXt) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Meine Lieder](https://open.spotify.com/album/36VpMfIJBeA3UTkj5FvzRc) | 4:04 |
+| 132 | [Traum](https://open.spotify.com/track/6D579iDSk3u8fCokhBl8dQ) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Melodie \(Deluxe\-Premium Edition\)](https://open.spotify.com/album/2wxL2f84bfAMCJojso5Ccc) | 3:16 |
 
-Snapshot ID: `AAAASlVOIGG70J2QUTzyPl50pgnMIymS`
+Snapshot ID: `AAAATLTirXBphu01UpMQ6Cuu686sOdqc`

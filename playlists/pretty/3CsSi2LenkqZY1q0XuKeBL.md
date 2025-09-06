@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3CsSi2LenkqZY1q0XuKeBL.md) - [plain]
 
 > Collection Of All Types Of Music Genres With Japanese Songs.
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 4 likes - 502 songs - 1 day 11 hr 38 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 4 likes - 504 songs - 1 day 11 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -510,5 +510,7 @@ pretty - [cumulative](/playlists/cumulative/3CsSi2LenkqZY1q0XuKeBL.md) - [plain]
 | 500 | [Remember Summer Days](https://open.spotify.com/track/1qUo7d5lAOclNVbTUY0A2R) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:55 |
 | 501 | [フィクション](https://open.spotify.com/track/543jStmHR1VrSfpxmjUIn6) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Chime](https://open.spotify.com/album/3foRklHeA5lXq56ZsEbkfv) | 3:50 |
 | 502 | [カワキヲアメク](https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/6R5yCaIbIwK9IQJErCb0FV) | 4:11 |
+| 503 | [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 |
+| 504 | [アイビー](https://open.spotify.com/track/3y3gIFisu61Qc3NtRE7a2r) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [アイビー](https://open.spotify.com/album/58sJhrUW1QEwPl1W1zBPGY) | 4:31 |
 
-Snapshot ID: `AAACFX6/AcDuP0n4GUwA5TYiVOgRg/0A`
+Snapshot ID: `AAACF+Zh4zhN/MgqBAfyaEX7cmVZKtIc`

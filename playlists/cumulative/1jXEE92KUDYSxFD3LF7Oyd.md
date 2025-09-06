@@ -4,7 +4,7 @@
 
 > 
 
-130 songs - 7 hr 7 min
+132 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Et maintenant \(Version 1966\) \- Remasterisé en 2011](https://open.spotify.com/track/5z3LJpwfI91bj3ogU8l0sk) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Edition 60e anniversaire](https://open.spotify.com/album/50RvSoNqk5x7zFROrImpIL) | 2:39 | 2023-12-09 |  |
 | [Fais comme l'oiseau](https://open.spotify.com/track/725PsGr5yXLJl8uENrVXPa) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais comme l'oiseau](https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP) | 3:06 | 2023-12-09 |  |
 | [Gabriela](https://open.spotify.com/track/0RvJfhqX0Ktl5H9wzhNjTJ) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Ben É Samba Bom \(1964\)](https://open.spotify.com/album/3p1lsEa1gZjIWwUDKA0AbT) | 2:52 | 2025-07-19 |  |
+| [Griechischer Wein](https://open.spotify.com/track/6acOaeELSjmb29hNussIXt) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Meine Lieder](https://open.spotify.com/album/36VpMfIJBeA3UTkj5FvzRc) | 4:04 | 2025-09-05 |  |
 | [Gwendolyne](https://open.spotify.com/track/7B4uAyj4X3qs8YXdV4wwhS) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Gwendolyne](https://open.spotify.com/album/33JwmtWxEH0Jh0IqK9OIMj) | 2:48 | 2025-04-03 |  |
 | [Hier encore](https://open.spotify.com/track/4ciRwt5dGHKKm8Et8r1xJ0) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Que c'est triste Venise \(Remastered 2014\)](https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK) | 2:23 | 2025-07-31 |  |
 | [Hoch](https://open.spotify.com/track/7gqefhSJfWyN1qQ2huvEze) | [Tim Bendzko](https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl) | [FILTER](https://open.spotify.com/album/3UZVvbtFNygVU4Pr7oTU5l) | 2:48 | 2022-12-28 |  |
@@ -121,6 +122,7 @@
 | [Ton nom](https://open.spotify.com/track/3BThFUwV2RQf3p77xQJiW5) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Vivante](https://open.spotify.com/album/5O6ovq15vesJDB4Omd9zZk) | 3:32 | 2022-05-07 |  |
 | [Tous les garçons et les filles \- Stereo Mix](https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Tous les garçons et les filles](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 3:07 | 2023-12-09 |  |
 | [Tout L'Amour](https://open.spotify.com/track/3IpN4w5HAStXjJ1PNihtlc) | [Dario Moreno](https://open.spotify.com/artist/39rtUmVAGX9W1e2aXE9YkF) | [Si Tu Vas A Rio](https://open.spotify.com/album/3fuvWRKCCJ5GM9C4DAaQAe) | 1:56 | 2023-12-09 |  |
+| [Traum](https://open.spotify.com/track/6D579iDSk3u8fCokhBl8dQ) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Melodie \(Deluxe\-Premium Edition\)](https://open.spotify.com/album/2wxL2f84bfAMCJojso5Ccc) | 3:16 | 2025-09-05 |  |
 | [Tu verras](https://open.spotify.com/track/5jsCb9iTwwY7VVD73PGezb) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Jazz Et Java](https://open.spotify.com/album/0Becl0XzJp8Z1zunK1vdrn) | 3:16 | 2023-12-09 |  |
 | [Un homme](https://open.spotify.com/track/7fu7J4k1mdnmpfVXFuEShk) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Meilleure vie](https://open.spotify.com/album/2KAitQgR9RBW0Ew8f3Kzre) | 2:37 | 2024-10-04 |  |
 | [Un homme et une femme \- Instrumental](https://open.spotify.com/track/062Cv5UXgBHWkMoRScGkt0) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn) | [Un homme et une femme \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GU4TR3nIDycmrQyGE7wpk) | 2:41 | 2023-12-09 |  |

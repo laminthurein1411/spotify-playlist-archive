@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Meine Lieder",
+        "url": "https://open.spotify.com/album/36VpMfIJBeA3UTkj5FvzRc"
+      },
+      "artists": [
+        {
+          "name": "Udo J\u00fcrgens",
+          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244936,
+      "name": "Griechischer Wein",
+      "url": "https://open.spotify.com/track/6acOaeELSjmb29hNussIXt"
+    },
+    {
+      "album": {
         "name": "Gwendolyne",
         "url": "https://open.spotify.com/album/33JwmtWxEH0Jh0IqK9OIMj"
       },
@@ -2076,6 +2094,24 @@
       "duration_ms": 116666,
       "name": "Tout L'Amour",
       "url": "https://open.spotify.com/track/3IpN4w5HAStXjJ1PNihtlc"
+    },
+    {
+      "album": {
+        "name": "Melodie (Deluxe-Premium Edition)",
+        "url": "https://open.spotify.com/album/2wxL2f84bfAMCJojso5Ccc"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196440,
+      "name": "Traum",
+      "url": "https://open.spotify.com/track/6D579iDSk3u8fCokhBl8dQ"
     },
     {
       "album": {
