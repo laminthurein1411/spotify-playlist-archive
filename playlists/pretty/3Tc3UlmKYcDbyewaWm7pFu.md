@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,114 songs - 2 day 18 hr 20 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,120 songs - 2 day 18 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1122,5 +1122,11 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 | 1112 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
 | 1113 | [Run](https://open.spotify.com/track/2r8RwegunaKMYW4pDFEMKM) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE) | 3:15 |
 | 1114 | [Backseat](https://open.spotify.com/track/7j6PWLaubVavCLE4peea8S) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Portal](https://open.spotify.com/album/3T5osCmLRKocwvc1yobKwB) | 6:23 |
+| 1115 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
+| 1116 | [Joey](https://open.spotify.com/track/04UWtAIMwi67MG8uHwYqgK) | [Concrete Blonde](https://open.spotify.com/artist/2ICSjfBpos9PxMhGhX25N2) | [Bloodletting](https://open.spotify.com/album/0Qny7PmxUlBMrw4xdeiHaU) | 4:08 |
+| 1117 | [Keep Me in Your Heart](https://open.spotify.com/track/1fRlDQzrpvWd4BlIzifUkJ) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [The Wind](https://open.spotify.com/album/4nFHFjMCqWuFXyzuXWi9bW) | 3:28 |
+| 1118 | [Save Me](https://open.spotify.com/track/578vAGxgMI3yGXoHVBdbhU) | [Remy Zero](https://open.spotify.com/artist/2pZCKLhbrrDD4PwEzrDig3) | [Smallville: The Talon Mix](https://open.spotify.com/album/4ZS43VlYwOu0WUvFfQsleB) | 4:04 |
+| 1119 | [Umbrella \(Rihanna cover\)](https://open.spotify.com/track/4aV8Y1ChBjchBmqeXkRpIN) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Punk Goes Crunk](https://open.spotify.com/album/59WZtvvNY7DE9FnCnWMmi4) | 3:49 |
+| 1120 | [The Promise](https://open.spotify.com/track/3aGQZDaUDiYwVFhIYph2qv) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds In Country Music](https://open.spotify.com/album/19lODR6Yv1mfvvcTkrFAn2) | 4:17 |
 
-Snapshot ID: `AAAElmcd0+k74snoNKI16jFIDSu8l36T`
+Snapshot ID: `AAAEnORnLoyhbLOS+iJP4RA9suvzoKNL`
