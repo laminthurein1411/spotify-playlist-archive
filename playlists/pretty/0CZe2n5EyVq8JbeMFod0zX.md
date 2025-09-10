@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0CZe2n5EyVq8JbeMFod0zX.md) - [plain]
 
 > 
 
-[Mathew Skurat](https://open.spotify.com/user/mdskurat97) - 2,164 likes - 99 songs - 5 hr 5 min
+[Mathew Skurat](https://open.spotify.com/user/mdskurat97) - 2,167 likes - 99 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

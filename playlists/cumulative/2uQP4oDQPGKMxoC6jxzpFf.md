@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,628 songs - 6 day 20 hr 21 min
+2,633 songs - 6 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Ankles](https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P) | 3:11 | 2025-02-05 |  |
 | [Anniversary](https://open.spotify.com/track/6nMb2r36d2nUbBgkvVYkWT) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Anniversary](https://open.spotify.com/album/076ZsTO3oHNUUNVd6iXWin) | 2:54 | 2025-02-11 |  |
 | [Another Is Waiting](https://open.spotify.com/track/5dFeNkfQT1l8XdEA990jxP) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Magpie And The Dandelion \(Deluxe\)](https://open.spotify.com/album/3vxPdhrgTuqqPArgXgEDdj) | 2:08 | 2024-12-19 |  |
+| [Another Life](https://open.spotify.com/track/3BpmezdTQq6L0pBpt3pq8c) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Another Life](https://open.spotify.com/album/3jUvrYB4Bh3Hw9liq8dbCi) | 4:37 | 2025-09-09 |  |
 | [Another Log on the Fire](https://open.spotify.com/track/5xXe7Drb1delVr1cJ0lXFq) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Another Log on the Fire](https://open.spotify.com/album/2wdp79jLXo7atmeVyfDcJF) | 4:13 | 2024-12-22 |  |
 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 | 2025-09-03 |  |
 | [Another One Rides the Bus](https://open.spotify.com/track/23tktWr4FmFoJ6xEGqj3u2) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | ["Weird Al" Yankovic](https://open.spotify.com/album/1gnhuWdl30liEUM2jy9lxl) | 2:38 | 2025-07-26 |  |
@@ -512,6 +513,7 @@
 | [Daydream](https://open.spotify.com/track/32pXMjwyuQaau2jgf6BTua) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Daydream](https://open.spotify.com/album/5AWER3YK1Wi9HZ1FjfHRmo) | 2:26 | 2024-11-22 |  |
 | [Days Of Oblivion](https://open.spotify.com/track/2p83KMWc8xidIJ0RwXsz25) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera II](https://open.spotify.com/album/4SH7eiRuT8MdrLnL52gB1O) | 5:59 | 2025-01-06 |  |
 | [Dead Man](https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Dead Man](https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB) | 3:23 | 2024-11-21 |  |
+| [Dead Man](https://open.spotify.com/track/1ioDxhPAcRI4Pm0Yi9zwfU) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole](https://open.spotify.com/album/1xyO6rgO44G5BYpljc11l4) | 3:23 | 2025-09-09 |  |
 | [Dear God](https://open.spotify.com/track/2V2ETrfCxaS9GH9rTL4SUq) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Rarities, B\-Sides & Other Stuff](https://open.spotify.com/album/28egMLSPhcYxn3edwzuAvo) | 3:55 | 2025-06-09 |  |
 | [Dear Mama](https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:40 | 2025-05-12 |  |
 | [Dear Mrs\. Claus](https://open.spotify.com/track/3EnBkIzdOuMHkb3lZD4mQe) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Dear Mrs\. Claus](https://open.spotify.com/album/21iXdKPhEFEk7kPTI7sEic) | 3:49 | 2024-12-23 |  |
@@ -940,7 +942,7 @@
 | [Hey Young World, Pt\. 2 \(feat\. Slick Rick\)](https://open.spotify.com/track/69h3lxaK6X71iDgoFy6VoL) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [the id](https://open.spotify.com/album/6TYleoMhZYHFUvYl8UQiqp) | 4:02 | 2024-12-16 |  |
 | [Hiccup](https://open.spotify.com/track/2R3lSZ2AHGA7EPFgmsdFdy) | [Miina](https://open.spotify.com/artist/2be45mouasgEeyH4Tgm4fB), [Lowell](https://open.spotify.com/artist/1EF5U3AZF5TtEnyRajub8W) | [Hiccup](https://open.spotify.com/album/6Yq3XszbeToe8S0ymYeaMx) | 3:16 | 2024-11-26 |  |
 | [Hidden Place](https://open.spotify.com/track/5bnX0zhTVV1H5gNVjVhgaL) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1) | 5:28 | 2025-06-07 |  |
-| [Hide Your Love](https://open.spotify.com/track/0WP6Mfw109a5Mrr92SWb3I) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Night in the Park, Kiss in the Dark](https://open.spotify.com/album/2MAkOacwf7ipO9ywdL1IM7) | 3:22 | 2025-05-06 | 2025-07-16 |
+| [Hide Your Love](https://open.spotify.com/track/0WP6Mfw109a5Mrr92SWb3I) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Night in the Park, Kiss in the Dark](https://open.spotify.com/album/2MAkOacwf7ipO9ywdL1IM7) | 3:22 | 2025-05-06 |  |
 | [Hide Your Love](https://open.spotify.com/track/4ZjYIYWwRYbYSGtIqBddnF) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Hide Your Love](https://open.spotify.com/album/7LRmsyHaUCQslgFxDnnrD0) | 3:22 | 2024-12-12 |  |
 | [Hideaway](https://open.spotify.com/track/0c6xIDDpzE81m2q797ordA) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Sound Of A Woman](https://open.spotify.com/album/44Wg9gZPHK8MebSuBpq63k) | 4:11 | 2025-07-02 |  |
 | [High and Dry](https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:17 | 2025-03-03 |  |
@@ -1676,6 +1678,7 @@
 | [Out Of The Game](https://open.spotify.com/track/541ShCyTRVDQ2gTu0O3I9B) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Out Of The Game](https://open.spotify.com/album/1YPPXUcg7zd1Xw2SwP4dXj) | 4:05 | 2024-12-28 |  |
 | [Out of Touch](https://open.spotify.com/track/3HQ9RKaWdLdpYzWa2Banc2) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK), [pHoenix Pagliacci](https://open.spotify.com/artist/3106IO9oh4MsfSwdRTKZlE) | [TAO](https://open.spotify.com/album/2IJp6htTG6YKq92J2eMqBF) | 3:04 | 2025-02-17 |  |
 | [Outbound Only, No Return](https://open.spotify.com/track/0The6nqwWhJo2EDHXFVgCV) | [Bry Webb](https://open.spotify.com/artist/0w2b7FuNTFffV3Oq4vpcDS) | [Run With Me](https://open.spotify.com/album/7Bw4GSqUPRFoF7JyEhm74r) | 3:12 | 2024-12-03 |  |
+| [Outcast](https://open.spotify.com/track/5fbd1DdFdvXsGO1P8O7GL3) | [Art d'Ecco](https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J) | [Outcast](https://open.spotify.com/album/4NOpjHNaxBKVQE0h7p4HKM) | 3:17 | 2025-09-09 |  |
 | [Over Now \(with The Weeknd\)](https://open.spotify.com/track/58AGoOGbwsQMhBbH0eFLRR) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Over Now \(with The Weeknd\)](https://open.spotify.com/album/3GPiefSRSOxqTrgKJIB7RL) | 3:30 | 2024-12-28 |  |
 | [Over You](https://open.spotify.com/track/64WxLGjquEiDypddXZgggY) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 3:46 | 2025-03-05 |  |
 | [Overstep](https://open.spotify.com/track/3VmLWIRUIW0kNb3mTzKj3z) | [Jordan Klassen](https://open.spotify.com/artist/70QS2gTlkKW2rNjlmMBNp8) | [Marginalia](https://open.spotify.com/album/2u6ggEvMvfUV8HadvAMgsR) | 3:34 | 2025-01-27 |  |
@@ -1848,6 +1851,7 @@
 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 | 2025-07-28 |  |
 | [Rudolph The Red Nosed Reindeer \- Remastered](https://open.spotify.com/track/26ZEOkesgNaLkr3fHvpDUx) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Spirit Of Christmas \(Remastered\)](https://open.spotify.com/album/00Rpo9DJAnCA3tyjg0u3Mo) | 4:05 | 2024-12-24 |  |
 | [Run Runaway](https://open.spotify.com/track/3KaddWS0IgAEboF6cjCoQ8) | [Great Big Sea](https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4) | [Up](https://open.spotify.com/album/0jd3KwbmahYVxOPg3kWzgo) | 2:51 | 2024-12-31 |  |
+| [Run the World \(Girls\)](https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 3:56 | 2025-09-09 |  |
 | [Run Your Mouth](https://open.spotify.com/track/19fKJrO9XdOf6Xla2QHecO) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 2:40 | 2025-05-03 |  |
 | [Runaway](https://open.spotify.com/track/6ayyzu6smOchwXO1vxwfn6) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Design Of A Decade 1986/1996](https://open.spotify.com/album/6BPE7mW2Spafw6VKj0WhUw) | 3:34 | 2024-12-28 |  |
 | [Runnin'](https://open.spotify.com/track/0XgpiStoxq1IJncYlPrvZ5) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Labcabincalifornia \(Deluxe Edition\)](https://open.spotify.com/album/05Qg48LlYGKYdeXrNGg00g) | 4:56 | 2025-02-21 |  |
@@ -1856,7 +1860,7 @@
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2025-02-13 |  |
 | [Rush](https://open.spotify.com/track/1jLvRtSM02syIusWtY3q2B) | [Shanuka](https://open.spotify.com/artist/57wiktlw2QICiizAd9s2ny), [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [A Safe Return Back](https://open.spotify.com/album/1NiztcdBB0tdlj4HAsPzSr) | 2:49 | 2024-12-01 |  |
 | [Rushmere](https://open.spotify.com/track/0rPHsDRiWwPfR6HG7JLj1K) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/1ozQDYIyCeM7YKhHotVdny) | 3:12 | 2025-04-15 |  |
-| [Rushmere](https://open.spotify.com/track/3eEzfujAc108cq9L6yCVgT) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4) | 3:12 | 2025-05-10 | 2025-07-16 |
+| [Rushmere](https://open.spotify.com/track/3eEzfujAc108cq9L6yCVgT) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4) | 3:12 | 2025-05-10 |  |
 | [Rust.](https://open.spotify.com/track/2y6vEKzRcA49gCJEv9DP8N) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Rust.](https://open.spotify.com/album/5UFLVvCrvlPw5WAWb6T7XU) | 3:35 | 2025-01-09 |  |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2024-12-19 |  |
 | [Sacrilege](https://open.spotify.com/track/2pQZ9g4vaFNXO42kMe8e3w) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 3:50 | 2024-12-30 |  |
@@ -1887,6 +1891,7 @@
 | [Say When](https://open.spotify.com/track/0tTS5rCFU6lPI7fy5s6w9W) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Say When](https://open.spotify.com/album/5FGhZBSeqHbeewgpvjczMx) | 3:10 | 2025-02-02 |  |
 | [Say Yes](https://open.spotify.com/track/24elH6i4AZUcsPQrsQgSUA) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Say Yes](https://open.spotify.com/album/2KjvoZQwm2PoYkTGyJNeP7) | 3:45 | 2024-12-04 |  |
 | [Say You'll Be There](https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:55 | 2025-05-14 |  |
+| [Saying Something](https://open.spotify.com/track/7nmyz7UlLcZomaQ7aDVLJv) | [Amelie Sampson](https://open.spotify.com/artist/75Z30Us7Pu9Fx9gpEHVPnW) | [Saying Something](https://open.spotify.com/album/7LZeNhlOpxmhDSEsLa6fBT) | 3:22 | 2025-09-09 |  |
 | [Scarlett](https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 3:16 | 2025-06-15 |  |
 | [Scorpio Season](https://open.spotify.com/track/2eVbTa8QWh9dieJd5ROQpj) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Phoenix Deluxe](https://open.spotify.com/album/2Hdz6RpavNCGQErcM330j3) | 3:05 | 2025-01-12 |  |
 | [Sea of No Cares](https://open.spotify.com/track/2tnoxTFcx7SkWO5YhMKOpU) | [Great Big Sea](https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4) | [Sea Of No Cares](https://open.spotify.com/album/1uqW2sUSkMT4qhC8RLF0Jk) | 3:41 | 2025-07-01 |  |
