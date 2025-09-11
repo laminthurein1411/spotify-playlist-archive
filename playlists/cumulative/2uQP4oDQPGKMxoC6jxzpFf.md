@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,633 songs - 6 day 20 hr 39 min
+2,635 songs - 6 day 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,6 +379,7 @@
 | [Castles](https://open.spotify.com/track/5tZWtGT65sMrDVPB5H444n) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:31 | 2025-04-07 |  |
 | [Catch Me If You Can](https://open.spotify.com/track/7x5GAOhV1vACPQ289L8pzE) | [Tokyo Police Club](https://open.spotify.com/artist/3wyfo3svXNWnszGAEVey11) | [Just A Scratch // Catch Me If You Can](https://open.spotify.com/album/3HoaqxO8oCf0VlOh7UL2s3) | 3:10 | 2024-12-22 |  |
 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 | 2025-05-16 |  |
+| [catch these fists](https://open.spotify.com/track/5yz4ZfLeZ3VdqDM2l8wjjg) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:08 | 2025-09-10 |  |
 | [Caught Up On You](https://open.spotify.com/track/3QjAG3LVB0P5x251vwinVm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Caught Up On You](https://open.spotify.com/album/6ICcS5WGbZr33DESzK9Xiq) | 3:26 | 2024-11-22 |  |
 | [Caught Up On You](https://open.spotify.com/track/5AVbJXMVdVwcY9KzIK0VXY) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:26 | 2025-05-02 |  |
 | [Cause = Time](https://open.spotify.com/track/5c0szSLiATMRIoHDixTOyf) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/5v5kO1pT4VIDPxUg0WayIS) | 5:30 | 2025-01-02 |  |
@@ -1814,6 +1815,7 @@
 | [Rhythm Divine](https://open.spotify.com/track/4XifD1V0kWoG4WwsXTwS3y) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique](https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci) | 3:29 | 2025-08-01 |  |
 | [Rhythm Nation](https://open.spotify.com/track/4nTYxxF8iWBq54LO3dBUie) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/4OD3LU6001esAtFshDX46M) | 5:30 | 2024-12-28 |  |
 | [Ribbon In The Sky](https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Original Musiquarium](https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab) | 5:37 | 2025-02-15 |  |
+| [Ride Like the Wind](https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:35 | 2025-09-10 |  |
 | [Ride Like The Wind](https://open.spotify.com/track/0n0o1hAUf5WPdWKceJa1fK) | [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Groove Terminator](https://open.spotify.com/artist/1bA9XJwgaR3yVHNMTCqJ02), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK) | [History of House](https://open.spotify.com/album/7fxV023CrFXN5TjxAd3kW2) | 5:52 | 2025-02-24 |  |
 | [Right Action](https://open.spotify.com/track/6hADH7b57N5666cGv624vg) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Right Thoughts, Right Words, Right Action \(Deluxe Edition\)](https://open.spotify.com/album/5W7631WJASasWPAFFzDpzi) | 3:02 | 2024-12-17 |  |
 | [Right As Rain](https://open.spotify.com/track/6OLudcGaT6HQ5bXH54kI8i) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/5awrJZBt3rP9RO5hlYdZB0) | 3:17 | 2025-06-01 |  |
