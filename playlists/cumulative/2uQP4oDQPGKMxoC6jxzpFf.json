@@ -3314,6 +3314,24 @@
     {
       "album": {
         "name": "One Two",
+        "url": "https://open.spotify.com/album/3a80I29uwZVCRU8En1we75"
+      },
+      "artists": [
+        {
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196506,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/1p2ea5Dy0tOnt9q4wfy4aX"
+    },
+    {
+      "album": {
+        "name": "One Two",
         "url": "https://open.spotify.com/album/3Il1CWXA64e8gukuJZoj0e"
       },
       "artists": [
@@ -12289,6 +12307,32 @@
     },
     {
       "album": {
+        "name": "Thank Me Later",
+        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Swizz Beatz",
+          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319386,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/3fpTMuD1u3gJlVI4FadVHs"
+    },
+    {
+      "album": {
         "name": "Fancy",
         "url": "https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG"
       },
@@ -13352,6 +13396,28 @@
       "duration_ms": 226826,
       "name": "Footloose - From \"Footloose\" Soundtrack",
       "url": "https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw"
+    },
+    {
+      "album": {
+        "name": "P-POP CULTURE",
+        "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "For A Reason",
+      "url": "https://open.spotify.com/track/0cYohCh24y1aMjJmcS9RBl"
     },
     {
       "album": {
@@ -20844,6 +20910,24 @@
       "duration_ms": 269800,
       "name": "If You Leave - Remastered 2019",
       "url": "https://open.spotify.com/track/38w6aqERgBYjyvWQsltcvs"
+    },
+    {
+      "album": {
+        "name": "TerraForm",
+        "url": "https://open.spotify.com/album/7JMVYch8brLADz9KwkMQdF"
+      },
+      "artists": [
+        {
+          "name": "Sam Roberts Band",
+          "url": "https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "If You Want It",
+      "url": "https://open.spotify.com/track/6ogzWt3IKZJ2f8xuvmquTV"
     },
     {
       "album": {
@@ -36895,6 +36979,24 @@
     },
     {
       "album": {
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/77VQ2I9lStc8xdvLCra1RE"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221551,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/1c756pSFp2qAACGZx7oNz4"
+    },
+    {
+      "album": {
         "name": "Higher Place",
         "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
       },
@@ -38810,6 +38912,24 @@
       "duration_ms": 148533,
       "name": "stick of gum",
       "url": "https://open.spotify.com/track/5Av99i2cutN34Nyyd7Ux8U"
+    },
+    {
+      "album": {
+        "name": "Built to Last",
+        "url": "https://open.spotify.com/album/2GWUqHekMiHd9H1LhXPykG"
+      },
+      "artists": [
+        {
+          "name": "Maestro",
+          "url": "https://open.spotify.com/artist/751BmPY1nbWMM4i9fxylUB"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288666,
+      "name": "Stick to Your Vision",
+      "url": "https://open.spotify.com/track/0rUJlihq250CR1PNo1sgk8"
     },
     {
       "album": {
@@ -41406,6 +41526,28 @@
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+    },
+    {
+      "album": {
+        "name": "The Door (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/0lFoxDrwrNWwtfw1KohwAN"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210476,
+      "name": "The Door - CYRIL Remix",
+      "url": "https://open.spotify.com/track/6VD3T09spn64tjPcBih64P"
     },
     {
       "album": {
