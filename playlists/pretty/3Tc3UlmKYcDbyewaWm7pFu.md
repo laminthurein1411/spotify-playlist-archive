@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,120 songs - 2 day 18 hr 44 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,121 songs - 2 day 18 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -465,7 +465,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 | 455 | [Revolution](https://open.spotify.com/track/7iceFyXQeIaDuIxIlJZrGB) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Entwined](https://open.spotify.com/album/0ysbz1S6Ml5PdyN4qqsj94) | 4:20 |
 | 456 | [Up Where We Belong](https://open.spotify.com/track/0Co8hKbjUy273NrGliGdWZ) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Best of Joe Cocker](https://open.spotify.com/album/7aP5c3ADIf5bmA1G80C4Cc) | 3:53 |
 | 457 | [Breakfast In The Park](https://open.spotify.com/track/12e7fe2wAbGfTWoLBmbZK6) | [Scotty Sire](https://open.spotify.com/artist/24vm5FBjvLpwUiVNcYc8qy) | [Breakfast In The Park](https://open.spotify.com/album/7hzsmZm1pxp3lcriNIBLEd) | 2:30 |
-| 458 | [Fairytale](https://open.spotify.com/track/4eDtZP99H6xfasP4Tku9Ee) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Lighthouse](https://open.spotify.com/album/4Pmm7z9aZUxOifop5oDvOJ) | 2:49 |
+| 458 | [Fairytale](https://open.spotify.com/track/4eDtZP99H6xfasP4Tku9Ee) | [Livingston](https://open.spotify.com/artist/5b1jtnAO94wMJCYn7qnjA1) | [Lighthouse](https://open.spotify.com/album/4Pmm7z9aZUxOifop5oDvOJ) | 2:49 |
 | 459 | [Looking Like This](https://open.spotify.com/track/4prKnlKzzw1O8KoxjqExdR) | [Lyre Le Temps](https://open.spotify.com/artist/6jX8VHUJomYSfi5Hobdmmn) | [Outside the Box](https://open.spotify.com/album/0cMzi6MjuV1PYZMPHObpJh) | 3:34 |
 | 460 | [Angel](https://open.spotify.com/track/5AmeNxWjKg860JkkuCsfUv) | [Forestella](https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8) | [Mystique](https://open.spotify.com/album/77QkGABj1W4jm5fQ5zCrfq) | 5:51 |
 | 461 | [Rude](https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Don't Kill the Magic](https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi) | 3:44 |
@@ -1128,5 +1128,6 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 | 1118 | [Save Me](https://open.spotify.com/track/578vAGxgMI3yGXoHVBdbhU) | [Remy Zero](https://open.spotify.com/artist/2pZCKLhbrrDD4PwEzrDig3) | [Smallville: The Talon Mix](https://open.spotify.com/album/4ZS43VlYwOu0WUvFfQsleB) | 4:04 |
 | 1119 | [Umbrella \(Rihanna cover\)](https://open.spotify.com/track/4aV8Y1ChBjchBmqeXkRpIN) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Punk Goes Crunk](https://open.spotify.com/album/59WZtvvNY7DE9FnCnWMmi4) | 3:49 |
 | 1120 | [The Promise](https://open.spotify.com/track/3aGQZDaUDiYwVFhIYph2qv) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds In Country Music](https://open.spotify.com/album/19lODR6Yv1mfvvcTkrFAn2) | 4:17 |
+| 1121 | [Hayloft](https://open.spotify.com/track/2kKkl59fY6Cic1CmhvSEZK) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/41U6Qbx5KxhHYIuwlK3lXA) | 3:01 |
 
-Snapshot ID: `AAAEnORnLoyhbLOS+iJP4RA9suvzoKNL`
+Snapshot ID: `AAAEnamYheAHWPGpsye1mmiocuxrTRNF`
