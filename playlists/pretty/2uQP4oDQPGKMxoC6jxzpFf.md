@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2uQP4oDQPGKMxoC6jxzpFf.md) - [plain]
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 4,507 songs - 11 day 10 hr 1 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 4,549 songs - 11 day 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4515,5 +4515,47 @@ pretty - [cumulative](/playlists/cumulative/2uQP4oDQPGKMxoC6jxzpFf.md) - [plain]
 | 4505 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 |
 | 4506 | [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/6TK7fjRPdy2GW2pJzNF23L) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 |
 | 4507 | [God's Plan](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:18 |
+| 4508 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 |
+| 4509 | [Somehow I Forgot](https://open.spotify.com/track/6if6XoGZfWSUSDzb2kY3RT) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Rootin' For Ya](https://open.spotify.com/album/2vVRMWf5hDW3Hf7jwZAjmv) | 3:11 |
+| 4510 | [Never Be Without Love](https://open.spotify.com/track/6MkxIJbhsXIiL1maMJFZHm) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Never Be Without Love](https://open.spotify.com/album/0BCZ4HqL2CZN58qa2w8mxx) | 2:52 |
+| 4511 | [Jersey on the Wall \- I'm Just Asking](https://open.spotify.com/track/4Ii1EFQX6EZXkojk4CO9pm) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Lemonade Stand](https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI) | 4:05 |
+| 4512 | [Home](https://open.spotify.com/track/3hyV8JBxMuARHhVwVDj6Qx) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Home](https://open.spotify.com/album/2nQoXfaAd6ZFqb6ylCqySD) | 3:23 |
+| 4513 | [Cave](https://open.spotify.com/track/4A8yDdwEYIQD2A8Ugd4Ume) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Never Better](https://open.spotify.com/album/6jOix6QfFFmpNXx3to7Sct) | 2:58 |
+| 4514 | [Ordinary Creature](https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Ordinary Creature](https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln) | 3:40 |
+| 4515 | [One and Only](https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [One and Only](https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM) | 3:11 |
+| 4516 | [Endless Summer](https://open.spotify.com/track/3FjEcEzlKFJzHzUWU9i2dI) | [Ayla Tesler\-Mabé](https://open.spotify.com/artist/3BEEiUnWFsmP8EbK0QCe1O) | [Endless Summer](https://open.spotify.com/album/4JVZAaBk2ez2S4i9wjwzWZ) | 3:06 |
+| 4517 | [Dream Job](https://open.spotify.com/track/3u7PMsVBQ1viIm8tlhotl6) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Where’s My Utopia?](https://open.spotify.com/album/34UIFF2mDOl7JN0QdmMjPg) | 2:39 |
+| 4518 | [Call On Me](https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Call On Me](https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu) | 2:49 |
+| 4519 | [Need](https://open.spotify.com/track/7u9Fu2cpmqWUTdc8yBpp2x) | [Russell Louder](https://open.spotify.com/artist/7iWkq6O1CPR7eNomBY2LpG) | [Fair\-weather](https://open.spotify.com/album/5PMMoVoU9NFlXv129gaCTe) | 3:43 |
+| 4520 | [It's a Sin](https://open.spotify.com/track/3GNwCZIv4xKUiyoaQfj9Ah) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Discography \- Complete Singles Collection](https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy) | 5:01 |
+| 4521 | [Just Let Me Lie to You](https://open.spotify.com/track/7HO8mA1m9dco8V4tVWxgcO) | [Celeigh Cardinal](https://open.spotify.com/artist/7HAq3UBI3pb8ok9k7dkdGR) | [Boundless Possibilities](https://open.spotify.com/album/6B3NT4TL6dgTip9mttXRsQ) | 3:10 |
+| 4522 | [Colours of My Dreams](https://open.spotify.com/track/1E6aiVtzEFOXklnOzePAVI) | [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [Colours of My Dreams](https://open.spotify.com/album/236anNZD4NxxkXak7iFOrM) | 2:34 |
+| 4523 | [For The First Time](https://open.spotify.com/track/5HI8RPlmfLmoaDyemH9vNZ) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Always Tomorrow](https://open.spotify.com/album/4Y7Lc550FiGQYWzr3icx2j) | 3:38 |
+| 4524 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 |
+| 4525 | [Rose Garden](https://open.spotify.com/track/61kT5zIV1Z9sPbdAlKRExr) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [TSOL](https://open.spotify.com/album/6YjlYwMzmwlwZcm4EUX5R9) | 2:59 |
+| 4526 | [Running Home](https://open.spotify.com/track/2d0QRGVqmN3IunUZAHDUCU) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Running Home](https://open.spotify.com/album/11daOULnDqGxMe7B6CTt8t) | 3:44 |
+| 4527 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
+| 4528 | [Rolling Down The 405](https://open.spotify.com/track/2IEoDMq1B92pm9wXRKyTbR) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Our Time In The Sun](https://open.spotify.com/album/4w2bOWj1fmM2U62zU2Jo5t) | 3:38 |
+| 4529 | [Atungak](https://open.spotify.com/track/5klYfa8KQmXha11eE90YSg) | [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [My All To You](https://open.spotify.com/album/6meWLme3zfqggs1SfGOwIh) | 3:12 |
+| 4530 | [Gravity](https://open.spotify.com/track/79eOUf1JFHJVHXlqcR85iI) | [Amelia Curran](https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69) | [Watershed](https://open.spotify.com/album/1qXIlZbKijE92raCmxnTkW) | 2:23 |
+| 4531 | [Say Yes](https://open.spotify.com/track/24elH6i4AZUcsPQrsQgSUA) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Say Yes](https://open.spotify.com/album/2KjvoZQwm2PoYkTGyJNeP7) | 3:45 |
+| 4532 | [Here When You're Ready](https://open.spotify.com/track/4zcbBRlPbtUYTwLSvFetIZ) | [Tanika Charles](https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I) | [Reasons To Stay](https://open.spotify.com/album/0psNIDTnFUCKeuEuI0vMQO) | 3:21 |
+| 4533 | [Baby Blue](https://open.spotify.com/track/13zT15nPCP5A5XeP9vffnk) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Baby Blue](https://open.spotify.com/album/4qbYq52lkvywptymI7Y7dR) | 3:13 |
+| 4534 | [OK](https://open.spotify.com/track/2RSAu3AGDi2sPhYEjSZmzv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [OK](https://open.spotify.com/album/15kgnv34kf8eRCpNWZl79V) | 4:23 |
+| 4535 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 |
+| 4536 | [Whirlwind](https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 4:00 |
+| 4537 | [Stare at Me](https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Stare at Me](https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu) | 3:55 |
+| 4538 | [Lucky](https://open.spotify.com/track/2dQhFMS8pe5fPAOG709E4c) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Lucky](https://open.spotify.com/album/0wSXgdslbGhC6gw8vjgv9m) | 2:30 |
+| 4539 | [On Rolls the Wheel](https://open.spotify.com/track/0QA8zWdU1bEWFYq0s0t6Qv) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [On Rolls the Wheel](https://open.spotify.com/album/06yirzfYrQC1bQaicU9n7L) | 3:52 |
+| 4540 | [SKODEN](https://open.spotify.com/track/1nhcsAm554MdmY79NrLlhl) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Zhawenim](https://open.spotify.com/album/4cktud6ZSAorujL3Ft3Bnw) | 3:33 |
+| 4541 | [Wish You Were Here](https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Wish You Were Here](https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C) | 4:45 |
+| 4542 | [Another Life](https://open.spotify.com/track/3BpmezdTQq6L0pBpt3pq8c) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Another Life](https://open.spotify.com/album/3jUvrYB4Bh3Hw9liq8dbCi) | 4:37 |
+| 4543 | [I Wanna Make Promises \(That I Can't Keep\)](https://open.spotify.com/track/3p0daWfiFdFr5it9v1Siwv) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [Modern Love](https://open.spotify.com/album/4BajtPd6cXdunZdLW3hJKo) | 4:51 |
+| 4544 | [A Friend](https://open.spotify.com/track/4lrGECKwRTmaBuAeQwVXzf) | [Pillow Fite](https://open.spotify.com/artist/4qYYUWoet5mNRpDASCnGC8) | [Hard Feelings, Soft Promises](https://open.spotify.com/album/5A17o1NdZOcgNwW3gBJWmr) | 3:26 |
+| 4545 | [serpentine](https://open.spotify.com/track/56xjcdot2mGZJTrnbSWn9q) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [serpentine](https://open.spotify.com/album/4lnf7Q5yp7SzDEbeILC8wk) | 3:00 |
+| 4546 | [Dogue](https://open.spotify.com/track/4Y4mvoRyBtZNnyOT6IKUzr) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Dogue](https://open.spotify.com/album/749uCoBXgdFaC9VJZtA1oL) | 3:34 |
+| 4547 | [Otherside](https://open.spotify.com/track/5xdp59pQfyORMMFiblWrYs) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT) | [Otherside](https://open.spotify.com/album/1N9FTCajqxPioNAbD0clCg) | 2:54 |
+| 4548 | [drive faster](https://open.spotify.com/track/7hdes67sicWJ4oR1zVchuQ) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [drive faster](https://open.spotify.com/album/6Z819jCN4dzySQfY0HLdER) | 1:56 |
+| 4549 | [This Is the Day](https://open.spotify.com/track/3FjYAj4hg5KiXpVAMjpLKq) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Soul Mining](https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A) | 4:57 |
 
-Snapshot ID: `AAABZSNG+cONJfkTzL664JNr/4ESSutM`
+Snapshot ID: `AAABZoda4QK+6LdEqyD7TL05BUDAgloT`

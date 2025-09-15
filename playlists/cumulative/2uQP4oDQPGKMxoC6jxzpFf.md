@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,656 songs - 6 day 22 hr 12 min
+2,659 songs - 6 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,6 +571,7 @@
 | [Do You Wanna Party](https://open.spotify.com/track/1m7dBXRT9sndeZjVonOdfa) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Do You Wanna Party](https://open.spotify.com/album/2Q1knImIr2P8YSsQPteh07) | 3:12 | 2024-11-21 |  |
 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 | 2025-01-27 |  |
 | [Dog It \- Remastered](https://open.spotify.com/track/4cLfoczfVIODh5gLxuHu0z) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Beyond The Spectrum \- The Creamy Spy Chronicles](https://open.spotify.com/album/3IdBHbjMTIPcknxgbqUxub) | 4:22 | 2025-03-15 |  |
+| [Dogue](https://open.spotify.com/track/4Y4mvoRyBtZNnyOT6IKUzr) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Dogue](https://open.spotify.com/album/749uCoBXgdFaC9VJZtA1oL) | 3:34 | 2025-09-14 |  |
 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 | 2024-11-24 |  |
 | [DOING IT AGAIN BABY](https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 2:25 | 2024-12-19 |  |
 | [DOING IT AGAIN BABY](https://open.spotify.com/track/6LK3rmeoEfVYtH8B6qbwZg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:25 | 2025-08-22 |  |
@@ -1092,6 +1093,7 @@
 | [i try](https://open.spotify.com/track/7uRAxjAyr2dnvvkkq9dYVT) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936) | [stolen serenades](https://open.spotify.com/album/4VQd4EGNgistcqwBcx7yTo) | 4:10 | 2025-05-10 |  |
 | [I Try \(Living Room Session\)](https://open.spotify.com/track/19WKGmbQas2P96TzAOldOS) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Lift](https://open.spotify.com/album/0dbzv2RA0E0LVzmyjLIYVQ) | 4:19 | 2025-06-10 |  |
 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 | 2024-11-22 |  |
+| [I Wanna Make Promises \(That I Can't Keep\)](https://open.spotify.com/track/3p0daWfiFdFr5it9v1Siwv) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [Modern Love](https://open.spotify.com/album/4BajtPd6cXdunZdLW3hJKo) | 4:51 | 2025-09-14 |  |
 | [I Want to Take You Higher](https://open.spotify.com/track/4qpIk2rvkmxJEVvt38tepd) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 5:22 | 2025-06-27 |  |
 | [I Was a Fool](https://open.spotify.com/track/5TCSMWZow9lzc7jr8WscVD) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:24 | 2024-12-15 |  |
 | [I Was Neon](https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:02 | 2024-11-21 |  |
@@ -2581,6 +2583,7 @@
 | [Winter Breaking](https://open.spotify.com/track/2joOFaJDiYxSGw5BCsyOTQ) | [Carson McHone](https://open.spotify.com/artist/1IOeIjSSt8AcZXEriZXcvx) | [Downhill](https://open.spotify.com/album/6QR9NO8Cx92dMaqNjIHbF2) | 4:29 | 2025-07-17 |  |
 | [Wire walks](https://open.spotify.com/track/6nNnim0OaC5gRlPsKow1re) | [Amy Millan](https://open.spotify.com/artist/3lj7jldByrrpUgW5Je8o1p) | [Wire walks](https://open.spotify.com/album/2nCp1AnCFVPkXe1JAJn2R4) | 4:22 | 2025-02-21 |  |
 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 | 2025-03-06 |  |
+| [Wish You Were Here](https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Wish You Were Here](https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C) | 4:45 | 2025-09-14 |  |
 | [Wishy Washy \(feat\. Omega Mighty\)](https://open.spotify.com/track/3iQVVeBBhjAskNfjH4tNVc) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Omega Mighty](https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r) | [13th Floor](https://open.spotify.com/album/50rev6qucWz8dmStaoD9BL) | 3:37 | 2024-11-30 |  |
 | [Witchy \(feat\. Childish Gambino\)](https://open.spotify.com/track/0rolt9kLR9GFlElTSSds2z) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [TIMELESS](https://open.spotify.com/album/4kPTj6wYQUYtgBOZb1E6Pg) | 3:47 | 2024-12-31 |  |
 | [Witchy Woman \- 2013 Remaster](https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 4:10 | 2025-06-14 |  |

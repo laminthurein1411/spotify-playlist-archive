@@ -10471,6 +10471,24 @@
     },
     {
       "album": {
+        "name": "Dogue",
+        "url": "https://open.spotify.com/album/749uCoBXgdFaC9VJZtA1oL"
+      },
+      "artists": [
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214333,
+      "name": "Dogue",
+      "url": "https://open.spotify.com/track/4Y4mvoRyBtZNnyOT6IKUzr"
+    },
+    {
+      "album": {
         "name": "Norman Fucking Rockwell!",
         "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
@@ -20218,6 +20236,24 @@
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "album": {
+        "name": "Modern Love",
+        "url": "https://open.spotify.com/album/4BajtPd6cXdunZdLW3hJKo"
+      },
+      "artists": [
+        {
+          "name": "Whitehorse",
+          "url": "https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291615,
+      "name": "I Wanna Make Promises (That I Can't Keep)",
+      "url": "https://open.spotify.com/track/3p0daWfiFdFr5it9v1Siwv"
     },
     {
       "album": {
@@ -48088,6 +48124,24 @@
       "duration_ms": 270893,
       "name": "Wish I Didn't Miss You",
       "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
+    },
+    {
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285719,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda"
     },
     {
       "album": {
