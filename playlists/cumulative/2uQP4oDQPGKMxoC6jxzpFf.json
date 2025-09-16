@@ -6295,6 +6295,24 @@
     },
     {
       "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/5eQYimKiQfEGaUGtnOlRUZ"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172402,
+      "name": "Can I Call You in the Morning?",
+      "url": "https://open.spotify.com/track/6QqGnsM0pQrsG5O1QQaTYY"
+    },
+    {
+      "album": {
         "name": "Can I Call You in the Morning?",
         "url": "https://open.spotify.com/album/0gXpSB96t4TichIngTEPeU"
       },
@@ -18503,6 +18521,24 @@
     },
     {
       "album": {
+        "name": "Home Video",
+        "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250613,
+      "name": "Hot & Heavy",
+      "url": "https://open.spotify.com/track/6SIooImkHGKCIwgUZ3WDvD"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
       },
@@ -26942,6 +26978,32 @@
       "duration_ms": 310533,
       "name": "Mary's Boy Child / Oh My Lord - Long Version",
       "url": "https://open.spotify.com/track/1SoTnj8KQXEkreOTqaslV1"
+    },
+    {
+      "album": {
+        "name": "Maybe I'm Amazed (feat. Jill Andrews & Sam Bush)",
+        "url": "https://open.spotify.com/album/0aAi26edrGcRe1w8tdXeuM"
+      },
+      "artists": [
+        {
+          "name": "Humming House",
+          "url": "https://open.spotify.com/artist/6ls2l3WdMnYWKS0WQKghHK"
+        },
+        {
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247253,
+      "name": "Maybe I'm Amazed (feat. Jill Andrews & Sam Bush)",
+      "url": "https://open.spotify.com/track/44OSFr62OjOuR7kl07EZ9h"
     },
     {
       "album": {

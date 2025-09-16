@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,659 songs - 6 day 22 hr 25 min
+2,662 songs - 6 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Calls](https://open.spotify.com/track/2mA5PqtD2UsbCEPEqdZLwB) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [I Hate Spring](https://open.spotify.com/album/39ZrOscgMZEODhz6nEKS5Q) | 2:51 | 2025-05-09 |  |
 | [Came Back On Christmas Day](https://open.spotify.com/track/7BNmQChDAmC6O3u6gyQlxp) | [Jordan Klassen](https://open.spotify.com/artist/70QS2gTlkKW2rNjlmMBNp8) | [Home For The Holidays](https://open.spotify.com/album/64R0KxlJooL6UKEvjiD6Fw) | 3:10 | 2024-12-23 |  |
 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 | 2025-07-05 |  |
+| [Can I Call You in the Morning?](https://open.spotify.com/track/6QqGnsM0pQrsG5O1QQaTYY) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [No Hard Feelings](https://open.spotify.com/album/5eQYimKiQfEGaUGtnOlRUZ) | 2:52 | 2025-09-15 |  |
 | [Can I Call You in the Morning?](https://open.spotify.com/track/6xNDstLohLwOsLk78cygMr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Can I Call You in the Morning?](https://open.spotify.com/album/0gXpSB96t4TichIngTEPeU) | 2:52 | 2025-09-05 |  |
 | [Can I Kick It?](https://open.spotify.com/track/1gSDTZHemEViEBiXysrlo0) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/5DMRGZTzA3vVcLDNQS1ynv) | 4:11 | 2025-05-14 |  |
 | [Can I Kick It?](https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck) | 4:11 | 2025-01-10 |  |
@@ -999,6 +1000,7 @@
 | [Honey](https://open.spotify.com/track/2z4ypE6YI1mybsczNx4eRU) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part One \(4th World War\)](https://open.spotify.com/album/2cimRuhfNJk2k8dmnwnh2d) | 5:20 | 2025-01-26 |  |
 | [Honey](https://open.spotify.com/track/2aSsPrNGZOZ0nKQ2hcX4oC) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Honey](https://open.spotify.com/album/3kfm2jMiEhsWLwgCjjHHEg) | 2:32 | 2025-05-18 |  |
 | [Honey](https://open.spotify.com/track/4yRYXbCxeJ5eOXDjxX0NdH) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Driving Me Wild](https://open.spotify.com/album/2sClfYTlQ4XeDKox9QCVxG) | 2:32 | 2025-06-07 | 2025-07-16 |
+| [Hot & Heavy](https://open.spotify.com/track/6SIooImkHGKCIwgUZ3WDvD) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:10 | 2025-09-15 |  |
 | [Hot Fun in the Summertime \- Mono Single Master](https://open.spotify.com/track/4t6NQkpUmvpvLDCkl3XuwA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 2:37 | 2025-06-28 |  |
 | [Hot Tears](https://open.spotify.com/track/4iYYYiWBVhJn1Z1V9TkyBo) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Ways](https://open.spotify.com/album/6w2zgLO1su8mKicWFZBpMM) | 4:07 | 2024-12-09 |  |
 | [Hot Tonight](https://open.spotify.com/track/1uRlwFkMy4My5ZTBv76Zm1) | [Tokyo Police Club](https://open.spotify.com/artist/3wyfo3svXNWnszGAEVey11) | [Forcefield](https://open.spotify.com/album/3bmCUlJudMemE7DgoOzVwn) | 3:05 | 2024-11-22 |  |
@@ -1452,6 +1454,7 @@
 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 | 2025-09-13 |  |
 | [Mary Jane's Last Dance](https://open.spotify.com/track/3dmqIB2Qxe2XZobw9gXxJ6) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Greatest Hits](https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y) | 4:33 | 2025-04-04 |  |
 | [Mary's Boy Child / Oh My Lord \- Long Version](https://open.spotify.com/track/1SoTnj8KQXEkreOTqaslV1) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Christmas with Boney M.](https://open.spotify.com/album/6YvpWNisHeDQPsoqeyckYg) | 5:10 | 2024-12-21 |  |
+| [Maybe I'm Amazed \(feat\. Jill Andrews & Sam Bush\)](https://open.spotify.com/track/44OSFr62OjOuR7kl07EZ9h) | [Humming House](https://open.spotify.com/artist/6ls2l3WdMnYWKS0WQKghHK), [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Maybe I'm Amazed \(feat\. Jill Andrews & Sam Bush\)](https://open.spotify.com/album/0aAi26edrGcRe1w8tdXeuM) | 4:07 | 2025-09-15 |  |
 | [Maybe This Christmas](https://open.spotify.com/track/52qdJ88vESWGhFo3Hu7WEH) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Maybe This Christmas](https://open.spotify.com/album/2X4eD8NAwuPT9inq0yAZCY) | 1:52 | 2024-12-23 |  |
 | [Me Myself and I](https://open.spotify.com/track/792UwI6utk5DMQUT1KXa5E) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [3 Feet High and Rising](https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD) | 3:49 | 2025-02-01 |  |
 | [Meaningless](https://open.spotify.com/track/6xrQkzFMwF4FFHezzS2VRG) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Phoenix](https://open.spotify.com/album/4l1MLKyDun3edi5lrDwtZG) | 3:37 | 2024-11-25 |  |
