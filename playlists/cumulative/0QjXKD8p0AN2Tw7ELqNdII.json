@@ -335,7 +335,7 @@
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 187958,
+      "duration_ms": 218159,
       "name": "A Little Love",
       "url": "https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci"
     },
@@ -974,6 +974,24 @@
       "duration_ms": 239600,
       "name": "Arm's Length",
       "url": "https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3"
+    },
+    {
+      "album": {
+        "name": "Arsenalplatz",
+        "url": "https://open.spotify.com/album/6xztgC0pES1sRIA3v1JTTh"
+      },
+      "artists": [
+        {
+          "name": "Jassin",
+          "url": "https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175026,
+      "name": "Arsenalplatz",
+      "url": "https://open.spotify.com/track/2BflyD6iRTJJffvVqmMtk5"
     },
     {
       "album": {
@@ -2207,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/23UkQx8aKE4IERCFuxpYL0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215511,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/356ASHe2rEf7gBYby3hDX1"
+    },
+    {
+      "album": {
         "name": "Camilla",
         "url": "https://open.spotify.com/album/4MGZL6LTZHQYWM1tFGPDMS"
       },
@@ -2222,6 +2258,24 @@
       "duration_ms": 192312,
       "name": "Camilla",
       "url": "https://open.spotify.com/track/4IgsV4j9x88UgXTiYSzMK5"
+    },
+    {
+      "album": {
+        "name": "Trip Tape III",
+        "url": "https://open.spotify.com/album/2msYWXAkZvkbOBUHLs3QcM"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145426,
+      "name": "Camouflage",
+      "url": "https://open.spotify.com/track/2a8mqTYjErkuGZXvyu4wYV"
     },
     {
       "album": {
@@ -2284,6 +2338,24 @@
       "duration_ms": 234228,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/7H5jHyfHk4sAYoS8J8f112"
+    },
+    {
+      "album": {
+        "name": "Carry The Name",
+        "url": "https://open.spotify.com/album/2o3HyMAeoX9Xj5mBxkFIj4"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147275,
+      "name": "Carry The Name",
+      "url": "https://open.spotify.com/track/51KMcWr99QkVAlfEQgIytv"
     },
     {
       "album": {
@@ -3233,6 +3305,24 @@
     },
     {
       "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/23UkQx8aKE4IERCFuxpYL0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217681,
+      "name": "Don\u2019t Look Down",
+      "url": "https://open.spotify.com/track/6BLoIiCqxiCQ8HjrLGXMbi"
+    },
+    {
+      "album": {
         "name": "Drau\u00dfen ist Krieg (feat. $OHO BANI)",
         "url": "https://open.spotify.com/album/5adlkQpkAGeIyNd3i7m4PC"
       },
@@ -3424,6 +3514,28 @@
           "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
         }
       ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134905,
+      "name": "Edge of Desire",
+      "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
+    },
+    {
+      "album": {
+        "name": "Edge of Desire",
+        "url": "https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        }
+      ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -3578,6 +3690,24 @@
       "duration_ms": 169873,
       "name": "Erfolg ist kein Gl\u00fcck",
       "url": "https://open.spotify.com/track/7ocanzdHHuxnYCHgS40CPF"
+    },
+    {
+      "album": {
+        "name": "erstersommerohnedich",
+        "url": "https://open.spotify.com/album/2KOoc1rqO8WYrDWI1FUFDV"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154741,
+      "name": "erstersommerohnedich",
+      "url": "https://open.spotify.com/track/0Bf7Lc7d6gE3xUDCePUvV7"
     },
     {
       "album": {
@@ -4463,6 +4593,24 @@
     },
     {
       "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188981,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
+    },
+    {
+      "album": {
         "name": "21 Gramm",
         "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
       },
@@ -5333,6 +5481,24 @@
     },
     {
       "album": {
+        "name": "Here All Night",
+        "url": "https://open.spotify.com/album/0caOziV0fbBR8OuU9SDiSS"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176832,
+      "name": "Here All Night",
+      "url": "https://open.spotify.com/track/1MnYnayoEmTfZTM7GoPJGM"
+    },
+    {
+      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/3NqOefjMNFryDmlbhcz6MI"
       },
@@ -5723,6 +5889,24 @@
     },
     {
       "album": {
+        "name": "Hypnotic",
+        "url": "https://open.spotify.com/album/4pYBgkBcpcqhEOfrLCBKWc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178646,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/1ulorUgFxDQdshBrtzgYRK"
+    },
+    {
+      "album": {
         "name": "Hypnotized",
         "url": "https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J"
       },
@@ -6019,6 +6203,28 @@
     },
     {
       "album": {
+        "name": "Immer",
+        "url": "https://open.spotify.com/album/33Yvnfe9qp3GRN7pMdUnk9"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159404,
+      "name": "Immer",
+      "url": "https://open.spotify.com/track/7uIhcRg6ia0S9z1UzCl0Qc"
+    },
+    {
+      "album": {
         "name": "immerjung",
         "url": "https://open.spotify.com/album/4ra6cBDBI2GqHCvmuepF0g"
       },
@@ -6060,6 +6266,24 @@
       "duration_ms": 165135,
       "name": "In Love Today",
       "url": "https://open.spotify.com/track/3JhpsFR2yZhprzqXuzwGqj"
+    },
+    {
+      "album": {
+        "name": "Play (Extended Edition)",
+        "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222782,
+      "name": "In Other Words",
+      "url": "https://open.spotify.com/track/03qAI5HA2LS4Bm8SGpTp1X"
     },
     {
       "album": {
@@ -7184,6 +7408,24 @@
       "duration_ms": 199756,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm"
+    },
+    {
+      "album": {
+        "name": "Gunther D volume 2",
+        "url": "https://open.spotify.com/album/7uPjuUpBxBvQojp3iNHFdG"
+      },
+      "artists": [
+        {
+          "name": "2 Fabiola",
+          "url": "https://open.spotify.com/artist/7suqkCi5J0pW8bLEhGuGo9"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205725,
+      "name": "Lift U Up",
+      "url": "https://open.spotify.com/track/4ZQjemjjSjZMJ4Q76vvkKn"
     },
     {
       "album": {
@@ -9689,6 +9931,28 @@
     },
     {
       "album": {
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/3msLrvkMWgzkEMM0HTmTxJ"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184384,
+      "name": "Phases",
+      "url": "https://open.spotify.com/track/6NzoVYiCWulsOECuaXDazA"
+    },
+    {
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/0nRVAnU410D5nOyVWCadJh"
       },
@@ -10066,6 +10330,24 @@
       "duration_ms": 209680,
       "name": "RATHER LIE (with The Weeknd)",
       "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
+    },
+    {
+      "album": {
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202266,
+      "name": "RAWFEAR",
+      "url": "https://open.spotify.com/track/43ee3gqWBlPKe2MeGJ2S6I"
     },
     {
       "album": {
@@ -10486,6 +10768,24 @@
       "duration_ms": 115919,
       "name": "Same Thing",
       "url": "https://open.spotify.com/track/6XMNNNDOnkTXSh567RaGsb"
+    },
+    {
+      "album": {
+        "name": "Samen Naar De Euroborg",
+        "url": "https://open.spotify.com/album/0ALAAEKAFo49yTMftHpELL"
+      },
+      "artists": [
+        {
+          "name": "TikTok Tammo",
+          "url": "https://open.spotify.com/artist/72NgETXqnlAaRLfScdqFiw"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159425,
+      "name": "Samen Naar De Euroborg",
+      "url": "https://open.spotify.com/track/6oK7Lfy6zZlufIQiFMCrrj"
     },
     {
       "album": {
@@ -11775,6 +12075,24 @@
     },
     {
       "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/23UkQx8aKE4IERCFuxpYL0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168979,
+      "name": "Symmetry",
+      "url": "https://open.spotify.com/track/74nLmWmaHLe33Fpw8Cz4xo"
+    },
+    {
+      "album": {
         "name": "Take Me to the Beach (feat. Ado)",
         "url": "https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ"
       },
@@ -11856,6 +12174,32 @@
       "duration_ms": 132539,
       "name": "Talk",
       "url": "https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb"
+    },
+    {
+      "album": {
+        "name": "Talk to Me (feat. Tyla, Nile Rodgers)",
+        "url": "https://open.spotify.com/album/4wuC0kVrCS4zlTl3XhtErb"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193502,
+      "name": "Talk to Me (feat. Tyla, Nile Rodgers)",
+      "url": "https://open.spotify.com/track/5lu4L7DP5K8h8XIZuqnUWn"
     },
     {
       "album": {

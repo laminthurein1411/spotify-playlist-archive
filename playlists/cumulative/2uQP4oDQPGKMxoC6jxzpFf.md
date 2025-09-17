@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,662 songs - 6 day 22 hr 36 min
+2,664 songs - 6 day 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1013,6 +1013,7 @@
 | [House of the Rising Sun](https://open.spotify.com/track/1dP8auhoskkZmE7dZYHIqB) | [Twin Flames](https://open.spotify.com/artist/5rd4DwuxvrxyZoG0rC9YHi) | [Hugging the Cactus](https://open.spotify.com/album/3KmofFHnQR25H8tKSLGPDP) | 3:24 | 2024-12-14 |  |
 | [Housewarming \(feat\. Brandi Carlile\) \(The New Recording\)](https://open.spotify.com/track/7CZRUEwe8afd23CIuliL5i) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Wildewoman \(The New Recordings\) \[Deluxe\]](https://open.spotify.com/album/5VHjoikiszEB5C5QWjYCMo) | 4:10 | 2024-12-04 |  |
 | [Housewarming \(The New Recording\)](https://open.spotify.com/track/7gN9GAZIrDEYc5lsuakAVi) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman \(The New Recordings\)](https://open.spotify.com/album/2qcm6QT6aSuOOmogeZaRoo) | 4:10 | 2025-05-11 |  |
+| [HOW ARE YOU?](https://open.spotify.com/track/1RTPeJ4meuAJZymZt43mYc) | [The OBGMs](https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI), [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [SORRY, IT'S OVER](https://open.spotify.com/album/5cLEEqNqzDbexEHKzCAM6u) | 2:36 | 2025-09-16 |  |
 | [How Can I Get Your Love?](https://open.spotify.com/track/2LwsXVerV20K7adtb6t2mh) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [How Can I Get Your Love?](https://open.spotify.com/album/6xUznvFMCVVPeHpGMOHx8e) | 2:57 | 2025-06-19 |  |
 | [How Come You Don't Call Me](https://open.spotify.com/track/29cup7R0CQiUB1lj4Laq72) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:57 | 2025-05-13 |  |
 | [How Come You Never Go There](https://open.spotify.com/track/5AVv4yQvcmRZSSkQrNdGjl) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/74aYGpppgA5l3CxcFBojhE) | 3:24 | 2025-05-25 |  |
@@ -2119,7 +2120,7 @@
 | [Streets of Your Town](https://open.spotify.com/track/3KaYlpUrQrqVJKHcvY2Gel) | [Josh Rouse](https://open.spotify.com/artist/38euc5ce2q2MMzaoJcPstz) | [Streets of Your Town](https://open.spotify.com/album/42lirLF5MgFge0b5AqQ2Aj) | 3:26 | 2025-05-26 |  |
 | [Stronger Than That](https://open.spotify.com/track/5kgyNmIytvTGGuiv0MwzZp) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 2:37 | 2025-02-02 |  |
 | [Stubborn Love](https://open.spotify.com/track/4wG82w1L31yQhgGiWt6gIb) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/2MTEiVNgRgIvVIrJAqHNBu) | 4:39 | 2025-02-19 |  |
-| [Stubborn Love \(Live from Wrigley Field\)](https://open.spotify.com/track/2u3ZzR8tx7oG4WBvozPq3o) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Live From Wrigley Field](https://open.spotify.com/album/0Ez2dQIpHOGs4qrUw3gfs8) | 4:42 | 2024-11-25 |  |
+| [Stubborn Love \- Live from Wrigley Field](https://open.spotify.com/track/2u3ZzR8tx7oG4WBvozPq3o) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Live From Wrigley Field](https://open.spotify.com/album/0Ez2dQIpHOGs4qrUw3gfs8) | 4:42 | 2024-11-25 |  |
 | [Stuck In A Moment You Can't Get Out Of](https://open.spotify.com/track/3xjTuTBaihydhSC7ByNoSb) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:31 | 2025-03-05 |  |
 | [Such Great Heights](https://open.spotify.com/track/75z2YLg5Lkqf6qL9XOY8tV) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up](https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz) | 4:26 | 2025-04-07 |  |
 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 | 2025-01-19 |  |
@@ -2452,6 +2453,7 @@
 | [Venus](https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae) | [Bananarama](https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx) | [True Confessions \(Collector's Edition\)](https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h) | 3:49 | 2025-08-06 |  |
 | [Vibrant Colours](https://open.spotify.com/track/0hQuyxNcrJcjLbX4WT5IQc) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [Bleached Wavves](https://open.spotify.com/album/3RABU4vLHRyxMHwpXMSpni) | 4:36 | 2024-11-27 |  |
 | [Vibrations](https://open.spotify.com/track/4xmJmpkbZhTMXfFtqFBCY4) | [Mick Davis & Thin Love](https://open.spotify.com/artist/5zvV1x0UoyivsEhIYo8vun) | [Garbage Street](https://open.spotify.com/album/3aF0zloKuU6wNX67U6YlEq) | 3:15 | 2024-12-19 |  |
+| [Victim](https://open.spotify.com/track/66gtnUDneW30UV5DptKEW7) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Sundry Rock Song Stock](https://open.spotify.com/album/1Yl8659iDQjjaHNyTNXR4b) | 4:42 | 2025-09-16 |  |
 | [Video Games](https://open.spotify.com/track/5ojgsoCVfOmwmHOWX9I9VT) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5), [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Here and Now \(Deluxe Edition\)](https://open.spotify.com/album/5U1SO7vSCl10H2zH7kDe0o) | 3:41 | 2025-08-12 |  |
 | [Virtual Insanity](https://open.spotify.com/track/24SUWisv2lYQiB3bVpE1sn) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Pop Music: The Modern Era 1976\-1999](https://open.spotify.com/album/0Jh7XIEQrNQAXm7a6hbJ1h) | 3:47 | 2025-02-17 |  |
 | [Viscosity](https://open.spotify.com/track/1TEGV7gRlnbQ9enNeSbYg8) | [Leanne Betasamosake Simpson](https://open.spotify.com/artist/6REprvUcVwBr69s8NfEQj4) | [Theory of Ice](https://open.spotify.com/album/5mNIgEkN9LCFvLDO6r9rw1) | 4:27 | 2024-12-02 |  |
