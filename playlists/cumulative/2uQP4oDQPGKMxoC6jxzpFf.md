@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,677 songs - 6 day 23 hr 32 min
+2,678 songs - 6 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1882,6 +1882,7 @@
 | [Roses](https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 6:09 | 2025-05-09 |  |
 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 | 2025-07-28 |  |
 | [Rudolph The Red Nosed Reindeer \- Remastered](https://open.spotify.com/track/26ZEOkesgNaLkr3fHvpDUx) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Spirit Of Christmas \(Remastered\)](https://open.spotify.com/album/00Rpo9DJAnCA3tyjg0u3Mo) | 4:05 | 2024-12-24 |  |
+| [Run Right Into It](https://open.spotify.com/track/55wXV7znDMz0w58jtOSWFa) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7), [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Run Right Into It](https://open.spotify.com/album/6Tj1wkaeUCw5ZZlngTthyG) | 4:27 | 2025-09-19 |  |
 | [Run Runaway](https://open.spotify.com/track/3KaddWS0IgAEboF6cjCoQ8) | [Great Big Sea](https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4) | [Up](https://open.spotify.com/album/0jd3KwbmahYVxOPg3kWzgo) | 2:51 | 2024-12-31 |  |
 | [Run the World \(Girls\)](https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 3:56 | 2025-09-09 |  |
 | [Run Your Mouth](https://open.spotify.com/track/19fKJrO9XdOf6Xla2QHecO) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 2:40 | 2025-05-03 |  |
@@ -2492,7 +2493,7 @@
 | [War Face](https://open.spotify.com/track/0pINKK9wp6OdMVgbXutkYY) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [Lone Wolf](https://open.spotify.com/album/5yJaELdErAYjZKkR8rsSzK) | 3:21 | 2025-01-09 |  |
 | [Warbler](https://open.spotify.com/track/4v0UFyLoGY8kUykeyEwypJ) | [The Hello Crows](https://open.spotify.com/artist/6NpbbwjbGrOS1qWi3K2IrU) | [Warbler](https://open.spotify.com/album/4ZACCkn0NOqszPnohawpah) | 3:32 | 2025-06-22 |  |
 | [Wash Your Face In My Sink](https://open.spotify.com/track/33thSPOfzybaOuyZb3ZLpm) | [Dream Warriors](https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU) | [And Now The Legacy Begins](https://open.spotify.com/album/6AelbV20VsSWwnYhalKjdd) | 3:40 | 2025-01-31 |  |
-| [Waste My Time](https://open.spotify.com/track/4Z5fidWlpKqb6GgsfxFz0w) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Waste My Time](https://open.spotify.com/album/5FwNdn41QgwtItxswMwXaQ) | 2:31 | 2025-03-13 | 2025-07-16 |
+| [Waste My Time](https://open.spotify.com/track/4Z5fidWlpKqb6GgsfxFz0w) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Waste My Time](https://open.spotify.com/album/5FwNdn41QgwtItxswMwXaQ) | 2:31 | 2025-03-13 |  |
 | [Waste My Time](https://open.spotify.com/track/7J6MDJ7hHdkLP8cNyopEHN) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Here and Now \(Deluxe Edition\)](https://open.spotify.com/album/5U1SO7vSCl10H2zH7kDe0o) | 2:31 | 2024-11-30 |  |
 | [Wasted](https://open.spotify.com/track/7cRbXOoZIUa1Gsh9SPCy37) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Reliever](https://open.spotify.com/album/2jBD9PXFlLAMqitGuwOkbE) | 2:44 | 2024-12-20 |  |
 | [Wasted Love](https://open.spotify.com/track/5h3y6rYM91WTdcRo6DnWJl) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [If I Should Go Before You](https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud) | 2:58 | 2025-02-25 |  |
