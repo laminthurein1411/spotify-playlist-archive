@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,678 songs - 6 day 23 hr 36 min
+2,683 songs - 6 day 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [AUTOMATIC](https://open.spotify.com/track/053cg5mZoGpOYGWGn0AsCR) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [AUTOMATIC](https://open.spotify.com/album/6wvpuEEYLmt3C53eC3gEsb) | 4:52 | 2025-06-26 |  |
 | [Autumn Sweater](https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 5:18 | 2025-09-03 |  |
 | [Autumn Town Leaves](https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Weed Garden](https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3) | 3:15 | 2024-12-14 |  |
+| [Babooshka \- 2018 Remaster](https://open.spotify.com/track/6VpNGCU2ig4NQmsLfALdJU) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 3:19 | 2025-09-20 |  |
 | [Baby Beluga](https://open.spotify.com/track/6tQoIRuv9sOM0hJuj3qUkF) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Baby Beluga](https://open.spotify.com/album/3DVJQHU0c8atO04sGagaUi) | 2:42 | 2025-05-10 |  |
 | [Baby Blue](https://open.spotify.com/track/13zT15nPCP5A5XeP9vffnk) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Baby Blue](https://open.spotify.com/album/4qbYq52lkvywptymI7Y7dR) | 3:13 | 2025-07-15 |  |
 | [Baby Come Back](https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:15 | 2025-04-02 |  |
@@ -1257,6 +1258,7 @@
 | [Kids Who Stole The World](https://open.spotify.com/track/18azpbHQDWao2n7qDPC6ww) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Singles 2020 \- 2021](https://open.spotify.com/album/3jRtKUrldJlJDW7r8hYh26) | 3:20 | 2025-05-25 |  |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:58 | 2025-02-17 |  |
 | [Kinda Complicated](https://open.spotify.com/track/7of3eLR7wKUieYZQtRPHNv) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Hôtel de Ville](https://open.spotify.com/album/4tSyMoAffvFeEEzIG3cJ5E) | 3:01 | 2025-04-20 |  |
+| [King Of The Mountain](https://open.spotify.com/track/21ZTkAe7nw4kAR1aHyZXSx) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial](https://open.spotify.com/album/7rJhczUZtha1uulvAlYS4j) | 4:53 | 2025-09-20 |  |
 | [Kintsukuroi](https://open.spotify.com/track/4iQ7FTo23wetOS6NighSd9) | [Hey Rosetta!](https://open.spotify.com/artist/52ue4x5xVjLx4cw2HEXMhi) | [Second Sight](https://open.spotify.com/album/5rOAMAmEQWCAbc9gefTaFb) | 3:30 | 2024-11-27 |  |
 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 | 2025-01-25 |  |
 | [Kiss from a Rose](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1) | 4:48 | 2025-06-11 |  |
@@ -1515,6 +1517,7 @@
 | [Mountain Sound](https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 3:31 | 2025-05-28 |  |
 | [Mountains](https://open.spotify.com/track/4JvEicQI7CxOJxuI0xtpim) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 4:09 | 2025-01-17 |  |
 | [Move on Up](https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h) | [Devon Russell](https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz) | [Darker Than Blue](https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7) | 3:55 | 2025-04-17 |  |
+| [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 | 2025-09-20 |  |
 | [Movie Queen](https://open.spotify.com/track/6lBvqQLCMM2o2tF7PBWD2P) | [Russell Louder](https://open.spotify.com/artist/7iWkq6O1CPR7eNomBY2LpG) | [Movie Queen](https://open.spotify.com/album/3nQ6H4AcUaembkeBh2T2hZ) | 3:12 | 2025-03-11 |  |
 | [Movin' Down the Line](https://open.spotify.com/track/1Hjxbrmv7XXAP6C9U0Thz1) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Stone Rollin'](https://open.spotify.com/album/1Ja5q0u9dDWXnKAL3bSRzV) | 4:23 | 2025-02-04 |  |
 | [Mr\. Big Stuff](https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq) | [Jean Knight](https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr) | [Mr\. Big Stuff](https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e) | 2:44 | 2025-01-25 |  |
@@ -1895,6 +1898,7 @@
 | [Rushmere](https://open.spotify.com/track/0rPHsDRiWwPfR6HG7JLj1K) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/1ozQDYIyCeM7YKhHotVdny) | 3:12 | 2025-04-15 |  |
 | [Rushmere](https://open.spotify.com/track/3eEzfujAc108cq9L6yCVgT) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4) | 3:12 | 2025-05-10 |  |
 | [Rust.](https://open.spotify.com/track/2y6vEKzRcA49gCJEv9DP8N) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Rust.](https://open.spotify.com/album/5UFLVvCrvlPw5WAWb6T7XU) | 3:35 | 2025-01-09 |  |
+| [S.O.S.](https://open.spotify.com/track/0G7ikCXLo94maB1cDxzZXL) | [Dwayne Gretzky](https://open.spotify.com/artist/1Xpwc4YexjuUDYDKJw18Oh) | [Dwayne Gretzky](https://open.spotify.com/album/0lu9wcv6klgm0aNGLoLwCN) | 3:13 | 2025-09-20 |  |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2024-12-19 |  |
 | [Sacrilege](https://open.spotify.com/track/2pQZ9g4vaFNXO42kMe8e3w) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 3:50 | 2024-12-30 |  |
 | [SAFE](https://open.spotify.com/track/0Bd3qt36q8Je7W6jGYYITL) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [SAFE](https://open.spotify.com/album/3RIdpPPRMQgqWTK0nk3sT4) | 2:59 | 2025-02-11 |  |
@@ -2298,6 +2302,7 @@
 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 | 2024-12-13 |  |
 | [The Seed](https://open.spotify.com/track/3EUXLUKx2zNUzb2otMc8HH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Different Kind Of Human \(Step II\)](https://open.spotify.com/album/2xLOaAi985d5Xb4alPI8Hf) | 4:26 | 2025-04-21 |  |
 | [The Seed \(2.0\)](https://open.spotify.com/track/6HxweNytuEQdmGeVtZPZz3) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [Phrenology](https://open.spotify.com/album/01FOonRYntwISzaCSa7S7p) | 4:27 | 2024-12-17 |  |
+| [The Sensual World \- 2018 Remaster](https://open.spotify.com/track/6d873fiVBaIUB8TZYQAeES) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 3:57 | 2025-09-20 |  |
 | [The Songs That We Sing](https://open.spotify.com/track/5G3o1jScllBpuCxVRlsDDI) | [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [5:55 \(Nouvelle Edition\)](https://open.spotify.com/album/6VbkZXFdiFyEbwY240h672) | 2:57 | 2025-03-11 |  |
 | [The Sound of Music](https://open.spotify.com/track/1SSHXplhtqpAR67Dlw4ht0) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5BUQMWBHjofoolbimVTI2z) | 3:12 | 2024-12-11 |  |
 | [The Sound Of Silence](https://open.spotify.com/track/0P15IgSE0jbe0z7t7jvDf7) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Closer To Grey](https://open.spotify.com/album/6A6RTFXwJWesdPhSGnm0tF) | 3:16 | 2025-07-18 |  |
