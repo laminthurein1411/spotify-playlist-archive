@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,683 songs - 6 day 23 hr 54 min
+2,685 songs - 7 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1032,7 +1032,7 @@
 | [How Not To Drown](https://open.spotify.com/track/2La74vQJjGEbn0LdTKTGGY) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w), [Robert Smith](https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0) | [Screen Violence](https://open.spotify.com/album/0Q6KFth9qxni5rsmqtcTKO) | 5:31 | 2025-01-23 |  |
 | [How To Love](https://open.spotify.com/track/7xyN0pha5zIbwvXeIADGpe) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter IV \(Explicit Version\)](https://open.spotify.com/album/2YL3ddwHuiBGumvzcGHyjT) | 4:00 | 2024-11-26 |  |
 | [How to Sing for Money](https://open.spotify.com/track/2hk2miVnaS7ycQCYZrCPad) | [Maggie Andrew](https://open.spotify.com/artist/4PJuPTnsXBp1QY667NS0Oo) | [How to Sing for Money](https://open.spotify.com/album/3z6inZH9eQk8JgfwSgQXCM) | 3:29 | 2025-06-05 |  |
-| [How We Used To Be](https://open.spotify.com/track/5TeTVS1xdXiK3mdnlrl5eF) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Across The Room](https://open.spotify.com/album/5xD3AZ3zsBzhXFCcEmULkD) | 3:18 | 2025-05-18 | 2025-07-16 |
+| [How We Used To Be](https://open.spotify.com/track/5TeTVS1xdXiK3mdnlrl5eF) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Across The Room](https://open.spotify.com/album/5xD3AZ3zsBzhXFCcEmULkD) | 3:18 | 2025-05-18 |  |
 | [How We Used To Be](https://open.spotify.com/track/7Dgr1rg9XOdgyZ5EnRg8CK) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [How We Used To Be](https://open.spotify.com/album/5maMPYNEI011eYny2uOcsO) | 3:18 | 2024-11-25 |  |
 | [How Will I Know](https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:29 | 2025-03-07 |  |
 | [Human](https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:20 | 2024-12-09 |  |
@@ -1667,7 +1667,7 @@
 | [Once in a Lifetime](https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:48 | 2025-05-14 |  |
 | [Once in a Lifetime](https://open.spotify.com/track/1Tr4K5MU5XYE44umXGDndd) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light](https://open.spotify.com/album/1JvXxLsm0PxlGH4LXzqMGq) | 4:19 | 2025-03-13 |  |
 | [Once That Was You](https://open.spotify.com/track/2WIA04mY7ZuQ3JhQgCmSHw) | [Adrian Sutherland](https://open.spotify.com/artist/6kLy0FIyVxqDVuvivOiuPZ) | [Once That Was You](https://open.spotify.com/album/3Ph59Br8pE8n3taSsUkSng) | 3:31 | 2024-11-25 |  |
-| [Once That Was You](https://open.spotify.com/track/2gAMl5QQmE3htb5XEuAn7j) | [Adrian Sutherland](https://open.spotify.com/artist/6kLy0FIyVxqDVuvivOiuPZ) | [When the Magic Hits](https://open.spotify.com/album/5VcEQHvnipMBirRWhE2DqL) | 3:31 | 2025-05-11 | 2025-07-16 |
+| [Once That Was You](https://open.spotify.com/track/2gAMl5QQmE3htb5XEuAn7j) | [Adrian Sutherland](https://open.spotify.com/artist/6kLy0FIyVxqDVuvivOiuPZ) | [When the Magic Hits](https://open.spotify.com/album/5VcEQHvnipMBirRWhE2DqL) | 3:31 | 2025-05-11 |  |
 | [One and Only](https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [One and Only](https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM) | 3:11 | 2025-02-19 |  |
 | [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/6TK7fjRPdy2GW2pJzNF23L) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 | 2025-07-02 |  |
 | [One Headlight](https://open.spotify.com/track/6CCtwKO9crJAAZkOM0wnit) | [The Redhill Valleys](https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ) | [One Headlight](https://open.spotify.com/album/103eblTnUASz74xoe9R7Vu) | 3:25 | 2025-05-27 |  |
@@ -1687,6 +1687,7 @@
 | [Only Love Can Break Your Heart](https://open.spotify.com/track/5UiWeDZSRIftaRlOFSecU5) | [Benja](https://open.spotify.com/artist/36Bs5vvvt4AfdIvApt1Rid) | [Brainfreeze](https://open.spotify.com/album/3yaq0JAuZB9sKu2nlOof5l) | 2:43 | 2025-07-01 |  |
 | [Only Love Can Break Your Heart](https://open.spotify.com/track/2l2JonC9Mmrqs5sC7G0SlD) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 4:29 | 2025-03-22 |  |
 | [ONLY ONE](https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:03 | 2024-12-30 |  |
+| [Ooh La La](https://open.spotify.com/track/3E0gVkirGK2ouGHPuOO9cN) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Supernature](https://open.spotify.com/album/3vtZKHDljhjJORS14a4qKx) | 3:24 | 2025-09-21 |  |
 | [Open \(Hurts To Have A Heart\)](https://open.spotify.com/track/1nkA2vQ59sGMb4tiOiR8ha) | [Kelly McMichael](https://open.spotify.com/artist/5ogab2Tu9UMZTumiZbl315) | [After The Sting Of It](https://open.spotify.com/album/4eHWv8vyZtQU5fP7EViTN4) | 4:13 | 2024-11-22 |  |
 | [Open Arms](https://open.spotify.com/track/56xbxIoYtGOsNFF8JRKKmu) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Open Arms](https://open.spotify.com/album/1wIIcAUCE1k9WPOOsPcoxP) | 2:32 | 2024-11-29 |  |
 | [Open Hearts](https://open.spotify.com/track/0sTBOp1hdayTjw6UOyPyi6) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:54 | 2025-02-20 |  |
@@ -2074,6 +2075,7 @@
 | [SOS \(Overboard\)](https://open.spotify.com/track/3fvZ8dEACqm3uIK0FYaI2I) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/7vFffWRCAH13VwwmlZTr8m) | 3:05 | 2024-11-30 |  |
 | [Soul Run](https://open.spotify.com/track/12el9ANVaEk7L33r7ITJFk) | [Tanika Charles](https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I) | [Soul Run](https://open.spotify.com/album/7dtFPPkpgAfHjJnnWLfMkF) | 3:28 | 2024-12-20 |  |
 | [Sound & Color](https://open.spotify.com/track/6huoxhxVtmHGMGmq90U6bE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/4S6WZWWOjzMQW7fnW5k9eh) | 3:02 | 2025-01-01 |  |
+| [Sous l'herbe fine](https://open.spotify.com/track/3CoypBPZstXBCiGcRduYRV) | [Orlanda](https://open.spotify.com/artist/23nY5K8uRicVSFQDOovHTe) | [Sous l'herbe fine](https://open.spotify.com/album/4Z7l0t1KsPtJa9Eukg384a) | 2:52 | 2025-09-21 |  |
 | [Southern Man](https://open.spotify.com/track/4v0XOp3m5cLDmNGZrVmXbX) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 3:15 | 2025-03-03 |  |
 | [Southern Sun](https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Harlequin Dream](https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN) | 4:41 | 2024-11-29 |  |
 | [Souvenirs](https://open.spotify.com/track/61gTjqzNXQ1U0MbKk0y36H) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [Still Living With My Parents](https://open.spotify.com/album/2O5eUmi2KeXNYqghiw4XBj) | 4:16 | 2025-05-02 |  |
