@@ -1483,6 +1483,24 @@
     },
     {
       "album": {
+        "name": "All Cylinders",
+        "url": "https://open.spotify.com/album/1ls9QyYWFw9Y35jThBvGKa"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208329,
+      "name": "All Cylinders",
+      "url": "https://open.spotify.com/track/0BS6vPGMgofeUMgJe2EpdK"
+    },
+    {
+      "album": {
         "name": "All for Nothing",
         "url": "https://open.spotify.com/album/0kWI8zbuMg3aNL7p6ceWJ7"
       },
@@ -7328,6 +7346,24 @@
       "duration_ms": 342999,
       "name": "Changes",
       "url": "https://open.spotify.com/track/3HC6U39266ytr7fMW9M2Mz"
+    },
+    {
+      "album": {
+        "name": "The Life Aquatic Exclusive Studio Sessions Featuring Seu Jorge",
+        "url": "https://open.spotify.com/album/2tAFOhqz3DxxVI2s5YNsrD"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218906,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/28HbprWfdOePkl62c7l7tc"
     },
     {
       "album": {
@@ -14962,6 +14998,24 @@
       "duration_ms": 249266,
       "name": "Going Back To Cali",
       "url": "https://open.spotify.com/track/4Fkr6zTAxsXbG9kG8ISqos"
+    },
+    {
+      "album": {
+        "name": "Super Monster",
+        "url": "https://open.spotify.com/album/0QPFWBu8oVVNtekmNzlVvW"
+      },
+      "artists": [
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199807,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/4vrNZ1Ptg5SBIZQixIV5Qp"
     },
     {
       "album": {
@@ -34528,7 +34582,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 180933,
       "name": "Right Here, for Now",
       "url": "https://open.spotify.com/track/2LxRUWNqcKcTo7zOrctebE"
@@ -39642,6 +39696,24 @@
       "duration_ms": 172857,
       "name": "Stir the Ashes",
       "url": "https://open.spotify.com/track/1a2jlZv2PraPQqmhOm3i4p"
+    },
+    {
+      "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/1aoVW0UzWXSSYc24TWQuQV"
+      },
+      "artists": [
+        {
+          "name": "Serena Ryder",
+          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221746,
+      "name": "Stompa",
+      "url": "https://open.spotify.com/track/2PWUVMlv1gQpSJBWsQ2m98"
     },
     {
       "album": {

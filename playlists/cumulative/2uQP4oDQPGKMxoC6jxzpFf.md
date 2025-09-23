@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,685 songs - 7 day 0 hr 1 min
+2,689 songs - 7 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Airplanes](https://open.spotify.com/track/62ZyZBJDJmvwBjKOFvAaDt) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Airplanes / Caribou](https://open.spotify.com/album/6F0h2APKV6LqwUYgJ3MrjS) | 4:36 | 2025-05-27 |  |
 | [Alibi](https://open.spotify.com/track/1hS3RXEQbXtWgYpot2Ay07) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy) | 2:48 | 2025-05-11 |  |
 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 | 2025-02-08 |  |
+| [All Cylinders](https://open.spotify.com/track/0BS6vPGMgofeUMgJe2EpdK) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders](https://open.spotify.com/album/1ls9QyYWFw9Y35jThBvGKa) | 3:28 | 2025-09-22 |  |
 | [All for Nothing](https://open.spotify.com/track/4eOydYjbFRCfFZ8jxtwrQX) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [All for Nothing](https://open.spotify.com/album/0kWI8zbuMg3aNL7p6ceWJ7) | 3:23 | 2024-11-21 |  |
 | [All For You](https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [All For You](https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9) | 5:29 | 2024-12-28 |  |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2025-02-25 |  |
@@ -401,6 +402,7 @@
 | [Change The Sheets](https://open.spotify.com/track/4IgpzkzdkIJuurAWhzRUMZ) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Voyageur](https://open.spotify.com/album/2SbS9mX4IwQSFMfO44guhg) | 4:30 | 2024-12-22 |  |
 | [Changes](https://open.spotify.com/track/5QdBAG8cpZhM3kIAQLDRN2) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Ultimate Collection](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) | 4:42 | 2025-07-24 |  |
 | [Changes](https://open.spotify.com/track/3HC6U39266ytr7fMW9M2Mz) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Changes](https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM) | 5:42 | 2025-02-14 |  |
+| [Changes](https://open.spotify.com/track/28HbprWfdOePkl62c7l7tc) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [The Life Aquatic Exclusive Studio Sessions Featuring Seu Jorge](https://open.spotify.com/album/2tAFOhqz3DxxVI2s5YNsrD) | 3:38 | 2025-09-22 |  |
 | [Changes \- 2015 Remaster](https://open.spotify.com/track/0LrwgdLsFaWh9VXIjBRe8t) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:37 | 2025-05-24 |  |
 | [Charlie](https://open.spotify.com/track/05wB5Ut97mzE0nHUbfBsOW) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Charlie](https://open.spotify.com/album/0LmxzLt0YsLNsUaPUP4BgZ) | 3:06 | 2024-11-22 |  |
 | [Charlie Brown](https://open.spotify.com/track/16WnxfT3YRRQP6CA10CFcm) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Charlie Brown](https://open.spotify.com/album/3vLHtJNQIxQJCQqcFE2d78) | 2:49 | 2024-11-22 |  |
@@ -810,6 +812,7 @@
 | [God's Plan](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:18 | 2025-09-13 |  |
 | [Godspeed](https://open.spotify.com/track/01n39Mu47mpIcU98RO9PaW) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Godspeed](https://open.spotify.com/album/00iQAtYONi1k1PYUftjbNq) | 2:49 | 2025-06-20 |  |
 | [Going Back To Cali](https://open.spotify.com/track/4Fkr6zTAxsXbG9kG8ISqos) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Walking With A Panther](https://open.spotify.com/album/2rddwrGdk7d7QQ3KkcLlHA) | 4:09 | 2024-12-18 |  |
+| [Gold](https://open.spotify.com/track/4vrNZ1Ptg5SBIZQixIV5Qp) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/0QPFWBu8oVVNtekmNzlVvW) | 3:19 | 2025-09-22 |  |
 | [Gold Filigree](https://open.spotify.com/track/5cAY2jEYGRVF2IpH1a214i) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders](https://open.spotify.com/album/1ls9QyYWFw9Y35jThBvGKa) | 3:24 | 2025-05-07 |  |
 | [Gold Rush](https://open.spotify.com/track/6x9VaGUbiSRvkLEdjeqjsN) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Thank You for Today](https://open.spotify.com/album/6agCM9GJcebduMddgFmgsO) | 4:00 | 2025-01-30 |  |
 | [Gold Rush](https://open.spotify.com/track/0HlGGu8xeNMN50vqr1Y9vA) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Do It All For You](https://open.spotify.com/album/4GraaLa4iuXFLf21hgp8lP) | 4:15 | 2025-04-09 | 2025-07-16 |
@@ -1854,7 +1857,7 @@
 | [Right As Rain](https://open.spotify.com/track/6OLudcGaT6HQ5bXH54kI8i) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/5awrJZBt3rP9RO5hlYdZB0) | 3:17 | 2025-06-01 |  |
 | [Right Down The Line](https://open.spotify.com/track/2QkrXvBAfhE4QAr9Y5kOvh) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [NUDES](https://open.spotify.com/album/3y4k3cJW83i3KDSDJnPOX8) | 3:55 | 2025-06-01 |  |
 | [Right Here](https://open.spotify.com/track/5r3sgE99u4uPNDY5igvo4Q) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [Powder Blue](https://open.spotify.com/album/0kr5NBd2qdQNeZhzke5tHz) | 3:07 | 2025-01-02 |  |
-| [Right Here, for Now](https://open.spotify.com/track/2LxRUWNqcKcTo7zOrctebE) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:00 | 2025-05-09 | 2025-07-16 |
+| [Right Here, for Now](https://open.spotify.com/track/2LxRUWNqcKcTo7zOrctebE) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:00 | 2025-05-09 |  |
 | [Right Here, for Now](https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:00 | 2024-12-09 |  |
 | [Ring My Bell](https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd) | [Anita Ward](https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P) | [Ring My Bell](https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV) | 8:11 | 2025-08-09 |  |
 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 | 2025-08-08 |  |
@@ -2130,6 +2133,7 @@
 | [Still Up Late](https://open.spotify.com/track/1mfdzLsCAUK4ue4kuY5IfA) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [Thank You for Trying: ACT I & II](https://open.spotify.com/album/41RfKM7fvvt57gQcZKe60q) | 2:51 | 2024-12-31 |  |
 | [Still Up Late \- Acoustic](https://open.spotify.com/track/3oPmUxa1GHbCWZ0cL9pRYx) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [Still Up Late \(Acoustic\)](https://open.spotify.com/album/4D2IFXOg8Xdlb0pbv2Mk7x) | 2:56 | 2024-11-23 |  |
 | [Stir the Ashes](https://open.spotify.com/track/1a2jlZv2PraPQqmhOm3i4p) | [iskwē](https://open.spotify.com/artist/31flUlPgtGjDz3WL9hn420), [Tom Wilson](https://open.spotify.com/artist/5yC7xvjGxlXLUTzmrmprLu) | [Mother Love](https://open.spotify.com/album/7dKPc0Mj8iVLpaVvby2NSf) | 2:52 | 2025-03-02 |  |
+| [Stompa](https://open.spotify.com/track/2PWUVMlv1gQpSJBWsQ2m98) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Harmony](https://open.spotify.com/album/1aoVW0UzWXSSYc24TWQuQV) | 3:41 | 2025-09-22 |  |
 | [Stop Making This Hurt](https://open.spotify.com/track/7fRCD4vVNpCy91Y3zxNMUl) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 3:19 | 2024-11-22 |  |
 | [Stop Me If I've Told You This Story](https://open.spotify.com/track/4lgKpZ1SXXBrfz9QuWHczt) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [I Can Change Your Mind](https://open.spotify.com/album/6yiwJDKR9WEysm1UaHS7r6) | 3:40 | 2025-02-02 |  |
 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 | 2024-11-30 |  |
