@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,689 songs - 7 day 0 hr 15 min
+2,692 songs - 7 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Auppalialirmat](https://open.spotify.com/track/087AQn2WpwomG2owv7osYV) | [Juurini](https://open.spotify.com/artist/4hJndL9GhSQZ3rymH5P5cx) | [Aqqutinni](https://open.spotify.com/album/5BqCJhWXj4qacCa3ZbFzkd) | 3:48 | 2024-11-21 |  |
 | [Austin](https://open.spotify.com/track/1ltvCt3c0a42HpTfG8ZoF2) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:09 | 2025-05-05 |  |
 | [AUTOMATIC](https://open.spotify.com/track/053cg5mZoGpOYGWGn0AsCR) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [AUTOMATIC](https://open.spotify.com/album/6wvpuEEYLmt3C53eC3gEsb) | 4:52 | 2025-06-26 |  |
+| [AUTOMATIC](https://open.spotify.com/track/6c2o3AnQoZaNCG2hasVTc5) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [LIVE\-ACTION](https://open.spotify.com/album/6KpA380vLBVA6d6lYebIk3) | 4:52 | 2025-09-23 |  |
 | [Autumn Sweater](https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 5:18 | 2025-09-03 |  |
 | [Autumn Town Leaves](https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Weed Garden](https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3) | 3:15 | 2024-12-14 |  |
 | [Babooshka \- 2018 Remaster](https://open.spotify.com/track/6VpNGCU2ig4NQmsLfALdJU) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 3:19 | 2025-09-20 |  |
@@ -1556,6 +1557,7 @@
 | [Name of God](https://open.spotify.com/track/3eqY61qcLkjspAxSVcp4rf) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Name of God](https://open.spotify.com/album/4dsJRxMPd5u4JUoHPUtpiJ) | 3:28 | 2024-11-22 |  |
 | [Name of God](https://open.spotify.com/track/71zgehvCv0MpqOk3jj0f55) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/45XoaObdMwc02uZjsuOfgq) | 3:29 | 2025-05-07 |  |
 | [Namu](https://open.spotify.com/track/3cMuNKA8WHL4T32ElmtjWc) | [Aasiva](https://open.spotify.com/artist/4TFa8JVulowS8qiI82mnWN), [FxckMr](https://open.spotify.com/artist/6koGapKHCllibfQSqj5uVr) | [Niriunniq](https://open.spotify.com/album/0pcNVsqSX1dC4tRWlBmBc8) | 2:39 | 2025-06-23 |  |
+| [Nasty](https://open.spotify.com/track/07OzC5JlcaDwEkzWmvqp6y) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:03 | 2025-09-23 |  |
 | [Need](https://open.spotify.com/track/7u9Fu2cpmqWUTdc8yBpp2x) | [Russell Louder](https://open.spotify.com/artist/7iWkq6O1CPR7eNomBY2LpG) | [Fair\-weather](https://open.spotify.com/album/5PMMoVoU9NFlXv129gaCTe) | 3:43 | 2024-12-17 |  |
 | [Need Nothing](https://open.spotify.com/track/42f3EU5xToR3O4VlIRGfC9) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Need Nothing](https://open.spotify.com/album/3jE6ilwvImynefzlleCPAz) | 2:27 | 2024-12-08 |  |
 | [Needle and The Damage Done](https://open.spotify.com/track/12hLXe6wypFy7obVIgYuH6) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Needle and The Damage Done](https://open.spotify.com/album/5gJqhixoX6nJIAwnuH9KZL) | 1:47 | 2025-04-08 |  |
@@ -1935,6 +1937,7 @@
 | [Saying Something](https://open.spotify.com/track/7nmyz7UlLcZomaQ7aDVLJv) | [Amelie Sampson](https://open.spotify.com/artist/75Z30Us7Pu9Fx9gpEHVPnW) | [Saying Something](https://open.spotify.com/album/7LZeNhlOpxmhDSEsLa6fBT) | 3:22 | 2025-09-09 |  |
 | [Scarlett](https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 3:16 | 2025-06-15 |  |
 | [Scorpio Season](https://open.spotify.com/track/2eVbTa8QWh9dieJd5ROQpj) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Phoenix Deluxe](https://open.spotify.com/album/2Hdz6RpavNCGQErcM330j3) | 3:05 | 2025-01-12 |  |
+| [Scotia Born](https://open.spotify.com/track/0fwtmyUnIn9Dupu1921QDd) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Gary Beals](https://open.spotify.com/artist/5PXsenJUe92Lu12xrQfPes), [Haliey Smith](https://open.spotify.com/artist/6JvCzsPp7IzZQmcCL5QKUl) | [Scotia Born](https://open.spotify.com/album/0mzIwBtxc3uJN6j8DerhDx) | 4:16 | 2025-09-23 |  |
 | [Sea of No Cares](https://open.spotify.com/track/2tnoxTFcx7SkWO5YhMKOpU) | [Great Big Sea](https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4) | [Sea Of No Cares](https://open.spotify.com/album/1uqW2sUSkMT4qhC8RLF0Jk) | 3:41 | 2025-07-01 |  |
 | [Seasons \(Waiting on You\)](https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Singles](https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc) | 3:46 | 2025-03-16 |  |
 | [Sedna](https://open.spotify.com/track/0HJVr2aXvkpt7IF1zv0LmN) | [Kelly Fraser](https://open.spotify.com/artist/6tfktWLnyhNzZdUtGSChSW) | [Sedna](https://open.spotify.com/album/31GEU4ydpqEpOLRTlA2TFk) | 3:27 | 2025-06-22 |  |
