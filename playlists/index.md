@@ -1,9 +1,10 @@
-## Playlists \(49\)
+## Playlists \(50\)
 
 - [1Live Lektor](/playlists/pretty/0QjXKD8p0AN2Tw7ELqNdII.md)
 - [1Live weekly 100](/playlists/pretty/7cOzl5xYKSWH0kL5xleb8o.md)
 - [Add The Shift](/playlists/pretty/12I7xAJ32oRm728QR5ENCy.md)
 - [Alt Pop](/playlists/pretty/4EvB593LId0HAe4qdzXX3Z.md)
+- [Australian bands make the best music](/playlists/pretty/3ow5Ld6uEFhMTDrMsPKZTk.md)
 - [Ballads And K\-drama Ost](/playlists/pretty/5DcgB6NMwxRusWGzAJlxNc.md)
 - [CBC mornings](/playlists/pretty/2uQP4oDQPGKMxoC6jxzpFf.md)
 - [Chill Mix](/playlists/pretty/4pONQS5uM39AQwNzPXvWLO.md)
