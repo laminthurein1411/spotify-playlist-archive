@@ -1,4 +1,4 @@
-## Playlists \(44\)
+## Playlists \(45\)
 
 - [1Live Lektor](/playlists/pretty/0QjXKD8p0AN2Tw7ELqNdII.md)
 - [1Live weekly 100](/playlists/pretty/7cOzl5xYKSWH0kL5xleb8o.md)
@@ -32,6 +32,7 @@
 - [Sad Hours](/playlists/pretty/1bXE7Pyusw2lDjPiTdqwk2.md)
 - [Score 🎼](/playlists/pretty/1vguWaVOu1nFPV3APmYWgT.md)
 - [Slow ⏩](/playlists/pretty/0tSyqg2TUZxNhLw1DVKPe8.md)
+- [Song of the Day](/playlists/pretty/1VJVFypnr5RFbUvRIEF6Pu.md)
 - [Thai](/playlists/pretty/6WhkG7zqualtkO8ld0lpvD.md)
 - [Top ten metal moments in classical music](/playlists/pretty/2X6i2ckpFnXksw8E1OySwF.md)
 - [Traditional Irish Session Music](/playlists/pretty/0CZe2n5EyVq8JbeMFod0zX.md)
