@@ -1,4 +1,4 @@
-## Playlists \(45\)
+## Playlists \(47\)
 
 - [1Live Lektor](/playlists/pretty/0QjXKD8p0AN2Tw7ELqNdII.md)
 - [1Live weekly 100](/playlists/pretty/7cOzl5xYKSWH0kL5xleb8o.md)
@@ -41,6 +41,8 @@
 - [WILD 94.9 Radio Station](/playlists/pretty/1I0G9xjsHyypBjQDMrG04l.md)
 - [Western Songs](/playlists/pretty/3Tc3UlmKYcDbyewaWm7pFu.md)
 - [Winding down](/playlists/pretty/6A6POLvsrqIZNPGOTU0Joi.md)
+- [big mix](/playlists/pretty/7ojHfeLSzqGrNwx6MUwIS7.md)
+- [classic 106.9 fm \(sin anuncios\)](/playlists/pretty/2nGXIsEZ0ggH2M2shAsCmg.md)
 - [dAnCe 🕺](/playlists/pretty/3K9Kpz7u5Pa3XEr9FNc8q1.md)
 - [import of College Radio Collage \(posted\)](/playlists/pretty/5UxXdIqu2mZa5HOPe3RJcO.md)
 - [import of My forgotten tracks](/playlists/pretty/4E2JIttVpFRWV0riyir9Dq.md)
