@@ -1,4 +1,4 @@
-## Playlists \(47\)
+## Playlists \(48\)
 
 - [1Live Lektor](/playlists/pretty/0QjXKD8p0AN2Tw7ELqNdII.md)
 - [1Live weekly 100](/playlists/pretty/7cOzl5xYKSWH0kL5xleb8o.md)
@@ -17,6 +17,7 @@
 - [He's half my soul, as the poets say \-a Greek tragedy playlist\(Achilles and Patroclus\)](/playlists/pretty/0W8Y1QJDmKiALHzzn33QS0.md)
 - [Horror](/playlists/pretty/51l7UmBDogDYmLzgjtLt4S.md)
 - [IRL Angel \(dark and dreamy\)](/playlists/pretty/0nZQiesiABSOBofUuZ2PLz.md)
+- [I’m Not Sick but I’m Not Well](/playlists/pretty/1sfAOTB18X1CRV6pWdiUJJ.md)
 - [Japanese Songs](/playlists/pretty/3CsSi2LenkqZY1q0XuKeBL.md)
 - [K\-pop](/playlists/pretty/3Z8ry7GrSdLYU5FV5Hnk1F.md)
 - [KEXP New this week](/playlists/pretty/5svSQImgxM89zxWpYLZoI9.md)
