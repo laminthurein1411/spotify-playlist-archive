@@ -1,4 +1,4 @@
-## Playlists \(51\)
+## Playlists \(52\)
 
 - [100 best cover songs!](/playlists/pretty/2xaIjeUcUv3boYhlt7SD3f.md)
 - [1Live Lektor](/playlists/pretty/0QjXKD8p0AN2Tw7ELqNdII.md)
@@ -7,6 +7,7 @@
 - [Alt Pop](/playlists/pretty/4EvB593LId0HAe4qdzXX3Z.md)
 - [Australian bands make the best music](/playlists/pretty/3ow5Ld6uEFhMTDrMsPKZTk.md)
 - [Ballads And K\-drama Ost](/playlists/pretty/5DcgB6NMwxRusWGzAJlxNc.md)
+- [Best Male Love Songs and Power Ballads](/playlists/pretty/1FkWMWqVe36nz1AjaHHBoe.md)
 - [CBC mornings](/playlists/pretty/2uQP4oDQPGKMxoC6jxzpFf.md)
 - [Chill Mix](/playlists/pretty/4pONQS5uM39AQwNzPXvWLO.md)
 - [Choral and Chant](/playlists/pretty/7lApzmrxdI6q4lNbhvCFnI.md)
