@@ -1,4 +1,4 @@
-## Playlists \(48\)
+## Playlists \(49\)
 
 - [1Live Lektor](/playlists/pretty/0QjXKD8p0AN2Tw7ELqNdII.md)
 - [1Live weekly 100](/playlists/pretty/7cOzl5xYKSWH0kL5xleb8o.md)
@@ -30,6 +30,7 @@
 - [Oldie song](/playlists/pretty/1ffHU9Buy5UsCQRk2dwiQN.md)
 - [Party 🎉](/playlists/pretty/2dAkJsvIRuI7WpjblgMcTf.md)
 - [Release Radar](/playlists/pretty/2TAmPjg4XCNSyj4fyA17HW.md)
+- [SONGS THAT GET WHITE PEOPLE TURNT](/playlists/pretty/0Dsp6i8lvmcTg5aiusjnFH.md)
 - [Sad Hours](/playlists/pretty/1bXE7Pyusw2lDjPiTdqwk2.md)
 - [Score 🎼](/playlists/pretty/1vguWaVOu1nFPV3APmYWgT.md)
 - [Slow ⏩](/playlists/pretty/0tSyqg2TUZxNhLw1DVKPe8.md)
