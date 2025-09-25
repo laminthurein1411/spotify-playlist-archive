@@ -1,4 +1,4 @@
-## Playlists \(43\)
+## Playlists \(44\)
 
 - [1Live Lektor](/playlists/pretty/0QjXKD8p0AN2Tw7ELqNdII.md)
 - [1Live weekly 100](/playlists/pretty/7cOzl5xYKSWH0kL5xleb8o.md)
@@ -37,6 +37,7 @@
 - [Traditional Irish Session Music](/playlists/pretty/0CZe2n5EyVq8JbeMFod0zX.md)
 - [Triple J's new music hitlist](/playlists/pretty/3EFGsKtpaZI5JtEoBQjfVf.md)
 - [Various Song](/playlists/pretty/7w7SKepcJODLAAIe5X2Zsi.md)
+- [WILD 94.9 Radio Station](/playlists/pretty/1I0G9xjsHyypBjQDMrG04l.md)
 - [Western Songs](/playlists/pretty/3Tc3UlmKYcDbyewaWm7pFu.md)
 - [Winding down](/playlists/pretty/6A6POLvsrqIZNPGOTU0Joi.md)
 - [dAnCe 🕺](/playlists/pretty/3K9Kpz7u5Pa3XEr9FNc8q1.md)
