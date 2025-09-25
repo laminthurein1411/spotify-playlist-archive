@@ -1,5 +1,6 @@
-## Playlists \(50\)
+## Playlists \(51\)
 
+- [100 best cover songs!](/playlists/pretty/2xaIjeUcUv3boYhlt7SD3f.md)
 - [1Live Lektor](/playlists/pretty/0QjXKD8p0AN2Tw7ELqNdII.md)
 - [1Live weekly 100](/playlists/pretty/7cOzl5xYKSWH0kL5xleb8o.md)
 - [Add The Shift](/playlists/pretty/12I7xAJ32oRm728QR5ENCy.md)
