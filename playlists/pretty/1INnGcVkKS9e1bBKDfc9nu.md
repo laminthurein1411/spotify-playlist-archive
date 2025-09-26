@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1INnGcVkKS9e1bBKDfc9nu.md) - [plain]
 
 > Update Monday weekly \(from 7\-10\-24 to \~\)
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 240 songs - 12 hr 32 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 270 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -248,5 +248,35 @@ pretty - [cumulative](/playlists/cumulative/1INnGcVkKS9e1bBKDfc9nu.md) - [plain]
 | 238 | [Stop Crying Your Heart Out](https://open.spotify.com/track/5YciOakY5dB5dULkiLdCaf) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/4mMan8IGNJUhZ6du15ki5T) | 5:03 |
 | 239 | [Eyes on Fire](https://open.spotify.com/track/3XHrTm6WE2BOHafLwTT3GR) | [Blue Foundation](https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr) | [Life Of A Ghost](https://open.spotify.com/album/5Chvs2hsJcGowLm4PgigEl) | 5:02 |
 | 240 | [Really Don't Care](https://open.spotify.com/track/5vTPxzm4h2bY9rYyVrGEU5) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:21 |
+| 241 | [If You Know Me \- demo](https://open.spotify.com/track/1x0Q0nvWYbJCrmsPZNHIkb) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [If You Know Me \(demo\)](https://open.spotify.com/album/06M6z1DB5blsjhKh8oVBbE) | 2:07 |
+| 242 | [Wish I Didn't Love You](https://open.spotify.com/track/0Rt2l1jZY1l63z4XpRNzeH) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Wish I Didn't Love You](https://open.spotify.com/album/34vTtupIaQm34PykFukGsh) | 3:51 |
+| 243 | [pale horse](https://open.spotify.com/track/4ec6YIvFYITEzaEizacIVe) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Pale Moon Pale Horse](https://open.spotify.com/album/4cXqpTCEwHkOHU5mPdAomq) | 2:35 |
+| 244 | [hunting days](https://open.spotify.com/track/6zsCOSqaG0QiWoTqJkRpEG) | [Khatumu](https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu) | [hunting days](https://open.spotify.com/album/28EWTxtGcRWPPbSfacYr7H) | 3:32 |
+| 245 | [Honeycrash](https://open.spotify.com/track/2Knmi7fn4pkQttT1tgYOex) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:08 |
+| 246 | [bliss](https://open.spotify.com/track/4iGpam2lcCLDTtwCXgL45O) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/1JkKG9yyfzYJfzUNOCsZic) | 3:30 |
+| 247 | [Ye Old Man](https://open.spotify.com/track/5OrzRG3VWIDwCquXXuV8uY) | [Mia Joy](https://open.spotify.com/artist/5a3lFI5IJGQbpMTdjrehHl) | [Spirit Tamer](https://open.spotify.com/album/4sIVjY70KXkT3JKFJ6ySQI) | 2:03 |
+| 248 | [Swirl](https://open.spotify.com/track/4FEeXeFasspC0aaNObINNK) | [Charlie Martin](https://open.spotify.com/artist/4FAFa9p2vpYWRZdUpcAKH4) | [Imaginary People](https://open.spotify.com/album/0YtV6XAjLphsqF6UxxQHD1) | 2:36 |
+| 249 | [She's Actin' Single \(I'm Drinkin Double\) \[Gary Stewart\]](https://open.spotify.com/track/6zbKYse5U1UCwXIwupzYnK) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Mowing the Leaves Instead of Piling 'em Up](https://open.spotify.com/album/0MMXVgaB5WFWLEbaRpgUlA) | 4:06 |
+| 250 | [secrecy](https://open.spotify.com/track/3wazQUGhh6fBqFBkvZrth3) | [Ethan Regan](https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e) | [secrecy](https://open.spotify.com/album/2HnnyknJHVO4gJEn06YBvh) | 3:30 |
+| 251 | [Stone](https://open.spotify.com/track/7EdO50H2O5QuqAcEGCKeFY) | [Born Without Bones](https://open.spotify.com/artist/541FGx3Aj5vHIpwFiByjFg) | [Baby](https://open.spotify.com/album/5XuBvAY640EaQpjG6XvnWy) | 3:33 |
+| 252 | [L.I.N.E.](https://open.spotify.com/track/3C1hie5jb63FJ2QtCkfKlV) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [L.I.N.E.](https://open.spotify.com/album/0XfoJMWLQAimtEYdLbmm2v) | 3:11 |
+| 253 | [Kids 1995](https://open.spotify.com/track/6NbywDH5W9ZaSNWlnqAcAB) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Kids 1995](https://open.spotify.com/album/70LOOk3n3ZDNtAvJ6JJ6aP) | 4:36 |
+| 254 | [Forever Turned Around](https://open.spotify.com/track/4NsJKGs8x7wllzRkuqKAok) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Forever Turned Around](https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ) | 3:59 |
+| 255 | [Love, Try Not To Let Go](https://open.spotify.com/track/1QA866USiCp0xLtPACLVlf) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/5PtvMQZ7Wy4IsoXTszkH8B) | 3:43 |
+| 256 | [Emma](https://open.spotify.com/track/5P3SxXYgMTimABWzZgkiMJ) | [The Brazen Youth](https://open.spotify.com/artist/7tnIA4ww5dwoyENYz4GM5T) | [The Ever Dying Bristlecone Man](https://open.spotify.com/album/6qHmcy9NMkB2Zh65QEiCLp) | 3:49 |
+| 257 | [Sublet](https://open.spotify.com/track/7so9qcrkMJxKBMSHDPFlIz) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Fan On](https://open.spotify.com/album/5NyZLTuvYFH5pfMAwOhNq5) | 2:50 |
+| 258 | [The Knock](https://open.spotify.com/track/2oqDWu9cEgRcvk5FhIqEDU) | [Hop Along](https://open.spotify.com/artist/3yYUV3hkJit05YIUEODqgp) | [Painted Shut](https://open.spotify.com/album/7bR9KYRb6jfhlle5Y9U4BD) | 3:33 |
+| 259 | [I Wanted the Real Thing](https://open.spotify.com/track/6hXz5j1xmgF2J0xfNxGOEu) | [Glom](https://open.spotify.com/artist/0OY528sf5HGsPB2xi8BJ4H) | [I Wanted the Real Thing](https://open.spotify.com/album/7wME1u27gymBHpPlHRXshN) | 2:57 |
+| 260 | [Ones Who Love You](https://open.spotify.com/track/69WRV2IAqgEcsvJm7YBTJ7) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:47 |
+| 261 | [Liquor Run](https://open.spotify.com/track/0rgdJr4lZtjUGosnsICflY) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 4:01 |
+| 262 | [Funnel of Love](https://open.spotify.com/track/2FKTlreAXKNWQPRgwAQMwV) | [The Young Veins](https://open.spotify.com/artist/6vjgLoIHeoblpnAKNPeF8Q) | [Take a Vacation! \(Deluxe Edition / Remastered\)](https://open.spotify.com/album/0aVQtk9RS7xTuKcHym1ZsY) | 2:39 |
+| 263 | [The Beachland Ballroom](https://open.spotify.com/track/6hyyS563v6PWxuSvsaVfmg) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/6eGvGeCrgRlUmxnPjmhxUN) | 4:00 |
+| 264 | [Timelapse](https://open.spotify.com/track/4WT3YEFYNeuML7XTaDgNeN) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 2:41 |
+| 265 | [deep](https://open.spotify.com/track/2nkNel7w8OuC6kwrgkBjLH) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [deep](https://open.spotify.com/album/40fMWMM9fr5B5GV0zMR9JC) | 4:01 |
+| 266 | [Half Right](https://open.spotify.com/track/1qSwdmDJebYJFNv1DZ7k2j) | [Heatmiser](https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo) | [Mic City Sons](https://open.spotify.com/album/0D3hElyxCMZnBVI4pDMSAL) | 4:22 |
+| 267 | [Stop And Think It Over](https://open.spotify.com/track/2aRlCbFg3nN6ORmd47aUJx) | [Female Species](https://open.spotify.com/artist/0XlXiaKkULPvHTmTHB3JwK) | [Tale Of My Lost Love](https://open.spotify.com/album/3LLezS5GTlYnhZltxaIVnO) | 2:58 |
+| 268 | [Feel My Funk](https://open.spotify.com/track/2Hhedou9SP7mPPdgyC3aKf) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [Feel My Funk](https://open.spotify.com/album/0jTuBXmbi7qqkJweoQ3kWG) | 4:32 |
+| 269 | [Oh No Darling!](https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Oh No Darling!](https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns) | 3:23 |
+| 270 | [All Things Heavy](https://open.spotify.com/track/7hSIg14Ex5CENirghUApH0) | [Mynolia](https://open.spotify.com/artist/1M7odak1xeImHJBDcIMTAg) | [All Things Heavy](https://open.spotify.com/album/4ZhRhfna5Aq821FS03mfXF) | 3:24 |
 
-Snapshot ID: `AAAADAWG7UzNYbhBH3oCpnCy2xMlXllM`
+Snapshot ID: `AAAADb5aoKAiLm+3RXOegsIxqtFKJzVZ`
