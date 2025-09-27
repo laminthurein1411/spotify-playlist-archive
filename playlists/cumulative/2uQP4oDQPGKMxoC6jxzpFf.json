@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 244617,
       "name": "Aftertaste",
       "url": "https://open.spotify.com/track/5Rlobchwol4Vme9NKI41De"
@@ -1926,6 +1926,24 @@
       "duration_ms": 219333,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs"
+    },
+    {
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258133,
+      "name": "Always Be My Baby",
+      "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
     },
     {
       "album": {
@@ -3458,6 +3476,24 @@
       "duration_ms": 212333,
       "name": "Bandages",
       "url": "https://open.spotify.com/track/75pMEcHJjLRv0O8MHxQvdg"
+    },
+    {
+      "album": {
+        "name": "Electric Warrior [Expanded & Remastered]",
+        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Bang a Gong (Get It On) - 2003 Remaster",
+      "url": "https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm"
     },
     {
       "album": {
@@ -10562,6 +10598,24 @@
       "duration_ms": 204034,
       "name": "Do You See The Light Around Me?",
       "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
+    },
+    {
+      "album": {
+        "name": "Do You Think of Me?",
+        "url": "https://open.spotify.com/album/7hv8ZznS2pVFHs9v3bgZpd"
+      },
+      "artists": [
+        {
+          "name": "Sara Kae",
+          "url": "https://open.spotify.com/artist/7BLXUEOlXHgCMJllFcOtMK"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248547,
+      "name": "Do You Think of Me?",
+      "url": "https://open.spotify.com/track/2Exu44I3clc9E5rzzgX69D"
     },
     {
       "album": {
@@ -23217,6 +23271,28 @@
     },
     {
       "album": {
+        "name": "K.I.S.S. + Islands",
+        "url": "https://open.spotify.com/album/4kpzh76nrn9CqtxWEy1XvB"
+      },
+      "artists": [
+        {
+          "name": "Shad",
+          "url": "https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK"
+        },
+        {
+          "name": "Jon Kabongo",
+          "url": "https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185948,
+      "name": "K.I.S.S.",
+      "url": "https://open.spotify.com/track/2oVn7NEk6I7nc70iKqG1H9"
+    },
+    {
+      "album": {
         "name": "Keep Dancing",
         "url": "https://open.spotify.com/album/40hb1dPj6T4n8A2Oof1Kj3"
       },
@@ -25635,6 +25711,24 @@
     },
     {
       "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
+    },
+    {
+      "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng"
       },
@@ -25992,6 +26086,24 @@
       "duration_ms": 239093,
       "name": "LOVE IN THE DARK",
       "url": "https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P"
+    },
+    {
+      "album": {
+        "name": "Love language",
+        "url": "https://open.spotify.com/album/3iV0gdLkvnoN6Ba58iNWAN"
+      },
+      "artists": [
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "Love language",
+      "url": "https://open.spotify.com/track/7ps2R27n2YEP8SRsRaXkqA"
     },
     {
       "album": {
@@ -35110,6 +35222,24 @@
       "duration_ms": 214719,
       "name": "Rome Wasn't Built in a Day",
       "url": "https://open.spotify.com/track/6lsumzVFKP9SnfKcuGwqVp"
+    },
+    {
+      "album": {
+        "name": "Rites Of Passage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po"
+      },
+      "artists": [
+        {
+          "name": "Indigo Girls",
+          "url": "https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283933,
+      "name": "Romeo And Juliet",
+      "url": "https://open.spotify.com/track/6PXp5iJ1gDDp2FWxPbvf4D"
     },
     {
       "album": {
