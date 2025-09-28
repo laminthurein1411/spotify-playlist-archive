@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,705 songs - 7 day 1 hr 20 min
+2,708 songs - 7 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,6 +618,7 @@
 | [Downtown Christmas Eve](https://open.spotify.com/track/47rFim9XdQwbseI60niP25) | [Jenn Grant](https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L) | [Downtown Christmas Eve](https://open.spotify.com/album/0rn6jxkZobVPhpeyXhEYtJ) | 3:55 | 2024-12-23 |  |
 | [Dream Job](https://open.spotify.com/track/3u7PMsVBQ1viIm8tlhotl6) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Where’s My Utopia?](https://open.spotify.com/album/34UIFF2mDOl7JN0QdmMjPg) | 2:39 | 2025-01-05 |  |
 | [Dreaming \- Remastered](https://open.spotify.com/track/3W0xbvrZqaao3ZZEDhVQ0r) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4SxhwzlhAfa0FgYHrGfGz8) | 3:08 | 2025-01-07 |  |
+| [Dreaming Man](https://open.spotify.com/track/1Wnlx848FRm7HX9G4vDcMw) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Truckdriver Gladiator Mule](https://open.spotify.com/album/06soSZ6crBh33S0iw7147X) | 3:47 | 2025-09-27 |  |
 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 | 2025-03-21 |  |
 | [Dreams](https://open.spotify.com/track/2eK9zWVs4CwsrUtO8QksCb) | [The Hanging Stars](https://open.spotify.com/artist/4xFe9Cm82gRgtZb8jlJX5b), [Bonnie Dobson](https://open.spotify.com/artist/62dp4ukQTgdD8vhPD2gb67) | [Dreams](https://open.spotify.com/album/2ytMXjfFwgzodwfe47zOnL) | 5:10 | 2025-08-12 |  |
 | [Dress](https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Dress](https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys) | 3:26 | 2024-11-25 |  |
@@ -688,6 +689,7 @@
 | [Family Affair \- Single Version](https://open.spotify.com/track/2GVEs1sn5Q1jB1976vQoAX) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's A Riot Goin' On \(Expanded Edition\)](https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO) | 3:05 | 2025-06-28 |  |
 | [Fancy](https://open.spotify.com/track/3fpTMuD1u3gJlVI4FadVHs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:19 | 2025-09-12 |  |
 | [Fancy](https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Fancy](https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG) | 3:11 | 2024-12-30 |  |
+| [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 | 2025-09-27 |  |
 | [Fantasy \(feat\. O.D.B.\)](https://open.spotify.com/track/2itAOPLerxnnc8KXHMqPWu) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [The Remixes](https://open.spotify.com/album/7GTZRYNB0eAig7UTsb54XG) | 4:50 | 2025-04-12 |  |
 | [Far Apart](https://open.spotify.com/track/2ziJAJmySxWKMd5AqMrtrC) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Semblance](https://open.spotify.com/album/1CIUceDTCKIYWgSQuj383i) | 2:56 | 2024-12-14 |  |
 | [FAR AWAY](https://open.spotify.com/track/12H6iTEgiX4HPnCPphYSMk) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [FAR AWAY](https://open.spotify.com/album/6oSnvw7yQpDFFTZIZA4Rxx) | 2:41 | 2024-12-07 |  |
@@ -1408,6 +1410,7 @@
 | [LOVE IN THE DARK](https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:59 | 2025-07-29 |  |
 | [Love language](https://open.spotify.com/track/7ps2R27n2YEP8SRsRaXkqA) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Love language](https://open.spotify.com/album/3iV0gdLkvnoN6Ba58iNWAN) | 2:46 | 2025-09-26 |  |
 | [Love Like That \(feat\. Ali Sethi\)](https://open.spotify.com/track/6vBuBiZkJDabpSEZqZFYNS) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Love Like That \(feat\. Ali Sethi\)](https://open.spotify.com/album/370o1v7cPpNPuFnOGEgVCN) | 2:40 | 2024-11-21 |  |
+| [Love Me](https://open.spotify.com/track/5yW2bkhotkK8CDpD8HyPmW) | [CEC](https://open.spotify.com/artist/3r3uBjy2d93ntlU8BFgE4N) | [LOVE ME](https://open.spotify.com/album/7FD5lUx2ylcdrjb36IJfuM) | 2:23 | 2025-09-27 |  |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2024-11-21 |  |
 | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/album/66SYFOZM5lxnGsBot10yqI) | 3:08 | 2024-12-01 |  |
 | [Love Someone](https://open.spotify.com/track/5XaYA5RmbH56cfYDR9KyxZ) | [Sargeant X Comrade](https://open.spotify.com/artist/3fvetbwKOGvPQsY5ArCOEb) | [Love Someone \(Single Remix Pack\)](https://open.spotify.com/album/1FrPOfHwXoKzS5Rg9wbfDj) | 3:43 | 2025-02-06 |  |

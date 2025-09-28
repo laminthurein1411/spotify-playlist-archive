@@ -4,7 +4,7 @@
 
 > 
 
-132 songs - 7 hr 14 min
+133 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [L'amour à la main](https://open.spotify.com/track/7wOsUMQ85sFREtcnMYjsYu) | [Rouquine](https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ) | [Mammifère](https://open.spotify.com/album/1yLxHtZ5T4V4Ku0P46alhD) | 2:43 | 2024-03-27 |  |
 | [L'eau vive](https://open.spotify.com/track/0eziJsP0e5LCvy0Drk1u4N) | [Guy Béart](https://open.spotify.com/artist/4DfwtuOinoPWTCOLETBkq7) | [Les chansons de Guy Béart](https://open.spotify.com/album/4HJWBPdHKbkVRlPDJLID7B) | 3:00 | 2023-12-09 |  |
 | [L'essenziale](https://open.spotify.com/track/5klQSk2bLb0U3vnvGJUZf4) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [\#PRONTOACORRERE](https://open.spotify.com/album/1a22miqSMba4FbUk9w50v2) | 3:38 | 2023-05-27 |  |
+| [L'horloge tourne](https://open.spotify.com/track/1sphiFFp9zrlSLmpFhywRV) | [Mickael Miro](https://open.spotify.com/artist/0VtUo7KpkeFx3zwTmSwNQl) | [Juste Comme Ça](https://open.spotify.com/album/2fMnPZsQORaYp7SCPNAw03) | 3:25 | 2025-09-27 |  |
 | [L'été indien](https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 4:29 | 2023-12-09 |  |
 | [La ballade des gens heureux](https://open.spotify.com/track/2I69iebe4CftqShXyRoIZh) | [Gérard Lenorman](https://open.spotify.com/artist/5yyYswdvKadmf03amOvBDx) | [Les indispensables](https://open.spotify.com/album/5kDBB1VYkmUQdxVlAAuIUB) | 3:17 | 2023-12-09 |  |
 | [La bohème](https://open.spotify.com/track/2o0hVSbnkdvDDKKVNaUxnB) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [La Bohème \(Remastered 2014\)](https://open.spotify.com/album/3e3Nfe6qFPnmfxUtkBfYrj) | 4:05 | 2023-12-09 |  |
