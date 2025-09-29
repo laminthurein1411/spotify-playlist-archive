@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ow5Ld6uEFhMTDrMsPKZTk.md) - [plain]
 
 > Whores for instruments
 
-[Maya Parker](https://open.spotify.com/user/mcp8498) - 569 likes - 344 songs - 21 hr 30 min
+[Maya Parker](https://open.spotify.com/user/mcp8498) - 570 likes - 345 songs - 21 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -352,5 +352,6 @@ pretty - [cumulative](/playlists/cumulative/3ow5Ld6uEFhMTDrMsPKZTk.md) - [plain]
 | 342 | [Hideout](https://open.spotify.com/track/7z5R6cbZpB4njz080aA6u2) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Hideout](https://open.spotify.com/album/4ptXy3D8sAopLdffBms1nG) | 4:26 |
 | 343 | [Snake With a Bone](https://open.spotify.com/track/7yw87RtyWyIGfr1f2Pdoht) | [Day We Ran](https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS) | [Snake With a Bone](https://open.spotify.com/album/0qX9LG64eaDwqpehV15TEn) | 3:47 |
 | 344 | [Foaming](https://open.spotify.com/track/0HeEz3p1yVoAIOjAULJzrD) | [Day We Ran](https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS) | [Foaming](https://open.spotify.com/album/3Hwz49I44rdxZfJ07yZD4d) | 3:13 |
+| 345 | [Come on Mess Me Up](https://open.spotify.com/track/0U2G7dJYfwGlG6fNvhN6sr) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [This is Our Vice](https://open.spotify.com/album/3FyGYy0hYrQJgJKyNGWI4m) | 3:23 |
 
-Snapshot ID: `AAABmxMGN0+h6Mxd1n5j8ZiOaQM621DS`
+Snapshot ID: `AAABnAN7vmGxEVsjWpONZXQ2U82H2vdP`

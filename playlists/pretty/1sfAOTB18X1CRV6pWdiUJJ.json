@@ -6,7 +6,7 @@
     "name": "miniwheatsmcqueen",
     "url": "https://open.spotify.com/user/miniwheatsmcqueen"
   },
-  "snapshot_id": "AAAEYnFcPlTtbLktwvybm7EbohWB5gcn",
+  "snapshot_id": "AAAEZIiqORu8zoIk2Las6wa3U4gNSnM7",
   "tracks": [
     {
       "added_at": "2022-04-18 03:58:45",
@@ -11707,6 +11707,38 @@
       "duration_ms": 203479,
       "name": "Alive",
       "url": "https://open.spotify.com/track/7EPfsHfSlLd55T2g6j50aT"
+    },
+    {
+      "added_at": "2025-09-28 02:36:29",
+      "album": {
+        "name": "Chapter V",
+        "url": "https://open.spotify.com/album/15ZipIr7RjbpSCNMIaoQoF"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/6S7mmHgyWOG6pIYuL4YrfQ"
+    },
+    {
+      "added_at": "2025-09-28 02:37:17",
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Come Out and Play",
+      "url": "https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg"
     }
   ],
   "unique_name": "I\u2019m Not Sick but I\u2019m Not Well ",

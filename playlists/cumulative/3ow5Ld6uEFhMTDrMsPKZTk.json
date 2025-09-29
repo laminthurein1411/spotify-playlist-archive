@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "This is Our Vice",
+        "url": "https://open.spotify.com/album/3FyGYy0hYrQJgJKyNGWI4m"
+      },
+      "artists": [
+        {
+          "name": "Cub Sport",
+          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203640,
+      "name": "Come on Mess Me Up",
+      "url": "https://open.spotify.com/track/0U2G7dJYfwGlG6fNvhN6sr"
+    },
+    {
+      "album": {
         "name": "Parcels",
         "url": "https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy"
       },

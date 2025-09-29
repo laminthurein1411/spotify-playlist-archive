@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,708 songs - 7 day 1 hr 30 min
+2,711 songs - 7 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1075,6 +1075,7 @@
 | [I Drove All Night](https://open.spotify.com/track/3zN4OLeBAN7LwAr442bB8E) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [One Heart](https://open.spotify.com/album/1H4QtgObVxPXea86RvJgv9) | 4:00 | 2025-02-19 |  |
 | [I Feel Alive](https://open.spotify.com/track/4Y0ieV8qAUq96PVY3XpEgi) | [Art d'Ecco](https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J) | [I Feel Alive](https://open.spotify.com/album/28gGU7ltRiUsQuxPqY98ZX) | 3:25 | 2024-11-21 |  |
 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 | 2025-01-06 |  |
+| [I Feel It](https://open.spotify.com/track/2JwsKtYUxn6j5m6snFXi3M) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/3SaOC7YKiYYtVSTww9SuTx) | 4:56 | 2025-09-28 |  |
 | [I Feel It All](https://open.spotify.com/track/0lduqJYb8aylYcfGcJ9a5o) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/5aRmeQVSfJ0R1gjTbGq6mX) | 3:39 | 2025-01-13 |  |
 | [I Feel It Coming](https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:29 | 2025-02-09 |  |
 | [I Get Around](https://open.spotify.com/track/3mXexrmtPJ1KdWN37rYePx) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [50 Big Ones: Greatest Hits](https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F) | 2:13 | 2025-07-05 |  |
@@ -1812,6 +1813,7 @@
 | [qaumajuapik](https://open.spotify.com/track/2yyFJti9vmhHFwqgfC37zv) | [Riit](https://open.spotify.com/artist/51rJGI9Wto6CZqOqLStQxO) | [ataataga](https://open.spotify.com/album/4yIKNgqIzOy9Rl9leZYe1U) | 4:19 | 2025-01-19 |  |
 | [Qimatsilunga \(I Want to Break Free\)](https://open.spotify.com/track/40o0jLf3ztHb1Bo4Is9Bfp) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/2KbPO54sRdryZvAXbr2IE2) | 4:03 | 2025-05-27 |  |
 | [Quality Control](https://open.spotify.com/track/3C41w4YPDCfGuxzQNjvk8O) | [Jurassic 5](https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B) | [Quality Control](https://open.spotify.com/album/4ePjDIN5keSHlmc93FKN0r) | 4:48 | 2025-02-03 |  |
+| [Quand je pleure, je suis content](https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Quand je pleure, je suis content](https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc) | 3:37 | 2025-09-28 |  |
 | [Quando, Quando, Quando \(with Nelly Furtado\)](https://open.spotify.com/track/2m2neHY8NvToPYO1H0XCkq) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [It's Time](https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx) | 4:44 | 2025-03-30 |  |
 | [Queen](https://open.spotify.com/track/6hdgxL8bkBZ1wl5rZl6mdA) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Revival](https://open.spotify.com/album/2PpxaPsS6U1bhDNG2sMf2q) | 4:32 | 2025-05-31 |  |
 | [Quiet Now](https://open.spotify.com/track/5XLFPXCfcTcIQ5yHhoFxzo) | [The O'Pears](https://open.spotify.com/artist/0I6JNZ4skNbfm0fpycI7zT) | [Quiet Now](https://open.spotify.com/album/16zwtG4AXawVoSjecjWaIJ) | 3:57 | 2024-12-23 |  |
@@ -2147,6 +2149,7 @@
 | [Still Believe in Love](https://open.spotify.com/track/5GcRGfXAsjnzDqRB3Qz0un) | [jacksoul](https://open.spotify.com/artist/3xEW8BqMGXWkxTZbQhtnLE) | [Resurrected](https://open.spotify.com/album/5MQcm3NqGGIxHPpqwupuXy) | 3:36 | 2024-12-01 |  |
 | [still feel.](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 4:07 | 2024-11-26 |  |
 | [Still in Love with You](https://open.spotify.com/track/51UNNIXG0vZrwB40N6qWOo) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 4:24 | 2024-11-22 |  |
+| [Still Life](https://open.spotify.com/track/46jTPJILMriUMfOFQRP5dK) | [Carson McHone](https://open.spotify.com/artist/1IOeIjSSt8AcZXEriZXcvx) | [Still Life](https://open.spotify.com/album/1j0MwzfYzqkDbDkaKbprdD) | 5:11 | 2025-09-28 |  |
 | [Still Life](https://open.spotify.com/track/61nljM1dcvBILbz4lD22IK) | [Little Scream](https://open.spotify.com/artist/2U7njwghtRR6ofLobG32Lk) | [Speed Queen](https://open.spotify.com/album/7A2ct1j6ffcpUjym9ER77Y) | 4:05 | 2025-05-04 |  |
 | [still searching](https://open.spotify.com/track/6sbATvdn0aKkx9YapZH0fT) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [STILL](https://open.spotify.com/album/7Hl7a3OwJyItxjS0TpYWtN) | 0:58 | 2025-05-12 |  |
 | [Still Up Late](https://open.spotify.com/track/1mfdzLsCAUK4ue4kuY5IfA) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [Thank You for Trying: ACT I & II](https://open.spotify.com/album/41RfKM7fvvt57gQcZKe60q) | 2:51 | 2024-12-31 |  |

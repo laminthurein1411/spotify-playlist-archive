@@ -4,7 +4,7 @@
 
 > Whores for instruments
 
-344 songs - 21 hr 30 min
+345 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Clouds & Cream](https://open.spotify.com/track/4aqjIjcGyEVAMMGjyB34UK) | [Sticky Fingers](https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0) | [Caress Your Soul](https://open.spotify.com/album/2XiBbHgNjlt3JLz8j2S61k) | 2:54 | 2022-12-27 |  |
 | [Cold Feet](https://open.spotify.com/track/2jPAuGJZ66WJH7osP5QRik) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Cold Feet](https://open.spotify.com/album/5ht2emeagoxp9Kg1qlzfGl) | 4:04 | 2022-12-27 |  |
 | [come on home](https://open.spotify.com/track/0ApBNatEMVu0o7MTtcekdk) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf) | 2:56 | 2025-08-29 |  |
+| [Come on Mess Me Up](https://open.spotify.com/track/0U2G7dJYfwGlG6fNvhN6sr) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [This is Our Vice](https://open.spotify.com/album/3FyGYy0hYrQJgJKyNGWI4m) | 3:23 | 2025-09-28 |  |
 | [Comedown](https://open.spotify.com/track/4H78HR8fBjJRWRueFVKo79) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 3:08 | 2022-12-27 |  |
 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 | 2022-12-27 |  |
 | [Corduroy](https://open.spotify.com/track/0t5MrCPX2y4pIeCxw5yY6t) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 3:14 | 2024-02-14 |  |
