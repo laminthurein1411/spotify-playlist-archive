@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-09-25",
-  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-09-25 07:16:40.191020",
+  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-09-29 07:17:19.238773",
   "name": "big mix",
   "tracks": [
     {
@@ -3899,6 +3899,24 @@
     },
     {
       "album": {
+        "name": "The Very Best Of Sheryl Crow",
+        "url": "https://open.spotify.com/album/1w5Idra65UuHmtB5Dx0Nxt"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273306,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/41F8XHQ9kIGwEkDYJCCbN8"
+    },
+    {
+      "album": {
         "name": "Tuesday Night Music Club (Deluxe Edition)",
         "url": "https://open.spotify.com/album/11ZOyF9bKgnusVD1rUapwv"
       },
@@ -7432,6 +7450,24 @@
       "duration_ms": 193933,
       "name": "Back of Love",
       "url": "https://open.spotify.com/track/1Duyl7gGd4rqPuUZrlsdCO"
+    },
+    {
+      "album": {
+        "name": "The Best of Echo & The Bunnymen",
+        "url": "https://open.spotify.com/album/0KJWnz3i4TZXzWQMSnKzSv"
+      },
+      "artists": [
+        {
+          "name": "Echo & the Bunnymen",
+          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193933,
+      "name": "Back of Love",
+      "url": "https://open.spotify.com/track/416l0zNGEkGxb7w2ZVgjmh"
     },
     {
       "album": {
@@ -13031,6 +13067,24 @@
     },
     {
       "album": {
+        "name": "The Human Fear",
+        "url": "https://open.spotify.com/album/7LbR1L8thzNldHceu3tj1a"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183161,
+      "name": "Build It Up",
+      "url": "https://open.spotify.com/track/4GUpfFkVZ16WGcdQxtEVzU"
+    },
+    {
+      "album": {
         "name": "Build It Up / Hooked Live",
         "url": "https://open.spotify.com/album/2MBfpe4qX08Q6bv0xhAVnO"
       },
@@ -15356,6 +15410,24 @@
       "duration_ms": 285159,
       "name": "Charlie Brown",
       "url": "https://open.spotify.com/track/1yqMgZNrevsWMLWfO2PRp5"
+    },
+    {
+      "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Charmless Man",
+      "url": "https://open.spotify.com/track/1lYOlG9ZNtz5p3eSgnMn0Z"
     },
     {
       "album": {
@@ -22371,6 +22443,28 @@
     },
     {
       "album": {
+        "name": "If The Beatles Had Read Hunter...The Singles",
+        "url": "https://open.spotify.com/album/4MPlNLUbXe2AEEtc2fxECQ"
+      },
+      "artists": [
+        {
+          "name": "Vic Reeves",
+          "url": "https://open.spotify.com/artist/2NiLDA26xrtl8uIjQV5YVG"
+        },
+        {
+          "name": "The Wonder Stuff",
+          "url": "https://open.spotify.com/artist/0Uo1d5A6BR1I155GlD9WYo"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198133,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/3BjFRts9fRjcmkiBfjTR5H"
+    },
+    {
+      "album": {
         "name": "The Best of 1991",
         "url": "https://open.spotify.com/album/1OEbpQWzYNpHYR3MfwX0CE"
       },
@@ -25428,6 +25522,24 @@
       "duration_ms": 256426,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
+    },
+    {
+      "album": {
+        "name": "Angel Dust (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186960,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv"
     },
     {
       "album": {
@@ -29342,6 +29454,24 @@
       "duration_ms": 211466,
       "name": "Fields Of Fire",
       "url": "https://open.spotify.com/track/7f7bSSvBqxn6WAHTRZMWHB"
+    },
+    {
+      "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208653,
+      "name": "Fight For Your Right",
+      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
     },
     {
       "album": {
@@ -33955,6 +34085,24 @@
     },
     {
       "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320226,
+      "name": "God Gave Rock 'N' Roll To You II",
+      "url": "https://open.spotify.com/track/1jJenVEjsXClGR4n4vJkMu"
+    },
+    {
+      "album": {
         "name": "Bill & Ted's Bogus Journey",
         "url": "https://open.spotify.com/album/3kAC8m63iZnNkoDe9x2Mmr"
       },
@@ -36669,6 +36817,24 @@
     },
     {
       "album": {
+        "name": "We Are The '80s",
+        "url": "https://open.spotify.com/album/04EXguUeU6E5uCI52ZyqkS"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166920,
+      "name": "Hazy Shade of Winter",
+      "url": "https://open.spotify.com/track/6lHsW2WVG6aNmlc8L3aBRj"
+    },
+    {
+      "album": {
         "name": "The Essential Bangles",
         "url": "https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf"
       },
@@ -37904,6 +38070,24 @@
       "duration_ms": 201186,
       "name": "Here Comes Your Man",
       "url": "https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa"
+    },
+    {
+      "album": {
+        "name": "Whitesnake's Greatest Hits",
+        "url": "https://open.spotify.com/album/0Z5nu6FcdcWtmzvQ7uK0qJ"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232800,
+      "name": "Here I Go Again",
+      "url": "https://open.spotify.com/track/1tQ5TSr1tyeQUbHKBee0jv"
     },
     {
       "album": {
@@ -45440,6 +45624,24 @@
       "duration_ms": 207093,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
+    },
+    {
+      "album": {
+        "name": "The Head On The Door",
+        "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177986,
+      "name": "Inbetween Days",
+      "url": "https://open.spotify.com/track/4CRpOsjhvgxjF7rQufmyZ1"
     },
     {
       "album": {
@@ -58678,6 +58880,24 @@
       "duration_ms": 219026,
       "name": "Michael Caine",
       "url": "https://open.spotify.com/track/4G7XQ9e86jPDLp1TiRqyFY"
+    },
+    {
+      "album": {
+        "name": "Keep Moving",
+        "url": "https://open.spotify.com/album/301wQYZfEqkDwThfN61bza"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219026,
+      "name": "Michael Caine",
+      "url": "https://open.spotify.com/track/4M92bIGx6jpe6j4XthHioB"
     },
     {
       "album": {
@@ -81421,6 +81641,28 @@
     },
     {
       "album": {
+        "name": "Supernatural (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1n12Kl9IoHSk65OcZDutSH"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294986,
+      "name": "Smooth (feat. Rob Thomas)",
+      "url": "https://open.spotify.com/track/2pX4FpOgwItRVPPUFdRcxA"
+    },
+    {
+      "album": {
         "name": "Ceremony - Remixes & Rarities",
         "url": "https://open.spotify.com/album/4gZuhUyDg1VRwosegw9pU2"
       },
@@ -83703,6 +83945,24 @@
     },
     {
       "album": {
+        "name": "Ceremonials (Original Deluxe Version)",
+        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311533,
+      "name": "Spectrum (Say My Name)",
+      "url": "https://open.spotify.com/track/7efTNoBgYZ3IsB8wpP1f7R"
+    },
+    {
+      "album": {
         "name": "Ceremonials",
         "url": "https://open.spotify.com/album/3JODIzr9NLL7CMojdUR70g"
       },
@@ -85785,6 +86045,24 @@
     },
     {
       "album": {
+        "name": "Disraeli Gears",
+        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166600,
+      "name": "Strange Brew",
+      "url": "https://open.spotify.com/track/3ET8TZWF5sP4SPfJK1lKun"
+    },
+    {
+      "album": {
         "name": "Billie Holiday",
         "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
       },
@@ -86542,6 +86820,24 @@
       "duration_ms": 260250,
       "name": "Sugar We\u2019re Going Down (Lullaby Version of Fall Out Boy)",
       "url": "https://open.spotify.com/track/653GLJLEKm4JjRVJko9UYN"
+    },
+    {
+      "album": {
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229093,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
     },
     {
       "album": {
@@ -88637,6 +88933,24 @@
     },
     {
       "album": {
+        "name": "The Very Best Of Supertramp",
+        "url": "https://open.spotify.com/album/3kv1eLaL0W9Uci9mZGryzS"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306466,
+      "name": "Take The Long Way Home",
+      "url": "https://open.spotify.com/track/46TLlKsmMNRQc53ukyFCtM"
+    },
+    {
+      "album": {
         "name": "Breakfast In America (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
       },
@@ -88742,6 +89056,24 @@
       "duration_ms": 311291,
       "name": "Talk",
       "url": "https://open.spotify.com/track/4wzt5Rrk3W98pHXAqutuJw"
+    },
+    {
+      "album": {
+        "name": "Best 80s Songs",
+        "url": "https://open.spotify.com/album/5ey8aE1ZkCp3Wjp7nztHn3"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193786,
+      "name": "Talk of the Town",
+      "url": "https://open.spotify.com/track/6AvLm2fhv6v4XtCKWR3Zhb"
     },
     {
       "album": {
@@ -94331,6 +94663,24 @@
     },
     {
       "album": {
+        "name": "Automatic For The People",
+        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249360,
+      "name": "The Sidewinder Sleeps Tonite",
+      "url": "https://open.spotify.com/track/7tLTov4Ax1pyGcaV4qWrP5"
+    },
+    {
+      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
@@ -98069,6 +98419,24 @@
     },
     {
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/0rSW0KwlZhA4fk4x78DCR0"
+      },
+      "artists": [
+        {
+          "name": "Brentryanles",
+          "url": "https://open.spotify.com/artist/1upOdarBfRm6rwuqQuTP83"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/3nzLyloCapicBuZkPPnvrh"
+    },
+    {
+      "album": {
         "name": "(Rotten Apples) The Smashing Pumpkins Greatest Hits",
         "url": "https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn"
       },
@@ -100108,6 +100476,28 @@
       "duration_ms": 209813,
       "name": "Unbelievable",
       "url": "https://open.spotify.com/track/5VYTKiOnHw4iTrB9pG3yum"
+    },
+    {
+      "album": {
+        "name": "Unbroken",
+        "url": "https://open.spotify.com/album/2T1Z8CDtnb35ZTpFcGENAY"
+      },
+      "artists": [
+        {
+          "name": "Howling Bells",
+          "url": "https://open.spotify.com/artist/4ZB5ywwPWbVJDgCHTxtUZE"
+        },
+        {
+          "name": "Juanita Stein",
+          "url": "https://open.spotify.com/artist/75BOjZHMIGsRcVeahOXRlp"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195280,
+      "name": "Unbroken",
+      "url": "https://open.spotify.com/track/2hqKvWPu9tChMYA4C5ROzB"
     },
     {
       "album": {
@@ -108882,6 +109272,24 @@
       "duration_ms": 300034,
       "name": "You Get What You Give",
       "url": "https://open.spotify.com/track/70cBLtpbMpqO16a3hHjcnn"
+    },
+    {
+      "album": {
+        "name": "Maybe You've Been Brainwashed Too",
+        "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
+      },
+      "artists": [
+        {
+          "name": "New Radicals",
+          "url": "https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300773,
+      "name": "You Get What You Give",
+      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
     },
     {
       "album": {

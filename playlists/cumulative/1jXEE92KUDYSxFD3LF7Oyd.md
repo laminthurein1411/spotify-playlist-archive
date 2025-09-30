@@ -4,7 +4,7 @@
 
 > 
 
-133 songs - 7 hr 18 min
+135 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [ALL IN \(Lieblingslieder\)](https://open.spotify.com/track/3VIEbpdr64a1mNSa8MqBAm) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [ALL IN \(Lieblingslieder\)](https://open.spotify.com/album/3l4OJNnPVJGK8Dg9dvkRFZ) | 2:43 | 2025-06-21 |  |
 | [Alors on danse \- Radio Edit](https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Cheese](https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80) | 3:26 | 2022-05-07 |  |
 | [Amoureux de ma femme](https://open.spotify.com/track/3lzHuQKxPntttBRs71cqkX) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Amoureux de ma femme](https://open.spotify.com/album/5Mf7FOBJFbHJMDeKWQiJIi) | 2:38 | 2023-12-09 |  |
+| [Arbeiter von Wien](https://open.spotify.com/track/0Q4lgLJ2A8GnP4aYRl4vK5) | [Erich\-Weinert\-Ensemble](https://open.spotify.com/artist/6tuPwxuo1bWYs5N9z4vDXM) | [Hymnes et marches de la République Démocratique Allemande](https://open.spotify.com/album/54Aw3vJODQ5jrTAcoOZPjD) | 2:35 | 2025-09-29 |  |
 | [Armstrong](https://open.spotify.com/track/1V021MMTOGURDZxkDBMaG9) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Jazz Et Java](https://open.spotify.com/album/0Becl0XzJp8Z1zunK1vdrn) | 3:17 | 2023-12-09 |  |
 | [Avec le temps](https://open.spotify.com/track/4cncK4CmE3lW8DMCsj2494) | [Léo Ferré](https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo) | [Léo Ferré](https://open.spotify.com/album/6mQiZriU3LU6CKuQAryJvp) | 4:24 | 2023-12-09 |  |
 | [Because Of You](https://open.spotify.com/track/320jqrATpl9762bCQkmLDf) | [Gustaph](https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7) | [Because Of You](https://open.spotify.com/album/4Pbi89jb8k56Qh8hrwwbGu) | 3:01 | 2023-05-27 |  |
@@ -40,6 +41,7 @@
 | [Démons \- live orchestral](https://open.spotify.com/track/2lpLucqtli9P75FWAfQGmu) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Nonante\-Cinq](https://open.spotify.com/album/0pcRdTAIkItbFdyRA4CVZM) | 3:54 | 2023-04-24 |  |
 | [Emmenez\-moi](https://open.spotify.com/track/61Yh6AEwsba6RYsrWiNmI0) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Entre deux rêves \(Remastered 2014\)](https://open.spotify.com/album/40SP9TYF1IuC3JZ35glqwd) | 3:32 | 2023-12-09 |  |
 | [Ep\. 3 : Enfer Blanc](https://open.spotify.com/track/5O90ppRHYngbbGWOCfxhrt) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Histoire de Nuit](https://open.spotify.com/album/4NlvnU8hUNi40jexqfiCSw) | 4:08 | 2022-07-25 |  |
+| [Erika](https://open.spotify.com/track/5Mcc5HvNp9mZGMKfCz0Fsw) | [Grosses Blasorchester](https://open.spotify.com/artist/5P2XbGlMxF4OAZJDrnYWep) | [Marches allemandes \(Mono Version\)](https://open.spotify.com/album/7BzaAsIhP8s2Whi8SkIcay) | 2:16 | 2025-09-29 |  |
 | [Est\-ce que tu m'aimes ? \- Pilule bleue](https://open.spotify.com/track/3a9TMd2Yrza6HXqqlfMtfy) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:57 | 2025-05-24 |  |
 | [Et Bam](https://open.spotify.com/track/3qYfcGBdH6Nqe18QTGgfXz) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Et Bam](https://open.spotify.com/album/1oKPZz10joNRUeoG3qFKD8) | 3:39 | 2022-05-07 |  |
 | [Et maintenant \(Version 1966\) \- Remasterisé en 2011](https://open.spotify.com/track/5z3LJpwfI91bj3ogU8l0sk) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Edition 60e anniversaire](https://open.spotify.com/album/50RvSoNqk5x7zFROrImpIL) | 2:39 | 2023-12-09 |  |

@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,711 songs - 7 day 1 hr 44 min
+2,713 songs - 7 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2099,6 +2099,7 @@
 | [SOS \(Overboard\)](https://open.spotify.com/track/3fvZ8dEACqm3uIK0FYaI2I) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/7vFffWRCAH13VwwmlZTr8m) | 3:05 | 2024-11-30 |  |
 | [Soul Run](https://open.spotify.com/track/12el9ANVaEk7L33r7ITJFk) | [Tanika Charles](https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I) | [Soul Run](https://open.spotify.com/album/7dtFPPkpgAfHjJnnWLfMkF) | 3:28 | 2024-12-20 |  |
 | [Sound & Color](https://open.spotify.com/track/6huoxhxVtmHGMGmq90U6bE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/4S6WZWWOjzMQW7fnW5k9eh) | 3:02 | 2025-01-01 |  |
+| [Sour Times](https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:12 | 2025-09-29 |  |
 | [Sous l'herbe fine](https://open.spotify.com/track/3CoypBPZstXBCiGcRduYRV) | [Orlanda](https://open.spotify.com/artist/23nY5K8uRicVSFQDOovHTe) | [Sous l'herbe fine](https://open.spotify.com/album/4Z7l0t1KsPtJa9Eukg384a) | 2:52 | 2025-09-21 |  |
 | [Southern Man](https://open.spotify.com/track/4v0XOp3m5cLDmNGZrVmXbX) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 3:15 | 2025-03-03 |  |
 | [Southern Sun](https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Harlequin Dream](https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN) | 4:41 | 2024-11-29 |  |
@@ -2353,6 +2354,7 @@
 | [The Way We’re Born](https://open.spotify.com/track/72mOr7IJpz4PKkdGccoXRx) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Without You](https://open.spotify.com/album/0RoqW9lQOIlK1q69WtrAtS) | 3:58 | 2025-04-01 |  |
 | [The Way You Move](https://open.spotify.com/track/6XGGZIuplEKNv5A1NvZ4Db) | [Alex Germys](https://open.spotify.com/artist/0cI6OkaZLXsri5KKsbEUnD), [Carla Katz](https://open.spotify.com/artist/7r7nCaAoqyPRrqHw987pl5), [K1D](https://open.spotify.com/artist/6vkNDrbuaVIuKwAylGos5o) | [The Way You Move](https://open.spotify.com/album/1EZ71L5eTUE0uBFj5CiULL) | 3:40 | 2025-03-08 |  |
 | [The Ways I Punish Myself](https://open.spotify.com/track/4UiyIsi0G5UZohYDKkZpr5) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [The Actress](https://open.spotify.com/album/6TKYYuQXPzgVjY48ztsecz) | 3:51 | 2025-01-05 |  |
+| [The Weight](https://open.spotify.com/track/39lw4tu2jDKW5kf7HGyqmM) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Girl's in Love with You](https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5) | 2:59 | 2025-09-29 |  |
 | [The Weight \- Remastered 2000](https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 4:34 | 2025-08-16 |  |
 | [The Whole of the Moon](https://open.spotify.com/track/6MYtWkoEiUNZmMe5CgCczM) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [The Whole of the Moon: The Music of Mike Scott & The Waterboys](https://open.spotify.com/album/3lemeg4rr7EfotxVHEQfJg) | 4:59 | 2025-03-18 |  |
 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 | 2025-06-08 |  |
@@ -2616,7 +2618,7 @@
 | [White Christmas](https://open.spotify.com/track/7HNFU7KyIhM6U8eWz7tkyO) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [White Christmas](https://open.spotify.com/album/63cWWrn5EbzAiyeEoELIeF) | 2:03 | 2024-12-24 |  |
 | [White Christmas](https://open.spotify.com/track/5lzkeQuAOcvEGi2noKCrNe) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [It's a Holiday Soul Party](https://open.spotify.com/album/206CtiH7Yc0YfOtW2UtP7T) | 2:17 | 2024-12-21 |  |
 | [White Collar Boy](https://open.spotify.com/track/6sgs5mVCxzuwJYDPSo9waa) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Life Pursuit](https://open.spotify.com/album/3G6qfauXGRxcWaCFZvGaLU) | 3:20 | 2024-11-25 |  |
-| [White Flag](https://open.spotify.com/track/5bIAVYcUJ2PlezWJg0i8lv) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/7vFffWRCAH13VwwmlZTr8m) | 3:19 | 2025-02-16 | 2025-07-16 |
+| [White Flag](https://open.spotify.com/track/5bIAVYcUJ2PlezWJg0i8lv) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/7vFffWRCAH13VwwmlZTr8m) | 3:19 | 2025-02-16 |  |
 | [White Flag](https://open.spotify.com/track/7ktiE42EYVPNnezrXB5UZt) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [White Flag](https://open.spotify.com/album/01ggM10A4O5lP74y2PxxKR) | 3:19 | 2024-11-22 |  |
 | [WHITE PAPER PALM TREES](https://open.spotify.com/track/5AkkV33I0Gh04gMHBounLU) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [A6](https://open.spotify.com/album/1B770BdBdTMmC0u8kUybHa) | 3:40 | 2025-06-11 |  |
 | [Who Can It Be Now?](https://open.spotify.com/track/5BCykgPXc7zEBg2oU0klvy) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/146RggLMNzNZL1ZVr8hbCw) | 3:25 | 2025-04-18 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 
 ### [big mix](https://open.spotify.com/playlist/7ojHfeLSzqGrNwx6MUwIS7)
 
-> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-09\-25 07:16:40.191020
+> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-09\-29 07:17:19.238773
 
-[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,057 songs - 16 day 15 hr 19 min
+[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,079 songs - 16 day 16 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -6065,5 +6065,27 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 | 6055 | [Country House](https://open.spotify.com/track/4vnYwFOZCVl0bmerWyuzRw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 3:57 |
 | 6056 | [Don't Look Back In Anger](https://open.spotify.com/track/7ppPZa3TRUSGKaks9wH7VT) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 4:47 |
 | 6057 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/5zJJjbFWPqjIdTg8v2tcMb) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Greatest Hits](https://open.spotify.com/album/59vfDwwkrOGk9pytpJBclH) | 4:20 |
+| 6058 | [Spectrum \(Say My Name\)](https://open.spotify.com/track/7efTNoBgYZ3IsB8wpP1f7R) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 5:11 |
+| 6059 | [All I Wanna Do](https://open.spotify.com/track/41F8XHQ9kIGwEkDYJCCbN8) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [The Very Best Of Sheryl Crow](https://open.spotify.com/album/1w5Idra65UuHmtB5Dx0Nxt) | 4:33 |
+| 6060 | [God Gave Rock 'N' Roll To You II](https://open.spotify.com/track/1jJenVEjsXClGR4n4vJkMu) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 5:20 |
+| 6061 | [Smooth \(feat\. Rob Thomas\)](https://open.spotify.com/track/2pX4FpOgwItRVPPUFdRcxA) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Supernatural \(Legacy Edition\)](https://open.spotify.com/album/1n12Kl9IoHSk65OcZDutSH) | 4:54 |
+| 6062 | [Michael Caine](https://open.spotify.com/track/4M92bIGx6jpe6j4XthHioB) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Keep Moving](https://open.spotify.com/album/301wQYZfEqkDwThfN61bza) | 3:39 |
+| 6063 | [Sugar, We're Goin Down](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:49 |
+| 6064 | [Strange Brew](https://open.spotify.com/track/3ET8TZWF5sP4SPfJK1lKun) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 2:46 |
+| 6065 | [Fight For Your Right](https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 3:28 |
+| 6066 | [Easy](https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust \(Deluxe Edition\)](https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k) | 3:06 |
+| 6067 | [Inbetween Days](https://open.spotify.com/track/4CRpOsjhvgxjF7rQufmyZ1) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 2:57 |
+| 6068 | [The Sidewinder Sleeps Tonite](https://open.spotify.com/track/7tLTov4Ax1pyGcaV4qWrP5) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 4:09 |
+| 6069 | [Charmless Man](https://open.spotify.com/track/1lYOlG9ZNtz5p3eSgnMn0Z) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 3:33 |
+| 6070 | [Unbroken](https://open.spotify.com/track/2hqKvWPu9tChMYA4C5ROzB) | [Howling Bells](https://open.spotify.com/artist/4ZB5ywwPWbVJDgCHTxtUZE), [Juanita Stein](https://open.spotify.com/artist/75BOjZHMIGsRcVeahOXRlp) | [Unbroken](https://open.spotify.com/album/2T1Z8CDtnb35ZTpFcGENAY) | 3:15 |
+| 6071 | [Talk of the Town](https://open.spotify.com/track/6AvLm2fhv6v4XtCKWR3Zhb) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Best 80s Songs](https://open.spotify.com/album/5ey8aE1ZkCp3Wjp7nztHn3) | 3:13 |
+| 6072 | [Take The Long Way Home](https://open.spotify.com/track/46TLlKsmMNRQc53ukyFCtM) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [The Very Best Of Supertramp](https://open.spotify.com/album/3kv1eLaL0W9Uci9mZGryzS) | 5:06 |
+| 6073 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 |
+| 6074 | [Here I Go Again](https://open.spotify.com/track/1tQ5TSr1tyeQUbHKBee0jv) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake's Greatest Hits](https://open.spotify.com/album/0Z5nu6FcdcWtmzvQ7uK0qJ) | 3:52 |
+| 6075 | [Back of Love](https://open.spotify.com/track/416l0zNGEkGxb7w2ZVgjmh) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [The Best of Echo & The Bunnymen](https://open.spotify.com/album/0KJWnz3i4TZXzWQMSnKzSv) | 3:13 |
+| 6076 | [Tonight](https://open.spotify.com/track/3nzLyloCapicBuZkPPnvrh) | [Brentryanles](https://open.spotify.com/artist/1upOdarBfRm6rwuqQuTP83) | [Tonight](https://open.spotify.com/album/0rSW0KwlZhA4fk4x78DCR0) | 1:30 |
+| 6077 | [Dizzy](https://open.spotify.com/track/3BjFRts9fRjcmkiBfjTR5H) | [Vic Reeves](https://open.spotify.com/artist/2NiLDA26xrtl8uIjQV5YVG), [The Wonder Stuff](https://open.spotify.com/artist/0Uo1d5A6BR1I155GlD9WYo) | [If The Beatles Had Read Hunter...The Singles](https://open.spotify.com/album/4MPlNLUbXe2AEEtc2fxECQ) | 3:18 |
+| 6078 | [Hazy Shade of Winter](https://open.spotify.com/track/6lHsW2WVG6aNmlc8L3aBRj) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [We Are The '80s](https://open.spotify.com/album/04EXguUeU6E5uCI52ZyqkS) | 2:46 |
+| 6079 | [Build It Up](https://open.spotify.com/track/4GUpfFkVZ16WGcdQxtEVzU) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [The Human Fear](https://open.spotify.com/album/7LbR1L8thzNldHceu3tj1a) | 3:03 |
 
-Snapshot ID: `AAACe6GQyJ2106buMeswhHPh+AKNkvRS`
+Snapshot ID: `AAACfTaghhQdCPU12xHX6zPzfKwlqeUh`

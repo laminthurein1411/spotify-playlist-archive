@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Hymnes et marches de la R\u00e9publique D\u00e9mocratique Allemande",
+        "url": "https://open.spotify.com/album/54Aw3vJODQ5jrTAcoOZPjD"
+      },
+      "artists": [
+        {
+          "name": "Erich-Weinert-Ensemble",
+          "url": "https://open.spotify.com/artist/6tuPwxuo1bWYs5N9z4vDXM"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "Arbeiter von Wien",
+      "url": "https://open.spotify.com/track/0Q4lgLJ2A8GnP4aYRl4vK5"
+    },
+    {
+      "album": {
         "name": "Jazz Et Java",
         "url": "https://open.spotify.com/album/0Becl0XzJp8Z1zunK1vdrn"
       },
@@ -590,6 +608,24 @@
       "duration_ms": 248000,
       "name": "Ep. 3 : Enfer Blanc",
       "url": "https://open.spotify.com/track/5O90ppRHYngbbGWOCfxhrt"
+    },
+    {
+      "album": {
+        "name": "Marches allemandes (Mono Version)",
+        "url": "https://open.spotify.com/album/7BzaAsIhP8s2Whi8SkIcay"
+      },
+      "artists": [
+        {
+          "name": "Grosses Blasorchester",
+          "url": "https://open.spotify.com/artist/5P2XbGlMxF4OAZJDrnYWep"
+        }
+      ],
+      "date_added": "2025-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136705,
+      "name": "Erika",
+      "url": "https://open.spotify.com/track/5Mcc5HvNp9mZGMKfCz0Fsw"
     },
     {
       "album": {
