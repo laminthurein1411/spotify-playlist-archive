@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Dsp6i8lvmcTg5aiusjnFH.md) - [plain]
 
 > 
 
-[Samuel Ilias](https://open.spotify.com/user/12120151714) - 134,766 likes - 3,064 songs - 7 day 23 hr 21 min
+[Samuel Ilias](https://open.spotify.com/user/12120151714) - 134,798 likes - 3,064 songs - 7 day 23 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

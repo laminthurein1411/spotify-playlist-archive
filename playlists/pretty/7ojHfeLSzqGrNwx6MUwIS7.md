@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 
 ### [big mix](https://open.spotify.com/playlist/7ojHfeLSzqGrNwx6MUwIS7)
 
-> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-09\-29 07:17:19.238773
+> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-02 07:16:34.332084
 
-[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,079 songs - 16 day 16 hr 41 min
+[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,088 songs - 16 day 17 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2978,7 +2978,7 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 | 2968 | [In My Place](https://open.spotify.com/track/0JdlhwsgNieqCgCEZL11Bu) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Cioccolata Calda](https://open.spotify.com/album/5zQWSkOORHAYbZjowA3XcZ) | 3:46 |
 | 2969 | [Sweet Disposition](https://open.spotify.com/track/1jUkHIMc7UaJQuzWe5Iop2) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/6p9eMHBHyvHDGK1WIerBfh) | 3:54 |
 | 2970 | [It's Still Rock and Roll to Me](https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Glass Houses](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) | 2:56 |
-| 2971 | [The Dark Of The Matinée](https://open.spotify.com/track/6gaWfLDoeG1eoiDAVBN4i8) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 4:06 |
+| 2971 | [The Dark Of The Matinée](https://open.spotify.com/track/6gaWfLDoeG1eoiDAVBN4i8) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 4:03 |
 | 2972 | [Reflection](https://open.spotify.com/track/6mdshRMGkXv0w5aR3iYI9p) | [Dolly Mavies](https://open.spotify.com/artist/5I3vYv06oU1q3Erg0A50xs) | [Reflection](https://open.spotify.com/album/21D0eQ5aClI4Vu6IzHyyXK) | 3:56 |
 | 2973 | [Good Souls](https://open.spotify.com/track/3YV7PVgrlm2FUQRi4egqny) | [Starsailor](https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3) | [Good Souls: The Greatest Hits](https://open.spotify.com/album/6zEdrtxRjVGNkNsY8JyW7o) | 4:53 |
 | 2974 | [Tiny Indoor Fireworks](https://open.spotify.com/track/1ZUsnvMUqF0uJkhhjZlvcY) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 3:15 |
@@ -6087,5 +6087,14 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 | 6077 | [Dizzy](https://open.spotify.com/track/3BjFRts9fRjcmkiBfjTR5H) | [Vic Reeves](https://open.spotify.com/artist/2NiLDA26xrtl8uIjQV5YVG), [The Wonder Stuff](https://open.spotify.com/artist/0Uo1d5A6BR1I155GlD9WYo) | [If The Beatles Had Read Hunter...The Singles](https://open.spotify.com/album/4MPlNLUbXe2AEEtc2fxECQ) | 3:18 |
 | 6078 | [Hazy Shade of Winter](https://open.spotify.com/track/6lHsW2WVG6aNmlc8L3aBRj) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [We Are The '80s](https://open.spotify.com/album/04EXguUeU6E5uCI52ZyqkS) | 2:46 |
 | 6079 | [Build It Up](https://open.spotify.com/track/4GUpfFkVZ16WGcdQxtEVzU) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [The Human Fear](https://open.spotify.com/album/7LbR1L8thzNldHceu3tj1a) | 3:03 |
+| 6080 | [Blaze Of Glory](https://open.spotify.com/track/0XwjdpwvEwukcg3XU4Ibzt) | [Jon Bon Jovi](https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:40 |
+| 6081 | [6 Underground](https://open.spotify.com/track/5SJ7mZ4HZWbhFcHpBvHU55) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Becoming X](https://open.spotify.com/album/4CqepH0gmnNKTgENheRgT7) | 3:48 |
+| 6082 | [In the End](https://open.spotify.com/track/7q115ia4fQn9zonjpexWsY) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory](https://open.spotify.com/album/6PFPjumGRpZnBzqnDci6qJ) | 3:36 |
+| 6083 | [Go Your Own Way](https://open.spotify.com/track/15rjQH7nTcTomKwfVMd4xl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:38 |
+| 6084 | [Personal Jesus](https://open.spotify.com/track/2wUlYDGGXlSvm2NkGj0Qio) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(Deluxe\)](https://open.spotify.com/album/0Tg76MY2wNK4j37iCb6qyH) | 4:55 |
+| 6085 | [Live Forever](https://open.spotify.com/track/5IfBLN9VPPJOwcKmAZhdXe) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe](https://open.spotify.com/album/3LzKUdUTdJb6P7xGN6SotC) | 4:36 |
+| 6086 | [People Need People](https://open.spotify.com/track/6VVSeMov6UkLXMtNgMtGF7) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [People Need People](https://open.spotify.com/album/3zAyNQMIfYDCTpm5PYapi8) | 2:45 |
+| 6087 | [The Sidewinder Sleeps Tonite](https://open.spotify.com/track/66VXMAderRs5NPvQrVAbpZ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Part Lies, Part Heart, Part Truth, Part Garbage: 1982\-2011](https://open.spotify.com/album/0lkKxxnV5EV8XaKUjjODqd) | 4:07 |
+| 6088 | [Ripple](https://open.spotify.com/track/1JbdCpFqLzKYR9WwbxVT1Z) | [Dan Kraus](https://open.spotify.com/artist/0sHUyRWX6EfKQx2TBGot1z) | [Sleep Music](https://open.spotify.com/album/61FZjbE3tj22uPxrR6lBCh) | 1:20 |
 
-Snapshot ID: `AAACfTaghhQdCPU12xHX6zPzfKwlqeUh`
+Snapshot ID: `AAACf/MW8QfHM+d3PgnSq3inZPlytjKF`

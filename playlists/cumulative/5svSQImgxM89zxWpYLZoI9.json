@@ -51484,6 +51484,24 @@
     {
       "album": {
         "name": "You and Me",
+        "url": "https://open.spotify.com/album/0IYaEZ0sprFNXwbmTX1hgz"
+      },
+      "artists": [
+        {
+          "name": "SALVIA",
+          "url": "https://open.spotify.com/artist/7fMFvARkKRdRyAng6OhkD8"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167412,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/2NzgoMKRFZmTVnupKg6CO9"
+    },
+    {
+      "album": {
+        "name": "You and Me (feat. Erin Rae)",
         "url": "https://open.spotify.com/album/22xf6RYXjuvEeT75jPxitI"
       },
       "artists": [
@@ -51500,26 +51518,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 232800,
-      "name": "You and Me",
+      "name": "You and Me (feat. Erin Rae)",
       "url": "https://open.spotify.com/track/2ErzD6Oj4hQ36feIL6aIIn"
-    },
-    {
-      "album": {
-        "name": "You and Me",
-        "url": "https://open.spotify.com/album/0IYaEZ0sprFNXwbmTX1hgz"
-      },
-      "artists": [
-        {
-          "name": "SALVIA",
-          "url": "https://open.spotify.com/artist/7fMFvARkKRdRyAng6OhkD8"
-        }
-      ],
-      "date_added": "2025-05-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 167412,
-      "name": "You and Me",
-      "url": "https://open.spotify.com/track/2NzgoMKRFZmTVnupKg6CO9"
     },
     {
       "album": {

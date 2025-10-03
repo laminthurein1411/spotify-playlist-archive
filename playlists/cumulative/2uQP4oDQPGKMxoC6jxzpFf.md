@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,738 songs - 7 day 3 hr 28 min
+2,740 songs - 7 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2477,6 +2477,7 @@
 | [Try](https://open.spotify.com/track/6sYTEXhTijY6ulSTY9mMIZ) | [POSTDATA](https://open.spotify.com/artist/05mMvlRkzuup4xMEKV8619) | [Run Wild](https://open.spotify.com/album/2sF2kfMWRDJCYl1SAXBLPy) | 4:16 | 2025-05-08 |  |
 | [Try \- 2012 Remaster](https://open.spotify.com/track/13lYKkKAYEVCkGAyrFGZjF) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Outskirts](https://open.spotify.com/album/0o6RdxMt0NZvMISpQJduVY) | 4:05 | 2025-08-10 |  |
 | [Try a Little Tenderness](https://open.spotify.com/track/2mxpmQLdFou7zbLQjTC069) | [Peter Dreams](https://open.spotify.com/artist/55zmcbCA9XmEOPDGfvkxmv) | [Try a Little Tenderness](https://open.spotify.com/album/66WiYjRv8K9P91qIKVgtv8) | 3:36 | 2025-05-23 |  |
+| [Tu Boca Lo Quita](https://open.spotify.com/track/2ZPJeJ5s6Uf0NHN8wOXf73) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Agua Del Pozo](https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd) | 2:58 | 2025-10-02 |  |
 | [Tu ne seras jamais là](https://open.spotify.com/track/2NFa1vElKE3810Snp4HyUb) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Impossible à aimer](https://open.spotify.com/album/1k6lh8sWWBUuJQDqqW10XX) | 3:07 | 2025-01-06 |  |
 | [Tulsa Time](https://open.spotify.com/track/4JUtgvNgUYzcIsMnBl0kxS) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6), [Jim Cuddy](https://open.spotify.com/artist/1RprcCfY08k2trEW0m3aHg) | [Tulsa Time](https://open.spotify.com/album/4RX8Yc7XD764cRaOC5q1CD) | 3:21 | 2025-01-31 |  |
 | [Turn Off The Light](https://open.spotify.com/track/4gM2BugovNf4bvXdjZODzG) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly! \(Expanded Edition\)](https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0) | 4:36 | 2024-12-14 |  |
@@ -2702,6 +2703,7 @@
 | [You Are a Tourist](https://open.spotify.com/track/554xaetnSgd1JacizAVaGS) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Codes and Keys \(Deluxe Edition\)](https://open.spotify.com/album/3IEZRCQABrX0v5RitIE0iy) | 4:46 | 2025-08-08 |  |
 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 | 2025-02-26 |  |
 | [You Can't Buy My Love](https://open.spotify.com/track/0DhDXoKBKxuNB5EasxEgdJ) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [Band of Joy](https://open.spotify.com/album/4WvJkXzk2nJGE9wRyJEzbY) | 3:09 | 2025-01-09 |  |
+| [You Can't Hurry Love](https://open.spotify.com/track/6kAS4yj3wHJXcLp93vr5aG) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Diamond Diana: The Legacy Collection](https://open.spotify.com/album/2iPkYpFitI1RXmnnza1PeN) | 2:47 | 2025-10-02 |  |
 | [You Can't Judge a Book by the Cover](https://open.spotify.com/track/6LKg1PY7ULKSJoYahTrHxV) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [You Can't Judge a Book by the Cover](https://open.spotify.com/album/13PX1T1eg8LzLPhIedYSuw) | 4:03 | 2025-06-25 |  |
 | [You Cheated Me](https://open.spotify.com/track/2vXoEP6dp4sCNytuV9pVqg) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [I Know You're Married But I've Got Feelings Too](https://open.spotify.com/album/2afaTnlgoctwRoUvV1v9Gw) | 3:14 | 2025-01-03 |  |
 | [You Don't Know The Shape I'm In](https://open.spotify.com/track/1ZBQPkEYHOv3LfgU6v0h0S) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:36 | 2025-05-26 |  |

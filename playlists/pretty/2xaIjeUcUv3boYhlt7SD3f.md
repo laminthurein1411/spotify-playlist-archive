@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2xaIjeUcUv3boYhlt7SD3f.md) - [plain]
 
 > Great versions of great songs that actually don&\#x27;t suck! My preference list.
 
-[jrmarquetto](https://open.spotify.com/user/12151295368) - 5 likes - 100 songs - 6 hr 21 min
+[jrmarquetto](https://open.spotify.com/user/12151295368) - 5 likes - 101 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,6 @@ pretty - [cumulative](/playlists/cumulative/2xaIjeUcUv3boYhlt7SD3f.md) - [plain]
 | 98 | [99 Red Balloons](https://open.spotify.com/track/4iHITBaV9sOIukW5ABdHhI) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Music From The Motion Picture Not Another Teen Movie](https://open.spotify.com/album/3e89oGaupFgYKUIuE92Eb4) | 4:02 |
 | 99 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
 | 100 | [A Case Of You](https://open.spotify.com/track/6tNrUI6H15kqWBff0HcEZr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Enough Thunder](https://open.spotify.com/album/4Ss3RK7115gnEY66i7C5dG) | 2:57 |
+| 101 | [I Melt With You](https://open.spotify.com/track/0vgXcqTEdH9dVcX1tK6qzV) | [Marvelous 3](https://open.spotify.com/artist/3KI6zIpi3DotbOSOM0tK7o) | [I Melt With You](https://open.spotify.com/album/6TrDFeHC5NMvScOWP6fIZC) | 4:35 |
 
-Snapshot ID: `AAABBqBcmhaIE12W7z1eK2hYxlLY9cDN`
+Snapshot ID: `AAABB26+H2kaJa5ejXRu9bj0r7ohQKyV`

@@ -4,7 +4,7 @@
 
 > Great versions of great songs that actually don&\#x27;t suck! My preference list.
 
-100 songs - 6 hr 21 min
+101 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [I Believe \(When I Fall In Love It Will Be Forever\) \- Recorded at Electric Lady Studios](https://open.spotify.com/track/67GCmLBIyOlIhXwyRqX5S2) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Live at Electric Lady](https://open.spotify.com/album/3cjPWHrJJWSNhNWxRVh0e0) | 4:26 | 2023-10-21 |  |
 | [I Don't Love You](https://open.spotify.com/track/4KQpV8C2BOdn34RBLkLrZd) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [I Don't Love You](https://open.spotify.com/album/6Lbciz7MaA85LLQTAS6CnA) | 3:46 | 2025-02-07 |  |
 | [I Fought The Law](https://open.spotify.com/track/6bnOTgef0LzKqNOPe1RWLU) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Essential Clash](https://open.spotify.com/album/6xwLLr4kk8C5tqxzjfukuH) | 2:41 | 2025-09-01 |  |
+| [I Melt With You](https://open.spotify.com/track/0vgXcqTEdH9dVcX1tK6qzV) | [Marvelous 3](https://open.spotify.com/artist/3KI6zIpi3DotbOSOM0tK7o) | [I Melt With You](https://open.spotify.com/album/6TrDFeHC5NMvScOWP6fIZC) | 4:35 | 2025-10-02 |  |
 | [I Ran \(So Far Away\)](https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi) | 2:34 | 2025-02-27 |  |
 | [I Started a Joke \- Digging the Grave B\-Side; 2016 Remaster](https://open.spotify.com/track/55SPBSeDjW6ZHtbPVr6gFe) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [King for a Day, Fool for a Lifetime \(2016 Remaster; Deluxe Edition\)](https://open.spotify.com/album/6KHnSZsn0E2OzcVChd8UUW) | 3:01 | 2025-09-01 |  |
 | [I Wanna Be Sedated](https://open.spotify.com/track/7pGjU3d3YmjwTrY1WcaqIM) | [Full Blown Cherry](https://open.spotify.com/artist/0d99dGGZBtgCybwCUJnDIz) | [The Rockabilly Tribute To the Ramones](https://open.spotify.com/album/07XylSoHUsHP9suCPB8fDr) | 2:09 | 2016-12-07 |  |
