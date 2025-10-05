@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0onzH0XbWV3Y7Q02cw52M2.md) - [plain]
 
 > tracks with popularity higher than artist
 
-[juststan](https://open.spotify.com/user/juststan) - 1 like - 4,994 songs - 12 day 3 hr 48 min
+[juststan](https://open.spotify.com/user/juststan) - 1 like - 4,994 songs - 12 day 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4342,7 +4342,7 @@ pretty - [cumulative](/playlists/cumulative/0onzH0XbWV3Y7Q02cw52M2.md) - [plain]
 | 4332 | [Therapy](https://open.spotify.com/track/5q7AR3TkyCxlgxAjBMu4yL) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Level Days](https://open.spotify.com/album/40Yky457gNkU3chdZUIoTY) | 3:06 |
 | 4333 | [Nobody](https://open.spotify.com/track/7GJBllOE6kNauMeRckBjv2) | [Renao](https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2) | [Nobody](https://open.spotify.com/album/4a6PEDtmCcQaPmfDhAy2oZ) | 2:31 |
 | 4334 | [Captions](https://open.spotify.com/track/1nw6XOhy16IYumtw0BCtZu) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Captions](https://open.spotify.com/album/6QQnfh4IBusF74vJh7YSsM) | 1:05 |
-| 4335 | [Спички](https://open.spotify.com/track/0tCi43fmAaKwiYi1eR0Mhk) | [АнимациЯ](https://open.spotify.com/artist/5GIvDfiBo3998zS4DsXqqP) | [Продано не всЁ](https://open.spotify.com/album/19vebarbp0Ke0n33z241O9) | 2:43 |
+| 4335 | [Если война](https://open.spotify.com/track/0tCi43fmAaKwiYi1eR0Mhk) | [Костя Кулясов](https://open.spotify.com/artist/7I4ES9Lvx2LtlYgfus8sLg), [АнимациЯ](https://open.spotify.com/artist/5GIvDfiBo3998zS4DsXqqP) | [Продано не всЁ](https://open.spotify.com/album/19vebarbp0Ke0n33z241O9) | 4:11 |
 | 4336 | [Girl Crush](https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pain Killer](https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H) | 3:13 |
 | 4337 | [Black Suited Spidey](https://open.spotify.com/track/0AAFeOSf9SIwhds554p17N) | [Nstens1117](https://open.spotify.com/artist/2Wv228Bfx58iCi9IZDIa3f) | [Black Suited Spidey](https://open.spotify.com/album/08j9JGJhfbJzYKl1XNtPDx) | 1:20 |
 | 4338 | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa) | 6:33 |

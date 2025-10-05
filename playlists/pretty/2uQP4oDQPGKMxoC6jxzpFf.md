@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2uQP4oDQPGKMxoC6jxzpFf.md) - [plain]
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 5,446 songs - 13 day 17 hr 0 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 5,487 songs - 13 day 19 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5454,5 +5454,46 @@ pretty - [cumulative](/playlists/cumulative/2uQP4oDQPGKMxoC6jxzpFf.md) - [plain]
 | 5444 | [Tennessee Heat](https://open.spotify.com/track/5ykYQxyoAF7NJJKW3FkZe5) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Tennessee Heat](https://open.spotify.com/album/3RfRUGbs2HQRYY37pgP9Zm) | 3:09 |
 | 5445 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 |
 | 5446 | [Another Life](https://open.spotify.com/track/3BpmezdTQq6L0pBpt3pq8c) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Another Life](https://open.spotify.com/album/3jUvrYB4Bh3Hw9liq8dbCi) | 4:37 |
+| 5447 | [Courage \(For Hugh MacLennan\)](https://open.spotify.com/track/1ffzAzDFSOvEbWTbC7aPLw) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Fully Completely](https://open.spotify.com/album/60peDyBYVk0DWanN2GPxhO) | 4:27 |
+| 5448 | [Bomb](https://open.spotify.com/track/2TqLvFOrS1XMT4RsfmJpdR) | [Kelly McMichael](https://open.spotify.com/artist/5ogab2Tu9UMZTumiZbl315) | [Bomb](https://open.spotify.com/album/0S9NGmGx3FihKbt3hiZfTt) | 3:07 |
+| 5449 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
+| 5450 | [Run Right Into It](https://open.spotify.com/track/55wXV7znDMz0w58jtOSWFa) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7), [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Run Right Into It](https://open.spotify.com/album/6Tj1wkaeUCw5ZZlngTthyG) | 4:27 |
+| 5451 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 |
+| 5452 | [Practice](https://open.spotify.com/track/34GzR0SBIwmqjgaGPdBWVv) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [Practice](https://open.spotify.com/album/4wWEslwP97WLcGQqbSk4Wh) | 3:17 |
+| 5453 | [Mercy Mercy](https://open.spotify.com/track/1xXeuTUxxquUoRIMTgBeJi) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Glory](https://open.spotify.com/album/2uc6CdABEnLfz9T6BtAgbQ) | 2:58 |
+| 5454 | [Is This Love](https://open.spotify.com/track/5FvapYqWK6TEuh4csYwQ9O) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [The Love E.P.](https://open.spotify.com/album/4EeUxjtOwbspRduBfwJYHs) | 3:28 |
+| 5455 | [Over You](https://open.spotify.com/track/7765zYNMwglsw1rYVR9Wo1) | [Jane's Party](https://open.spotify.com/artist/16SY7vICMlc8XGaTPocEa3) | [Over You](https://open.spotify.com/album/0TYMGET4UKH90oauaN3jmY) | 3:55 |
+| 5456 | [Wonderwall](https://open.spotify.com/track/1qPbGZqppFwLwcBC1JQ6Vr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 4:18 |
+| 5457 | [Didn't \(feat\. Cavetown\)](https://open.spotify.com/track/2Oy5czpSv3bQ6AfD2gl8VI) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Didn't \(feat\. Cavetown\)](https://open.spotify.com/album/00r2WdTybcemQTrVEwFeon) | 2:33 |
+| 5458 | [Martini.](https://open.spotify.com/track/7ARsq0batl7n1v2qQysiH2) | [Sajaa.](https://open.spotify.com/artist/3RHBPqbFICf6I20SEYa2DQ) | [Martini.](https://open.spotify.com/album/0orAwByMcTkgzx1VUPcahZ) | 4:10 |
+| 5459 | [Name of God](https://open.spotify.com/track/71zgehvCv0MpqOk3jj0f55) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/45XoaObdMwc02uZjsuOfgq) | 3:29 |
+| 5460 | [Call On Me](https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Call On Me](https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu) | 2:49 |
+| 5461 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 |
+| 5462 | [Blow](https://open.spotify.com/track/5RScSZ9Iub9krbtTzmI48F) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Blow](https://open.spotify.com/album/4gpsHYBey03fCDZGEAMW4J) | 2:23 |
+| 5463 | [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 |
+| 5464 | [Show Love](https://open.spotify.com/track/3bkemhNjAeZfpXYexyJPFw) | [Kellylee Evans](https://open.spotify.com/artist/2ujofFVAz72xGjjpohH5Cn) | [Show Love](https://open.spotify.com/album/3Z8nBUrUGuIyWXus5u1PJI) | 3:39 |
+| 5465 | [Don’t Be so Hard on Yourself](https://open.spotify.com/track/2JS7XABzM5LqX4l1BwmKpr) | [Danny Michel](https://open.spotify.com/artist/7w7LQX530o4iG9Q5iwAgD7) | [Ghost Town](https://open.spotify.com/album/3rcUU2VLyr3UOCFJ4WVl3u) | 3:47 |
+| 5466 | [Good Buddy](https://open.spotify.com/track/6g2lV7jTfCUfcq51KK1tge) | [FONTINE](https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy) | [Good Buddy](https://open.spotify.com/album/2pVUCn4axh12NiqvpajS3e) | 2:34 |
+| 5467 | [Love Yourself](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:53 |
+| 5468 | [The Good Life](https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:05 |
+| 5469 | [Diamond](https://open.spotify.com/track/2wcRPZEV6gqUkCYhO1ARiz) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Loneliness Confetti](https://open.spotify.com/album/0Cinqm0u7kj6hQc1CIFjxu) | 3:19 |
+| 5470 | [My First Heartbreak](https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My First Heartbreak](https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm) | 3:26 |
+| 5471 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
+| 5472 | [Make You Feel That Way](https://open.spotify.com/track/4TlYG3mKosVWfGbb9VfDh3) | [Blackalicious](https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG) | [Blazing Arrow](https://open.spotify.com/album/0DyXkWHnFMIJSuHfLgNfcc) | 3:26 |
+| 5473 | [SILVER LINING](https://open.spotify.com/track/2NXainInz93S8nQl5F0urZ) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DIARY FOR THE LONELY HEARTS](https://open.spotify.com/album/3Ezv3QTAvXYrD7x00UG97J) | 4:43 |
+| 5474 | [Lucky](https://open.spotify.com/track/2dQhFMS8pe5fPAOG709E4c) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Lucky](https://open.spotify.com/album/0wSXgdslbGhC6gw8vjgv9m) | 2:30 |
+| 5475 | [Crabbuckit](https://open.spotify.com/track/5ONb0fTAqTygOmGfLHqi28) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Collected](https://open.spotify.com/album/6uNDNflKRjEjnEESQUQrXT) | 4:06 |
+| 5476 | [Choose the latter](https://open.spotify.com/track/28pc8L2UVMdbh4XN0DRqBR) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Happy Birthday](https://open.spotify.com/album/5uQ0e1loxV2LcIIQRw0crF) | 2:42 |
+| 5477 | [First Thing Smokin'](https://open.spotify.com/track/0rALhVKdan2uNBuz50bXtN) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [LOONY](https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy) | 3:43 |
+| 5478 | [For A Reason](https://open.spotify.com/track/0cYohCh24y1aMjJmcS9RBl) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:00 |
+| 5479 | [Gravity / Levity](https://open.spotify.com/track/3PoJHtAV7CYbGfzgDmHzuY) | [Wolf Castle](https://open.spotify.com/artist/4a0kFZeBNUTvD2iN55HBwq) | [Waiting for the Dawn](https://open.spotify.com/album/5CyVVlNfDpJ4WJipirslZb) | 4:12 |
+| 5480 | [Neon Nuptials](https://open.spotify.com/track/3fUUyQlxRXgMM9Es9kGl3w) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Neon Nuptials](https://open.spotify.com/album/5gLCetbR72Zt6IRWE1gk82) | 3:44 |
+| 5481 | [Caramel](https://open.spotify.com/track/7H5jHyfHk4sAYoS8J8f112) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wishbone](https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN) | 3:54 |
+| 5482 | [Sing](https://open.spotify.com/track/4yA2SM7XCLkSgkBUSoZb5S) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [The Invisible Band](https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ) | 3:48 |
+| 5483 | [My Iron Lung](https://open.spotify.com/track/0jyikFM0Umv0KlnrOEKtTG) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:36 |
+| 5484 | [Karma Police](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:24 |
+| 5485 | [Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 4:11 |
+| 5486 | [Reckoner](https://open.spotify.com/track/02ppMPbg1OtEdHgoPqoqju) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 4:50 |
+| 5487 | [True Love Waits](https://open.spotify.com/track/07XaOyTS5hyaWiUK1Bc3bR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 4:43 |
 
-Snapshot ID: `AAABewUNvv2Q9JK0XJbbn8HAWpWnWoY2`
+Snapshot ID: `AAABfBcelMy6EmYIcAoofiy83TfRzwXP`

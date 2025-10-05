@@ -4,7 +4,7 @@
 
 > tracks with popularity higher than artist
 
-4,994 songs - 12 day 3 hr 48 min
+4,994 songs - 12 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4680,6 +4680,7 @@
 | [Дорога](https://open.spotify.com/track/0lznmOabve1al78GuyMkc4) | [Auktyon](https://open.spotify.com/artist/7pUNFHEe0MlfvvDG1dXH3m) | [Птица](https://open.spotify.com/album/6S73t4W5TlYHiIKrJIZ1jb) | 3:17 | 2024-01-19 |  |
 | [Друг](https://open.spotify.com/track/3fYeBiIY20Q7TXaV25WmvZ) | [Глум](https://open.spotify.com/artist/4guiPgtpVvupxz8ooWK5B8) | [Мираж](https://open.spotify.com/album/0jj4T4RCxm5Uap0rM8OYU9) | 2:18 | 2024-01-19 |  |
 | [Другая причина](https://open.spotify.com/track/5CvLUC1jexCEMrwre7YuJn) | [Nepara](https://open.spotify.com/artist/0rDKyq9sDSJnCCEZWwnama) | [Другая семья](https://open.spotify.com/album/41Zl4Tz4RQHgcVubyKYlEK) | 4:08 | 2024-01-19 |  |
+| [Если война](https://open.spotify.com/track/0tCi43fmAaKwiYi1eR0Mhk) | [Костя Кулясов](https://open.spotify.com/artist/7I4ES9Lvx2LtlYgfus8sLg), [АнимациЯ](https://open.spotify.com/artist/5GIvDfiBo3998zS4DsXqqP) | [Продано не всЁ](https://open.spotify.com/album/19vebarbp0Ke0n33z241O9) | 4:11 | 2024-01-19 |  |
 | [Зацепила](https://open.spotify.com/track/5ptc5E2aIJJjlFbFAPTMfy) | [Arthur Pirozhkov](https://open.spotify.com/artist/3nBhPSHZ3oWyLLG3eBBqQY) | [Зацепила](https://open.spotify.com/album/1FjUBfSjxCX68CfxrZ0nJU) | 3:39 | 2024-01-19 |  |
 | [Зраджуй](https://open.spotify.com/track/3JtqmQTqsJBt6bd6iVtlaI) | [Epolets](https://open.spotify.com/artist/09QRMWYyLUALbOUjP5rhUP) | [Dogma](https://open.spotify.com/album/15LyBCx9gojYocTPcuGgvH) | 3:34 | 2024-01-19 |  |
 | [Искать тебя](https://open.spotify.com/track/3PDeYb7wkB4EdKJs7blE4l) | [Глум](https://open.spotify.com/artist/4guiPgtpVvupxz8ooWK5B8) | [Ясно солнышко](https://open.spotify.com/album/7K7Mip5e3pyrV4t1EABF94) | 2:28 | 2024-01-19 |  |
@@ -4714,7 +4715,6 @@
 | [Прованс](https://open.spotify.com/track/5a8aSgJQmTJXrnAcEa1Kqv) | [Yolka](https://open.spotify.com/artist/1PAvmfu0TKYSVVWGl3uJNC) | [Точки расставлены](https://open.spotify.com/album/79cXKiLPRDvYYtuiBNMFCO) | 3:24 | 2024-01-19 |  |
 | [Свет не горит](https://open.spotify.com/track/2JySq8nHhsYFp3ECn1RIKY) | [Triada](https://open.spotify.com/artist/4OKiW8dRL53pGmBLKqtt6C) | [Исток](https://open.spotify.com/album/3QsW4WIE9RxyW5Bm6ggNRz) | 3:18 | 2024-01-19 |  |
 | [Сон \(Jarico Remix\)](https://open.spotify.com/track/3x9rtTFzbEpD1ux71Za4q4) | [Sam Wick](https://open.spotify.com/artist/3hwGd9b9KLW67y7nR9cHQM) | [Сон](https://open.spotify.com/album/2d02fjtBfyI3vOwpFsFZ6K) | 4:03 | 2024-01-19 |  |
-| [Спички](https://open.spotify.com/track/0tCi43fmAaKwiYi1eR0Mhk) | [АнимациЯ](https://open.spotify.com/artist/5GIvDfiBo3998zS4DsXqqP) | [Продано не всЁ](https://open.spotify.com/album/19vebarbp0Ke0n33z241O9) | 2:43 | 2024-01-19 |  |
 | [Тайни знам](https://open.spotify.com/track/3MKjnQVRYKRDfNMOKFyviA) | [ToTo H](https://open.spotify.com/artist/3vIccdVCJt0pImyvORjoQP) | [Тайни знам](https://open.spotify.com/album/3RlYzrwkWDm7upLJS80j5U) | 3:12 | 2024-01-19 |  |
 | [Таптым\-ау сені](https://open.spotify.com/track/7bhx0XLV99UXH4Mtj0idPg) | [Kazybek Kuraiysh](https://open.spotify.com/artist/4CMquFsyU5t2qKaveFHv3B) | [Таптым\-ау сені](https://open.spotify.com/album/1j0PBkilTSzXzePlptD02u) | 3:14 | 2024-01-19 |  |
 | [Трава у дома](https://open.spotify.com/track/731UTX6DlwhoLPisy2UR7A) | [Zemlyane](https://open.spotify.com/artist/1XTAcIzGE3P8PT39zQ73N0) | [Хиты 1960 – 1980: Трава у дома](https://open.spotify.com/album/2ENINk1DNycuSgcujN2We2) | 4:48 | 2024-01-19 |  |
