@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,758 songs - 7 day 4 hr 44 min
+2,761 songs - 7 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,6 +529,7 @@
 | [Dancing with Sue](https://open.spotify.com/track/59Frl2BCKGy6las4ickX0S) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Chandler](https://open.spotify.com/album/6n4MUgNl5I0ZndmMO3AaZV) | 2:52 | 2025-06-08 |  |
 | [Dangerous](https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Not 4 Sale](https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e) | 4:06 | 2025-04-12 |  |
 | [Danny's Song](https://open.spotify.com/track/5lQxMlCMTzCj3j4vyzdl8T) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Danny's Song](https://open.spotify.com/album/6ZwsElAMgLjdZXL04okPcs) | 3:08 | 2025-03-09 |  |
+| [Danser avec toi](https://open.spotify.com/track/2xKh3u2hY4vb4tZTp8mTDu) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dance With You](https://open.spotify.com/album/433KYyQhv0BPTEjsZIKQTO) | 3:46 | 2025-10-05 |  |
 | [Dark Horse](https://open.spotify.com/track/4cg24ri2Qov4CiPccp7Szn) | [Amanda Marshall](https://open.spotify.com/artist/2ON3fLFbL1rHfHEjeYNKsO) | [Amanda Marshall](https://open.spotify.com/album/0TyKRzOsoZgXrXrcXnPvqt) | 5:37 | 2025-06-10 |  |
 | [Dark Horse](https://open.spotify.com/track/3itu7oLe5UzpsqHfBvdyKs) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT) | [Woke Myself Up](https://open.spotify.com/album/3gaY1BRkDYXzD88fg7QwTq) | 3:21 | 2025-02-03 |  |
 | [Daughter \- Remastered](https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:54 | 2025-09-13 |  |
@@ -988,6 +989,7 @@
 | [Hide Your Love](https://open.spotify.com/track/4ZjYIYWwRYbYSGtIqBddnF) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Hide Your Love](https://open.spotify.com/album/7LRmsyHaUCQslgFxDnnrD0) | 3:22 | 2024-12-12 |  |
 | [Hideaway](https://open.spotify.com/track/0c6xIDDpzE81m2q797ordA) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Sound Of A Woman](https://open.spotify.com/album/44Wg9gZPHK8MebSuBpq63k) | 4:11 | 2025-07-02 |  |
 | [High and Dry](https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:17 | 2025-03-03 |  |
+| [High And Dry \- Remastered](https://open.spotify.com/track/4PZEQo9X77uGUU6lg3fgSn) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic \(Remastered\)](https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3) | 4:54 | 2025-10-05 |  |
 | [High Horse](https://open.spotify.com/track/2U2Z1IXnmJIvlknWizFykZ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:33 | 2025-02-12 |  |
 | [High Note \[Feat\. Stax Music Academy\]](https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Stax Music Academy](https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K) | [High Note \[Feat\. Stax Music Academy\]](https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w) | 3:02 | 2025-01-14 |  |
 | [High Priestess](https://open.spotify.com/track/1vbayZm5FgNe4ou8BRNiDq) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Spirituals](https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo) | 3:13 | 2024-11-28 |  |
@@ -2348,6 +2350,7 @@
 | [The Master](https://open.spotify.com/track/5BjyLLFfEU2t2aYqtyfhDa) | [Nico Paulo](https://open.spotify.com/artist/5qmzeW1wvVq0c2lFK1MieD) | [Nico Paulo](https://open.spotify.com/album/4hxJYEOKb1NGphLaJb0QuN) | 3:24 | 2025-05-17 |  |
 | [The Mistress](https://open.spotify.com/track/58VEslkzhdpamopUdBVJ2F) | [Amelia Curran](https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69) | [Hunter Hunter](https://open.spotify.com/album/75WHgJgvowUrZ7dtBuD1ie) | 3:38 | 2025-03-25 |  |
 | [The Mountain](https://open.spotify.com/track/1EMCpMjoQ4LNrXsNHArRcE) | [Sargeant X Comrade](https://open.spotify.com/artist/3fvetbwKOGvPQsY5ArCOEb), [K\-Riz](https://open.spotify.com/artist/7taGhYCU1crVeYfrKhWF50) | [The Elephant In The Room](https://open.spotify.com/album/33xYiWuglu73VxXPduVpSH) | 3:02 | 2025-06-29 |  |
+| [The Mountain](https://open.spotify.com/track/2xxwbKFNgE3jDUdEijTeTd) | [Sargeant X Comrade](https://open.spotify.com/artist/3fvetbwKOGvPQsY5ArCOEb), [K\-Riz](https://open.spotify.com/artist/0G1ZodFKMIPjywMnC8YvgA) | [The Mountain](https://open.spotify.com/album/6wDdcx4xTiUpOAymIuZCe8) | 3:03 | 2025-10-05 |  |
 | [The Needle Has Landed](https://open.spotify.com/track/3U9q4Cg5wl1zhShxsNFivf) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 3:45 | 2025-02-17 |  |
 | [The New Year](https://open.spotify.com/track/4nPNsnv4QEiIzihzCU5zHH) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe) | 4:06 | 2025-01-02 |  |
 | [The Night They Drove Old Dixie Down](https://open.spotify.com/track/2nvcTDmZkRWKNMAL29sLHo) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Band](https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x) | 3:31 | 2025-08-16 |  |
@@ -2651,7 +2654,7 @@
 | [Where I'm From](https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Reachin' \(A New Refutation Of Time And Space\)](https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP) | 4:35 | 2025-07-10 |  |
 | [Where Is My Mind?](https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Where Is My Mind?](https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE) | 2:57 | 2024-11-28 |  |
 | [Wherever is Your Heart](https://open.spotify.com/track/1stPRyuWzQnIL5yQqCahF4) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Firewatcher's Daughter](https://open.spotify.com/album/1kjkM58pAPjo8ycGAn6tYL) | 3:50 | 2025-01-09 |  |
-| [Which Way](https://open.spotify.com/track/2Vl5kCAyFrVBJP4BrTcpFe) | [Amai Kuda Et Les Bois](https://open.spotify.com/artist/1SBiL8VyIl0OzZbyJQTNvw) | [EmUrgency!](https://open.spotify.com/album/002VOjHpwE39rCBlou6I9X) | 3:45 | 2025-05-09 | 2025-07-16 |
+| [Which Way](https://open.spotify.com/track/2Vl5kCAyFrVBJP4BrTcpFe) | [Amai Kuda Et Les Bois](https://open.spotify.com/artist/1SBiL8VyIl0OzZbyJQTNvw) | [EmUrgency!](https://open.spotify.com/album/002VOjHpwE39rCBlou6I9X) | 3:45 | 2025-05-09 |  |
 | [Which Way](https://open.spotify.com/track/52P2ZQZVdfdI1qaWXQsw0J) | [Amai Kuda Et Les Bois](https://open.spotify.com/artist/1SBiL8VyIl0OzZbyJQTNvw) | [Which Way](https://open.spotify.com/album/0wZkJnSdWOcAsBM4Npo26B) | 3:45 | 2024-12-08 |  |
 | [While My Guitar Gently Weeps](https://open.spotify.com/track/24Yp05UZkHvvbkdFeDhabK) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [While My Guitar Gently Weeps](https://open.spotify.com/album/0xFuTmtt8HEEiHByilBBqS) | 4:51 | 2025-01-01 |  |
 | [While We Wait](https://open.spotify.com/track/0Ue2515Ka2AZA31atBp2oW) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Three Little Words](https://open.spotify.com/album/4EUBkLcBVyLMpKvZzxfoRa) | 3:10 | 2025-05-04 |  |
