@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-09-25",
-  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-10-02 07:16:34.332084",
+  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-10-06 07:17:07.838143",
   "name": "big mix",
   "tracks": [
     {
@@ -2966,6 +2966,24 @@
       "duration_ms": 203373,
       "name": "Achy Breaky Heart",
       "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
+    },
+    {
+      "album": {
+        "name": "Morning Glory (Unplugged)",
+        "url": "https://open.spotify.com/album/67JI4156ZzZ7FNd30V8nEI"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241335,
+      "name": "Acquiesce (Unplugged)",
+      "url": "https://open.spotify.com/track/30qtk3TCT7rQCqRimbrpkS"
     },
     {
       "album": {
@@ -10815,6 +10833,24 @@
     },
     {
       "album": {
+        "name": "Dig Your Own Hole",
+        "url": "https://open.spotify.com/album/0FjHy5dCyVROqDUl6f2VTK"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313666,
+      "name": "Block Rockin' Beats",
+      "url": "https://open.spotify.com/track/1FNvrp5K02oThumS6gllzp"
+    },
+    {
+      "album": {
         "name": "70s 100 Hits",
         "url": "https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg"
       },
@@ -11194,6 +11230,24 @@
       "duration_ms": 269709,
       "name": "Body Away",
       "url": "https://open.spotify.com/track/3Ou08VvBVQvz8Qoda14sUD"
+    },
+    {
+      "album": {
+        "name": "Big Dumb Riffs",
+        "url": "https://open.spotify.com/album/3jKjp3ASjCcwUupmEYPNWM"
+      },
+      "artists": [
+        {
+          "name": "Rickshaw Billie's Burger Patrol",
+          "url": "https://open.spotify.com/artist/1iYDBcGNQxjwMivsLeg5vC"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154320,
+      "name": "Body Bag",
+      "url": "https://open.spotify.com/track/0tVtG5OZZi4epZGfS37r0e"
     },
     {
       "album": {
@@ -14891,6 +14945,24 @@
     },
     {
       "album": {
+        "name": "(What's The Story) Morning Glory? (30th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4EYiaCimOb1Li1bnb7ppi6"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300452,
+      "name": "Cast No Shadow (Unplugged)",
+      "url": "https://open.spotify.com/track/1yQ6kLfYdZtPsRw4OXeMUj"
+    },
+    {
+      "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
         "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
@@ -15284,6 +15356,24 @@
       "duration_ms": 450506,
       "name": "Champagne Supernova",
       "url": "https://open.spotify.com/track/6EMynpZ10GVcwVqiLZj6Ye"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory? (30th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4EYiaCimOb1Li1bnb7ppi6"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451320,
+      "name": "Champagne Supernova - Remastered",
+      "url": "https://open.spotify.com/track/1MGj6a8MsPe5okNYQdmHK3"
     },
     {
       "album": {
@@ -16601,6 +16691,24 @@
     },
     {
       "album": {
+        "name": "Half Divorced",
+        "url": "https://open.spotify.com/album/4oTZaBT6SoZ9NURR8p42xr"
+      },
+      "artists": [
+        {
+          "name": "Pissed Jeans",
+          "url": "https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89293,
+      "name": "Cling to a Poisoned Dream",
+      "url": "https://open.spotify.com/track/1eWkOXMRejiA6mEZCUHArO"
+    },
+    {
+      "album": {
         "name": "Gorillaz",
         "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
       },
@@ -16872,6 +16980,24 @@
       "duration_ms": 194440,
       "name": "Coal",
       "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
+    },
+    {
+      "album": {
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185152,
+      "name": "Cobra",
+      "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
     },
     {
       "album": {
@@ -21099,6 +21225,24 @@
     },
     {
       "album": {
+        "name": "Deeper And Deeper",
+        "url": "https://open.spotify.com/album/0HbaZYZj0wEN8tthgtKPru"
+      },
+      "artists": [
+        {
+          "name": "The Charlatans",
+          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239098,
+      "name": "Deeper And Deeper",
+      "url": "https://open.spotify.com/track/2pymfCH35FS43KW98NTdjA"
+    },
+    {
+      "album": {
         "name": "Synkronized",
         "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
       },
@@ -24495,6 +24639,24 @@
     },
     {
       "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
+    {
+      "album": {
         "name": "Revenge of the Goldfish",
         "url": "https://open.spotify.com/album/3LrM9kTHwNAdVSjvt7SrwB"
       },
@@ -24564,6 +24726,28 @@
       "duration_ms": 223880,
       "name": "Drain You",
       "url": "https://open.spotify.com/track/0bTLGlCqwZXwJGWGE2Dywg"
+    },
+    {
+      "album": {
+        "name": "Dream Bigger",
+        "url": "https://open.spotify.com/album/4kIvdcIBu9AymMzJUsgyI1"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        },
+        {
+          "name": "Amy Taylor",
+          "url": "https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185060,
+      "name": "Dream Bigger",
+      "url": "https://open.spotify.com/track/6ubLkNovtzOSFKvG9e02pE"
     },
     {
       "album": {
@@ -29745,6 +29929,24 @@
     },
     {
       "album": {
+        "name": "The Spin",
+        "url": "https://open.spotify.com/album/0jurOscZOHpLilkFiiGZIX"
+      },
+      "artists": [
+        {
+          "name": "Messa",
+          "url": "https://open.spotify.com/artist/6vFinMN4E9leUfcEyIIO0D"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272986,
+      "name": "Fire on the Roof",
+      "url": "https://open.spotify.com/track/1gNgDWupDpQuHXLY3rolia"
+    },
+    {
+      "album": {
         "name": "Sonic Temple",
         "url": "https://open.spotify.com/album/1mq4iXRVf8lo5kAkeMa9aV"
       },
@@ -34427,6 +34629,24 @@
     },
     {
       "album": {
+        "name": "Going Two",
+        "url": "https://open.spotify.com/album/7dmROzcGOH58yhJnDXiQSZ"
+      },
+      "artists": [
+        {
+          "name": "TEZ",
+          "url": "https://open.spotify.com/artist/0srgj2SLkxpuJNkgBuj8dk"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181053,
+      "name": "Going Two",
+      "url": "https://open.spotify.com/track/6x8nBOjHjqITWTbRv4LcYz"
+    },
+    {
+      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
       },
@@ -35415,6 +35635,24 @@
     },
     {
       "album": {
+        "name": "GOSPORTS!!!",
+        "url": "https://open.spotify.com/album/0WbPBC2Qcwefyxj93U0dMs"
+      },
+      "artists": [
+        {
+          "name": "couchgagzzz",
+          "url": "https://open.spotify.com/artist/3n0iNs3W8zA4xC30ZXH6H1"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185782,
+      "name": "Gosports!!!",
+      "url": "https://open.spotify.com/track/1RJ4Sz78rvOoLZ1RotNSxm"
+    },
+    {
+      "album": {
         "name": "Cloud Nine",
         "url": "https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc"
       },
@@ -36320,6 +36558,24 @@
       "duration_ms": 142866,
       "name": "Hanging On The Telephone",
       "url": "https://open.spotify.com/track/7p5vqITKsGczKM92hggPFq"
+    },
+    {
+      "album": {
+        "name": "Parallel Lines",
+        "url": "https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145075,
+      "name": "Hanging On The Telephone",
+      "url": "https://open.spotify.com/track/62H036AjK703qvKZBLopzV"
     },
     {
       "album": {
@@ -40449,6 +40705,24 @@
     },
     {
       "album": {
+        "name": "Hounds of Love (2018 Remaster)",
+        "url": "https://open.spotify.com/album/1ww8GdNvrF0dgJbrnVZmAr"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182866,
+      "name": "Hounds Of Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7fOBg7Gy0lyHtbVOZgU34n"
+    },
+    {
+      "album": {
         "name": "Hour of Need",
         "url": "https://open.spotify.com/album/5Muih6nZrgt8sRNGelF3wk"
       },
@@ -40824,6 +41098,24 @@
       "duration_ms": 224173,
       "name": "How You Remind Me",
       "url": "https://open.spotify.com/track/6hAqMpwVZGekZpSXtXlPTX"
+    },
+    {
+      "album": {
+        "name": "Ellipsis (Deluxe)",
+        "url": "https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213946,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/6ZF6PsmadIgyuxp0wqD9qO"
     },
     {
       "album": {
@@ -41858,6 +42150,24 @@
       "duration_ms": 126440,
       "name": "I Can't Stand Up For Falling Down",
       "url": "https://open.spotify.com/track/2Hd2wSNaIujq6CYVp2wLl6"
+    },
+    {
+      "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233141,
+      "name": "I CARE",
+      "url": "https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC"
     },
     {
       "album": {
@@ -54833,6 +55143,24 @@
     },
     {
       "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403520,
+      "name": "LOOK OUT FOR ME",
+      "url": "https://open.spotify.com/track/4gM6AHXp4h8aj5482znmYz"
+    },
+    {
+      "album": {
         "name": "Looking for Me",
         "url": "https://open.spotify.com/album/55QDKKenyNcudrsy1Svd3o"
       },
@@ -59927,6 +60255,24 @@
     },
     {
       "album": {
+        "name": "Parasites & Butterflies",
+        "url": "https://open.spotify.com/album/5uRq9tAqhsULMA35OL37Uk"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211786,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/2tifAgNsyjjL20h1QKtVTe"
+    },
+    {
+      "album": {
         "name": "Idolize Yourself: The Very Best Of Billy Idol",
         "url": "https://open.spotify.com/album/0dvStBuexp9Chq1hg3Yjes"
       },
@@ -60140,6 +60486,42 @@
       "duration_ms": 303533,
       "name": "Morning Glory",
       "url": "https://open.spotify.com/track/3MT6rJBU7VUAPWtQsowIQv"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory? (30th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4EYiaCimOb1Li1bnb7ppi6"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274856,
+      "name": "Morning Glory (Unplugged)",
+      "url": "https://open.spotify.com/track/5RFnvv9ux0w9R3QCyPobQT"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory? (30th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4EYiaCimOb1Li1bnb7ppi6"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303320,
+      "name": "Morning Glory - Remastered",
+      "url": "https://open.spotify.com/track/17LO8KvdM8MrMY8fHv4YPZ"
     },
     {
       "album": {
@@ -60507,7 +60889,7 @@
     },
     {
       "album": {
-        "name": "D-D-Don't Don't Stop the Beat",
+        "name": "D-D-Don't Don't Stop The Beat",
         "url": "https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7"
       },
       "artists": [
@@ -65039,6 +65421,24 @@
     },
     {
       "album": {
+        "name": "Carving The Stone",
+        "url": "https://open.spotify.com/album/0hMz1kjXoYlIfoPAuf4XRF"
+      },
+      "artists": [
+        {
+          "name": "For Those I Love",
+          "url": "https://open.spotify.com/artist/3X4mDEa1fff0zpbBp8wiOZ"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333669,
+      "name": "Of The Sorrows",
+      "url": "https://open.spotify.com/track/63V4HCxyyCKEMt6mleasF8"
+    },
+    {
+      "album": {
         "name": "Pure Pleasure",
         "url": "https://open.spotify.com/album/4tOYuq5DyDsY1rOSluTUcg"
       },
@@ -67400,7 +67800,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 70360,
-      "name": "OUT OF CONTROLL - Mixed",
+      "name": "OUT OF CONTROLL (feat. Ammona & TryHard Japan) - Mixed",
       "url": "https://open.spotify.com/track/0Em8wW6PKIBsmckLqi2WVg"
     },
     {
@@ -75343,6 +75743,24 @@
     },
     {
       "album": {
+        "name": "(What's The Story) Morning Glory? (30th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4EYiaCimOb1Li1bnb7ppi6"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240093,
+      "name": "Roll With It - Remastered",
+      "url": "https://open.spotify.com/track/01OIRMX1fZ7dC0eYxzue5K"
+    },
+    {
+      "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
         "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
@@ -81331,6 +81749,24 @@
     },
     {
       "album": {
+        "name": "Definitely Maybe",
+        "url": "https://open.spotify.com/album/3LzKUdUTdJb6P7xGN6SotC"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392773,
+      "name": "Slide Away",
+      "url": "https://open.spotify.com/track/1CZpWzCvN6fl2WslWTyPn2"
+    },
+    {
+      "album": {
         "name": "Bring It On Down (Live from Edinburgh, 9 August '25)",
         "url": "https://open.spotify.com/album/6DUck3VayJvJi6vaa6u4bK"
       },
@@ -82356,6 +82792,24 @@
       "duration_ms": 142186,
       "name": "Solid Gold Easy Action",
       "url": "https://open.spotify.com/track/6bskEO2F9kAqrxPaVlB0PQ"
+    },
+    {
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/0G9JMEFi9KFTKn7abGgsa2"
+      },
+      "artists": [
+        {
+          "name": "Astral Tides",
+          "url": "https://open.spotify.com/artist/1cdgWAGKwSdNvftvPz273S"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144400,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/2KG1GeGd8YFSbaz7panbAL"
     },
     {
       "album": {
@@ -83578,6 +84032,24 @@
       "duration_ms": 203414,
       "name": "Sonnet - featured on the John Lewis Christmas Advert 2024",
       "url": "https://open.spotify.com/track/1nShCaVEFxEwi3HULnYE6z"
+    },
+    {
+      "album": {
+        "name": "27 Passports",
+        "url": "https://open.spotify.com/album/5tWyl0Qhba7Jmsc3enMGjj"
+      },
+      "artists": [
+        {
+          "name": "The Ex",
+          "url": "https://open.spotify.com/artist/6yKcQ595aYiKuPUXQ9rcsz"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387750,
+      "name": "Soon All Cities",
+      "url": "https://open.spotify.com/track/21JbHnHwBaYVUkHavj0tDv"
     },
     {
       "album": {
@@ -95485,6 +95957,24 @@
     },
     {
       "album": {
+        "name": "The Times They Are A-Changin'",
+        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192053,
+      "name": "The Times They Are A-Changin'",
+      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
+    },
+    {
+      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/0JVCzhWigJomwGmQhsBAtx"
       },
@@ -96210,6 +96700,24 @@
       "duration_ms": 222488,
       "name": "There's A Reason Why (I Never Returned Your Calls)",
       "url": "https://open.spotify.com/track/5pVbLYTdihSKd8Kylfhwa7"
+    },
+    {
+      "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316301,
+      "name": "There's A Rhythmn",
+      "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
     },
     {
       "album": {
@@ -99787,6 +100295,24 @@
     },
     {
       "album": {
+        "name": "Next Time",
+        "url": "https://open.spotify.com/album/7Fjzc4dHBke26uIU215bzJ"
+      },
+      "artists": [
+        {
+          "name": "Bacchae",
+          "url": "https://open.spotify.com/artist/2kkzGUcM1xMk6BWxbIINd8"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227185,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/4dM6vmRVgWHW0uB7wqeljF"
+    },
+    {
+      "album": {
         "name": "Steve (a Weekend in Egham, 1996)",
         "url": "https://open.spotify.com/album/2AYJMl0tSUUIuMS3hibtgJ"
       },
@@ -100956,6 +101482,24 @@
       "duration_ms": 406000,
       "name": "Underwater Love",
       "url": "https://open.spotify.com/track/1vahbgf2hkAjBvYRtIo09F"
+    },
+    {
+      "album": {
+        "name": "Lazyboy",
+        "url": "https://open.spotify.com/album/78axRKwwjTqaAR9VJHLk6b"
+      },
+      "artists": [
+        {
+          "name": "Lazyboy",
+          "url": "https://open.spotify.com/artist/458SnbBEo5F5O1D2AEsx3h"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294546,
+      "name": "Underwear Goes Inside The Pants",
+      "url": "https://open.spotify.com/track/24UAL0V1e5DrGOlnbpUzWF"
     },
     {
       "album": {
@@ -105752,6 +106296,24 @@
       "duration_ms": 308360,
       "name": "Whatta Man",
       "url": "https://open.spotify.com/track/7sJN693sYKEIEMu7fc5VnJ"
+    },
+    {
+      "album": {
+        "name": "Monster (Remastered)",
+        "url": "https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240306,
+      "name": "What\u2019s The Frequency, Kenneth? - Remastered 2013",
+      "url": "https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e"
     },
     {
       "album": {

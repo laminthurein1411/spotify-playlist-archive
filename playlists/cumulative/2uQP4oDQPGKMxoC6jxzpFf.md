@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,761 songs - 7 day 4 hr 56 min
+2,762 songs - 7 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,6 +576,7 @@
 | [Dirty Nikes](https://open.spotify.com/track/70sIa830bGDPfSupoIIH6o) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Moments in Between](https://open.spotify.com/album/1xb5UcJNNWcn1yDnY6LPYl) | 3:18 | 2025-01-21 |  |
 | [Dirty Work \(From Hacks Season 3\)](https://open.spotify.com/track/3nzR13bHUZQRNnWHuxEf2h) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Dirty Work \(From Hacks Season 3\)](https://open.spotify.com/album/1a4ly9vEHKWV34UnBKOpbH) | 3:12 | 2025-01-02 |  |
 | [Dis Generation \(feat\. Busta Rhymes\)](https://open.spotify.com/track/2Pp3QD3thPnk2kCxmu2MHK) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [We got it from Here..\. Thank You 4 Your service](https://open.spotify.com/album/3WvQpufOsPzkZvcSuynCf3) | 3:33 | 2025-02-22 |  |
+| [Dis\-moi](https://open.spotify.com/track/0Ul984wVyUcYrQDnw1r5v7) | [Aiza](https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi) | [Adieu](https://open.spotify.com/album/4H4qxVJQ9zQlw84XfgdeAx) | 3:52 | 2025-10-06 |  |
 | [Dis\-moi dis\-moi dis\-moi](https://open.spotify.com/track/6CUxtpfcHNJ3s06zxKeppu) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 5:09 | 2025-07-13 |  |
 | [Disappointing the Internet](https://open.spotify.com/track/0wpQc6DuoM3B9VsAzSHNtv) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Disappointing the Internet](https://open.spotify.com/album/3KXnbWDUt4OfEbLtCwkBPs) | 2:46 | 2024-12-04 |  |
 | [Dive](https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:20 | 2024-11-28 |  |

@@ -10573,6 +10573,24 @@
     },
     {
       "album": {
+        "name": "Adieu",
+        "url": "https://open.spotify.com/album/4H4qxVJQ9zQlw84XfgdeAx"
+      },
+      "artists": [
+        {
+          "name": "Aiza",
+          "url": "https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232968,
+      "name": "Dis-moi",
+      "url": "https://open.spotify.com/track/0Ul984wVyUcYrQDnw1r5v7"
+    },
+    {
+      "album": {
         "name": "Journal d'un Loup-Garou",
         "url": "https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM"
       },
