@@ -13235,6 +13235,24 @@
     },
     {
       "album": {
+        "name": "Fully Completely",
+        "url": "https://open.spotify.com/album/60peDyBYVk0DWanN2GPxhO"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250360,
+      "name": "Fifty-Mission Cap",
+      "url": "https://open.spotify.com/track/4mYQqRAN5xTubTvZybrWFm"
+    },
+    {
+      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/08RA5V97201vhtHic4gki9"
       },
@@ -19110,6 +19128,24 @@
       "duration_ms": 152542,
       "name": "Honey",
       "url": "https://open.spotify.com/track/4yRYXbCxeJ5eOXDjxX0NdH"
+    },
+    {
+      "album": {
+        "name": "TIME WILL TELL",
+        "url": "https://open.spotify.com/album/6jNasr9sRzu0TmsRdaqh7z"
+      },
+      "artists": [
+        {
+          "name": "Jordan Astra",
+          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152542,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5tsOLokoFdyZUmlD7vYZnw"
     },
     {
       "album": {
@@ -36091,6 +36127,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220564,
+      "name": "Ruin The Friendship",
+      "url": "https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr"
+    },
+    {
+      "album": {
         "name": "Run Right Into It",
         "url": "https://open.spotify.com/album/6Tj1wkaeUCw5ZZlngTthyG"
       },
@@ -46727,6 +46781,24 @@
     },
     {
       "album": {
+        "name": "Here For It All",
+        "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175788,
+      "name": "Type Dangerous",
+      "url": "https://open.spotify.com/track/2G0ut5Ii61RrxTjr18sYnI"
+    },
+    {
+      "album": {
         "name": "Type Dangerous",
         "url": "https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ"
       },
@@ -48759,6 +48831,24 @@
     },
     {
       "album": {
+        "name": "Done By The Forces Of Nature (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/799MgoKwtnoNLbZIqpGjQE"
+      },
+      "artists": [
+        {
+          "name": "Jungle Brothers",
+          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244133,
+      "name": "What \"U\" Waitin' \"4\"?",
+      "url": "https://open.spotify.com/track/5bwiUlIxpI5YIeOCUVSxwF"
+    },
+    {
+      "album": {
         "name": "Headway",
         "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
       },
@@ -50585,6 +50675,28 @@
     },
     {
       "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/2fVTdJWBC0AB7m1guco8h2"
+      },
+      "artists": [
+        {
+          "name": "Field Guide",
+          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210173,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/7s5zUI6AZf5splnjvU4lFz"
+    },
+    {
+      "album": {
         "name": "Hope Above Adversity",
         "url": "https://open.spotify.com/album/3g2LgMLTEufR4q4a0gLAmb"
       },
@@ -50640,6 +50752,28 @@
       "duration_ms": 246000,
       "name": "You",
       "url": "https://open.spotify.com/track/7imk8jqsX1xIBZYsUYvaBU"
+    },
+    {
+      "album": {
+        "name": "I'm Not There (Music From The Motion Picture - Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5cFprh5OBIF7G9kXRSBsr3"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185053,
+      "name": "You Ain't Goin' Nowhere",
+      "url": "https://open.spotify.com/track/1vWgBZ8Uu89MMZaFkgJymR"
     },
     {
       "album": {
@@ -51344,6 +51478,28 @@
       "duration_ms": 266200,
       "name": "You'll Never Find Another Love Like Mine",
       "url": "https://open.spotify.com/track/6OylYIXrIH2E3hgg7Dqz5M"
+    },
+    {
+      "album": {
+        "name": "You're All I Need",
+        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "You're All I Need To Get By",
+      "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
     },
     {
       "album": {

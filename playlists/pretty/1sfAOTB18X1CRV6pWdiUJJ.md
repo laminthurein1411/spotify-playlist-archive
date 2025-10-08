@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1sfAOTB18X1CRV6pWdiUJJ.md) - [plain]
 
 > 
 
-[miniwheatsmcqueen](https://open.spotify.com/user/miniwheatsmcqueen) - 528 likes - 728 songs - 2 day 0 hr 49 min
+[miniwheatsmcqueen](https://open.spotify.com/user/miniwheatsmcqueen) - 528 likes - 730 songs - 2 day 0 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -736,5 +736,7 @@ pretty - [cumulative](/playlists/cumulative/1sfAOTB18X1CRV6pWdiUJJ.md) - [plain]
 | 726 | [Alive](https://open.spotify.com/track/7EPfsHfSlLd55T2g6j50aT) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Kerrang! Anthems](https://open.spotify.com/album/0z7XuaFZJQPNe8jCwY33xP) | 3:23 |
 | 727 | [Right Here](https://open.spotify.com/track/6S7mmHgyWOG6pIYuL4YrfQ) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Chapter V](https://open.spotify.com/album/15ZipIr7RjbpSCNMIaoQoF) | 4:13 |
 | 728 | [Come Out and Play](https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:17 |
+| 729 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
+| 730 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 |
 
-Snapshot ID: `AAAEZIiqORu8zoIk2Las6wa3U4gNSnM7`
+Snapshot ID: `AAAEZvUDQcYeVi7k4XsKc/0J6XbqDgo3`
