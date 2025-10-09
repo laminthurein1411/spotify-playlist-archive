@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2xaIjeUcUv3boYhlt7SD3f.md) - [plain]
 
 > Great versions of great songs that actually don&\#x27;t suck! My preference list.
 
-[jrmarquetto](https://open.spotify.com/user/12151295368) - 5 likes - 101 songs - 6 hr 25 min
+[jrmarquetto](https://open.spotify.com/user/12151295368) - 6 likes - 101 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
