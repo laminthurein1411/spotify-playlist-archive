@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 
 ### [big mix](https://open.spotify.com/playlist/7ojHfeLSzqGrNwx6MUwIS7)
 
-> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-06 07:17:07.838143
+> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-09 07:16:30.694856
 
-[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,119 songs - 16 day 19 hr 24 min
+[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,126 songs - 16 day 19 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -6127,5 +6127,12 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 | 6117 | [Gosports!!!](https://open.spotify.com/track/1RJ4Sz78rvOoLZ1RotNSxm) | [couchgagzzz](https://open.spotify.com/artist/3n0iNs3W8zA4xC30ZXH6H1) | [GOSPORTS!!!](https://open.spotify.com/album/0WbPBC2Qcwefyxj93U0dMs) | 3:05 |
 | 6118 | [Deeper And Deeper](https://open.spotify.com/track/2pymfCH35FS43KW98NTdjA) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Deeper And Deeper](https://open.spotify.com/album/0HbaZYZj0wEN8tthgtKPru) | 3:59 |
 | 6119 | [Of The Sorrows](https://open.spotify.com/track/63V4HCxyyCKEMt6mleasF8) | [For Those I Love](https://open.spotify.com/artist/3X4mDEa1fff0zpbBp8wiOZ) | [Carving The Stone](https://open.spotify.com/album/0hMz1kjXoYlIfoPAuf4XRF) | 5:33 |
+| 6120 | [undressed](https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:02 |
+| 6121 | [How to Save a Life](https://open.spotify.com/track/3kSluBZ5oXuCIsdS4NAVfy) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Short Days, Long Nights](https://open.spotify.com/album/161xeNOk3Lo651g65Hd8uq) | 4:22 |
+| 6122 | [You're My Dopamine](https://open.spotify.com/track/3UJ4RHdfaIYpEiShHpoU8Y) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [The Perfume of Decay](https://open.spotify.com/album/2ZRUCUx9ZFhwbXqyMeoR6y) | 3:02 |
+| 6123 | [Birdhouse in Your Soul](https://open.spotify.com/track/3psuzVJDmKza2JRSSsDT4R) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [90s HITS \- 100 Greatest Songs of the 1990s](https://open.spotify.com/album/0nO5lyFdotlbbWdNkvB6Av) | 3:18 |
+| 6124 | [Lift You Up](https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Lift You Up](https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI) | 2:13 |
+| 6125 | [Smooth Criminal](https://open.spotify.com/track/6KlESwx6JWh4QiPYRU4Nm3) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [The Best Of Alien Ant Farm 20th Century Masters The Millennium Collection](https://open.spotify.com/album/0Kucza2kOX3aKefmhuwEGp) | 3:29 |
+| 6126 | [Where The Streets Have No Name](https://open.spotify.com/track/2TlXPShOrPn4K51fP0Fykd) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 4:35 |
 
-Snapshot ID: `AAACgY+s3n/QPBYGJIYCEBrsNUHqJNZ+`
+Snapshot ID: `AAACg+fm6pIWRSH3vD35NW/AjN6lZ2mI`
