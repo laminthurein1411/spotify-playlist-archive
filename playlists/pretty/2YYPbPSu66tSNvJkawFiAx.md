@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YYPbPSu66tSNvJkawFiAx.md) - [plain]
 
 > Every week, discover the playlist of our Sonar show\. New releases and rarities selected by GRRIF radio\. www.grrif.ch RR GRRIF
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 767 songs - 1 day 22 hr 33 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 795 songs - 2 day 0 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -775,5 +775,33 @@ pretty - [cumulative](/playlists/cumulative/2YYPbPSu66tSNvJkawFiAx.md) - [plain]
 | 765 | [Two Cents](https://open.spotify.com/track/5ZLZldF14F2TT9FCiQhmXv) | [Alumni Cloud](https://open.spotify.com/artist/0CMLhpz46GdjoSIM9QKkgj) | [Two Cents](https://open.spotify.com/album/0CttI9Gaw1UTXiYE6jAqJi) | 3:44 |
 | 766 | [Home \- Tom Sharkett Edit](https://open.spotify.com/track/6XA6bozZwlowStujsKQoIY) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6), [Tom Sharkett](https://open.spotify.com/artist/47rgP8VpebMMXX0gE8HUst) | [Home \(Tom Sharkett Edit\)](https://open.spotify.com/album/5jH62qB5zTkk77voNP4d98) | 6:30 |
 | 767 | [Lucky Star](https://open.spotify.com/track/18nfehYgwp7UvlshiRP5jD) | [Superfunk](https://open.spotify.com/artist/1CbopBMbfM0ned5OAsTkv4), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Hold Up](https://open.spotify.com/album/1gO3y9Wuaj6otnhWWPpM8z) | 4:55 |
+| 768 | [Spirit Adapter](https://open.spotify.com/track/5xPfJybArmvr7Qyu08BgcR) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [Spirit Adapter](https://open.spotify.com/album/70fT6RyKYe7LYVZgxtXokJ) | 4:16 |
+| 769 | [Best Friend](https://open.spotify.com/track/57ntw60RjfiQdbOj2aqyvI) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Best Friend](https://open.spotify.com/album/6F3Eeb9lL0ayt3MoqoMfJw) | 4:05 |
+| 770 | [PIRATE RADIO](https://open.spotify.com/track/6HQFxxX9d7HailblPX0Nxy) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [PIRATE RADIO](https://open.spotify.com/album/1bxj95VYRQYbEzaEHD3fp3) | 2:54 |
+| 771 | [About Leaving](https://open.spotify.com/track/6iraVxe9TrUxvpnymEAe7P) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [About Leaving](https://open.spotify.com/album/1Rt8TSTk30TJjNhVetXpBb) | 3:35 |
+| 772 | [mq9](https://open.spotify.com/track/3mFCJSMSm7J9B62nvHaJKs) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [Is It Now?](https://open.spotify.com/album/2jliA7qOg03hZjRqumKssq) | 3:40 |
+| 773 | [Follow The River](https://open.spotify.com/track/4lqy6A33h6N9Yy1GhLkD93) | [RIO KOSTA](https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y) | [Unicorn](https://open.spotify.com/album/4DUTwccENusGfoeYUDVWe0) | 3:59 |
+| 774 | [Against The World](https://open.spotify.com/track/0xz7ixGInfMaVBUphFymj4) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [Against The World](https://open.spotify.com/album/7ownkOd8hdu03qJjPNtS3Q) | 3:30 |
+| 775 | [Stanley Hills](https://open.spotify.com/track/72PVKH5vhnP0nILzzYmu24) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [SUGE](https://open.spotify.com/album/12b8FcmximgN0PklbZUC1X) | 3:14 |
+| 776 | [Childhood](https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:51 |
+| 777 | [Return Of The Sharp Heads](https://open.spotify.com/track/6h3OJ3JnPdCOJAzsxtyK1y) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Allbarone](https://open.spotify.com/album/53ZQGljMsozLkaUc3mO2FZ) | 5:05 |
+| 778 | [Alemuye ኣለሙየ \- Radio Edit](https://open.spotify.com/track/2HWkajSztPRSCzUMR7mU3z) | [Yalla Miku](https://open.spotify.com/artist/0WL2IEauLNxUTGYdAFv0gb) | [Alemuye ኣለሙየ \(Radio Edit\)](https://open.spotify.com/album/5rD5zFmvNjUzCzHacBcrrI) | 3:11 |
+| 779 | [The Violence](https://open.spotify.com/track/0sQj2Ggna6UjRyIO0tKE7y) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 6:03 |
+| 780 | [god's chariots](https://open.spotify.com/track/6xoKWTiw0jVO3IvEKLxMSs) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Galore](https://open.spotify.com/album/4LH5M9xS4kK1HKvalSNJVo) | 3:03 |
+| 781 | [Josephine](https://open.spotify.com/track/0l7JCXzezE7Gm7muaklAaK) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Josephine](https://open.spotify.com/album/3jrMMy86PxbZJ540b2diSh) | 4:53 |
+| 782 | [Spirit Adapter](https://open.spotify.com/track/5xPfJybArmvr7Qyu08BgcR) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [Spirit Adapter](https://open.spotify.com/album/70fT6RyKYe7LYVZgxtXokJ) | 4:16 |
+| 783 | [Best Friend](https://open.spotify.com/track/57ntw60RjfiQdbOj2aqyvI) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Best Friend](https://open.spotify.com/album/6F3Eeb9lL0ayt3MoqoMfJw) | 4:05 |
+| 784 | [PIRATE RADIO](https://open.spotify.com/track/6HQFxxX9d7HailblPX0Nxy) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [PIRATE RADIO](https://open.spotify.com/album/1bxj95VYRQYbEzaEHD3fp3) | 2:54 |
+| 785 | [About Leaving](https://open.spotify.com/track/6iraVxe9TrUxvpnymEAe7P) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [About Leaving](https://open.spotify.com/album/1Rt8TSTk30TJjNhVetXpBb) | 3:35 |
+| 786 | [mq9](https://open.spotify.com/track/3mFCJSMSm7J9B62nvHaJKs) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [Is It Now?](https://open.spotify.com/album/2jliA7qOg03hZjRqumKssq) | 3:40 |
+| 787 | [Follow The River](https://open.spotify.com/track/4lqy6A33h6N9Yy1GhLkD93) | [RIO KOSTA](https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y) | [Unicorn](https://open.spotify.com/album/4DUTwccENusGfoeYUDVWe0) | 3:59 |
+| 788 | [Against The World](https://open.spotify.com/track/0xz7ixGInfMaVBUphFymj4) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [Against The World](https://open.spotify.com/album/7ownkOd8hdu03qJjPNtS3Q) | 3:30 |
+| 789 | [Stanley Hills](https://open.spotify.com/track/72PVKH5vhnP0nILzzYmu24) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [SUGE](https://open.spotify.com/album/12b8FcmximgN0PklbZUC1X) | 3:14 |
+| 790 | [Childhood](https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:51 |
+| 791 | [Return Of The Sharp Heads](https://open.spotify.com/track/6h3OJ3JnPdCOJAzsxtyK1y) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Allbarone](https://open.spotify.com/album/53ZQGljMsozLkaUc3mO2FZ) | 5:05 |
+| 792 | [Alemuye ኣለሙየ \- Radio Edit](https://open.spotify.com/track/2HWkajSztPRSCzUMR7mU3z) | [Yalla Miku](https://open.spotify.com/artist/0WL2IEauLNxUTGYdAFv0gb) | [Alemuye ኣለሙየ \(Radio Edit\)](https://open.spotify.com/album/5rD5zFmvNjUzCzHacBcrrI) | 3:11 |
+| 793 | [The Violence](https://open.spotify.com/track/0sQj2Ggna6UjRyIO0tKE7y) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 6:03 |
+| 794 | [god's chariots](https://open.spotify.com/track/6xoKWTiw0jVO3IvEKLxMSs) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Galore](https://open.spotify.com/album/4LH5M9xS4kK1HKvalSNJVo) | 3:03 |
+| 795 | [Josephine](https://open.spotify.com/track/0l7JCXzezE7Gm7muaklAaK) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Josephine](https://open.spotify.com/album/3jrMMy86PxbZJ540b2diSh) | 4:53 |
 
-Snapshot ID: `AAAAaWmZ/TS1rUoig65DLWvuO/elvACC`
+Snapshot ID: `AAAAawpccfk2qhJ8QRMNze/pJkNmvmPO`

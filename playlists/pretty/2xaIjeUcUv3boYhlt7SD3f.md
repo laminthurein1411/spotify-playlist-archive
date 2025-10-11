@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2xaIjeUcUv3boYhlt7SD3f.md) - [plain]
 
 > Great versions of great songs that actually don&\#x27;t suck! My preference list.
 
-[jrmarquetto](https://open.spotify.com/user/12151295368) - 6 likes - 101 songs - 6 hr 25 min
+[jrmarquetto](https://open.spotify.com/user/12151295368) - 7 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,16 +98,15 @@ pretty - [cumulative](/playlists/cumulative/2xaIjeUcUv3boYhlt7SD3f.md) - [plain]
 | 88 | [Like A Prayer](https://open.spotify.com/track/1y18BFrYpEudC1tcb4PpVa) | [Rufio](https://open.spotify.com/artist/0HjoyITAvSVktTCjXUa40Q) | [Punk Goes Pop](https://open.spotify.com/album/5EoRtzlbNHpz4ZHR4rEmwD) | 3:49 |
 | 89 | [More Than A Feeling](https://open.spotify.com/track/1rQrwG7qMwFoRjSovJW6HZ) | [Hit The Lights](https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C) | [Punk Goes Classic Rock](https://open.spotify.com/album/64RLAKcWXgTpahzJbgEqZz) | 2:43 |
 | 90 | [Just Be Simple](https://open.spotify.com/track/6qyGUBuAZWg0gFbjmq2K0U) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Just Be Simple / Leave The City](https://open.spotify.com/album/7n4TY3ymPr4l8tEOHw8gEx) | 3:56 |
-| 91 | [War Pigs](https://open.spotify.com/track/2vCnEuoc65PXAdx33Y7syW) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 7:45 |
-| 92 | [Easy](https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust](https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q) | 3:06 |
-| 93 | [Under Pressure](https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Under Pressure](https://open.spotify.com/album/3yeNEy2TFt4hvtQ6sRichS) | 3:31 |
-| 94 | [Just What I Needed](https://open.spotify.com/track/2rS6H9iR6jUHn0UZG34rmC) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/4YEqPgAYSdQTWl6q5p7PT6) | 3:44 |
-| 95 | [Go Your Own Way \- Bonus Track](https://open.spotify.com/track/1uYrxAlxxsyYUoOF4e9uaE) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Treasure Box : The Complete Sessions 1991\-99](https://open.spotify.com/album/5XlzaHfElw967FcPyajw5u) | 4:03 |
-| 96 | [I Fought The Law](https://open.spotify.com/track/6bnOTgef0LzKqNOPe1RWLU) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Essential Clash](https://open.spotify.com/album/6xwLLr4kk8C5tqxzjfukuH) | 2:41 |
-| 97 | [Landslide](https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [The Essential The Chicks](https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD) | 3:48 |
-| 98 | [99 Red Balloons](https://open.spotify.com/track/4iHITBaV9sOIukW5ABdHhI) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Music From The Motion Picture Not Another Teen Movie](https://open.spotify.com/album/3e89oGaupFgYKUIuE92Eb4) | 4:02 |
-| 99 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
-| 100 | [A Case Of You](https://open.spotify.com/track/6tNrUI6H15kqWBff0HcEZr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Enough Thunder](https://open.spotify.com/album/4Ss3RK7115gnEY66i7C5dG) | 2:57 |
-| 101 | [I Melt With You](https://open.spotify.com/track/0vgXcqTEdH9dVcX1tK6qzV) | [Marvelous 3](https://open.spotify.com/artist/3KI6zIpi3DotbOSOM0tK7o) | [I Melt With You](https://open.spotify.com/album/6TrDFeHC5NMvScOWP6fIZC) | 4:35 |
+| 91 | [Easy](https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust](https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q) | 3:06 |
+| 92 | [Under Pressure](https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Under Pressure](https://open.spotify.com/album/3yeNEy2TFt4hvtQ6sRichS) | 3:31 |
+| 93 | [Just What I Needed](https://open.spotify.com/track/2rS6H9iR6jUHn0UZG34rmC) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/4YEqPgAYSdQTWl6q5p7PT6) | 3:44 |
+| 94 | [Go Your Own Way \- Bonus Track](https://open.spotify.com/track/1uYrxAlxxsyYUoOF4e9uaE) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Treasure Box : The Complete Sessions 1991\-99](https://open.spotify.com/album/5XlzaHfElw967FcPyajw5u) | 4:03 |
+| 95 | [I Fought The Law](https://open.spotify.com/track/6bnOTgef0LzKqNOPe1RWLU) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Essential Clash](https://open.spotify.com/album/6xwLLr4kk8C5tqxzjfukuH) | 2:41 |
+| 96 | [Landslide](https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [The Essential The Chicks](https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD) | 3:48 |
+| 97 | [99 Red Balloons](https://open.spotify.com/track/4iHITBaV9sOIukW5ABdHhI) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Music From The Motion Picture Not Another Teen Movie](https://open.spotify.com/album/3e89oGaupFgYKUIuE92Eb4) | 4:02 |
+| 98 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
+| 99 | [A Case Of You](https://open.spotify.com/track/6tNrUI6H15kqWBff0HcEZr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Enough Thunder](https://open.spotify.com/album/4Ss3RK7115gnEY66i7C5dG) | 2:57 |
+| 100 | [I Melt With You](https://open.spotify.com/track/0vgXcqTEdH9dVcX1tK6qzV) | [Marvelous 3](https://open.spotify.com/artist/3KI6zIpi3DotbOSOM0tK7o) | [I Melt With You](https://open.spotify.com/album/6TrDFeHC5NMvScOWP6fIZC) | 4:35 |
 
-Snapshot ID: `AAABB26+H2kaJa5ejXRu9bj0r7ohQKyV`
+Snapshot ID: `AAABCHso5GSA45fxGUjaMb+Qtp+Webs7`
