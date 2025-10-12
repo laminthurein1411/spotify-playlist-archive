@@ -1,12 +1,12 @@
 {
-  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-10-09 07:16:30.694856",
+  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-10-11 10:38:40.178192",
   "num_followers": 1,
   "original_name": "big mix",
   "owner": {
     "name": "jeffers_uk",
     "url": "https://open.spotify.com/user/jeffers_uk"
   },
-  "snapshot_id": "AAACg+fm6pIWRSH3vD35NW/AjN6lZ2mI",
+  "snapshot_id": "AAAChTB+zPAJ1N1EGqBfxM+Ll7Y5/mp3",
   "tracks": [
     {
       "added_at": "2023-04-05 10:01:14",
@@ -99755,6 +99755,122 @@
       "duration_ms": 275040,
       "name": "Where The Streets Have No Name",
       "url": "https://open.spotify.com/track/2TlXPShOrPn4K51fP0Fykd"
+    },
+    {
+      "added_at": "2025-10-11 09:38:39",
+      "album": {
+        "name": "The Hurting (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Sv5PjYWap5poTCrJJYjwk"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 243600,
+      "name": "Pale Shelter",
+      "url": "https://open.spotify.com/track/3bq6GVy7ol5FdMU0OtKVkz"
+    },
+    {
+      "added_at": "2025-10-11 09:38:39",
+      "album": {
+        "name": "Messenger Of The Gods: The Singles Collection",
+        "url": "https://open.spotify.com/album/0Q6mYDUdxy5bX4vNNqqje9"
+      },
+      "artists": [
+        {
+          "name": "Freddie Mercury",
+          "url": "https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH"
+        }
+      ],
+      "duration_ms": 219373,
+      "name": "I Was Born to Love You",
+      "url": "https://open.spotify.com/track/36sfWI1rk2Nf4Ek9XDUEnC"
+    },
+    {
+      "added_at": "2025-10-11 09:38:39",
+      "album": {
+        "name": "Keep Moving",
+        "url": "https://open.spotify.com/album/301wQYZfEqkDwThfN61bza"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Wings of a Dove",
+      "url": "https://open.spotify.com/track/5NnZMC425ydVkAG7CpRhCU"
+    },
+    {
+      "added_at": "2025-10-11 09:38:39",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/3hcrTu8zeynChXDOJt3lX2"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 258853,
+      "name": "Say It Ain't So",
+      "url": "https://open.spotify.com/track/56MEbUIvvfEEkLIl51wxGD"
+    },
+    {
+      "added_at": "2025-10-11 09:38:39",
+      "album": {
+        "name": "Only Revolutions",
+        "url": "https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 258573,
+      "name": "Many of Horror",
+      "url": "https://open.spotify.com/track/1auUyL63z3sWnBhooTnz31"
+    },
+    {
+      "added_at": "2025-10-11 09:38:39",
+      "album": {
+        "name": "Fun People",
+        "url": "https://open.spotify.com/album/7Fb7U2ifkL0yfmqPCBYr46"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+        },
+        {
+          "name": "Graham Coxon",
+          "url": "https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC"
+        }
+      ],
+      "duration_ms": 222058,
+      "name": "Fun People",
+      "url": "https://open.spotify.com/track/0hifipai6neowQSwWp8jxG"
+    },
+    {
+      "added_at": "2025-10-11 09:38:39",
+      "album": {
+        "name": "Licorice Pizza (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2hZarv2b2vI2j0QRrOv4bt"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 232773,
+      "name": "Life On Mars?",
+      "url": "https://open.spotify.com/track/6q0bTn8XKEdSrSxfJpfNQz"
     }
   ],
   "unique_name": "big mix",

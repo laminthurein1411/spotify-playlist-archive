@@ -2,9 +2,9 @@
 
 ### [big mix](https://open.spotify.com/playlist/7ojHfeLSzqGrNwx6MUwIS7)
 
-> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-09 07:16:30.694856
+> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-11 10:38:40.178192
 
-6,126 songs - 16 day 19 hr 48 min
+6,133 songs - 16 day 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1747,6 +1747,7 @@
 | [Frosty The Snowman](https://open.spotify.com/track/50EmUGORNqRCS41BHWEiD3) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure Hiding: The Fontana Years](https://open.spotify.com/album/1hUHGHU04BmBEgMuuMIhn1) | 2:55 | 2023-12-18 |  |
 | [Frosty the Snowman](https://open.spotify.com/track/7n5m8nDAnyXo81tr4B3Bcw) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:16 | 2023-12-18 |  |
 | [Full Circle](https://open.spotify.com/track/7CtZjcorj4m7ioIHfVH7tg) | [Maria Wilman](https://open.spotify.com/artist/6aMcm3sZVqM74gdnX7P6dx) | [Dark Horse](https://open.spotify.com/album/7ErsLa9pbtX6kdfwQP3clJ) | 3:29 | 2023-11-13 |  |
+| [Fun People](https://open.spotify.com/track/0hifipai6neowQSwWp8jxG) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [Fun People](https://open.spotify.com/album/7Fb7U2ifkL0yfmqPCBYr46) | 3:42 | 2025-10-11 |  |
 | [Futureproof](https://open.spotify.com/track/3s2UJl9ncmoaQYvMQHBE39) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic \(The Complete Edition\)](https://open.spotify.com/album/3hDxbjNyiWDhOFBXSThxVF) | 3:27 | 2024-06-24 |  |
 | [Fuzz Jam](https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:26 | 2024-02-12 |  |
 | [Gallows Pole \- Remaster](https://open.spotify.com/track/4S2QZuPFZ9qeHW2sonMJS1) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 4:57 | 2023-10-30 |  |
@@ -2400,6 +2401,7 @@
 | [I Want Your Love](https://open.spotify.com/track/55NBt1WuvShjsGE1grbi2v) | [Transvision Vamp](https://open.spotify.com/artist/7oIgcNOdEHNwP8NFl9tYWs) | [Pop Art](https://open.spotify.com/album/5QAE6zeYz3Z7O83UdPOJcX) | 3:29 | 2023-05-03 |  |
 | [I Was Born on Christmas Day](https://open.spotify.com/track/4zgf79WbDeglHrdubEB9TJ) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [A Glimpse Of Stocking](https://open.spotify.com/album/2SfZJ6R7yNhYXvvDxPcxzS) | 3:11 | 2023-12-04 |  |
 | [I Was Born to Love You](https://open.spotify.com/track/5J4egjc8SVmPuHOV2o0UEt) | [Bohemian 5](https://open.spotify.com/artist/0bWULfpjM3OdpPVWxoAQrH) | [Cover Songs Instrumental Playlist of Queen & Freddie Mercury](https://open.spotify.com/album/3aZQlDsUntsPSlQGPZdjSk) | 4:51 | 2023-07-21 |  |
+| [I Was Born to Love You](https://open.spotify.com/track/36sfWI1rk2Nf4Ek9XDUEnC) | [Freddie Mercury](https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH) | [Messenger Of The Gods: The Singles Collection](https://open.spotify.com/album/0Q6mYDUdxy5bX4vNNqqje9) | 3:39 | 2025-10-11 |  |
 | [I Was Born to Love You \(Karaoke\-Version\) As Made Famous By: Freddie Mercury](https://open.spotify.com/track/4sURb4AipjvtVKX1eRQFKj) | [License and Registration Players](https://open.spotify.com/artist/5JtnBOCdnbCmxBj12ts4VU) | [Queen Karaoke: 30 of Their Best Hits](https://open.spotify.com/album/7b1kduPHfjDJX7uS0KlXzo) | 3:37 | 2024-07-15 |  |
 | [I Was Made For Lovin' You](https://open.spotify.com/track/3lAmNIDdMWfFFCpyuE9sK7) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes, Thrashes And Hits](https://open.spotify.com/album/7j2bCsZXZqwkXJ0pI9o5aA) | 4:30 | 2025-08-25 |  |
 | [I Was Made For Lovin' You](https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:31 | 2023-04-11 |  |
@@ -2928,6 +2930,7 @@
 | [Life in a Northern Town](https://open.spotify.com/track/4m3OS54KWywYhP7WD7z1cg) | [The Dream Academy](https://open.spotify.com/artist/1JVoO5bwfU8GNuAZLpBoHe) | [The Dream Academy](https://open.spotify.com/album/3T77PrRnq17gBhcctDtDC1) | 4:19 | 2023-07-11 |  |
 | [Life in the Fast Lane \- 2013 Remaster](https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 4:46 | 2023-04-11 |  |
 | [Life Is A Rollercoaster](https://open.spotify.com/track/5lQfI9cYzezWGvqwrWkzqh) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/6BNUYhhSL5a4yrvrfasKcF) | 3:54 | 2023-04-11 |  |
+| [Life On Mars?](https://open.spotify.com/track/6q0bTn8XKEdSrSxfJpfNQz) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Licorice Pizza \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2hZarv2b2vI2j0QRrOv4bt) | 3:52 | 2025-10-11 |  |
 | [Life on Mars? \- 2015 Remaster](https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:55 | 2023-04-11 |  |
 | [Life's A Shocking Miracle](https://open.spotify.com/track/1nCuanXKagVfCKkiwpZ2bn) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Life's A Fucking Miracle](https://open.spotify.com/album/0aiEWaCUW3AjEwfFOOCz4W) | 3:16 | 2024-05-13 |  |
 | [Life's Been Good](https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [But Seriously, Folks...](https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva) | 8:56 | 2024-03-18 |  |
@@ -3197,6 +3200,7 @@
 | [Mansard Roof](https://open.spotify.com/track/23A1225Ju3BOBykt9n4xkc) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x) | 2:07 | 2023-04-11 |  |
 | [MANTRA](https://open.spotify.com/track/060RNnzoMay3wKJek1faPc) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 3:53 | 2023-09-06 |  |
 | [Many of Horror](https://open.spotify.com/track/0Au4QRVX0hwIRVv1svcqhD) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6UuQatBlB5QYszvOsBawSD) | 4:18 | 2023-04-11 |  |
+| [Many of Horror](https://open.spotify.com/track/1auUyL63z3sWnBhooTnz31) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh) | 4:18 | 2025-10-11 |  |
 | [Many of Horror](https://open.spotify.com/track/5KY6vqlVlLZzgtmPqqcbN7) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Many of Horror](https://open.spotify.com/album/3tpGl821Y2UaXqpYaBocZA) | 4:18 | 2025-04-03 |  |
 | [Many of Horror \(When We Collide\)](https://open.spotify.com/track/4DT2S8N29NwxVAQFy1CW5E) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Many of Horror](https://open.spotify.com/album/24kuDY1dmI66PaUM0wqNxU) | 4:20 | 2025-09-15 |  |
 | [Marakesh Express \(In the Style of Crosby, Stills, Nash and Young\) \[Karaoke Version\]](https://open.spotify.com/track/3BEgmFDyqu2bDo4HHdw8Mk) | [Ameritz Karaoke Hits](https://open.spotify.com/artist/1gKjPKYtt6NXhxIqJPFIYE) | [Karaoke \- Hits of Crosby, Stills, Nash and Young](https://open.spotify.com/album/4vd9tGInOLTianKfHxdaTu) | 2:30 | 2024-01-22 |  |
@@ -3745,6 +3749,7 @@
 | [Paint A Picture](https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Paint A Picture](https://open.spotify.com/album/6GAwsYJC09D75uOSpkAdWM) | 2:48 | 2025-06-23 |  |
 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 | 2023-04-05 |  |
 | [Paint It, Black \- Mono](https://open.spotify.com/track/1RJeiAIwR9pZBgJA8ndZLL) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones In Mono \(Remastered 2016\)](https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv) | 3:24 | 2025-06-23 |  |
+| [Pale Shelter](https://open.spotify.com/track/3bq6GVy7ol5FdMU0OtKVkz) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting \(Deluxe Edition\)](https://open.spotify.com/album/6Sv5PjYWap5poTCrJJYjwk) | 4:03 | 2025-10-11 |  |
 | [Pale Shelter \- 2nd Single Version](https://open.spotify.com/track/0Xam0zVac3hKWWN4OQ5Gdr) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 4:33 | 2023-05-17 |  |
 | [Pale Shelter \- Live From Franklin, TN](https://open.spotify.com/track/6XM6RFI8X3E1taYyHMk3Us) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs For A Nervous Planet](https://open.spotify.com/album/2DZInrxWAdqrQueZCkqcr3) | 4:37 | 2024-10-28 |  |
 | [Palpitations](https://open.spotify.com/track/4GhZ5N1ibqkEp5vteGoD5L) | [Felicette](https://open.spotify.com/artist/0DiwedNjQjgok1la67Sao3) | [Go To Hell](https://open.spotify.com/album/6b6IElFzOKQfb5HXglLade) | 2:44 | 2024-04-01 |  |
@@ -4273,6 +4278,7 @@
 | [Save Me \- Remastered 2011](https://open.spotify.com/track/1pBFEy8cz0Fq4Pru0c4awd) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:49 | 2024-02-12 |  |
 | [Save Tonight](https://open.spotify.com/track/0smyCrJiibi2uwCiq5R1vj) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/0zS5fFa2I679lrdhSPAyIe) | 4:02 | 2023-04-05 |  |
 | [Say Hello, Wave Goodbye \- 7" Single Version](https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 5:23 | 2023-10-16 |  |
+| [Say It Ain't So](https://open.spotify.com/track/56MEbUIvvfEEkLIl51wxGD) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/3hcrTu8zeynChXDOJt3lX2) | 4:18 | 2025-10-11 |  |
 | [Say It Ain't So \- Original Mix](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 | 2023-10-30 |  |
 | [Say It Like You Mean It](https://open.spotify.com/track/2EgYIE84KYjf52Sw2WW4x4) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Little Rope](https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM) | 3:44 | 2024-02-19 |  |
 | [Say My Name](https://open.spotify.com/track/396Cq1FGhsChbIxzwXa4rQ) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 3:51 | 2023-09-04 |  |
@@ -5926,6 +5932,7 @@
 | [Wind Of Change](https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:12 | 2023-05-17 |  |
 | [Wings of a Dove](https://open.spotify.com/track/0pVDmHG311u5Vn6Mgy8RDm) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Keep Moving](https://open.spotify.com/album/0OsYyJJmfJlha37W4mVswi) | 2:59 | 2023-12-04 |  |
 | [Wings of a Dove](https://open.spotify.com/track/3jSnJoIQjNo2qfFEbNqL7f) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Keep Moving](https://open.spotify.com/album/625objh4hn6H0V36uyOxRQ) | 2:59 | 2023-10-16 |  |
+| [Wings of a Dove](https://open.spotify.com/track/5NnZMC425ydVkAG7CpRhCU) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Keep Moving](https://open.spotify.com/album/301wQYZfEqkDwThfN61bza) | 2:59 | 2025-10-11 |  |
 | [Wings of a Dove](https://open.spotify.com/track/7ll1W9UC4hKqUHVlRTaLb9) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Keep Moving](https://open.spotify.com/album/1wyb5X1cUFUk6xiusI36En) | 2:59 | 2024-12-02 |  |
 | [Winter Wonderland](https://open.spotify.com/track/7sLMJTInMHpPmfyyHc0T4F) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2) | [Concrete Love: Extra Love](https://open.spotify.com/album/6eXY52X4FguefmfhB0KqJ4) | 3:27 | 2023-12-04 |  |
 | [Winter Wonderland](https://open.spotify.com/track/12YAgUbl6Uk9E7fzopF4Ji) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:26 | 2023-12-18 |  |

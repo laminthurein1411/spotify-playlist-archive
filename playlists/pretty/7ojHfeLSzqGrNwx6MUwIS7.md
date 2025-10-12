@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 
 ### [big mix](https://open.spotify.com/playlist/7ojHfeLSzqGrNwx6MUwIS7)
 
-> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-09 07:16:30.694856
+> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-11 10:38:40.178192
 
-[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,126 songs - 16 day 19 hr 48 min
+[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,133 songs - 16 day 20 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -6134,5 +6134,12 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 | 6124 | [Lift You Up](https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Lift You Up](https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI) | 2:13 |
 | 6125 | [Smooth Criminal](https://open.spotify.com/track/6KlESwx6JWh4QiPYRU4Nm3) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [The Best Of Alien Ant Farm 20th Century Masters The Millennium Collection](https://open.spotify.com/album/0Kucza2kOX3aKefmhuwEGp) | 3:29 |
 | 6126 | [Where The Streets Have No Name](https://open.spotify.com/track/2TlXPShOrPn4K51fP0Fykd) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 4:35 |
+| 6127 | [Pale Shelter](https://open.spotify.com/track/3bq6GVy7ol5FdMU0OtKVkz) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting \(Deluxe Edition\)](https://open.spotify.com/album/6Sv5PjYWap5poTCrJJYjwk) | 4:03 |
+| 6128 | [I Was Born to Love You](https://open.spotify.com/track/36sfWI1rk2Nf4Ek9XDUEnC) | [Freddie Mercury](https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH) | [Messenger Of The Gods: The Singles Collection](https://open.spotify.com/album/0Q6mYDUdxy5bX4vNNqqje9) | 3:39 |
+| 6129 | [Wings of a Dove](https://open.spotify.com/track/5NnZMC425ydVkAG7CpRhCU) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Keep Moving](https://open.spotify.com/album/301wQYZfEqkDwThfN61bza) | 2:59 |
+| 6130 | [Say It Ain't So](https://open.spotify.com/track/56MEbUIvvfEEkLIl51wxGD) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/3hcrTu8zeynChXDOJt3lX2) | 4:18 |
+| 6131 | [Many of Horror](https://open.spotify.com/track/1auUyL63z3sWnBhooTnz31) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh) | 4:18 |
+| 6132 | [Fun People](https://open.spotify.com/track/0hifipai6neowQSwWp8jxG) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [Fun People](https://open.spotify.com/album/7Fb7U2ifkL0yfmqPCBYr46) | 3:42 |
+| 6133 | [Life On Mars?](https://open.spotify.com/track/6q0bTn8XKEdSrSxfJpfNQz) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Licorice Pizza \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2hZarv2b2vI2j0QRrOv4bt) | 3:52 |
 
-Snapshot ID: `AAACg+fm6pIWRSH3vD35NW/AjN6lZ2mI`
+Snapshot ID: `AAAChTB+zPAJ1N1EGqBfxM+Ll7Y5/mp3`
