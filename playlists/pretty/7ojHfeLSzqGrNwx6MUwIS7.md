@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 
 ### [big mix](https://open.spotify.com/playlist/7ojHfeLSzqGrNwx6MUwIS7)
 
-> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-11 10:38:40.178192
+> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-13 07:15:09.758469
 
-[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,133 songs - 16 day 20 hr 15 min
+[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,158 songs - 16 day 21 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -6141,5 +6141,30 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 | 6131 | [Many of Horror](https://open.spotify.com/track/1auUyL63z3sWnBhooTnz31) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh) | 4:18 |
 | 6132 | [Fun People](https://open.spotify.com/track/0hifipai6neowQSwWp8jxG) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [Fun People](https://open.spotify.com/album/7Fb7U2ifkL0yfmqPCBYr46) | 3:42 |
 | 6133 | [Life On Mars?](https://open.spotify.com/track/6q0bTn8XKEdSrSxfJpfNQz) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Licorice Pizza \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2hZarv2b2vI2j0QRrOv4bt) | 3:52 |
+| 6134 | [Message of Love](https://open.spotify.com/track/72TmmWXcblj0vWbePA4Sba) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [The Singles](https://open.spotify.com/album/1Qo4xIO7aWMVcbelqpTdGY) | 3:25 |
+| 6135 | [Uncharted](https://open.spotify.com/track/1OJcaSbK9DBaxHExACplwA) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Time](https://open.spotify.com/album/7xPE8myLsFfCfCy8IVjv6c) | 4:01 |
+| 6136 | [Spin The Block](https://open.spotify.com/track/1f3LYv9fIs3o9pS8V3dwUP) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Spin The Block](https://open.spotify.com/album/6lqtX8Ea7i76lIhPPoBPSl) | 2:53 |
+| 6137 | [Superstition](https://open.spotify.com/track/1R5CIAk6wlloVuSV0eCaau) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Motown Greatest Hits](https://open.spotify.com/album/3vUzPu0xGmacwqVujWAict) | 4:27 |
+| 6138 | [Cuts Like A Knife](https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife](https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7) | 5:19 |
+| 6139 | [Spirit Of Your Friend](https://open.spotify.com/track/7gHLUnqivM9ArDog4Uutal) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [Spirit Of Your Friend](https://open.spotify.com/album/5cqV9CEPnwaUhAF8DZPphk) | 3:39 |
+| 6140 | [She's Always a Woman](https://open.spotify.com/track/3ILLSvTYvFjjEdbxvQumOb) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) | 3:21 |
+| 6141 | [R U Happy Now](https://open.spotify.com/track/4XGNzQ0JdnV27LPXVPvHWV) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Let All That We Imagine Be The Light](https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj) | 3:39 |
+| 6142 | [Opening](https://open.spotify.com/track/3q3MXI7TXxfrzGLMlNcWA8) | [Sky Sailor](https://open.spotify.com/artist/1wNyUBqk3zMlwfuyoiCIzS) | [Opening](https://open.spotify.com/album/1ZMP0olCCafDsFN3ruxse2) | 2:18 |
+| 6143 | [The Wind Cries Mary](https://open.spotify.com/track/5ygQD0fcj0vRGx9KUBENtT) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/719ELjvRzp0lHiLyAuAGj3) | 3:20 |
+| 6144 | [Stand By Me](https://open.spotify.com/track/5XSU59wtE5CRCAEyHmmGy4) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Songs From Final Fantasy XV](https://open.spotify.com/album/3G5GOLjvWUBRIrRp3GKnXO) | 4:05 |
+| 6145 | [Matches](https://open.spotify.com/track/6JHW0OWk6DcsNccunKv8fR) | [Katherine Priddy](https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41) | [Matches](https://open.spotify.com/album/50fRlWn3X50cO9CjYtQJga) | 4:52 |
+| 6146 | [Let Me Take You Out](https://open.spotify.com/track/2owVErNSbDqLmY0FWbhRMy) | [Class Actress](https://open.spotify.com/artist/4nZbOHYEypqHtWwTPQu8Fl) | [Journal of Ardency](https://open.spotify.com/album/7twFekZ3zmVFkbChsA42bG) | 3:18 |
+| 6147 | [The Logical Song](https://open.spotify.com/track/5Z4EgTCCoObfO1WfrvrQ9v) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [The Very Best Of Supertramp](https://open.spotify.com/album/3kv1eLaL0W9Uci9mZGryzS) | 4:09 |
+| 6148 | [Plastic](https://open.spotify.com/track/4RMGY1W4sG2a3Ds4Bmyqta) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Plastic](https://open.spotify.com/album/6stNjvJpPojt1aDjpOtK9o) | 1:55 |
+| 6149 | [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 |
+| 6150 | [Love Street \- New Stereo Mix](https://open.spotify.com/track/2kmrLAiBGlWnPFoqGWioCK) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Future Starts Here: The Essential Doors Hits](https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp) | 2:55 |
+| 6151 | [Wicked Love](https://open.spotify.com/track/3abCbyd02AH0Qcm3hzjRfI) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Wicked Love](https://open.spotify.com/album/1UaXy4MPKBEF3jlvWu7mGG) | 2:33 |
+| 6152 | [Seven Seas Of Rhye \- Remastered 2011](https://open.spotify.com/track/5u99eyhU43QoLeXXG6caoL) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits \(Remastered\)](https://open.spotify.com/album/3VWrUk4vBznMYXGMPc7dRB) | 2:47 |
+| 6153 | [once in a while](https://open.spotify.com/track/3UfcU9Jm1MpbIAD9TrUCSX) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [bird](https://open.spotify.com/album/766v1N1rHfUlcJtwvB3DsS) | 4:50 |
+| 6154 | [Nothin' But A Good Time](https://open.spotify.com/track/6G09JrmKdDAe29eSH8ZQmR) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say \. \. \. Ahh!](https://open.spotify.com/album/1XKDdHnYVcbcguSX2pXoP8) | 3:43 |
+| 6155 | [Cherry Picker](https://open.spotify.com/track/1as1UY6mD5pM7W6dAGADNe) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Cherry Picker](https://open.spotify.com/album/3Rf4fvEkIrthJoknt3RjFF) | 3:00 |
+| 6156 | [Which Side are You On?](https://open.spotify.com/track/0TZsy6XheL9cSxuX7yYqCO) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [If I Had a Hammer: Songs of Hope and Struggle](https://open.spotify.com/album/21k0wecYa9yprQ937HR62H) | 2:09 |
+| 6157 | [Heartache Tonight \- 2013 Remaster](https://open.spotify.com/track/2x9RdXFAN9o0ghV9nu3a5D) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Complete Greatest Hits \(2013 Remaster\)](https://open.spotify.com/album/21SQdfthbXUibmA8Jtf30b) | 4:25 |
+| 6158 | [Silver Machine](https://open.spotify.com/track/2Cdto5zew97V6xF6paKJw9) | [Hawkwind](https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05) | [Drive Fast, Rock Hard](https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL) | 4:41 |
 
-Snapshot ID: `AAAChTB+zPAJ1N1EGqBfxM+Ll7Y5/mp3`
+Snapshot ID: `AAACh/DnqU0Pz877hxLxX9mQ/GyZCpPO`

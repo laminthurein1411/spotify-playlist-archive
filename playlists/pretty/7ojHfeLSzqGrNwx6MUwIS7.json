@@ -1,12 +1,12 @@
 {
-  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-10-11 10:38:40.178192",
+  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-10-13 07:15:09.758469",
   "num_followers": 1,
   "original_name": "big mix",
   "owner": {
     "name": "jeffers_uk",
     "url": "https://open.spotify.com/user/jeffers_uk"
   },
-  "snapshot_id": "AAAChTB+zPAJ1N1EGqBfxM+Ll7Y5/mp3",
+  "snapshot_id": "AAACh/DnqU0Pz877hxLxX9mQ/GyZCpPO",
   "tracks": [
     {
       "added_at": "2023-04-05 10:01:14",
@@ -99871,6 +99871,406 @@
       "duration_ms": 232773,
       "name": "Life On Mars?",
       "url": "https://open.spotify.com/track/6q0bTn8XKEdSrSxfJpfNQz"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/1Qo4xIO7aWMVcbelqpTdGY"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "Message of Love",
+      "url": "https://open.spotify.com/track/72TmmWXcblj0vWbePA4Sba"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/7xPE8myLsFfCfCy8IVjv6c"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "duration_ms": 241480,
+      "name": "Uncharted",
+      "url": "https://open.spotify.com/track/1OJcaSbK9DBaxHExACplwA"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "Spin The Block",
+        "url": "https://open.spotify.com/album/6lqtX8Ea7i76lIhPPoBPSl"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 173069,
+      "name": "Spin The Block",
+      "url": "https://open.spotify.com/track/1f3LYv9fIs3o9pS8V3dwUP"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "Motown Greatest Hits",
+        "url": "https://open.spotify.com/album/3vUzPu0xGmacwqVujWAict"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/1R5CIAk6wlloVuSV0eCaau"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "Cuts Like A Knife",
+        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 319800,
+      "name": "Cuts Like A Knife",
+      "url": "https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "Spirit Of Your Friend",
+        "url": "https://open.spotify.com/album/5cqV9CEPnwaUhAF8DZPphk"
+      },
+      "artists": [
+        {
+          "name": "Doves",
+          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+        }
+      ],
+      "duration_ms": 219441,
+      "name": "Spirit Of Your Friend",
+      "url": "https://open.spotify.com/track/7gHLUnqivM9ArDog4Uutal"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "The Stranger",
+        "url": "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 201373,
+      "name": "She's Always a Woman",
+      "url": "https://open.spotify.com/track/3ILLSvTYvFjjEdbxvQumOb"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "Let All That We Imagine Be The Light",
+        "url": "https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 219691,
+      "name": "R U Happy Now",
+      "url": "https://open.spotify.com/track/4XGNzQ0JdnV27LPXVPvHWV"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "Opening",
+        "url": "https://open.spotify.com/album/1ZMP0olCCafDsFN3ruxse2"
+      },
+      "artists": [
+        {
+          "name": "Sky Sailor",
+          "url": "https://open.spotify.com/artist/1wNyUBqk3zMlwfuyoiCIzS"
+        }
+      ],
+      "duration_ms": 138177,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/3q3MXI7TXxfrzGLMlNcWA8"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/719ELjvRzp0lHiLyAuAGj3"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 200733,
+      "name": "The Wind Cries Mary",
+      "url": "https://open.spotify.com/track/5ygQD0fcj0vRGx9KUBENtT"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "Songs From Final Fantasy XV",
+        "url": "https://open.spotify.com/album/3G5GOLjvWUBRIrRp3GKnXO"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 245780,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/5XSU59wtE5CRCAEyHmmGy4"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "Matches",
+        "url": "https://open.spotify.com/album/50fRlWn3X50cO9CjYtQJga"
+      },
+      "artists": [
+        {
+          "name": "Katherine Priddy",
+          "url": "https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41"
+        }
+      ],
+      "duration_ms": 292306,
+      "name": "Matches",
+      "url": "https://open.spotify.com/track/6JHW0OWk6DcsNccunKv8fR"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "Journal of Ardency",
+        "url": "https://open.spotify.com/album/7twFekZ3zmVFkbChsA42bG"
+      },
+      "artists": [
+        {
+          "name": "Class Actress",
+          "url": "https://open.spotify.com/artist/4nZbOHYEypqHtWwTPQu8Fl"
+        }
+      ],
+      "duration_ms": 198310,
+      "name": "Let Me Take You Out",
+      "url": "https://open.spotify.com/track/2owVErNSbDqLmY0FWbhRMy"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "The Very Best Of Supertramp",
+        "url": "https://open.spotify.com/album/3kv1eLaL0W9Uci9mZGryzS"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "The Logical Song",
+      "url": "https://open.spotify.com/track/5Z4EgTCCoObfO1WfrvrQ9v"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "Plastic",
+        "url": "https://open.spotify.com/album/6stNjvJpPojt1aDjpOtK9o"
+      },
+      "artists": [
+        {
+          "name": "Upchuck",
+          "url": "https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW"
+        }
+      ],
+      "duration_ms": 115817,
+      "name": "Plastic",
+      "url": "https://open.spotify.com/track/4RMGY1W4sG2a3Ds4Bmyqta"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "duration_ms": 163874,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "The Future Starts Here: The Essential Doors Hits",
+        "url": "https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 175253,
+      "name": "Love Street - New Stereo Mix",
+      "url": "https://open.spotify.com/track/2kmrLAiBGlWnPFoqGWioCK"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "Wicked Love",
+        "url": "https://open.spotify.com/album/1UaXy4MPKBEF3jlvWu7mGG"
+      },
+      "artists": [
+        {
+          "name": "Menna",
+          "url": "https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM"
+        }
+      ],
+      "duration_ms": 153684,
+      "name": "Wicked Love",
+      "url": "https://open.spotify.com/track/3abCbyd02AH0Qcm3hzjRfI"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "Greatest Hits (Remastered)",
+        "url": "https://open.spotify.com/album/3VWrUk4vBznMYXGMPc7dRB"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "Seven Seas Of Rhye - Remastered 2011",
+      "url": "https://open.spotify.com/track/5u99eyhU43QoLeXXG6caoL"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "bird",
+        "url": "https://open.spotify.com/album/766v1N1rHfUlcJtwvB3DsS"
+      },
+      "artists": [
+        {
+          "name": "Low Island",
+          "url": "https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd"
+        }
+      ],
+      "duration_ms": 290982,
+      "name": "once in a while",
+      "url": "https://open.spotify.com/track/3UfcU9Jm1MpbIAD9TrUCSX"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "Open Up And Say . . . Ahh!",
+        "url": "https://open.spotify.com/album/1XKDdHnYVcbcguSX2pXoP8"
+      },
+      "artists": [
+        {
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+        }
+      ],
+      "duration_ms": 223406,
+      "name": "Nothin' But A Good Time",
+      "url": "https://open.spotify.com/track/6G09JrmKdDAe29eSH8ZQmR"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "Cherry Picker",
+        "url": "https://open.spotify.com/album/3Rf4fvEkIrthJoknt3RjFF"
+      },
+      "artists": [
+        {
+          "name": "Girl Tones",
+          "url": "https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6"
+        }
+      ],
+      "duration_ms": 180469,
+      "name": "Cherry Picker",
+      "url": "https://open.spotify.com/track/1as1UY6mD5pM7W6dAGADNe"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "If I Had a Hammer: Songs of Hope and Struggle",
+        "url": "https://open.spotify.com/album/21k0wecYa9yprQ937HR62H"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "duration_ms": 129800,
+      "name": "Which Side are You On?",
+      "url": "https://open.spotify.com/track/0TZsy6XheL9cSxuX7yYqCO"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "The Complete Greatest Hits (2013 Remaster)",
+        "url": "https://open.spotify.com/album/21SQdfthbXUibmA8Jtf30b"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 265678,
+      "name": "Heartache Tonight - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2x9RdXFAN9o0ghV9nu3a5D"
+    },
+    {
+      "added_at": "2025-10-13 06:15:09",
+      "album": {
+        "name": "Drive Fast, Rock Hard",
+        "url": "https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL"
+      },
+      "artists": [
+        {
+          "name": "Hawkwind",
+          "url": "https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Silver Machine",
+      "url": "https://open.spotify.com/track/2Cdto5zew97V6xF6paKJw9"
     }
   ],
   "unique_name": "big mix",

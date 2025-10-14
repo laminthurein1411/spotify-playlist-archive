@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAEoO2imkEWBRn4vZBH+8v57JZ1GuG/",
+  "snapshot_id": "AAAEoSJLIUFuB71EMQcY618eeCz2Qbr/",
   "tracks": [
     {
       "added_at": "2019-12-20 13:17:42",
@@ -18879,6 +18879,22 @@
       "duration_ms": 233360,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n"
+    },
+    {
+      "added_at": "2025-10-13 18:06:39",
+      "album": {
+        "name": "MSI B-SIDES vol.1",
+        "url": "https://open.spotify.com/album/1EKVMKNNAOROOmoupP5OwS"
+      },
+      "artists": [
+        {
+          "name": "Mindless Self Indulgence",
+          "url": "https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN"
+        }
+      ],
+      "duration_ms": 133979,
+      "name": "Seven Minutes in Heaven",
+      "url": "https://open.spotify.com/track/2t7B8DDBgLbMcYVMTo8vd5"
     }
   ],
   "unique_name": "Western Songs",

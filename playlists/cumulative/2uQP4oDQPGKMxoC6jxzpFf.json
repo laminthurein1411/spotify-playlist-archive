@@ -5161,6 +5161,28 @@
     },
     {
       "album": {
+        "name": "Body To Body",
+        "url": "https://open.spotify.com/album/2xBsIALzD8MjPfSzlQFc1c"
+      },
+      "artists": [
+        {
+          "name": "Siibii",
+          "url": "https://open.spotify.com/artist/5xIv9tG1tb1tBj3PsjIqgi"
+        },
+        {
+          "name": "Aysanabee",
+          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195266,
+      "name": "Body To Body",
+      "url": "https://open.spotify.com/track/1G4bXB1UO3uPisKXnp1xOD"
+    },
+    {
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -6915,6 +6937,32 @@
     },
     {
       "album": {
+        "name": "Hand On The Torch",
+        "url": "https://open.spotify.com/album/3lOv4MWFZGIJmHdyMXtlB5"
+      },
+      "artists": [
+        {
+          "name": "Us3",
+          "url": "https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD"
+        },
+        {
+          "name": "Rahsaan",
+          "url": "https://open.spotify.com/artist/2cNCyL3WSlAatld5duatyD"
+        },
+        {
+          "name": "Gerard Presencer",
+          "url": "https://open.spotify.com/artist/5A8UenAZRv51yZVv13nFQo"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279360,
+      "name": "Cantaloop (Flip Fantasia)",
+      "url": "https://open.spotify.com/track/2AnTuxahfcAS7dGxGZnihY"
+    },
+    {
+      "album": {
         "name": "Introducing...",
         "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
       },
@@ -8656,6 +8704,24 @@
       "duration_ms": 169106,
       "name": "Comme des enfants",
       "url": "https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX"
+    },
+    {
+      "album": {
+        "name": "The Gambler (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2eidOWrCeH2sUMML9Ive4b"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246026,
+      "name": "Common People",
+      "url": "https://open.spotify.com/track/3SzP7yEGRSbfnkkNVMxxYa"
     },
     {
       "album": {
@@ -21793,6 +21859,24 @@
     },
     {
       "album": {
+        "name": "The Beautiful Wild",
+        "url": "https://open.spotify.com/album/77fTB5QYEZNidjOky3Kp9s"
+      },
+      "artists": [
+        {
+          "name": "Jenn Grant",
+          "url": "https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247226,
+      "name": "I've Got Your Fire",
+      "url": "https://open.spotify.com/track/1LfPZaeHXFQjRs32l9Io00"
+    },
+    {
+      "album": {
         "name": "Boy on Bridge",
         "url": "https://open.spotify.com/album/5pRRj7XnoygSxNGN7RZZV3"
       },
@@ -25872,6 +25956,24 @@
       "duration_ms": 271439,
       "name": "Like The Sun",
       "url": "https://open.spotify.com/track/2UPDyTyDunFj9HjLgOhy3k"
+    },
+    {
+      "album": {
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/0LMJ5vzOvyazs0g1SoaISH"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Lilacs",
+      "url": "https://open.spotify.com/track/53hfvs9b0ykU1m7NgSWNiW"
     },
     {
       "album": {

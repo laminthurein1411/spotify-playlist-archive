@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,801 songs - 7 day 7 hr 19 min
+2,806 songs - 7 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Bluebird Wine](https://open.spotify.com/track/21qwEvkHA9J6fXZAKabtjX) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Country](https://open.spotify.com/album/0tHfPZikpvAMB16u7A7HIf) | 3:55 | 2025-05-15 |  |
 | [Bobcaygeon](https://open.spotify.com/track/0zvoortTtenePY5FxgdmyQ) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV), [T\. Buckley](https://open.spotify.com/artist/3uMfRdAAdTRyi0Kg2qCxmo) | [Bobcaygeon](https://open.spotify.com/album/2tbM6CtwDs5pWMbZrtUzc1) | 4:37 | 2025-06-15 |  |
 | [Bobcaygeon](https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Phantom Power](https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz) | 4:55 | 2024-12-07 |  |
+| [Body To Body](https://open.spotify.com/track/1G4bXB1UO3uPisKXnp1xOD) | [Siibii](https://open.spotify.com/artist/5xIv9tG1tb1tBj3PsjIqgi), [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Body To Body](https://open.spotify.com/album/2xBsIALzD8MjPfSzlQFc1c) | 3:15 | 2025-10-13 |  |
 | [BODYGUARD](https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:00 | 2024-12-17 |  |
 | [Bohemian Like You](https://open.spotify.com/track/3APHT3KjbHi9OllkVQsuXF) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/3RFenjlpdmIfkYATMdkbak) | 3:31 | 2025-02-12 |  |
 | [Bomb](https://open.spotify.com/track/2TqLvFOrS1XMT4RsfmJpdR) | [Kelly McMichael](https://open.spotify.com/artist/5ogab2Tu9UMZTumiZbl315) | [Bomb](https://open.spotify.com/album/0S9NGmGx3FihKbt3hiZfTt) | 3:07 | 2024-11-24 |  |
@@ -379,6 +380,7 @@
 | [Canned Heat](https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Synkronized](https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv) | 5:31 | 2025-06-15 |  |
 | [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 | 2024-11-25 |  |
 | [Canopy](https://open.spotify.com/track/59YWoPxE5fFp1nS3yy4hFf) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Canopy](https://open.spotify.com/album/1lgJ4fZkUjGyUuMfve9QgV) | 2:31 | 2025-02-06 |  |
+| [Cantaloop \(Flip Fantasia\)](https://open.spotify.com/track/2AnTuxahfcAS7dGxGZnihY) | [Us3](https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD), [Rahsaan](https://open.spotify.com/artist/2cNCyL3WSlAatld5duatyD), [Gerard Presencer](https://open.spotify.com/artist/5A8UenAZRv51yZVv13nFQo) | [Hand On The Torch](https://open.spotify.com/album/3lOv4MWFZGIJmHdyMXtlB5) | 4:39 | 2025-10-13 |  |
 | [Can’t Leave It Alone](https://open.spotify.com/track/2ZAkXsq4jTLYH3ZA4cu6a9) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Introducing...](https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ) | 2:32 | 2025-01-11 |  |
 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 | 2025-06-16 |  |
 | [Caramel](https://open.spotify.com/track/7H5jHyfHk4sAYoS8J8f112) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wishbone](https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN) | 3:54 | 2025-09-25 |  |
@@ -473,6 +475,7 @@
 | [Come With Me](https://open.spotify.com/track/26xDpdbYyHQtL1VigJRkhD) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Come With Me](https://open.spotify.com/album/1H9pgl0ykNBD3NeZsk6Eve) | 3:33 | 2024-11-26 |  |
 | [Coming of Age](https://open.spotify.com/track/1yzbqrSF0vuaO7nuKYSd6f) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Supermodel](https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0) | 4:40 | 2024-11-28 |  |
 | [Comme des enfants](https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cœur de pirate](https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp) | 2:49 | 2025-03-09 |  |
+| [Common People](https://open.spotify.com/track/3SzP7yEGRSbfnkkNVMxxYa) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [The Gambler \(Music From The Motion Picture\)](https://open.spotify.com/album/2eidOWrCeH2sUMML9Ive4b) | 4:06 | 2025-10-13 |  |
 | [Common People](https://open.spotify.com/track/7mMtLgGAqsXB84sf57UMUw) | [William Shatner](https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza) | [William Shatner Has Been](https://open.spotify.com/album/53CfmaDFzVoFdPcU5SjjmB) | 4:40 | 2025-04-01 |  |
 | [Common People \- Full Length Version](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 | 2024-12-30 |  |
 | [Common Touch](https://open.spotify.com/track/1K7nNOI5TNRQOiqpVOdrBo) | [Wardrobe](https://open.spotify.com/artist/7l4xhRQHi7oJKgqHiI3tCg) | [Common Touch](https://open.spotify.com/album/2ADUvQtpzjyq0JFLGxvzJF) | 3:07 | 2025-07-27 |  |
@@ -1176,6 +1179,7 @@
 | [I'm Trying](https://open.spotify.com/track/71Y8O75I49N4HuCZFPeoTC) | [Terry Browne](https://open.spotify.com/artist/5xnNtqjewkiiaZ3U6k2cor) | [I'm Trying](https://open.spotify.com/album/3874pdpvK9fE8iUhvf3CgU) | 3:34 | 2025-02-17 |  |
 | [I've Got A Feeling \- Remastered 2010](https://open.spotify.com/track/7szguSB82bbV0IwrujhRW7) | [Billy Preston](https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5) | [Encouraging Words \(Expanded Edition / Remastered 2010\)](https://open.spotify.com/album/4aq52dJS6IvmCfiCRU94oq) | 2:53 | 2025-08-19 |  |
 | [I've Got Friends in Low Places](https://open.spotify.com/track/08HSJS7ZbnjrO8mRkVC391) | [Rae Spoon](https://open.spotify.com/artist/507TICFblljsw2Nbk7wXbx) | [I've Got Friends in Low Places](https://open.spotify.com/album/3OnX8mJpFiHftx6Mgyl8Nq) | 3:11 | 2025-06-14 |  |
+| [I've Got Your Fire](https://open.spotify.com/track/1LfPZaeHXFQjRs32l9Io00) | [Jenn Grant](https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L) | [The Beautiful Wild](https://open.spotify.com/album/77fTB5QYEZNidjOky3Kp9s) | 4:07 | 2025-10-13 |  |
 | [I've Seen a Little](https://open.spotify.com/track/3AAt3J9MArJ14zqKhD8j24) | [Alan Doyle](https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL) | [Boy on Bridge](https://open.spotify.com/album/5pRRj7XnoygSxNGN7RZZV3) | 3:31 | 2025-08-21 |  |
 | [I've Seen It All](https://open.spotify.com/track/1YVGmFUZO1neVfwT2pjrmk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Selmasongs: Music from the Motion Picture "Dancer in the Dark"](https://open.spotify.com/album/4l3nzzqehJwW5EJb3KaNxg) | 5:19 | 2025-06-07 |  |
 | [Ice Box](https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [21](https://open.spotify.com/album/2dGxINFRaJEwDRXohf5gTE) | 4:16 | 2025-06-04 |  |
@@ -1395,6 +1399,7 @@
 | [Like I Used To](https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To](https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra) | 4:23 | 2025-05-11 |  |
 | [Like Sugar](https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Hello Happiness](https://open.spotify.com/album/1QRhPsupQCDlD9EwTWumSA) | 3:59 | 2025-01-27 |  |
 | [Like The Sun](https://open.spotify.com/track/2UPDyTyDunFj9HjLgOhy3k) | [Andy Stochansky](https://open.spotify.com/artist/23SdQUzKTQHY54HvHsd298) | [Like The Sun](https://open.spotify.com/album/16o9ul6zJfDeeCzxStyRzh) | 4:31 | 2025-05-09 |  |
+| [Lilacs](https://open.spotify.com/track/53hfvs9b0ykU1m7NgSWNiW) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/0LMJ5vzOvyazs0g1SoaISH) | 3:15 | 2025-10-13 |  |
 | [Lilacs](https://open.spotify.com/track/69Akwuscu16hdYN637eTis) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:15 | 2025-05-06 |  |
 | [Lime](https://open.spotify.com/track/7szmTCzR3p6fPZSVfIhWbJ) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 2:55 | 2025-02-20 |  |
 | [Limit To Your Love](https://open.spotify.com/track/33BnSMHgX0AsbKSIbkuMwh) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:36 | 2025-05-15 |  |

@@ -4,7 +4,7 @@
 
 > 
 
-1,124 songs - 2 day 18 hr 58 min
+1,125 songs - 2 day 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -790,6 +790,7 @@
 | [September Song \- Piano Acoustic](https://open.spotify.com/track/3daIaqRrkPwob5SGcbNd9X) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [September Song \(Remixes\)](https://open.spotify.com/album/2Gq7KJ5yRicUfoDL4LR3K1) | 3:35 | 2021-12-11 |  |
 | [Setting Sail](https://open.spotify.com/track/2kYegRdfrySIO1b7R2fOrX) | [Gary Clark](https://open.spotify.com/artist/3EGfGUVmEPyyUEF8szBVwE), [John Carney](https://open.spotify.com/artist/7g5vwvz7YbwdcgaYjZU9lH) | [Modern Love: Season 1 \(Music From The Amazon Original Series\)](https://open.spotify.com/album/0pmmdB2cBGwrExnk7vKhY0) | 2:14 | 2022-01-28 |  |
 | [Settling](https://open.spotify.com/track/6jQALCbfH7gYSN46Ns839Q) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/0LuaDQd1gfG4Q22WQMDi5c) | 3:08 | 2022-07-15 |  |
+| [Seven Minutes in Heaven](https://open.spotify.com/track/2t7B8DDBgLbMcYVMTo8vd5) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [MSI B\-SIDES vol.1](https://open.spotify.com/album/1EKVMKNNAOROOmoupP5OwS) | 2:13 | 2025-10-13 |  |
 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 | 2022-01-01 |  |
 | [Sex & Candy](https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 2:53 | 2023-11-27 |  |
 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 | 2023-11-06 |  |
