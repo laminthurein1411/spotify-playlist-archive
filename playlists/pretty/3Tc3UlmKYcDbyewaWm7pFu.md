@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,125 songs - 2 day 19 hr 0 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,126 songs - 2 day 19 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1133,5 +1133,6 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 | 1123 | [Live Well](https://open.spotify.com/track/2H30WL3exSctlDC9GyRbD4) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 4:09 |
 | 1124 | [Bitter](https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 3:53 |
 | 1125 | [Seven Minutes in Heaven](https://open.spotify.com/track/2t7B8DDBgLbMcYVMTo8vd5) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [MSI B\-SIDES vol.1](https://open.spotify.com/album/1EKVMKNNAOROOmoupP5OwS) | 2:13 |
+| 1126 | [What Was That](https://open.spotify.com/track/7hGCCQkdyF1MX6uk339uBS) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:29 |
 
-Snapshot ID: `AAAEoSJLIUFuB71EMQcY618eeCz2Qbr/`
+Snapshot ID: `AAAEoswu6PWYUV25TTRcUR4U6eV7gHmd`

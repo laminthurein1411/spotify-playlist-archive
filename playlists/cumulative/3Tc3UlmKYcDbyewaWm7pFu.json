@@ -19627,6 +19627,24 @@
     },
     {
       "album": {
+        "name": "Virgin",
+        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209286,
+      "name": "What Was That",
+      "url": "https://open.spotify.com/track/7hGCCQkdyF1MX6uk339uBS"
+    },
+    {
+      "album": {
         "name": "What's Left of You",
         "url": "https://open.spotify.com/album/0YxGSwRTpQM2QB5yc7sG6f"
       },

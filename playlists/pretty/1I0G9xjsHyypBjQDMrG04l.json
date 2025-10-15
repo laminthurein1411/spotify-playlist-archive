@@ -6,8 +6,40 @@
     "name": "scfi",
     "url": "https://open.spotify.com/user/stephenip10"
   },
-  "snapshot_id": "AAAF9RVNyow2oQz7MnDQAtu+wOXVdYmb",
+  "snapshot_id": "AAAF93QG3LLjqd1dROhG28XqGpaGekDj",
   "tracks": [
+    {
+      "added_at": "2025-10-14 07:00:18",
+      "album": {
+        "name": "MAGICMAN 2",
+        "url": "https://open.spotify.com/album/6grHFyWJvGNZjyLCAHPnrJ"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "duration_ms": 195800,
+      "name": "Made Me a Man",
+      "url": "https://open.spotify.com/track/1SKKwE9KkajzyeTwR1VLvp"
+    },
+    {
+      "added_at": "2025-10-14 07:00:18",
+      "album": {
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 202795,
+      "name": "bittersweet",
+      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
+    },
     {
       "added_at": "2025-10-10 07:00:17",
       "album": {
@@ -5375,38 +5407,6 @@
       "duration_ms": 191880,
       "name": "We Are Never Ever Getting Back Together",
       "url": "https://open.spotify.com/track/7AEAGTc8cReDqcbPoY9gwo"
-    },
-    {
-      "added_at": "2023-07-26 10:00:13",
-      "album": {
-        "name": "NewJeans 'Super Shy'",
-        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Super Shy",
-      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
-    },
-    {
-      "added_at": "2023-05-03 09:30:13",
-      "album": {
-        "name": "The Beginning: Cupid",
-        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Cupid - Twin Ver.",
-      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
     },
     {
       "added_at": "2023-05-03 08:00:13",

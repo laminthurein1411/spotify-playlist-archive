@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 135 songs - 7 hr 22 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 136 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,5 +143,6 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 133 | [L'horloge tourne](https://open.spotify.com/track/1sphiFFp9zrlSLmpFhywRV) | [Mickael Miro](https://open.spotify.com/artist/0VtUo7KpkeFx3zwTmSwNQl) | [Juste Comme Ça](https://open.spotify.com/album/2fMnPZsQORaYp7SCPNAw03) | 3:25 |
 | 134 | [Arbeiter von Wien](https://open.spotify.com/track/0Q4lgLJ2A8GnP4aYRl4vK5) | [Erich\-Weinert\-Ensemble](https://open.spotify.com/artist/6tuPwxuo1bWYs5N9z4vDXM) | [Hymnes et marches de la République Démocratique Allemande](https://open.spotify.com/album/54Aw3vJODQ5jrTAcoOZPjD) | 2:35 |
 | 135 | [Erika](https://open.spotify.com/track/5Mcc5HvNp9mZGMKfCz0Fsw) | [Grosses Blasorchester](https://open.spotify.com/artist/5P2XbGlMxF4OAZJDrnYWep) | [Marches allemandes \(Mono Version\)](https://open.spotify.com/album/7BzaAsIhP8s2Whi8SkIcay) | 2:16 |
+| 136 | [Судно \(Борис Рижий\)](https://open.spotify.com/track/6DONTnamNDOJdO6DzCu71p) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1vPytXXwF0VXnof89Z91Pm) | 2:21 |
 
-Snapshot ID: `AAAATxsL8L5eP60cz/7Y7BLJiwpWGDFv`
+Snapshot ID: `AAAAUDNx4VtSVc1G2VaItlKhPLJP0GN+`

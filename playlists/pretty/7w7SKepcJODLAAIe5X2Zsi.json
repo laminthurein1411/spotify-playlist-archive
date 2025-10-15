@@ -752,12 +752,16 @@
       },
       "artists": [
         {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
           "name": "Hamburg Symphony Orchestra",
           "url": "https://open.spotify.com/artist/6NGBN1QmBe5ldyr4cDfrVR"
         }
       ],
       "duration_ms": 622358,
-      "name": "La Primavera: Concierto N\u00ba1 En Mi Mayor",
+      "name": "Concierto para Viol\u00edn No. 1 en Mi Mayor, Op. 8, RV 269 \"La Primavera\"",
       "url": "https://open.spotify.com/track/7bnSPZQTtPIJ3JBy9bJTSE"
     },
     {
@@ -768,12 +772,16 @@
       },
       "artists": [
         {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
           "name": "Hamburg Symphony Orchestra",
           "url": "https://open.spotify.com/artist/6NGBN1QmBe5ldyr4cDfrVR"
         }
       ],
       "duration_ms": 767799,
-      "name": "El Oto\u00f1o: Concierto N\u00ba3 En Fa Mayor",
+      "name": "Concierto para Viol\u00edn No. 3 en Fa Mayor, Op. 8, RV 293 \"El Oto\u00f1o\"",
       "url": "https://open.spotify.com/track/5ZuSsMEe8wKFzpbZBfCocX"
     },
     {
@@ -784,12 +792,16 @@
       },
       "artists": [
         {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
           "name": "Hamburg Symphony Orchestra",
           "url": "https://open.spotify.com/artist/6NGBN1QmBe5ldyr4cDfrVR"
         }
       ],
       "duration_ms": 662944,
-      "name": "El Verano: Concierto N\u00ba2 En Sol Menor",
+      "name": "Concierto para Viol\u00edn No. 2 en Sol Menor, Op. 8, RV 315 \"El Verano\"",
       "url": "https://open.spotify.com/track/2C1MF4Aor79JEg2TrtT4BF"
     },
     {
@@ -800,12 +812,16 @@
       },
       "artists": [
         {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
           "name": "Hamburg Symphony Orchestra",
           "url": "https://open.spotify.com/artist/6NGBN1QmBe5ldyr4cDfrVR"
         }
       ],
       "duration_ms": 595426,
-      "name": "El Invierno: Concierto N\u00ba4 En Fa Menor",
+      "name": "Concierto para Viol\u00edn No. 4 en Fa Menor, Op. 8, RV 279 \"El Invierno\"",
       "url": "https://open.spotify.com/track/4TZc4PCi7987q2Bthg18XU"
     },
     {

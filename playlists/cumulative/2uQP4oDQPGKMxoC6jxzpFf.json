@@ -825,6 +825,24 @@
     },
     {
       "album": {
+        "name": "A Good Day",
+        "url": "https://open.spotify.com/album/2aMrC5C8Le0xLjoQBlbH2d"
+      },
+      "artists": [
+        {
+          "name": "Royal Wood",
+          "url": "https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228691,
+      "name": "A Good Day",
+      "url": "https://open.spotify.com/track/3rmPBxJwUC7w387Cz0kFLp"
+    },
+    {
+      "album": {
         "name": "LOONY",
         "url": "https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy"
       },

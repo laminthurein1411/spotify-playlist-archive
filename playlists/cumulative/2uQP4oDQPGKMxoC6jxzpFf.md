@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,806 songs - 7 day 7 hr 39 min
+2,807 songs - 7 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [A Friend](https://open.spotify.com/track/4lrGECKwRTmaBuAeQwVXzf) | [Pillow Fite](https://open.spotify.com/artist/4qYYUWoet5mNRpDASCnGC8) | [Hard Feelings, Soft Promises](https://open.spotify.com/album/5A17o1NdZOcgNwW3gBJWmr) | 3:26 | 2025-05-14 |  |
 | [A Girl Like You](https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [A Girl Like You](https://open.spotify.com/album/21bl39xHspuIISAteKFXoq) | 1:56 | 2025-01-10 |  |
 | [A Girl Like You](https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3) | [Edwyn Collins](https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT) | [Gorgeous George](https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir) | 3:56 | 2025-02-21 |  |
+| [A Good Day](https://open.spotify.com/track/3rmPBxJwUC7w387Cz0kFLp) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [A Good Day](https://open.spotify.com/album/2aMrC5C8Le0xLjoQBlbH2d) | 3:48 | 2025-10-14 |  |
 | [A Good Night](https://open.spotify.com/track/7KimZb0jVm9Lz1zttxASku) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [LOONY](https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy) | 2:25 | 2024-12-09 |  |
 | [A House Is Not a Home](https://open.spotify.com/track/4gFVTfg1EFuuXJguJe1Z7W) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 7:07 | 2025-02-28 |  |
 | [A Little Space](https://open.spotify.com/track/39Z9jfDXiPDkC0lwVfN5yS) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Church of Better Daze](https://open.spotify.com/album/3nvWKBg5uzny3jko5ezHJJ) | 3:32 | 2025-06-15 |  |

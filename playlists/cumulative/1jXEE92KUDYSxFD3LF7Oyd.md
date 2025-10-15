@@ -4,7 +4,7 @@
 
 > 
 
-135 songs - 7 hr 23 min
+136 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [И я](https://open.spotify.com/track/3eYySzaaWFz0E91CtqllEv) | [ANAZED](https://open.spotify.com/artist/3Uk305Q7Tf5kEm1HUtQy5Q) | [И я](https://open.spotify.com/album/2YdxcYRXKE5oWjWOykfr4q) | 2:21 | 2025-07-19 |  |
 | [Колыбельная](https://open.spotify.com/track/47RyOrXqLydmsPrsVU7nTw) | [Rauf & Faik](https://open.spotify.com/artist/0a3zDmrvmZcORfPeONPvfL) | [Колыбельная](https://open.spotify.com/album/25egsfoMlUTUKa6HVCS962) | 3:53 | 2023-10-12 |  |
 | [Спящая красавица](https://open.spotify.com/track/64Uiv4X755MZm6N597IT0M) | [polnalyubvi](https://open.spotify.com/artist/3cmfyZ8hRHaN2CO9Qo4j35) | [Сказки лесной нимфы](https://open.spotify.com/album/3LFGKPdcr1UsYAY1ln1VPh) | 2:16 | 2025-07-19 |  |
+| [Судно \(Борис Рижий\)](https://open.spotify.com/track/6DONTnamNDOJdO6DzCu71p) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1vPytXXwF0VXnof89Z91Pm) | 2:21 | 2025-10-14 |  |
 | [это ли счастье?](https://open.spotify.com/track/4KGq63QyNHWz44M5S6PWGo) | [Rauf & Faik](https://open.spotify.com/artist/0a3zDmrvmZcORfPeONPvfL) | [это ли счастье?](https://open.spotify.com/album/6RIr3dE6hBSv7Y0l2e1gCZ) | 3:24 | 2023-10-12 |  |
 
 \*This playlist was first scraped on 2025-05-18. Prior content cannot be recovered.

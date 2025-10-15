@@ -4,7 +4,7 @@
 
 > 
 
-1,125 songs - 2 day 19 hr 0 min
+1,126 songs - 2 day 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1053,6 +1053,7 @@
 | [What If \(I Told You I Like You\)](https://open.spotify.com/track/4v7DgEMw6EvYyuQ4eWFD9l) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [What If \(I Told You I Like You\)](https://open.spotify.com/album/2zXKlf81VmDHIMtQe3oD0r) | 3:39 | 2021-12-19 |  |
 | [What Makes You Beautiful](https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Up All Night](https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq) | 3:19 | 2020-02-23 |  |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-11-11 |  |
+| [What Was That](https://open.spotify.com/track/7hGCCQkdyF1MX6uk339uBS) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:29 | 2025-10-14 |  |
 | [What's Left of You](https://open.spotify.com/track/2gRKq9rIC5i1zuxp06zJWH) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [What's Left of You](https://open.spotify.com/album/0YxGSwRTpQM2QB5yc7sG6f) | 2:58 | 2022-02-03 |  |
 | [When He's Done](https://open.spotify.com/track/73sJkLTbfC5BTUUjR9tpCS) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [La Linda](https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O) | 4:38 | 2021-06-05 |  |
 | [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 | 2020-02-27 |  |

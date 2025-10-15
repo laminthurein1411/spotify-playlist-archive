@@ -421,6 +421,24 @@
     },
     {
       "album": {
+        "name": "ABOUT YOU",
+        "url": "https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "ABOUT YOU",
+      "url": "https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V"
+    },
+    {
+      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
       },
@@ -1529,6 +1547,28 @@
     },
     {
       "album": {
+        "name": "Beat A B!tch Up",
+        "url": "https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167746,
+      "name": "Beat A B!tch Up",
+      "url": "https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k"
+    },
+    {
+      "album": {
         "name": "Beautiful Colors - from Kaiju No. 8",
         "url": "https://open.spotify.com/album/7J74ZcCS99ZyNUHB6E6Ntn"
       },
@@ -2174,6 +2214,28 @@
       "duration_ms": 132565,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/0KncMZmsNjmvRLR27t2a3I"
+    },
+    {
+      "album": {
+        "name": "Augen tr\u00e4umen Herzen sehen",
+        "url": "https://open.spotify.com/album/4b81tOq2S4nIFWkVpcQlXy"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "SANTOS",
+          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182008,
+      "name": "Bring mich nach Haus",
+      "url": "https://open.spotify.com/track/07NDaezeYAJ2FoXxoE8GUC"
     },
     {
       "album": {
@@ -3207,6 +3269,24 @@
     },
     {
       "album": {
+        "name": "Dein Herz",
+        "url": "https://open.spotify.com/album/0MXF8cWp5EBSvSVJ7I2lhc"
+      },
+      "artists": [
+        {
+          "name": "Jassin",
+          "url": "https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "Dein Herz",
+      "url": "https://open.spotify.com/track/1ZGxtnkwknaW0SczhI9keA"
+    },
+    {
+      "album": {
         "name": "Deja-Vu",
         "url": "https://open.spotify.com/album/6I8KoXhvSNkEdkJTiSaxiM"
       },
@@ -3687,6 +3767,24 @@
     },
     {
       "album": {
+        "name": "Du Fehlst Hier",
+        "url": "https://open.spotify.com/album/6hqFDjBsVVljEJoR4MlCm2"
+      },
+      "artists": [
+        {
+          "name": "bac",
+          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169002,
+      "name": "Du Fehlst Hier",
+      "url": "https://open.spotify.com/track/01QqgzwltAoxvlXPvGnNJ7"
+    },
+    {
+      "album": {
         "name": "Duftkerzen",
         "url": "https://open.spotify.com/album/1TXnb2mZNQKnlwIhPSQJ8J"
       },
@@ -4134,6 +4232,28 @@
       "duration_ms": 130192,
       "name": "Everything Goes With Blue - from the Smurfs Movie Soundtrack",
       "url": "https://open.spotify.com/track/0cGevwqB5N1trB66N4x2DB"
+    },
+    {
+      "album": {
+        "name": "EYES CLOSED (with ZAYN)",
+        "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        },
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181375,
+      "name": "EYES CLOSED (with ZAYN)",
+      "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
     },
     {
       "album": {
@@ -5297,6 +5417,32 @@
     },
     {
       "album": {
+        "name": "Gone Gone Gone",
+        "url": "https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255611,
+      "name": "Gone Gone Gone - Extended",
+      "url": "https://open.spotify.com/track/79R0lC3biM8p14ArsW1tuT"
+    },
+    {
+      "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
       },
@@ -6102,6 +6248,28 @@
       "duration_ms": 149669,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
+    },
+    {
+      "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D"
+      },
+      "artists": [
+        {
+          "name": "Eddie Benjamin",
+          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
+        },
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159527,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx"
     },
     {
       "album": {
@@ -7754,6 +7922,24 @@
       "duration_ms": 183021,
       "name": "Left In Your Love",
       "url": "https://open.spotify.com/track/5dIW2ogrgeDlOPIEM0dNcb"
+    },
+    {
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/5qbWcmomWqrrCRxdXydX9g"
+      },
+      "artists": [
+        {
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159240,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/5wW92RgvtGIsbmX6CUlLHy"
     },
     {
       "album": {
@@ -9497,6 +9683,24 @@
     },
     {
       "album": {
+        "name": "after the sun goes down",
+        "url": "https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163173,
+      "name": "nah",
+      "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
+    },
+    {
+      "album": {
         "name": "need dat boy",
         "url": "https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa"
       },
@@ -9548,6 +9752,24 @@
       "duration_ms": 130100,
       "name": "Need You The Most",
       "url": "https://open.spotify.com/track/6AXCd4zhFP0DokZUxRzMif"
+    },
+    {
+      "album": {
+        "name": "Never Be The Same",
+        "url": "https://open.spotify.com/album/0ykGwfBlXQ4LzF3UWORckI"
+      },
+      "artists": [
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182590,
+      "name": "Never Be The Same",
+      "url": "https://open.spotify.com/track/7a1WrGsRE5oiHJAwi4Hj4P"
     },
     {
       "album": {
@@ -9830,6 +10052,28 @@
       "duration_ms": 123428,
       "name": "NOW OR NEVER",
       "url": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
+    },
+    {
+      "album": {
+        "name": "NOW'S A GOOD TIME TO BE",
+        "url": "https://open.spotify.com/album/3dHHEEK4oIXNXF6xx6mxNh"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Sarah Barrios",
+          "url": "https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147359,
+      "name": "NOW'S A GOOD TIME TO BE",
+      "url": "https://open.spotify.com/track/7zB9xMRm8QlJebJZturu4Y"
     },
     {
       "album": {
@@ -10790,6 +11034,42 @@
       "duration_ms": 167823,
       "name": "Potion",
       "url": "https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD"
+    },
+    {
+      "album": {
+        "name": "Pretty Friends",
+        "url": "https://open.spotify.com/album/42brGrydPMIqlWl2hVHsPp"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119354,
+      "name": "Pretty Friends",
+      "url": "https://open.spotify.com/track/6jRn6lpHAioyD8PY4NKNQE"
+    },
+    {
+      "album": {
+        "name": "Pretty Pretty Lies",
+        "url": "https://open.spotify.com/album/4WgqFTGDiuvX01zytzZVrM"
+      },
+      "artists": [
+        {
+          "name": "Paula Stellar",
+          "url": "https://open.spotify.com/artist/0EDLf6tilNm7OP8Hxtx4I2"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174953,
+      "name": "Pretty Pretty Lies",
+      "url": "https://open.spotify.com/track/08207YE8ZC9YKB4ZO9WndA"
     },
     {
       "album": {
@@ -11815,6 +12095,24 @@
     },
     {
       "album": {
+        "name": "Sensational",
+        "url": "https://open.spotify.com/album/4Ea0v15yE3jh6a9l0pO6B4"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Sensational",
+      "url": "https://open.spotify.com/track/7514QEveSyBn3arcByWhc0"
+    },
+    {
+      "album": {
         "name": "Sexy Lady",
         "url": "https://open.spotify.com/album/7tFiRReJyATOnuKryi1jFn"
       },
@@ -12385,6 +12683,28 @@
     },
     {
       "album": {
+        "name": "versprochen, ichbindaf\u00fcrdich",
+        "url": "https://open.spotify.com/album/0jGxj79RHOGpj1bBEnSP6f"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
+        },
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171562,
+      "name": "sommer",
+      "url": "https://open.spotify.com/track/17qKZPrAL988FjHw1t2EU6"
+    },
+    {
+      "album": {
         "name": "Sommer macht melancholisch",
         "url": "https://open.spotify.com/album/4SVRaHNM1waus7mOFJMUla"
       },
@@ -12632,6 +12952,28 @@
       "duration_ms": 136925,
       "name": "Starry Eyed",
       "url": "https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe"
+    },
+    {
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
       "album": {
@@ -14133,6 +14475,24 @@
     },
     {
       "album": {
+        "name": "Uff Yaa",
+        "url": "https://open.spotify.com/album/0GEqHwifTZhn8vBowI9ydv"
+      },
+      "artists": [
+        {
+          "name": "ZAH1DE",
+          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107546,
+      "name": "Uff Yaa",
+      "url": "https://open.spotify.com/track/2n6jU4jcKzG4ouZP52kvVp"
+    },
+    {
+      "album": {
         "name": "Ich liebe dich f\u00fcr immer",
         "url": "https://open.spotify.com/album/4BRrinQr1XF8b4hP2UFBA4"
       },
@@ -15490,6 +15850,24 @@
       "duration_ms": 150517,
       "name": "Wood",
       "url": "https://open.spotify.com/track/0fWfEPHNFueq2UafmJlY6d"
+    },
+    {
+      "album": {
+        "name": "Anna",
+        "url": "https://open.spotify.com/album/7wwEW3gvrHl76efHZeRfT8"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179304,
+      "name": "Work On Me",
+      "url": "https://open.spotify.com/track/4sBu2cWKISwM1w89yWB1Iw"
     },
     {
       "album": {
