@@ -2,9 +2,9 @@
 
 ### [big mix](https://open.spotify.com/playlist/7ojHfeLSzqGrNwx6MUwIS7)
 
-> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-13 07:15:09.758469
+> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-16 07:16:48.588449
 
-6,158 songs - 16 day 21 hr 44 min
+6,160 songs - 16 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [2000 Miles](https://open.spotify.com/track/0269lYNogEWe6xMgjNQUaC) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Pop 2023](https://open.spotify.com/album/4RJbiSNrDbJuQ7eu3d89JA) | 3:15 | 2023-12-14 |  |
 | [2000 Miles](https://open.spotify.com/track/5v1SC5d3F8VHwqkXx53f7d) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [2000 Miles](https://open.spotify.com/album/0Uk9J6k7ZV1SCsezKHCg6w) | 3:15 | 2023-12-04 |  |
 | [2000 Miles \- 2007 Remaster](https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:40 | 2023-12-07 |  |
+| [20th Century Boy](https://open.spotify.com/track/6Soku1wiB6mfcQp2s2W6a6) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx \(Deluxe Edition\)](https://open.spotify.com/album/7sIEt8O8vQcOvran3M2I6J) | 3:41 | 2025-10-16 |  |
 | [20th Century Boy \- Remaster](https://open.spotify.com/track/1y5LL9dpLXbCXNKKqw5wCJ) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx \(The Visconti Master\)](https://open.spotify.com/album/7z7CGJZt7ZuMaBFjxy5fWo) | 3:38 | 2023-08-12 |  |
 | [21 Guns](https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 5:21 | 2023-05-17 |  |
 | [21 Guns](https://open.spotify.com/track/4pu474fFUC7hgBBIf2W0S8) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 5:22 | 2025-08-07 |  |
@@ -5304,6 +5305,7 @@
 | [The Way It Is](https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t) | [Bruce Hornsby and the Range](https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk) | [The Way It Is](https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn) | 4:57 | 2023-07-29 |  |
 | [The Ways I Punish Myself](https://open.spotify.com/track/4UiyIsi0G5UZohYDKkZpr5) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [The Actress](https://open.spotify.com/album/6TKYYuQXPzgVjY48ztsecz) | 3:51 | 2024-10-07 |  |
 | [The Weather Left To Go](https://open.spotify.com/track/2kF5FIyyMDvKUuEnz7IwjD) | [Far From Saints](https://open.spotify.com/artist/4EEgkAsMjvBxu9iSHS3j7r) | [The Weather Left To Go](https://open.spotify.com/album/5vD3vIPyJkgDy672uqR9Fm) | 3:15 | 2023-12-04 |  |
+| [The Whole of the Moon](https://open.spotify.com/track/6MYtWkoEiUNZmMe5CgCczM) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [The Whole of the Moon: The Music of Mike Scott & The Waterboys](https://open.spotify.com/album/3lemeg4rr7EfotxVHEQfJg) | 4:59 | 2025-10-16 |  |
 | [The Whole of the Moon \- 2004 Remaster](https://open.spotify.com/track/1LzFh1VZ0FLeUesOFEuhyl) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [This Is the Sea \(Deluxe Version\)](https://open.spotify.com/album/0LoiHiWrQr7b0a4wlYVqSh) | 5:02 | 2023-04-05 |  |
 | [The Wild Boys](https://open.spotify.com/track/23M7cQkNJLiddeubvVgaQl) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Greatest](https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0) | 4:17 | 2023-05-17 |  |
 | [The Wild Boys \- Live at Oakland Coliseum, Oakland, CA, 14/04/1984; 2004 Remaster](https://open.spotify.com/track/4YZPNMikflNQnTs67GfKKX) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Arena](https://open.spotify.com/album/2KAC3bWcF023kRkPUD4X1D) | 4:18 | 2025-07-14 |  |

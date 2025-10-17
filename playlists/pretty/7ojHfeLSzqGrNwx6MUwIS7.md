@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 
 ### [big mix](https://open.spotify.com/playlist/7ojHfeLSzqGrNwx6MUwIS7)
 
-> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-13 07:15:09.758469
+> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-16 07:16:48.588449
 
-[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,158 songs - 16 day 21 hr 44 min
+[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,160 songs - 16 day 21 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -6166,5 +6166,7 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 | 6156 | [Which Side are You On?](https://open.spotify.com/track/0TZsy6XheL9cSxuX7yYqCO) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [If I Had a Hammer: Songs of Hope and Struggle](https://open.spotify.com/album/21k0wecYa9yprQ937HR62H) | 2:09 |
 | 6157 | [Heartache Tonight \- 2013 Remaster](https://open.spotify.com/track/2x9RdXFAN9o0ghV9nu3a5D) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Complete Greatest Hits \(2013 Remaster\)](https://open.spotify.com/album/21SQdfthbXUibmA8Jtf30b) | 4:25 |
 | 6158 | [Silver Machine](https://open.spotify.com/track/2Cdto5zew97V6xF6paKJw9) | [Hawkwind](https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05) | [Drive Fast, Rock Hard](https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL) | 4:41 |
+| 6159 | [20th Century Boy](https://open.spotify.com/track/6Soku1wiB6mfcQp2s2W6a6) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx \(Deluxe Edition\)](https://open.spotify.com/album/7sIEt8O8vQcOvran3M2I6J) | 3:41 |
+| 6160 | [The Whole of the Moon](https://open.spotify.com/track/6MYtWkoEiUNZmMe5CgCczM) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [The Whole of the Moon: The Music of Mike Scott & The Waterboys](https://open.spotify.com/album/3lemeg4rr7EfotxVHEQfJg) | 4:59 |
 
-Snapshot ID: `AAACh/DnqU0Pz877hxLxX9mQ/GyZCpPO`
+Snapshot ID: `AAACiQv/Uewf+H/9+cD/Elj/+TGTJmXJ`

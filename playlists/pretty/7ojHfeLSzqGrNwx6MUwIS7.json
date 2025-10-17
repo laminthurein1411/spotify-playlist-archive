@@ -1,12 +1,12 @@
 {
-  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-10-13 07:15:09.758469",
+  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-10-16 07:16:48.588449",
   "num_followers": 1,
   "original_name": "big mix",
   "owner": {
     "name": "jeffers_uk",
     "url": "https://open.spotify.com/user/jeffers_uk"
   },
-  "snapshot_id": "AAACh/DnqU0Pz877hxLxX9mQ/GyZCpPO",
+  "snapshot_id": "AAACiQv/Uewf+H/9+cD/Elj/+TGTJmXJ",
   "tracks": [
     {
       "added_at": "2023-04-05 10:01:14",
@@ -100271,6 +100271,38 @@
       "duration_ms": 281000,
       "name": "Silver Machine",
       "url": "https://open.spotify.com/track/2Cdto5zew97V6xF6paKJw9"
+    },
+    {
+      "added_at": "2025-10-16 06:16:48",
+      "album": {
+        "name": "Tanx (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7sIEt8O8vQcOvran3M2I6J"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 221240,
+      "name": "20th Century Boy",
+      "url": "https://open.spotify.com/track/6Soku1wiB6mfcQp2s2W6a6"
+    },
+    {
+      "added_at": "2025-10-16 06:16:48",
+      "album": {
+        "name": "The Whole of the Moon: The Music of Mike Scott & The Waterboys",
+        "url": "https://open.spotify.com/album/3lemeg4rr7EfotxVHEQfJg"
+      },
+      "artists": [
+        {
+          "name": "The Waterboys",
+          "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ"
+        }
+      ],
+      "duration_ms": 299413,
+      "name": "The Whole of the Moon",
+      "url": "https://open.spotify.com/track/6MYtWkoEiUNZmMe5CgCczM"
     }
   ],
   "unique_name": "big mix",

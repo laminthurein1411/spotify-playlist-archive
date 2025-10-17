@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-09-25",
-  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-10-13 07:15:09.758469",
+  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-10-16 07:16:48.588449",
   "name": "big mix",
   "tracks": [
     {
@@ -1146,6 +1146,24 @@
       "duration_ms": 220426,
       "name": "2000 Miles - 2007 Remaster",
       "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
+    },
+    {
+      "album": {
+        "name": "Tanx (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7sIEt8O8vQcOvran3M2I6J"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221240,
+      "name": "20th Century Boy",
+      "url": "https://open.spotify.com/track/6Soku1wiB6mfcQp2s2W6a6"
     },
     {
       "album": {
@@ -96750,6 +96768,24 @@
       "duration_ms": 195701,
       "name": "The Weather Left To Go",
       "url": "https://open.spotify.com/track/2kF5FIyyMDvKUuEnz7IwjD"
+    },
+    {
+      "album": {
+        "name": "The Whole of the Moon: The Music of Mike Scott & The Waterboys",
+        "url": "https://open.spotify.com/album/3lemeg4rr7EfotxVHEQfJg"
+      },
+      "artists": [
+        {
+          "name": "The Waterboys",
+          "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299413,
+      "name": "The Whole of the Moon",
+      "url": "https://open.spotify.com/track/6MYtWkoEiUNZmMe5CgCczM"
     },
     {
       "album": {
