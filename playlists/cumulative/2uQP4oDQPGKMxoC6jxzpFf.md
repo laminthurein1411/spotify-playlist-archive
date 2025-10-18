@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,820 songs - 7 day 8 hr 30 min
+2,823 songs - 7 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Black Horse And The Cherry Tree \- Radio Version](https://open.spotify.com/track/0qAMjeQFyd1qD0LDiV8gWp) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 2:52 | 2024-12-03 |  |
 | [BLACK PARADE](https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BLACK PARADE](https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN) | 4:41 | 2025-07-10 |  |
 | [Black Water](https://open.spotify.com/track/07PkOUYkemf8GYZTB5Yvar) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Black Water](https://open.spotify.com/album/5F6oYmEDb19QAUEUrf4uxY) | 2:42 | 2025-08-21 |  |
+| [Blackbird](https://open.spotify.com/track/1fyxMJJZuskcVwAjFEP2mi) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Rarities, B\-Sides & Other Stuff, Vol\. 2](https://open.spotify.com/album/4NnHzjGdeaHUD4eeXcMNQJ) | 2:21 | 2025-10-17 |  |
 | [Blame Brett](https://open.spotify.com/track/6twjuBZfRJIZnoHrghzWLk) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:57 | 2024-12-01 |  |
 | [Blame Brett \(feat\. Royal & The Serpent\)](https://open.spotify.com/track/5qPmI0WgZ624bsXQ9iYOtD) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Blame Brett \(feat\. Royal & The Serpent\)](https://open.spotify.com/album/5WM5bjR2J83u3dryKTZTn3) | 2:57 | 2025-04-09 |  |
 | [Blank Space](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 | 2025-07-31 |  |
@@ -1841,7 +1842,7 @@
 | [Pink Moon](https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 2:25 | 2025-03-15 |  |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2025-01-02 |  |
 | [Pitou](https://open.spotify.com/track/1Nagyi5mquIU038cAvfYLH) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [La nuit est une panthère](https://open.spotify.com/album/7eau0t375JHKnxK48tequj) | 3:16 | 2024-12-18 |  |
-| [Pitou](https://open.spotify.com/track/1SlF1SvU7XbseA4Y29CktM) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [La nuit est une panthère](https://open.spotify.com/album/3iOUDXtakYC6IBnSeGLM9D) | 3:16 | 2025-03-15 | 2025-07-16 |
+| [Pitou](https://open.spotify.com/track/1SlF1SvU7XbseA4Y29CktM) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [La nuit est une panthère](https://open.spotify.com/album/3iOUDXtakYC6IBnSeGLM9D) | 3:16 | 2025-03-15 |  |
 | [Play Safe](https://open.spotify.com/track/7cPdCG3oXEAWSFyHiVulhL) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Play Safe](https://open.spotify.com/album/7AnvxoSu0ZjrVe6rFaC41H) | 2:32 | 2024-12-17 |  |
 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 | 2025-01-10 |  |
 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\) \- Bonus](https://open.spotify.com/track/0BYuy4jQEMJzyo6rySSQpC) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 4:00 | 2025-03-15 |  |
@@ -1859,6 +1860,7 @@
 | [Practice](https://open.spotify.com/track/34GzR0SBIwmqjgaGPdBWVv) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [Practice](https://open.spotify.com/album/4wWEslwP97WLcGQqbSk4Wh) | 3:17 | 2024-11-27 |  |
 | [Praise You](https://open.spotify.com/track/3yGy1JYz3zQKlxSgjgpQqX) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L) | 5:23 | 2025-04-04 |  |
 | [Praise You](https://open.spotify.com/track/2AIjgEtKg9C4hq2OwRC3pw) | [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [Praise You](https://open.spotify.com/album/2RT7XJYngmx9fK4YS4Gt0b) | 2:49 | 2025-08-17 |  |
+| [preaching to the choir](https://open.spotify.com/track/0RDZBIbznmPxiK8SNbZxug) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [dog years](https://open.spotify.com/album/50mjtzsNGH18GWiE8DQljM) | 2:54 | 2025-10-17 |  |
 | [Precious](https://open.spotify.com/track/3MVampAV25NjwPM7YrZTtF) | [Adrian Sutherland](https://open.spotify.com/artist/6kLy0FIyVxqDVuvivOiuPZ) | [Precious Diamonds](https://open.spotify.com/album/1F3IzwSLXSSRyPqu9r99rM) | 2:53 | 2025-03-30 |  |
 | [Pressure](https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Pressure](https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B) | 3:13 | 2024-11-25 |  |
 | [Pretenders](https://open.spotify.com/track/2RikoxzNv1CLKXu3womYRH) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [From Capelton Hill](https://open.spotify.com/album/3qH5DVOeoRZmw3cMiiKM5u) | 3:01 | 2025-01-05 |  |
@@ -2376,6 +2378,7 @@
 | [The Door \- CYRIL Remix](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Door \(CYRIL Remix\)](https://open.spotify.com/album/0lFoxDrwrNWwtfw1KohwAN) | 3:30 | 2025-09-12 |  |
 | [The Drum](https://open.spotify.com/track/5bD15PuYRfznglHHcxDJk3) | [Eastern Owl](https://open.spotify.com/artist/2wBTyXK47606CGh9Z4CAWK) | [Qama'si](https://open.spotify.com/album/79P3tJ2AyGqDQCnyIXyT7s) | 3:53 | 2025-10-01 |  |
 | [The East Wind](https://open.spotify.com/track/65uV2r4aU001UMN6a7PxRU) | [Gord Downie](https://open.spotify.com/artist/0hhEcYduSsklQIaMFAgaMc) | [The Grand Bounce](https://open.spotify.com/album/0lQtCHYCeVsDDNzsGiiEpq) | 4:28 | 2024-12-21 |  |
+| [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 | 2025-10-17 |  |
 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:20 | 2025-02-26 |  |
 | [The Fool Pt 1 \(Get it Got it Good\)](https://open.spotify.com/track/1tam1bHy4bWj34DRLWJYUj) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [A Short Story About A War](https://open.spotify.com/album/7L3Xyl7eFVEqBDnyppNjCw) | 3:23 | 2025-03-06 |  |
 | [The Fool Pt 3 \(Frame Of Mind\)](https://open.spotify.com/track/2jUOQ4gmWv9dSIxXWlTjd6) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [A Short Story About A War](https://open.spotify.com/album/7L3Xyl7eFVEqBDnyppNjCw) | 3:29 | 2025-03-27 |  |

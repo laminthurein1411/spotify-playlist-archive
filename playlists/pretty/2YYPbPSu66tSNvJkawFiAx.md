@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YYPbPSu66tSNvJkawFiAx.md) - [plain]
 
 > Every week, discover the playlist of our Sonar show\. New releases and rarities selected by GRRIF radio\. www.grrif.ch RR GRRIF
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 795 songs - 2 day 0 hr 24 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 827 songs - 2 day 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -803,5 +803,37 @@ pretty - [cumulative](/playlists/cumulative/2YYPbPSu66tSNvJkawFiAx.md) - [plain]
 | 793 | [The Violence](https://open.spotify.com/track/0sQj2Ggna6UjRyIO0tKE7y) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 6:03 |
 | 794 | [god's chariots](https://open.spotify.com/track/6xoKWTiw0jVO3IvEKLxMSs) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Galore](https://open.spotify.com/album/4LH5M9xS4kK1HKvalSNJVo) | 3:03 |
 | 795 | [Josephine](https://open.spotify.com/track/0l7JCXzezE7Gm7muaklAaK) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Josephine](https://open.spotify.com/album/3jrMMy86PxbZJ540b2diSh) | 4:53 |
+| 796 | [the one](https://open.spotify.com/track/5CVH4yjJy1Nhr1G51UBG7e) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [the one](https://open.spotify.com/album/6Vqi6HvrkjM1MgdiZUfn6P) | 2:26 |
+| 797 | [UP](https://open.spotify.com/track/4ueESuuUHUln8C8Y8h7zdP) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [UP](https://open.spotify.com/album/6CdOPEtpdAoCkUykHTkzCP) | 3:32 |
+| 798 | [Feel My Funk](https://open.spotify.com/track/2Hhedou9SP7mPPdgyC3aKf) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [Feel My Funk](https://open.spotify.com/album/0jTuBXmbi7qqkJweoQ3kWG) | 4:32 |
+| 799 | [WISH I HAD ENOUGH](https://open.spotify.com/track/4JhGW51Mu0xELikL7RaZF3) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [WISH I HAD ENOUGH](https://open.spotify.com/album/4grutOB1gUeh2alQJ0gaRs) | 2:05 |
+| 800 | [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:39 |
+| 801 | [HIGHER!](https://open.spotify.com/track/0XnD9GJRD01wvXFLWJXiYx) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 3:57 |
+| 802 | [HEARTBREAK](https://open.spotify.com/track/1i6c5ZnIUB19sBhhKEmUjq) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [HEARTBREAK](https://open.spotify.com/album/3MLBJ0dE7gNUtDvxPL0T91) | 3:32 |
+| 803 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af) | 2:49 |
+| 804 | [Children of the World](https://open.spotify.com/track/0oJersYgWIoCWl91YvbbaW) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Children of the World](https://open.spotify.com/album/4r8eyy8RE61xxtM7StK5NN) | 4:12 |
+| 805 | [For A Day \- Bonobo Remix](https://open.spotify.com/track/5JnmTaJ2ce5tz2hBcx3ksf) | [The Miserable Rich](https://open.spotify.com/artist/6ASVzA153Iu1hul6Jw1rWG), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [For A Day Remixes](https://open.spotify.com/album/1kkzmDFnNOkua0A217UeZq) | 3:47 |
+| 806 | [Paraíso](https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM) | 3:52 |
+| 807 | [god's chariots](https://open.spotify.com/track/6xoKWTiw0jVO3IvEKLxMSs) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Galore](https://open.spotify.com/album/4LH5M9xS4kK1HKvalSNJVo) | 3:03 |
+| 808 | [Brave](https://open.spotify.com/track/288HSFmURcl6yxx4c5tFdr) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 3:54 |
+| 809 | [Routine](https://open.spotify.com/track/4rLazozVgJ9Sj2WoAM68ca) | [Bambu](https://open.spotify.com/artist/0iPS5GpwbHSmgNXfGE674K) | [Prey For The Devil](https://open.spotify.com/album/1muqY2S5vEafF0ieylPxzv) | 3:56 |
+| 810 | [Last Time](https://open.spotify.com/track/3Wvj5QBsofxKCvwqKs9jLh) | [Shungu](https://open.spotify.com/artist/1XIyDif58YyorFor2gNfUF), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Last Time](https://open.spotify.com/album/0VltGG3swfBwkkAAbS4tRa) | 2:26 |
+| 811 | [Koko](https://open.spotify.com/track/7yw8NPYhiQGPZdAWBXYrvJ) | [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [DJ\-Kicks: Modeselektor](https://open.spotify.com/album/4ApWMQXAEOaNpFWaKG2FtN) | 3:41 |
+| 812 | [the one](https://open.spotify.com/track/5CVH4yjJy1Nhr1G51UBG7e) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [the one](https://open.spotify.com/album/6Vqi6HvrkjM1MgdiZUfn6P) | 2:26 |
+| 813 | [UP](https://open.spotify.com/track/4ueESuuUHUln8C8Y8h7zdP) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [UP](https://open.spotify.com/album/6CdOPEtpdAoCkUykHTkzCP) | 3:32 |
+| 814 | [Feel My Funk](https://open.spotify.com/track/2Hhedou9SP7mPPdgyC3aKf) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [Feel My Funk](https://open.spotify.com/album/0jTuBXmbi7qqkJweoQ3kWG) | 4:32 |
+| 815 | [WISH I HAD ENOUGH](https://open.spotify.com/track/4JhGW51Mu0xELikL7RaZF3) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [WISH I HAD ENOUGH](https://open.spotify.com/album/4grutOB1gUeh2alQJ0gaRs) | 2:05 |
+| 816 | [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:39 |
+| 817 | [HIGHER!](https://open.spotify.com/track/0XnD9GJRD01wvXFLWJXiYx) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 3:57 |
+| 818 | [HEARTBREAK](https://open.spotify.com/track/1i6c5ZnIUB19sBhhKEmUjq) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [HEARTBREAK](https://open.spotify.com/album/3MLBJ0dE7gNUtDvxPL0T91) | 3:32 |
+| 819 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af) | 2:49 |
+| 820 | [Children of the World](https://open.spotify.com/track/0oJersYgWIoCWl91YvbbaW) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Children of the World](https://open.spotify.com/album/4r8eyy8RE61xxtM7StK5NN) | 4:12 |
+| 821 | [For A Day \- Bonobo Remix](https://open.spotify.com/track/5JnmTaJ2ce5tz2hBcx3ksf) | [The Miserable Rich](https://open.spotify.com/artist/6ASVzA153Iu1hul6Jw1rWG), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [For A Day Remixes](https://open.spotify.com/album/1kkzmDFnNOkua0A217UeZq) | 3:47 |
+| 822 | [Paraíso](https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM) | 3:52 |
+| 823 | [god's chariots](https://open.spotify.com/track/6xoKWTiw0jVO3IvEKLxMSs) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Galore](https://open.spotify.com/album/4LH5M9xS4kK1HKvalSNJVo) | 3:03 |
+| 824 | [Brave](https://open.spotify.com/track/288HSFmURcl6yxx4c5tFdr) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 3:54 |
+| 825 | [Routine](https://open.spotify.com/track/4rLazozVgJ9Sj2WoAM68ca) | [Bambu](https://open.spotify.com/artist/0iPS5GpwbHSmgNXfGE674K) | [Prey For The Devil](https://open.spotify.com/album/1muqY2S5vEafF0ieylPxzv) | 3:56 |
+| 826 | [Last Time](https://open.spotify.com/track/3Wvj5QBsofxKCvwqKs9jLh) | [Shungu](https://open.spotify.com/artist/1XIyDif58YyorFor2gNfUF), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Last Time](https://open.spotify.com/album/0VltGG3swfBwkkAAbS4tRa) | 2:26 |
+| 827 | [Koko](https://open.spotify.com/track/7yw8NPYhiQGPZdAWBXYrvJ) | [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [DJ\-Kicks: Modeselektor](https://open.spotify.com/album/4ApWMQXAEOaNpFWaKG2FtN) | 3:41 |
 
-Snapshot ID: `AAAAawpccfk2qhJ8QRMNze/pJkNmvmPO`
+Snapshot ID: `AAAAbUswvQphEOVdxXrIj6RbZc4UCouI`
