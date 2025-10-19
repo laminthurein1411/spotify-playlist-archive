@@ -6,8 +6,24 @@
     "name": "scfi",
     "url": "https://open.spotify.com/user/stephenip10"
   },
-  "snapshot_id": "AAAF93QG3LLjqd1dROhG28XqGpaGekDj",
+  "snapshot_id": "AAAF+ehb3q0veRM6uEBGtpzO70tahFoa",
   "tracks": [
+    {
+      "added_at": "2025-10-18 09:30:17",
+      "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
     {
       "added_at": "2025-10-14 07:00:18",
       "album": {
@@ -3579,22 +3595,6 @@
       "duration_ms": 157173,
       "name": "Neva Play (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q"
-    },
-    {
-      "added_at": "2024-09-10 04:00:20",
-      "album": {
-        "name": "C,XOXO (Magic City Edition)",
-        "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 216471,
-      "name": "GODSPEED",
-      "url": "https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd"
     },
     {
       "added_at": "2024-09-08 03:30:20",

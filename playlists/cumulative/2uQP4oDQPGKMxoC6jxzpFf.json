@@ -7711,6 +7711,24 @@
     },
     {
       "album": {
+        "name": "I Don\u2019t Live Here Anymore",
+        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364333,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/3EPSnqfDkva43w9NdrfFmU"
+    },
+    {
+      "album": {
         "name": "Voyageur",
         "url": "https://open.spotify.com/album/2SbS9mX4IwQSFMfO44guhg"
       },
@@ -27161,6 +27179,24 @@
     },
     {
       "album": {
+        "name": "LOVE IN THE DARK",
+        "url": "https://open.spotify.com/album/1cotXPn0CcR0ZCQWcTtZe0"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240053,
+      "name": "LOVE IN THE DARK",
+      "url": "https://open.spotify.com/track/6WrHKidpEVkYKX3vSQhBgL"
+    },
+    {
+      "album": {
         "name": "Love language",
         "url": "https://open.spotify.com/album/3iV0gdLkvnoN6Ba58iNWAN"
       },
@@ -28827,6 +28863,24 @@
     },
     {
       "album": {
+        "name": "Reggatta De Blanc (Remastered 2003)",
+        "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290280,
+      "name": "Message In A Bottle",
+      "url": "https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO"
+    },
+    {
+      "album": {
         "name": "The Singles",
         "url": "https://open.spotify.com/album/7vv7JlQIcLfao2c5rZpk59"
       },
@@ -29776,6 +29830,24 @@
       "duration_ms": 247000,
       "name": "My Favorite Mistake",
       "url": "https://open.spotify.com/track/0KmylOmsEL1Lqo8GDP80LJ"
+    },
+    {
+      "album": {
+        "name": "The Globe Sessions",
+        "url": "https://open.spotify.com/album/1eFS4z1AJJCn2zzkZBwzPb"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248400,
+      "name": "My Favorite Mistake",
+      "url": "https://open.spotify.com/track/1eKPBcUKstvi0UKNvpSbl1"
     },
     {
       "album": {
@@ -43911,6 +43983,24 @@
     },
     {
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252760,
+      "name": "That's Where I Am",
+      "url": "https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh"
+    },
+    {
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -45322,6 +45412,14 @@
         {
           "name": "Handsome Boy Modeling School",
           "url": "https://open.spotify.com/artist/3pkmfqaBNsMqnXus05PNfP"
+        },
+        {
+          "name": "Dan The Automator",
+          "url": "https://open.spotify.com/artist/4fv5w0LJib9OMbXQegqZ01"
+        },
+        {
+          "name": "Prince Paul",
+          "url": "https://open.spotify.com/artist/7ajUo7DyiAOYvCndGLoJ1u"
         },
         {
           "name": "R\u00f3is\u00edn Murphy",
