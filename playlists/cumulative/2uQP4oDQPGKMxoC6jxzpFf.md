@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,828 songs - 7 day 9 hr 3 min
+2,831 songs - 7 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,6 +775,7 @@
 | [Fly](https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Floored](https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic) | 4:04 | 2025-08-06 |  |
 | [Fly Like an Eagle](https://open.spotify.com/track/4Nwm4lvNRxXkGR6aMmtdKm) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Hits](https://open.spotify.com/album/1EbspINwTMQK6wh9zS5Uv1) | 4:14 | 2025-03-01 |  |
 | [Follow You Down](https://open.spotify.com/track/6rqkwoZu5oX5hugeyiJCM8) | [Gin Blossoms](https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj) | [Congratulations I'm Sorry](https://open.spotify.com/album/3PsTJAxjU734jZSuiLHUtE) | 4:30 | 2025-10-08 |  |
+| [Fool](https://open.spotify.com/track/4K5rPQBWsdADEGVJuPnR8h) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Good Advice](https://open.spotify.com/album/5QuF7XeWSCeSkPA7092Kif) | 2:43 | 2025-10-19 |  |
 | [Foolish](https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 3:47 | 2025-01-07 |  |
 | [Fools Gold \(Alternate Version\)](https://open.spotify.com/track/79xXJeDYYSylxbvUQbZ5xW) | [Jules](https://open.spotify.com/artist/41pF6U6NhiJZJci8kuWLNw) | [People Watching](https://open.spotify.com/album/1dHTcYZJ2TbZDbHSVAZumy) | 3:18 | 2025-08-04 |  |
 | [Fools Gold \- Remastered 2009](https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 9:54 | 2025-04-19 |  |
@@ -1046,6 +1047,7 @@
 | [Holding On](https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [A Deeper Understanding](https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF) | 5:50 | 2024-11-29 |  |
 | [Holy Man](https://open.spotify.com/track/0AE42kFmUdQNHkuENIFnn0) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [A Light in the Attic](https://open.spotify.com/album/5YivX6MADAUSfCEdDQpVk6) | 3:42 | 2025-06-22 |  |
 | [Home](https://open.spotify.com/track/3hyV8JBxMuARHhVwVDj6Qx) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Home](https://open.spotify.com/album/2nQoXfaAd6ZFqb6ylCqySD) | 3:23 | 2025-06-06 |  |
+| [Home](https://open.spotify.com/track/7JY2zpwDMKXWGKdnC5aCV8) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Edge Of The Earth](https://open.spotify.com/album/3dzRpXVj0YAmnCkeJ6Lt6M) | 3:23 | 2025-10-19 |  |
 | [Home](https://open.spotify.com/track/2x1jP9BexWtOKudvuUHbaD) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up from Below](https://open.spotify.com/album/2tLdKDCv86cEamk2nrL7q9) | 5:03 | 2024-12-14 |  |
 | [Home](https://open.spotify.com/track/6xKMnppUHCWTVuL0dtGXLE) | [Gloria Barnes](https://open.spotify.com/artist/4YC8d6LulqAmlZcNKw7c5L) | [Lost in Sound \- Rare Soul & Funk Essentials](https://open.spotify.com/album/6BbMWc3YyOT6BXQP1I36OV) | 2:49 | 2025-06-04 |  |
 | [Home](https://open.spotify.com/track/5LqHalawZqviSYyhq4KxMf) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Home](https://open.spotify.com/album/6iB29E0Lo8vM1F0Hg5KTmR) | 2:11 | 2025-08-12 |  |
@@ -1370,6 +1372,7 @@
 | [Le feu](https://open.spotify.com/track/2pVgoxeZhnCLyLDac0wc3Q) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Feu de garde](https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn) | 3:50 | 2025-09-17 |  |
 | [Le Freak](https://open.spotify.com/track/4qL9VYPB4XwJKAOq4xn2Mh) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Dance, Dance, Dance: The Best of Chic](https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd) | 5:27 | 2025-03-26 |  |
 | [Le goût des mangues](https://open.spotify.com/track/3EwaWvEHhnmuOypqgl233D) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Abracadabra](https://open.spotify.com/album/1Qx4Ifq9PMRQhjF7pChakY) | 2:12 | 2025-07-13 |  |
+| [Le grand rendez\-vous](https://open.spotify.com/track/3m37sRlDSQwESGfgdgm3vG) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII) | [Le grand rendez\-vous](https://open.spotify.com/album/0KqBsV2qciDizQ3EzToWtE) | 3:06 | 2025-10-19 |  |
 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 | 2025-09-04 |  |
 | [Learning To Fly](https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 4:02 | 2025-01-08 |  |
 | [Leave \(Get Out\)](https://open.spotify.com/track/3QigOeWryUCP56I1IlTB9x) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [JoJo](https://open.spotify.com/album/33t6wEe101JYowTIA4ESw8) | 4:02 | 2024-12-07 |  |

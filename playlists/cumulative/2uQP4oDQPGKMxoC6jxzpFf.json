@@ -14295,6 +14295,24 @@
     },
     {
       "album": {
+        "name": "Good Advice",
+        "url": "https://open.spotify.com/album/5QuF7XeWSCeSkPA7092Kif"
+      },
+      "artists": [
+        {
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163120,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/4K5rPQBWsdADEGVJuPnR8h"
+    },
+    {
+      "album": {
         "name": "Ashanti",
         "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
       },
@@ -19374,6 +19392,24 @@
       "duration_ms": 203866,
       "name": "Home",
       "url": "https://open.spotify.com/track/3hyV8JBxMuARHhVwVDj6Qx"
+    },
+    {
+      "album": {
+        "name": "Edge Of The Earth",
+        "url": "https://open.spotify.com/album/3dzRpXVj0YAmnCkeJ6Lt6M"
+      },
+      "artists": [
+        {
+          "name": "Aysanabee",
+          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203866,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7JY2zpwDMKXWGKdnC5aCV8"
     },
     {
       "album": {
@@ -25390,6 +25426,24 @@
       "duration_ms": 132560,
       "name": "Le go\u00fbt des mangues",
       "url": "https://open.spotify.com/track/3EwaWvEHhnmuOypqgl233D"
+    },
+    {
+      "album": {
+        "name": "Le grand rendez-vous",
+        "url": "https://open.spotify.com/album/0KqBsV2qciDizQ3EzToWtE"
+      },
+      "artists": [
+        {
+          "name": "Fanny Bloom",
+          "url": "https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186840,
+      "name": "Le grand rendez-vous",
+      "url": "https://open.spotify.com/track/3m37sRlDSQwESGfgdgm3vG"
     },
     {
       "album": {
