@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 
 ### [big mix](https://open.spotify.com/playlist/7ojHfeLSzqGrNwx6MUwIS7)
 
-> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-16 07:16:48.588449
+> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-20 07:18:09.601194
 
-[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,160 songs - 16 day 21 hr 53 min
+[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,185 songs - 16 day 23 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -6168,5 +6168,30 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 | 6158 | [Silver Machine](https://open.spotify.com/track/2Cdto5zew97V6xF6paKJw9) | [Hawkwind](https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05) | [Drive Fast, Rock Hard](https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL) | 4:41 |
 | 6159 | [20th Century Boy](https://open.spotify.com/track/6Soku1wiB6mfcQp2s2W6a6) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx \(Deluxe Edition\)](https://open.spotify.com/album/7sIEt8O8vQcOvran3M2I6J) | 3:41 |
 | 6160 | [The Whole of the Moon](https://open.spotify.com/track/6MYtWkoEiUNZmMe5CgCczM) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [The Whole of the Moon: The Music of Mike Scott & The Waterboys](https://open.spotify.com/album/3lemeg4rr7EfotxVHEQfJg) | 4:59 |
+| 6161 | [Big Yellow Taxi \- 2004 Remaster](https://open.spotify.com/track/7pGiF0h4aIPfs7jRRKXkTf) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dreamland](https://open.spotify.com/album/6fqSkwd8UJJUdIMu39vTq8) | 2:17 |
+| 6162 | [Street Fighting Man](https://open.spotify.com/track/51jnsY9d9kPv1sGw82L6Fe) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks 1964\-1971](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 3:15 |
+| 6163 | [Fucking Your Culture](https://open.spotify.com/track/2gkVweydDn7MmHmqXAlEzk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:15 |
+| 6164 | [Movies](https://open.spotify.com/track/3LoSvhUPPPKKVGMVaX1M1W) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [The Best Of Alien Ant Farm 20th Century Masters The Millennium Collection](https://open.spotify.com/album/0Kucza2kOX3aKefmhuwEGp) | 3:15 |
+| 6165 | [End Of The World](https://open.spotify.com/track/2bvlAGgdIxdKKeAmJbaSLf) | [Mudi Sama](https://open.spotify.com/artist/4OFlR9OFN1PRLww3MSVF7W) | [Will I Make It Out Alive?](https://open.spotify.com/album/4cXrctqZQDdpKVneMwXQUQ) | 2:31 |
+| 6166 | [Blushing](https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Blushing](https://open.spotify.com/album/50AvsVRJ1md7XzO8rLVPus) | 4:07 |
+| 6167 | [Big Titty Trippin](https://open.spotify.com/track/5pcTb8pKH0ytqI2p1T9VSq) | [Drunk Mums](https://open.spotify.com/artist/1vd7OHxzKOJeFKjN1M7VTb) | [Drunk Mums](https://open.spotify.com/album/2dU4mcaDXjYPMsUd2OCtvs) | 2:05 |
+| 6168 | [REDRUM](https://open.spotify.com/track/0hgxnhFG9BytdwXO1cbHb4) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [REDRUM](https://open.spotify.com/album/2Zdj6NjWbjENv349tw028S) | 3:28 |
+| 6169 | [Maybe I’m Amazed \- Remastered 2011](https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney \(Archive Collection\)](https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT) | 3:49 |
+| 6170 | [Somebody to Love](https://open.spotify.com/track/5zojXAqR4UZasyawPtOeyM) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [The Essential Jefferson Airplane](https://open.spotify.com/album/5l5uwmrMu3ca9qAH6iopcR) | 2:54 |
+| 6171 | [Are 'Friends' Electric? \- 1998 Remaster](https://open.spotify.com/track/3xfOF1wyjUZocifZ5WLeFx) | [Tubeway Army](https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv) | [Replicas \(1998 Remaster\)](https://open.spotify.com/album/14chsctrt7Rx38fQUbfqFz) | 5:23 |
+| 6172 | [Bloom Baby Bloom](https://open.spotify.com/track/2piywRQIsqCM9cei6ZYTkl) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:47 |
+| 6173 | [I'm A Rebel](https://open.spotify.com/track/2Cl1FoSFbDUPTIiJ4tl98L) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU), [Mirwais](https://open.spotify.com/artist/0Ohm3LvFp7wzkvMeiTDPKQ) | [Lovin’ You](https://open.spotify.com/album/3fijEGcrAekKI671fBSQqq) | 4:19 |
+| 6174 | [if i had a gun](https://open.spotify.com/track/4rYoirkxujHEP1hhKZcMrl) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [FOREVER](https://open.spotify.com/album/52iIfDstVzVMMAuOsFJ2YA) | 2:32 |
+| 6175 | [Pumped Up Kicks](https://open.spotify.com/track/2Lludiw3bv0TntK3SMkKJT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Football Songs](https://open.spotify.com/album/4S4crj7xILxy4YLFA5g8fx) | 3:55 |
+| 6176 | [The Scythe](https://open.spotify.com/track/4lC5STpnrBm7aXMls2zGqJ) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/3xxkjx6Hgl8sWpNfuqhHtD) | 4:45 |
+| 6177 | [Get The Message](https://open.spotify.com/track/354WZaV3u6cuzTG2PmpYwm) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Get The Message](https://open.spotify.com/album/4U1dfEX1jrOr0mo0jAuL35) | 2:42 |
+| 6178 | [Boys Will Be Boys](https://open.spotify.com/track/20CT7XKPpKdwoXAUKcByUr) | [The Ordinary Boys](https://open.spotify.com/artist/2xPxXPgmZFs7x6xRFpHwkq) | [00's UK Hits](https://open.spotify.com/album/68Appk6x6N5DF6RObl0NP4) | 2:40 |
+| 6179 | [Take What You Want \(feat\. Ozzy Osbourne & Travis Scott\)](https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:49 |
+| 6180 | [Shout It Out Loud](https://open.spotify.com/track/3qyHjQ1zTLvPeA99CP3K9N) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 2:49 |
+| 6181 | [12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:02 |
+| 6182 | [I'll Find My Way Home \- Remastered](https://open.spotify.com/track/2UUPd83rV19BPDbjlp0RU6) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [The Friends Of Mister Cairo \(Remastered\)](https://open.spotify.com/album/5xqDwdauo7dizP38KurfOB) | 4:30 |
+| 6183 | [Lovin' You](https://open.spotify.com/track/006AR6Qd7rERToO9qM66he) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Lovin’ You](https://open.spotify.com/album/3fijEGcrAekKI671fBSQqq) | 3:42 |
+| 6184 | [Maria](https://open.spotify.com/track/4jDhI4nE32u8meRN1aOu8u) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie 4\(0\)\-Ever: Greatest Hits Deluxe Redux / Ghosts Of Download](https://open.spotify.com/album/0BvoIfpCiKSobLiXF7QOvN) | 4:05 |
+| 6185 | [Feeling](https://open.spotify.com/track/59S8JfBTZo1jZhwCgwzEYz) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Dog Eared](https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi) | 3:20 |
 
-Snapshot ID: `AAACiQv/Uewf+H/9+cD/Elj/+TGTJmXJ`
+Snapshot ID: `AAACi8pCEb8VUrz2Iu3lPBVZdh0JMQD5`

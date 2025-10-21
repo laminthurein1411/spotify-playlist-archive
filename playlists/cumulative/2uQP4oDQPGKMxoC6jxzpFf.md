@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,831 songs - 7 day 9 hr 12 min
+2,835 songs - 7 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,6 +731,7 @@
 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-12-18 |  |
 | [Feed the Tree](https://open.spotify.com/track/3L19vBWH4jTHNXbuBaHbUN) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [Star](https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp) | 3:29 | 2025-07-06 |  |
 | [Feel Better](https://open.spotify.com/track/5C5kyJAAl8LNBg61hIjmUe) | [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2) | [Liquid Sunshine EP](https://open.spotify.com/album/426V1QEmGVI8bI2nuFoVk6) | 2:25 | 2024-11-30 |  |
+| [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 | 2025-10-20 |  |
 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 | 2025-04-05 |  |
 | [Feeling Good](https://open.spotify.com/track/3yaVaGWwM9wEiz5jfUCnjP) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Feeling Good](https://open.spotify.com/album/4deoNiifgzXETLgp0G0DYP) | 3:51 | 2025-01-29 |  |
 | [Feeling Good](https://open.spotify.com/track/7u6HRyEoWlUkoEsbQxX7sa) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Feeling Good: Her Greatest Hits And Remixes](https://open.spotify.com/album/2sYpGtr8LUH2qXeY0lBQc5) | 2:55 | 2024-11-29 |  |
@@ -1293,6 +1294,7 @@
 | [Julia](https://open.spotify.com/track/0KaO6fj0HbRgMilT8JtWaY) | [Fast Romantics](https://open.spotify.com/artist/2A0s0vRWHl5XyWpdzM36RT) | [American Love](https://open.spotify.com/album/2Z7cKFX46UrmmRACcPoOzF) | 3:22 | 2024-12-16 |  |
 | [Juliet](https://open.spotify.com/track/0DqzoOt23Jp8jUYlsP2FFU) | [Beta Trip](https://open.spotify.com/artist/2vHs7tESBp4vV8XvOULO2Y) | [Juliet](https://open.spotify.com/album/5w4VNDgJ5kz6LXMk9iS5QZ) | 3:42 | 2025-07-06 |  |
 | [June Guitar](https://open.spotify.com/track/04D3vlBBu49iC0XP7ys1i5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [June Guitar](https://open.spotify.com/album/7x28LDVChhkBuYz87lTuuC) | 3:52 | 2025-08-08 |  |
+| [June Guitar](https://open.spotify.com/track/1leMmYw98725djni7wSYhq) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 3:52 | 2025-10-20 |  |
 | [Juniper \(Radio Edit\)](https://open.spotify.com/track/4pSkT9i3ok9hZyzRNgmldy) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [Juniper \(Radio Edit\)](https://open.spotify.com/album/7mORJwsQlGrzhDmnekbbVj) | 3:11 | 2025-02-08 |  |
 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 | 2024-11-21 |  |
 | [Just A Girl \- From The Original Series “Yellowjackets”](https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Just A Girl \(From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk) | 4:34 | 2024-11-23 |  |
@@ -1448,6 +1450,7 @@
 | [Lose My Breath](https://open.spotify.com/track/2n4uOdMHzEvcZ0KP7iQnay) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi) | 4:02 | 2025-05-03 |  |
 | [Lose Yourself](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call: The Hits \(Deluxe Edition\)](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) | 5:26 | 2025-05-17 |  |
 | [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 | 2025-09-26 |  |
+| [Losing My Religion](https://open.spotify.com/track/1KKO7lAg5RTGYaTJkkZC9E) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Thief](https://open.spotify.com/album/2WA5txUH1i8QHvOh9ptsWh) | 4:06 | 2025-10-20 |  |
 | [Losing You](https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [Losing You](https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng) | 4:20 | 2025-02-14 |  |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2025-01-04 |  |
 | [Lost Boy](https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 4:36 | 2024-12-09 |  |
@@ -2160,6 +2163,7 @@
 | [Somebody](https://open.spotify.com/track/4jrMslkQYy6HVqKKPX2WXf) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(Deluxe\)](https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A) | 4:27 | 2025-03-08 |  |
 | [Somebody Else](https://open.spotify.com/track/6Gz3b510KWltPbVn6On7DI) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Here and Now \(Deluxe Edition\)](https://open.spotify.com/album/5U1SO7vSCl10H2zH7kDe0o) | 2:53 | 2025-02-26 |  |
 | [Somebody Else](https://open.spotify.com/track/7oPx8sHqaifEvFlqQ48CB2) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Somebody Else](https://open.spotify.com/album/475WKj7pnoZ1bjU9JLwcla) | 2:53 | 2024-12-14 |  |
+| [Somebody That I Used To Know](https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna) | 4:04 | 2025-10-20 |  |
 | [Somebody That I Used to Know](https://open.spotify.com/track/6mLufFjkRHCHaV1KJAOcte) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [R.E.V.O.](https://open.spotify.com/album/4E2tpJR1a6bsKNrAZcXGvP) | 4:08 | 2025-01-08 |  |
 | [Somebody to Love](https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:18 | 2025-01-21 |  |
 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/4RJdwSqHapVcW5DaRtTkv0) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits](https://open.spotify.com/album/6a8nlV9V8kPUbTTCJNVSsh) | 4:56 | 2025-08-01 |  |
