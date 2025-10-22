@@ -1493,6 +1493,36 @@
     },
     {
       "album": {
+        "name": "barry wonder",
+        "url": "https://open.spotify.com/album/6TNtDvgFGVACXM3JUWtzRt"
+      },
+      "artists": [
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        },
+        {
+          "name": "10.93",
+          "url": "https://open.spotify.com/artist/53BnYElQOxKgzc1VkSdDWc"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "barry wonder",
+      "url": "https://open.spotify.com/track/0v2GtheA1dmGb6ngshBkAD"
+    },
+    {
+      "album": {
         "name": "bauch beine po",
         "url": "https://open.spotify.com/album/3iw71cw9PHemEFZ9HZewWW"
       },
@@ -1999,6 +2029,28 @@
     },
     {
       "album": {
+        "name": "Body Go",
+        "url": "https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Body Go (with Tyla)",
+      "url": "https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P"
+    },
+    {
+      "album": {
         "name": "Boncuk",
         "url": "https://open.spotify.com/album/3Rn83epWQkoztmpi0l8Nso"
       },
@@ -2120,6 +2172,24 @@
       "duration_ms": 163481,
       "name": "Bout U",
       "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
+    },
+    {
+      "album": {
+        "name": "Boyband",
+        "url": "https://open.spotify.com/album/5BTKTmmNjQ2cQRhVhrOEFl"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177366,
+      "name": "Boyband",
+      "url": "https://open.spotify.com/track/5wPwqVdBFCVGcQKyFXZgcA"
     },
     {
       "album": {
@@ -2614,6 +2684,24 @@
       "duration_ms": 148705,
       "name": "Change Your Mind (feat. Shaboozey)",
       "url": "https://open.spotify.com/track/4G8vN8TG4Pl2V105VEn34D"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184133,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM"
     },
     {
       "album": {
@@ -3647,6 +3735,24 @@
     },
     {
       "album": {
+        "name": "Don't Worry",
+        "url": "https://open.spotify.com/album/0OmxbEqS8d7KT9lEOVAHrK"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/57byShO7NhqiVlRLvmbPyM"
+    },
+    {
+      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/23UkQx8aKE4IERCFuxpYL0"
       },
@@ -3662,6 +3768,28 @@
       "duration_ms": 217681,
       "name": "Don\u2019t Look Down",
       "url": "https://open.spotify.com/track/6BLoIiCqxiCQ8HjrLGXMbi"
+    },
+    {
+      "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/2H66HrVR1UeMlAoSXpxUnk"
+      },
+      "artists": [
+        {
+          "name": "Jay Sean",
+          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212506,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE"
     },
     {
       "album": {
@@ -5084,6 +5212,24 @@
       "duration_ms": 142648,
       "name": "F\u00fcr Immer Jetzt",
       "url": "https://open.spotify.com/track/4C0doojUBZ60zUz2NVxsdD"
+    },
+    {
+      "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197226,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
     },
     {
       "album": {
@@ -6601,6 +6747,24 @@
     },
     {
       "album": {
+        "name": "I Like Ur Look",
+        "url": "https://open.spotify.com/album/4fG8zkWcN388e0nM0wRaj2"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171216,
+      "name": "I Like Ur Look",
+      "url": "https://open.spotify.com/track/4FNFhDMEj39Tf6is8RvZ4A"
+    },
+    {
+      "album": {
         "name": "Left In Your Love",
         "url": "https://open.spotify.com/album/7ha3cuKSuE1edlTUbMH2lb"
       },
@@ -6659,6 +6823,28 @@
     },
     {
       "album": {
+        "name": "I Wanna Go - John Summit Remix",
+        "url": "https://open.spotify.com/album/0KlzqKIka3JbqCcpm1rteS"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163478,
+      "name": "I Wanna Go - John Summit Remix",
+      "url": "https://open.spotify.com/track/7J3YKBt70o8iB3UXGtUiho"
+    },
+    {
+      "album": {
         "name": "I'm Going Out",
         "url": "https://open.spotify.com/album/0ueixR4L7AZoiLvjnOoDds"
       },
@@ -6708,6 +6894,24 @@
       "duration_ms": 223066,
       "name": "I'm with You",
       "url": "https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1"
+    },
+    {
+      "album": {
+        "name": "Ich hoff",
+        "url": "https://open.spotify.com/album/5AQKC9RMfb6b0KSI6GbhQy"
+      },
+      "artists": [
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146012,
+      "name": "Ich hoff",
+      "url": "https://open.spotify.com/track/1taMWidwpvYK54tseGqXcH"
     },
     {
       "album": {
@@ -6948,6 +7152,28 @@
       "duration_ms": 286634,
       "name": "Indigo (feat. Avery Anna)",
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
+    },
+    {
+      "album": {
+        "name": "irgendwie, irgendwo, irgendwann (feat. marita)",
+        "url": "https://open.spotify.com/album/3WcPmJMAGT0SKb8d6fa43J"
+      },
+      "artists": [
+        {
+          "name": "OSWALD",
+          "url": "https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB"
+        },
+        {
+          "name": "marita",
+          "url": "https://open.spotify.com/artist/2TfPFDuIgaOi1PHUWehG5u"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195123,
+      "name": "irgendwie, irgendwo, irgendwann (feat. marita)",
+      "url": "https://open.spotify.com/track/61ABmAQmKHjqiQuFGURlkM"
     },
     {
       "album": {
@@ -7696,6 +7922,24 @@
       "duration_ms": 137520,
       "name": "L'Italiano",
       "url": "https://open.spotify.com/track/0wO9l8YepZra7cbmoPlevh"
+    },
+    {
+      "album": {
+        "name": "L.I.E.B.",
+        "url": "https://open.spotify.com/album/4tmEvilZp4uaqPNQu13mFc"
+      },
+      "artists": [
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182866,
+      "name": "L.I.E.B.",
+      "url": "https://open.spotify.com/track/7LoE3jVqeU5F0NiLXhMdzA"
     },
     {
       "album": {
@@ -8783,6 +9027,28 @@
     },
     {
       "album": {
+        "name": "Ma Shawty",
+        "url": "https://open.spotify.com/album/5JSNMtTqZNLIp0ro62PvLQ"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177159,
+      "name": "Ma Shawty",
+      "url": "https://open.spotify.com/track/56DjIeqZidDufg6H3yoTr5"
+    },
+    {
+      "album": {
         "name": "Ma Tnsani (Yalla Habibi)",
         "url": "https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n"
       },
@@ -9617,6 +9883,24 @@
     },
     {
       "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298783,
+      "name": "My Old Ways",
+      "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
+    },
+    {
+      "album": {
         "name": "Mystical Magical",
         "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
       },
@@ -9767,7 +10051,7 @@
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 182590,
+      "duration_ms": 182595,
       "name": "Never Be The Same",
       "url": "https://open.spotify.com/track/7a1WrGsRE5oiHJAwi4Hj4P"
     },
@@ -11526,6 +11810,28 @@
       "duration_ms": 151124,
       "name": "Rich",
       "url": "https://open.spotify.com/track/1b4mdo3P7dbAoNBTF9H6fa"
+    },
+    {
+      "album": {
+        "name": "SANTOS",
+        "url": "https://open.spotify.com/album/340mhMLU57SVVGqZ9SMVUP"
+      },
+      "artists": [
+        {
+          "name": "SANTOS",
+          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
+        },
+        {
+          "name": "Sampagne",
+          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177199,
+      "name": "Ride or die",
+      "url": "https://open.spotify.com/track/70Qhd40VPmyZYWVilGsmKf"
     },
     {
       "album": {
@@ -13425,6 +13731,28 @@
     },
     {
       "album": {
+        "name": "Talk To You (ft. Elton John)",
+        "url": "https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317040,
+      "name": "Talk To You (ft. Elton John)",
+      "url": "https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5"
+    },
+    {
+      "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
@@ -14040,6 +14368,32 @@
       "duration_ms": 217783,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/2YHlN3c2jEO86xfnHrmUCY"
+    },
+    {
+      "album": {
+        "name": "Think About Us",
+        "url": "https://open.spotify.com/album/1jmVSpWhzD8vciWg2Qtd5V"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178148,
+      "name": "Think About Us",
+      "url": "https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj"
     },
     {
       "album": {
@@ -15661,6 +16015,28 @@
     },
     {
       "album": {
+        "name": "Who\u2019s Dat Girl",
+        "url": "https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172912,
+      "name": "Who\u2019s Dat Girl",
+      "url": "https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC"
+    },
+    {
+      "album": {
         "name": "Shawn",
         "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
       },
@@ -16040,6 +16416,24 @@
       "duration_ms": 173549,
       "name": "You",
       "url": "https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK"
+    },
+    {
+      "album": {
+        "name": "You've Got Another Thing Coming (From the Netflix Series \"Nobody Wants This\" Season 2)",
+        "url": "https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179086,
+      "name": "You've Got Another Thing Coming - From the Netflix Series \"Nobody Wants This\" Season 2",
+      "url": "https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz"
     },
     {
       "album": {

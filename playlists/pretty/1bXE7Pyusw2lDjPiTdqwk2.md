@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1bXE7Pyusw2lDjPiTdqwk2.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 401 songs - 1 day 2 hr 5 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 402 songs - 1 day 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,5 +409,6 @@ pretty - [cumulative](/playlists/cumulative/1bXE7Pyusw2lDjPiTdqwk2.md) - [plain]
 | 399 | [Born on a Train](https://open.spotify.com/track/29C2abV8w2UF6ruBNH6YmS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR), [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Desperado / Born on a Train](https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz) | 3:47 |
 | 400 | [The Cut That Always Bleeds](https://open.spotify.com/track/7wTqEW5nrMhvyEhEyTnOMd) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:51 |
 | 401 | [Heaven Knows I'm Miserable Now \- 2011 Remaster](https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 3:35 |
+| 402 | [Merry Christmas, Please Don't Call](https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Merry Christmas, Please Don't Call](https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW) | 3:22 |
 
-Snapshot ID: `AAABiVgpiId40Qs7iLrjF8vDufPX2iD7`
+Snapshot ID: `AAABipt+Dg1Eb8XUhYtQanpNkX6XV0cF`

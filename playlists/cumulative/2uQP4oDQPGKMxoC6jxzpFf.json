@@ -486,7 +486,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 342035,
       "name": "4 American Dollars",
       "url": "https://open.spotify.com/track/4yKvIwTl5ATNa17NOobHqh"
@@ -5493,6 +5493,24 @@
     },
     {
       "album": {
+        "name": "The Hives Forever Forever The Hives",
+        "url": "https://open.spotify.com/album/3iE2EtiK9bWxYqhkzCgea0"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183943,
+      "name": "Born A Rebel",
+      "url": "https://open.spotify.com/track/7nHJjsuCcbS9GLILWKCWeO"
+    },
+    {
+      "album": {
         "name": "Hey Jude",
         "url": "https://open.spotify.com/album/3i8EJ0Ypi3qptjM2Q3DLIL"
       },
@@ -8703,6 +8721,24 @@
     },
     {
       "album": {
+        "name": "Friendship & Rock 'n' Roll",
+        "url": "https://open.spotify.com/album/00CQc4RN8EzyEfCiMk0skF"
+      },
+      "artists": [
+        {
+          "name": "Yukon Blonde",
+          "url": "https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154360,
+      "name": "Colours of My Dreams",
+      "url": "https://open.spotify.com/track/7JvyECsjcZNweB3uoMCy7Y"
+    },
+    {
+      "album": {
         "name": "Come and Get Your Love",
         "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
       },
@@ -8758,6 +8794,24 @@
       "duration_ms": 211948,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/2Zqhpc70C1E9rsZpK6b4q4"
+    },
+    {
+      "album": {
+        "name": "Bless This Mess",
+        "url": "https://open.spotify.com/album/7HnYKqUfIS9LusnFfRHNMB"
+      },
+      "artists": [
+        {
+          "name": "By Divine Right",
+          "url": "https://open.spotify.com/artist/3L7txC8S6o0X0mNOtLwew6"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222213,
+      "name": "Come For A Ride",
+      "url": "https://open.spotify.com/track/3z40QCjAKu91YCmCCBPK4b"
     },
     {
       "album": {
@@ -18241,6 +18295,24 @@
     },
     {
       "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295502,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/1Yk0cQdMLx5RzzFTYwmuld"
+    },
+    {
+      "album": {
         "name": "I'm Allergic To Dogs!",
         "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
       },
@@ -19432,6 +19504,28 @@
       "duration_ms": 203866,
       "name": "Home",
       "url": "https://open.spotify.com/track/7JY2zpwDMKXWGKdnC5aCV8"
+    },
+    {
+      "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D"
+      },
+      "artists": [
+        {
+          "name": "Eddie Benjamin",
+          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
+        },
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159527,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx"
     },
     {
       "album": {
@@ -22726,6 +22820,24 @@
       "duration_ms": 263760,
       "name": "In The Living Room",
       "url": "https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X"
+    },
+    {
+      "album": {
+        "name": "Jazz Moods: Jazz At Night's End",
+        "url": "https://open.spotify.com/album/1B5SQgJyHHXzniYUMnzaBC"
+      },
+      "artists": [
+        {
+          "name": "Carol Sloane",
+          "url": "https://open.spotify.com/artist/2CJx2Ijs1UBPmFE2LhhbZM"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "In The Wee Small Hours Of The Morning",
+      "url": "https://open.spotify.com/track/3VTrzMgS1eR2G1s9EFvjm0"
     },
     {
       "album": {
@@ -44604,6 +44716,24 @@
       "duration_ms": 210435,
       "name": "The Grass Is Blue (Everywhere I Go)",
       "url": "https://open.spotify.com/track/4p6Sc3OEUAuXCL7k5HxcAw"
+    },
+    {
+      "album": {
+        "name": "Character Traits",
+        "url": "https://open.spotify.com/album/22x8WFRbLlx8XRCshdkcjD"
+      },
+      "artists": [
+        {
+          "name": "Logan Richard",
+          "url": "https://open.spotify.com/artist/0clafcEW9Npsrqo76bL13o"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210435,
+      "name": "The Grass Is Blue (Everywhere I Go)",
+      "url": "https://open.spotify.com/track/4sICAWt879UeJa4UoFZZHk"
     },
     {
       "album": {

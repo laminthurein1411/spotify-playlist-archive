@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2uQP4oDQPGKMxoC6jxzpFf.md) - [plain]
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 6,199 songs - 15 day 13 hr 10 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 6,242 songs - 15 day 15 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -6207,5 +6207,48 @@ pretty - [cumulative](/playlists/cumulative/2uQP4oDQPGKMxoC6jxzpFf.md) - [plain]
 | 6197 | [Bomb](https://open.spotify.com/track/2TqLvFOrS1XMT4RsfmJpdR) | [Kelly McMichael](https://open.spotify.com/artist/5ogab2Tu9UMZTumiZbl315) | [Bomb](https://open.spotify.com/album/0S9NGmGx3FihKbt3hiZfTt) | 3:07 |
 | 6198 | [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 |
 | 6199 | [Somebody That I Used To Know](https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna) | 4:04 |
+| 6200 | [I Wish](https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 4:12 |
+| 6201 | [Shine](https://open.spotify.com/track/0PMCydav0StMlIb0HBRrwT) | [Big Tones](https://open.spotify.com/artist/2VH86MazYojDoIJbU8st1E), [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl) | [Shine](https://open.spotify.com/album/3ESg8aMqMHrRCByuFKUOaq) | 2:54 |
+| 6202 | [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 |
+| 6203 | [Love language](https://open.spotify.com/track/7ps2R27n2YEP8SRsRaXkqA) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Love language](https://open.spotify.com/album/3iV0gdLkvnoN6Ba58iNWAN) | 2:46 |
+| 6204 | [KOFFEE](https://open.spotify.com/track/0dWKOf4DweFGtwUvSmbdbj) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [KOFFEE](https://open.spotify.com/album/5L4jCtM0ZxghguzR7pQ81S) | 2:27 |
+| 6205 | [Neon Nuptials](https://open.spotify.com/track/3fUUyQlxRXgMM9Es9kGl3w) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Neon Nuptials](https://open.spotify.com/album/5gLCetbR72Zt6IRWE1gk82) | 3:44 |
+| 6206 | [Hold Me](https://open.spotify.com/track/2iKeVpvA3zx8KaY8Lu73TM) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Part Time Believer](https://open.spotify.com/album/0C0AoXLOWq8oKBM2db3c7x) | 2:52 |
+| 6207 | [Call On Me](https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Call On Me](https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu) | 2:49 |
+| 6208 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 |
+| 6209 | [Stars](https://open.spotify.com/track/4iEAKoJtoOmpBHp7Za2x58) | [Siibii](https://open.spotify.com/artist/5xIv9tG1tb1tBj3PsjIqgi) | [Stars](https://open.spotify.com/album/0LMq7vz0U4WV5UVrwHPUCV) | 2:51 |
+| 6210 | [Citrus](https://open.spotify.com/track/73Ovlp2BOScOxS9mbGqTX1) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Citrus](https://open.spotify.com/album/5qgWzj4a1WMDpaoRJi7Vqr) | 2:39 |
+| 6211 | [One More Dance Around The Sun](https://open.spotify.com/track/0wlIJpKDJN3DvOSSKtSj74) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [One More Dance Around The Sun](https://open.spotify.com/album/2zfsEsAIMyUPZ7OGLZA5FS) | 4:46 |
+| 6212 | [Glory](https://open.spotify.com/track/6ZpFWfTWUw8O4zdpb6xAKN) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Glory](https://open.spotify.com/album/2qNFKtSWX8RzM88MPmkuca) | 2:49 |
+| 6213 | [Skicinuwihkuk](https://open.spotify.com/track/1mPUI0o35X5L5fLdnkadSE) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Motewolonuwok](https://open.spotify.com/album/0GSKrVvb8FZlMfsBpTLFjL) | 4:56 |
+| 6214 | [stick of gum](https://open.spotify.com/track/5Av99i2cutN34Nyyd7Ux8U) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [Verbathim](https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N) | 2:28 |
+| 6215 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 |
+| 6216 | [HOME](https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [HOME](https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D) | 2:39 |
+| 6217 | [Holding On](https://open.spotify.com/track/33h88DOJHwUkb22IPmZhiw) | [Jayli Wolf](https://open.spotify.com/artist/09AACzWu09h30NeqLRn4Tx) | [Holding On](https://open.spotify.com/album/2Krm7Qb2JGVBtYB4yMbSpI) | 4:12 |
+| 6218 | [Suffer](https://open.spotify.com/track/6rdmfJzj1gEwq6O4Pu3Oxt) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Suffer](https://open.spotify.com/album/6doT0BXncTKBITEIohrHDV) | 3:23 |
+| 6219 | [Another Life](https://open.spotify.com/track/3BpmezdTQq6L0pBpt3pq8c) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Another Life](https://open.spotify.com/album/3jUvrYB4Bh3Hw9liq8dbCi) | 4:37 |
+| 6220 | [Can I Call You in the Morning?](https://open.spotify.com/track/6QqGnsM0pQrsG5O1QQaTYY) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [No Hard Feelings](https://open.spotify.com/album/5eQYimKiQfEGaUGtnOlRUZ) | 2:52 |
+| 6221 | [Colours of My Dreams](https://open.spotify.com/track/7JvyECsjcZNweB3uoMCy7Y) | [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [Friendship & Rock 'n' Roll](https://open.spotify.com/album/00CQc4RN8EzyEfCiMk0skF) | 2:34 |
+| 6222 | [My First Heartbreak](https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My First Heartbreak](https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm) | 3:26 |
+| 6223 | [I Believe in Love \(and it’s very hard\)](https://open.spotify.com/track/1h4K4Xyd8WNQS1CiVGvAag) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Conditions of Love Vol\. 1](https://open.spotify.com/album/1i9B7npmLgexUN0mDkJuAZ) | 3:08 |
+| 6224 | [Hello](https://open.spotify.com/track/1Yk0cQdMLx5RzzFTYwmuld) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:55 |
+| 6225 | [Right Here, for Now](https://open.spotify.com/track/2LxRUWNqcKcTo7zOrctebE) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:00 |
+| 6226 | [Martini.](https://open.spotify.com/track/7ARsq0batl7n1v2qQysiH2) | [Sajaa.](https://open.spotify.com/artist/3RHBPqbFICf6I20SEYa2DQ) | [Martini.](https://open.spotify.com/album/0orAwByMcTkgzx1VUPcahZ) | 4:10 |
+| 6227 | [Come For A Ride](https://open.spotify.com/track/3z40QCjAKu91YCmCCBPK4b) | [By Divine Right](https://open.spotify.com/artist/3L7txC8S6o0X0mNOtLwew6) | [Bless This Mess](https://open.spotify.com/album/7HnYKqUfIS9LusnFfRHNMB) | 3:42 |
+| 6228 | [I Got Questions](https://open.spotify.com/track/3Wcq0xcLdj40gAMnI4xxNF) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [I Got Questions](https://open.spotify.com/album/251WWJZNsW96nrAAReK9Lr) | 3:37 |
+| 6229 | [Dirt Roads](https://open.spotify.com/track/6abgej5aQVjWvSFydjqo6o) | [Tia Wood](https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC) | [Dirt Roads](https://open.spotify.com/album/45mNHIYIE7iJmIMMAMeha9) | 3:12 |
+| 6230 | [On Rolls the Wheel](https://open.spotify.com/track/0QA8zWdU1bEWFYq0s0t6Qv) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [On Rolls the Wheel](https://open.spotify.com/album/06yirzfYrQC1bQaicU9n7L) | 3:52 |
+| 6231 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
+| 6232 | [4 American Dollars](https://open.spotify.com/track/4yKvIwTl5ATNa17NOobHqh) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Heavy Light](https://open.spotify.com/album/0rDM3D2mqmsilAjpUj1p0W) | 5:42 |
+| 6233 | [preaching to the choir](https://open.spotify.com/track/0RDZBIbznmPxiK8SNbZxug) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [dog years](https://open.spotify.com/album/50mjtzsNGH18GWiE8DQljM) | 2:54 |
+| 6234 | [LIE DOWN..](https://open.spotify.com/track/0qAqL3nD144kp12vNHMlxB) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 5:09 |
+| 6235 | [Love Yourself](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:53 |
+| 6236 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/3VTrzMgS1eR2G1s9EFvjm0) | [Carol Sloane](https://open.spotify.com/artist/2CJx2Ijs1UBPmFE2LhhbZM) | [Jazz Moods: Jazz At Night's End](https://open.spotify.com/album/1B5SQgJyHHXzniYUMnzaBC) | 3:16 |
+| 6237 | [Over You](https://open.spotify.com/track/7765zYNMwglsw1rYVR9Wo1) | [Jane's Party](https://open.spotify.com/artist/16SY7vICMlc8XGaTPocEa3) | [Over You](https://open.spotify.com/album/0TYMGET4UKH90oauaN3jmY) | 3:55 |
+| 6238 | [Takes Me Back](https://open.spotify.com/track/669biTx9S5GCYe0rip489L) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Vices](https://open.spotify.com/album/721xgb2DpiQbycWZsicBLL) | 3:51 |
+| 6239 | [Ragged Wood](https://open.spotify.com/track/2qvToeBdYliw6n0nEsKJQa) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 5:07 |
+| 6240 | [The Grass Is Blue \(Everywhere I Go\)](https://open.spotify.com/track/4sICAWt879UeJa4UoFZZHk) | [Logan Richard](https://open.spotify.com/artist/0clafcEW9Npsrqo76bL13o) | [Character Traits](https://open.spotify.com/album/22x8WFRbLlx8XRCshdkcjD) | 3:30 |
+| 6241 | [Born A Rebel](https://open.spotify.com/track/7nHJjsuCcbS9GLILWKCWeO) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/3iE2EtiK9bWxYqhkzCgea0) | 3:03 |
+| 6242 | [At The Same Time](https://open.spotify.com/track/6simTsYsg2SyXcpv4kaIEb) | [Absolute Losers](https://open.spotify.com/artist/536OFtmA73Nu7vOIXaGwON) | [At The Same Time](https://open.spotify.com/album/1CJUWS7p3P88tNGEg7bOd9) | 2:54 |
 
-Snapshot ID: `AAABjLIOunUOjQEyHm3FMEufeov7rWnM`
+Snapshot ID: `AAABjT3sItDFGjYspwsY+ieJJMJrKACf`
