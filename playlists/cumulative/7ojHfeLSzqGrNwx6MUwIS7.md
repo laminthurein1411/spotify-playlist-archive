@@ -2,9 +2,9 @@
 
 ### [big mix](https://open.spotify.com/playlist/7ojHfeLSzqGrNwx6MUwIS7)
 
-> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-20 07:18:09.601194
+> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-23 07:16:18.170698
 
-6,185 songs - 16 day 23 hr 20 min
+6,191 songs - 16 day 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [2000 Miles](https://open.spotify.com/track/0269lYNogEWe6xMgjNQUaC) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Pop 2023](https://open.spotify.com/album/4RJbiSNrDbJuQ7eu3d89JA) | 3:15 | 2023-12-14 |  |
 | [2000 Miles](https://open.spotify.com/track/5v1SC5d3F8VHwqkXx53f7d) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [2000 Miles](https://open.spotify.com/album/0Uk9J6k7ZV1SCsezKHCg6w) | 3:15 | 2023-12-04 |  |
 | [2000 Miles \- 2007 Remaster](https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:40 | 2023-12-07 |  |
+| [20th Century Boy](https://open.spotify.com/track/0HljvWM7AzlJaWgqxtz5Ii) | [Marc Bolan](https://open.spotify.com/artist/4M2gGLzKCo0rPyn224PsoN), [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [The T.Rex Wax Co\. Singles A's & B's 1972\-77](https://open.spotify.com/album/5IFCwm6lSDxzlLZ0vIIg1H) | 3:41 | 2025-10-23 |  |
 | [20th Century Boy](https://open.spotify.com/track/6Soku1wiB6mfcQp2s2W6a6) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx \(Deluxe Edition\)](https://open.spotify.com/album/7sIEt8O8vQcOvran3M2I6J) | 3:41 | 2025-10-16 |  |
 | [20th Century Boy \- Remaster](https://open.spotify.com/track/1y5LL9dpLXbCXNKKqw5wCJ) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx \(The Visconti Master\)](https://open.spotify.com/album/7z7CGJZt7ZuMaBFjxy5fWo) | 3:38 | 2023-08-12 |  |
 | [21 Guns](https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 5:21 | 2023-05-17 |  |
@@ -1112,6 +1113,7 @@
 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:01 | 2023-04-05 |  |
 | [Dancing In the Dark](https://open.spotify.com/track/27CoctPy1sEPwDDS3aL15u) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG) | 4:01 | 2025-04-03 |  |
 | [Dancing In the Dark](https://open.spotify.com/track/5nuqNArwDhWoqn0d67dsFh) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [1980s XL](https://open.spotify.com/album/3buHFynWmiKCSZtILcHL8u) | 4:01 | 2025-06-30 |  |
+| [Dancing in the Moonlight](https://open.spotify.com/track/4IdDl9uvZBiI6C2A03sAIQ) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Happiness Forever](https://open.spotify.com/album/0jVGdTKQ0pValbbtxv5h5O) | 3:50 | 2025-10-23 |  |
 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 | 2023-04-05 |  |
 | [Dancing In The Moonlight \(It's Caught Me In It's Spotlight\)](https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U) | 3:24 | 2023-04-05 |  |
 | [Dancing In The Street](https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 2:45 | 2024-10-14 |  |
@@ -2625,6 +2627,7 @@
 | [It's like That \(Rapper Duet\) \[In the Style of Run DMC Vs\. Jason Nevins\] {Karaoke Version}](https://open.spotify.com/track/6smGGpjClUCONEhzHOLwKy) | [Zoom Karaoke](https://open.spotify.com/artist/3Nr8EAmJ6b95ydy2o8h5vd) | [Zoom Karaoke Gap Fillers, Vol\. 74](https://open.spotify.com/album/3IcbOLq8T28nFm3k5yDrfK) | 4:08 | 2023-04-05 |  |
 | [It's My Life](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 3:44 | 2023-04-25 |  |
 | [It's My Life](https://open.spotify.com/track/6iNBM60VQtPUUhkKfwa5KV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi Greatest Hits \- The Ultimate Collection \(Deluxe\)](https://open.spotify.com/album/1m48hdS1VeCbPI7rWlxPL1) | 3:44 | 2025-04-03 |  |
+| [It's My Life](https://open.spotify.com/track/6mqOtq4LgQ4eK6yF9yZvO7) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi Greatest Hits](https://open.spotify.com/album/0VfHA0sk3N4Y1NqmC1iIaZ) | 3:44 | 2025-10-23 |  |
 | [It's My Life](https://open.spotify.com/track/44u52jALuPgpczTbZuRWHM) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Set List](https://open.spotify.com/album/7Gt5hv82rfRokHQP9a4vAu) | 3:45 | 2024-10-10 |  |
 | [It's My Life](https://open.spotify.com/track/1OutzYv6YiN93lrT3pJsWR) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [It's My Life](https://open.spotify.com/album/4A0hYL3V0zWauEWkyfvqdF) | 3:46 | 2023-04-05 |  |
 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 | 2023-04-05 |  |
@@ -3233,6 +3236,7 @@
 | [Maria](https://open.spotify.com/track/4jDhI4nE32u8meRN1aOu8u) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie 4\(0\)\-Ever: Greatest Hits Deluxe Redux / Ghosts Of Download](https://open.spotify.com/album/0BvoIfpCiKSobLiXF7QOvN) | 4:05 | 2025-10-20 |  |
 | [Maria](https://open.spotify.com/track/7bOYOD0d7ByMTXvJnQVl8d) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits](https://open.spotify.com/album/4pIYJsJ8GkYWM1rvqy45ug) | 4:09 | 2023-06-05 |  |
 | [Maria](https://open.spotify.com/track/3IKUD7z23F2QXCcbC4E1tL) | [The Wytches](https://open.spotify.com/artist/46cDW79OcUXlCbYPj7Ds5L) | [Our Guest Can't Be Named](https://open.spotify.com/album/7m1blCMvQigu5jag4qwB62) | 3:09 | 2023-10-16 |  |
+| [Maria \- White Trash Mix](https://open.spotify.com/track/3AYbK8Ns7TUUz2IFBTsXMc) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Maria](https://open.spotify.com/album/2hx6pazNQ4tMM5T47pIDBT) | 9:52 | 2025-10-23 |  |
 | [Market Street](https://open.spotify.com/track/2xAv91RQ4dlpWqGIq2nTqb) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Market Street](https://open.spotify.com/album/5muBMq6FHcSUk8nRcJVLml) | 3:17 | 2023-11-13 |  |
 | [Market Street](https://open.spotify.com/track/4uTRgR6IsSGFnlJzhHyOC8) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Ballad Of A Bystander](https://open.spotify.com/album/3tbVVoG2U5m4IAnJTF3YyZ) | 3:17 | 2024-02-01 |  |
 | [MARKHAM FAIR](https://open.spotify.com/track/3UHaq7wIRSRjaIrKtkbalB) | [Rikashay](https://open.spotify.com/artist/2aObh0nNx1BiZPgzO0BteF) | [MARKHAM FAIR / GO OUTSIDE](https://open.spotify.com/album/7dmzMZYpHXxxPZw8hbsEpU) | 2:31 | 2025-04-21 |  |
@@ -4976,6 +4980,7 @@
 | [Talk of the Town](https://open.spotify.com/track/6kHSCTkK1dMvY1ulT5DkyN) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [A Matter of Time](https://open.spotify.com/album/1MubHea0GIiXMyvcZZ3lel) | 4:26 | 2024-01-08 |  |
 | [Talk Talk \- 1997 Remaster](https://open.spotify.com/track/6Vipnok4Hf5xpH6eJaxvr0) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [The Party's Over](https://open.spotify.com/album/3TWyZakhbJnds6Qx2uXIiC) | 3:23 | 2023-08-07 |  |
 | [Talk talk talk talk](https://open.spotify.com/track/3uvdQEk9vmuNWPFlFvRdqz) | [Conor Patrick](https://open.spotify.com/artist/2Zmbe847JU96530bnvtIBh) | [Talk talk talk talk](https://open.spotify.com/album/52WrwISNcDj1oD9gARN3Az) | 6:21 | 2025-02-03 |  |
+| [Talk To You \(ft\. Elton John\)](https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb) | 5:17 | 2025-10-23 |  |
 | [Talk Tonight](https://open.spotify.com/track/3WJGK9qI2giMx6GrF36Slq) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan](https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4) | 4:21 | 2025-07-31 |  |
 | [Talk Tonight \- Remastered](https://open.spotify.com/track/2LNV0347QKt4AHxRSfCBij) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:23 | 2023-04-05 |  |
 | [Talkin' Bout a Revolution](https://open.spotify.com/track/0YMFcrMtBowDdD5bPz0cgy) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 2:41 | 2023-10-23 |  |
@@ -5262,6 +5267,7 @@
 | [The River \- Live at St\. Rose of Lima School, Freehold, NJ \- 11/8/1996](https://open.spotify.com/track/1Li5z5bUG4GXIo0U94NyZt) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Live Series: Songs of Introspection](https://open.spotify.com/album/081au3yAEkZzrbrmjRGb1w) | 5:40 | 2023-07-31 |  |
 | [The Riverboat Song](https://open.spotify.com/track/6Ykk0PRL8VMQb6h13CxH31) | [Ocean Colour Scene](https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U) | [Moseley Shoals](https://open.spotify.com/album/4PNGCsIJUFlEoDFhzcu9Il) | 4:54 | 2023-04-05 |  |
 | [The Road to Hell Part 2](https://open.spotify.com/track/3lGyt8enqenwyqXihI6AVr) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [The Road to Hell](https://open.spotify.com/album/6xCynP72PbiudbvVthLoah) | 4:30 | 2023-07-25 |  |
+| [The Rock Show](https://open.spotify.com/track/1kyYimRnSQQbE7h4KFjVh5) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits](https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ) | 2:51 | 2025-10-23 |  |
 | [The Rock Show](https://open.spotify.com/track/3C0f4W0lQSgMARICJF3KLh) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/0yDQmd4GRGo2sEW6kdL3Gf) | 2:51 | 2025-06-05 |  |
 | [The Rock Show](https://open.spotify.com/track/2ydUT1pFhuLDnouelIv4WH) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 2:51 | 2023-10-09 |  |
 | [The Rockafeller Skank](https://open.spotify.com/track/5AgCO3dc2kuSicCsw09YCA) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come a Long Way Baby](https://open.spotify.com/album/0J43YxxLFPZxIrCd12LRuN) | 6:53 | 2023-11-27 |  |

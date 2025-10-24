@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 
 ### [big mix](https://open.spotify.com/playlist/7ojHfeLSzqGrNwx6MUwIS7)
 
-> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-20 07:18:09.601194
+> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-23 07:16:18.170698
 
-[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,185 songs - 16 day 23 hr 20 min
+[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,191 songs - 16 day 23 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -6193,5 +6193,11 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 | 6183 | [Lovin' You](https://open.spotify.com/track/006AR6Qd7rERToO9qM66he) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Lovin’ You](https://open.spotify.com/album/3fijEGcrAekKI671fBSQqq) | 3:42 |
 | 6184 | [Maria](https://open.spotify.com/track/4jDhI4nE32u8meRN1aOu8u) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie 4\(0\)\-Ever: Greatest Hits Deluxe Redux / Ghosts Of Download](https://open.spotify.com/album/0BvoIfpCiKSobLiXF7QOvN) | 4:05 |
 | 6185 | [Feeling](https://open.spotify.com/track/59S8JfBTZo1jZhwCgwzEYz) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Dog Eared](https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi) | 3:20 |
+| 6186 | [Maria \- White Trash Mix](https://open.spotify.com/track/3AYbK8Ns7TUUz2IFBTsXMc) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Maria](https://open.spotify.com/album/2hx6pazNQ4tMM5T47pIDBT) | 9:52 |
+| 6187 | [It's My Life](https://open.spotify.com/track/6mqOtq4LgQ4eK6yF9yZvO7) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi Greatest Hits](https://open.spotify.com/album/0VfHA0sk3N4Y1NqmC1iIaZ) | 3:44 |
+| 6188 | [The Rock Show](https://open.spotify.com/track/1kyYimRnSQQbE7h4KFjVh5) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits](https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ) | 2:51 |
+| 6189 | [Dancing in the Moonlight](https://open.spotify.com/track/4IdDl9uvZBiI6C2A03sAIQ) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Happiness Forever](https://open.spotify.com/album/0jVGdTKQ0pValbbtxv5h5O) | 3:50 |
+| 6190 | [20th Century Boy](https://open.spotify.com/track/0HljvWM7AzlJaWgqxtz5Ii) | [Marc Bolan](https://open.spotify.com/artist/4M2gGLzKCo0rPyn224PsoN), [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [The T.Rex Wax Co\. Singles A's & B's 1972\-77](https://open.spotify.com/album/5IFCwm6lSDxzlLZ0vIIg1H) | 3:41 |
+| 6191 | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb) | 5:17 |
 
-Snapshot ID: `AAACi8pCEb8VUrz2Iu3lPBVZdh0JMQD5`
+Snapshot ID: `AAACjbyKXvq51Ltj3WSAwRAAc31aXfsw`

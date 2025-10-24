@@ -4,7 +4,7 @@
 
 > 
 
-54 songs - 2 hr 49 min
+56 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [I ricordi in terrazzo](https://open.spotify.com/track/3MqJhDSNMrAEn60imeHx7R) | [Andrea Guerra](https://open.spotify.com/artist/2RH4zVV2q0H5iVnfSl7XFz) | [Nuovo Olimpo \(Musiche dal film Netflix\)](https://open.spotify.com/album/5WOpX1MSBSauxKJdC4yakZ) | 2:04 | 2023-11-07 |  |
 | [Il suono dei passi](https://open.spotify.com/track/5hEunran57tbGy5xHeDnbp) | [Andrea Guerra](https://open.spotify.com/artist/2RH4zVV2q0H5iVnfSl7XFz) | [Nuovo Olimpo \(Musiche dal film Netflix\)](https://open.spotify.com/album/5WOpX1MSBSauxKJdC4yakZ) | 1:21 | 2023-11-07 |  |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2023-07-18 |  |
+| [Kingdom Dance \- From "Tangled"/Score](https://open.spotify.com/track/0jkGkwy510cvhy0jYPFme4) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 2:20 | 2025-10-23 |  |
 | [La Campanella](https://open.spotify.com/track/1IRqLBc1JAKIsLcOKwIMyY) | [Niccolò Paganini](https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q), [Salvatore Accardo](https://open.spotify.com/artist/4J806QjdyKrK4guMFMRzKc), [Orchestra Da Camera Italiana](https://open.spotify.com/artist/1VtgLYQd3dXtIBfQFHWqab) | [The Best of Violin](https://open.spotify.com/album/1AsHcz9FEbdN0tk3UW4pwA) | 9:11 | 2023-03-26 |  |
 | [La foule \- Symphonique, orch\. Nathan Stornetta](https://open.spotify.com/track/2rQrEv6WPmqys743IVtkG7) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j), [Legendis Orchestra](https://open.spotify.com/artist/1XvxY2rMMnLfsXRW6hbpkA) | [Symphonique](https://open.spotify.com/album/3ry22siNcsQCSbklOtdTR7) | 2:59 | 2023-10-15 |  |
 | [Le Mans 66](https://open.spotify.com/track/3zm3jy3iQlIwRGC7D5LyFz) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Buck Sanders](https://open.spotify.com/artist/3kd5QEBANOWwymbZwmQ3uT) | [Ford v Ferrari \(Original Score\)](https://open.spotify.com/album/1n4U9TkpKGcaG47DXCVINp) | 5:42 | 2023-09-03 |  |
@@ -58,6 +59,7 @@
 | [The Battle](https://open.spotify.com/track/1ze3GTOVgAG5xLVrvcEoUS) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [The Chronicles of Narnia: The Lion, The Witch and The Wardrobe \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/01wn5MrXTUWjdYTLYC2wqU) | 7:08 | 2023-09-03 |  |
 | [Theme From Love Story](https://open.spotify.com/track/5qjVtEglMJOGe3xCCbjN25) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn) | [Love Story](https://open.spotify.com/album/6z0dWcbylKjGZuCR9W5WPB) | 3:20 | 2023-07-18 |  |
 | [Ti ho cercato](https://open.spotify.com/track/4qEKZXxgcx3yEP3nvNKD3O) | [Andrea Guerra](https://open.spotify.com/artist/2RH4zVV2q0H5iVnfSl7XFz) | [Nuovo Olimpo \(Musiche dal film Netflix\)](https://open.spotify.com/album/5WOpX1MSBSauxKJdC4yakZ) | 2:25 | 2023-11-07 |  |
+| [Touch The Sky \- From "Brave"/Soundtrack](https://open.spotify.com/track/5yyqx4brn6Bm9U1Rj9ENnz) | [Julie Fowlis](https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k) | [Brave](https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R) | 2:31 | 2025-10-23 |  |
 | [Unhinged](https://open.spotify.com/track/0F78AWB4E53yOvldzqhgBK) | [Mike Lazarev](https://open.spotify.com/artist/5GHe2wbHyPb5RZbES8coHc) | [Unhinged](https://open.spotify.com/album/1YBmoJU30FFM1sgITd6BXO) | 2:04 | 2022-10-26 |  |
 | [Voodoo Mama](https://open.spotify.com/track/5pmlMjmOvUi5RCe64e9Tyu) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [Babylon \(Music from the Motion Picture\)](https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe) | 3:59 | 2023-03-17 |  |
 | [Wind Song](https://open.spotify.com/track/48i1p3R9l9f7zjcHPJysZZ) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 3:18 | 2022-11-14 |  |

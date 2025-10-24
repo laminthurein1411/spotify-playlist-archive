@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3K9Kpz7u5Pa3XEr9FNc8q1.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 60 songs - 3 hr 15 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 63 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,8 @@ pretty - [cumulative](/playlists/cumulative/3K9Kpz7u5Pa3XEr9FNc8q1.md) - [plain]
 | 58 | [Closer](https://open.spotify.com/track/0GX5oOKtU0nnx5OkhenW2i) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Year Of The Gentleman](https://open.spotify.com/album/6dC6J5qkPcJ1iGshEN5MpX) | 3:54 |
 | 59 | [Moskau](https://open.spotify.com/track/5t77UGzgSBRDDnaxJvE9R3) | [Dschinghis Khan](https://open.spotify.com/artist/1g1nVvle9qO9AWIUWYvPAP) | [Moskau \- Das Neue Best Of Album](https://open.spotify.com/album/5rb7ToU6CAX1H0gdk63SQd) | 4:30 |
 | 60 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 |
+| 61 | [The Wishing Well / Apples in Winter / Frost Is All Over \- 3 Traditional Irish and Celtic Instrumentals for Jigs and Reels](https://open.spotify.com/track/3cmEQ3vaej0Srsf8Gu3Dvo) | [Alban Fuam](https://open.spotify.com/artist/5GRfzbhNRVxozF8s42mwWT) | [Whiskey 'n Beer \(12 Most Popular Irish and Celtic Folk Traditional Songs Performed on Violins, Bodhran, Irish Guitars, Tin Whistle Flute and Vocals\)](https://open.spotify.com/album/0qMbfvhVcfLkCIGrjUlAja) | 4:34 |
+| 62 | [Kingdom Dance \- From "Tangled"/Score](https://open.spotify.com/track/0jkGkwy510cvhy0jYPFme4) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 2:20 |
+| 63 | [Dance of the Fairy Folk](https://open.spotify.com/track/2W6zB2k41ubt8sTRoRAiYG) | [Derek Fiechter](https://open.spotify.com/artist/01Er12nK5rrnHx8usFPJAs), [Brandon Fiechter](https://open.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x) | [Treefolk](https://open.spotify.com/album/6dDjwmrQVbVUGSnKwQgl2x) | 3:34 |
 
-Snapshot ID: `AAAAPQwrnOu9J4nYZESBvnoJsfbMrPQ6`
+Snapshot ID: `AAAAQNeNe5jGaWIJ8f5aX3p3k4qOXlWY`

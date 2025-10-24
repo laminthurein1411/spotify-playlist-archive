@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAALr2i1SYKOq+mCwckAMbg+62u6VIe",
+  "snapshot_id": "AAAAMEkjc45T7551zA029mkdplAsZyBO",
   "tracks": [
     {
       "added_at": "2022-07-30 13:55:49",
@@ -999,6 +999,38 @@
       "duration_ms": 166973,
       "name": "Cantina Band - From \"Star Wars: A New Hope\"",
       "url": "https://open.spotify.com/track/2zF7IDI6UsLXpwl3FjukPS"
+    },
+    {
+      "added_at": "2025-10-23 14:19:47",
+      "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "duration_ms": 140413,
+      "name": "Kingdom Dance - From \"Tangled\"/Score",
+      "url": "https://open.spotify.com/track/0jkGkwy510cvhy0jYPFme4"
+    },
+    {
+      "added_at": "2025-10-23 14:55:44",
+      "album": {
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R"
+      },
+      "artists": [
+        {
+          "name": "Julie Fowlis",
+          "url": "https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k"
+        }
+      ],
+      "duration_ms": 151400,
+      "name": "Touch The Sky - From \"Brave\"/Soundtrack",
+      "url": "https://open.spotify.com/track/5yyqx4brn6Bm9U1Rj9ENnz"
     }
   ],
   "unique_name": "Score \ud83c\udfbc",

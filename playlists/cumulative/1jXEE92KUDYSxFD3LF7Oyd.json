@@ -575,6 +575,24 @@
     },
     {
       "album": {
+        "name": "Entre deux r\u00eaves",
+        "url": "https://open.spotify.com/album/5jm1jHoCMuMh3SElNY9R81"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212653,
+      "name": "Emmenez-moi",
+      "url": "https://open.spotify.com/track/6kjDLNGtvnbYIXAMsc6iiu"
+    },
+    {
+      "album": {
         "name": "Entre deux r\u00eaves (Remastered 2014)",
         "url": "https://open.spotify.com/album/40SP9TYF1IuC3JZ35glqwd"
       },
@@ -1187,6 +1205,28 @@
     },
     {
       "album": {
+        "name": "Best Of & Variations",
+        "url": "https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        },
+        {
+          "name": "-M-",
+          "url": "https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167520,
+      "name": "La Seine - Extrait de la bande originale un monstre \u00e0 Paris",
+      "url": "https://open.spotify.com/track/4B6XjmOWI55np7y4MUTXDu"
+    },
+    {
+      "album": {
         "name": "Eternelle",
         "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
       },
@@ -1299,6 +1339,28 @@
     },
     {
       "album": {
+        "name": "Aller-retour",
+        "url": "https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14"
+      },
+      "artists": [
+        {
+          "name": "Bon Entendeur",
+          "url": "https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD"
+        },
+        {
+          "name": "Isabelle Pierre",
+          "url": "https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203160,
+      "name": "Le temps est bon",
+      "url": "https://open.spotify.com/track/2U5kSevItDmL0XzSDyemRp"
+    },
+    {
+      "album": {
         "name": "Jules & Jim (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3KE2RFb1iOYARWwQ85dgep"
       },
@@ -1336,6 +1398,24 @@
       "duration_ms": 239933,
       "name": "Le t\u00e9l\u00e9phone pleure",
       "url": "https://open.spotify.com/track/2Wd4Yu2RtYZjSmzLLaghNZ"
+    },
+    {
+      "album": {
+        "name": "Joe Dassin \u00c9ternel... (Edition deluxe)",
+        "url": "https://open.spotify.com/album/3SvYaXCHlH6MFUTgqjmsAw"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157386,
+      "name": "Les Champs-Elys\u00e9es",
+      "url": "https://open.spotify.com/track/57tINxkO8YQa6Eh5h4YFh2"
     },
     {
       "album": {
@@ -2335,6 +2415,24 @@
     },
     {
       "album": {
+        "name": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB"
+      },
+      "artists": [
+        {
+          "name": "t.A.T.u.",
+          "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214253,
+      "name": "Ya Soshla S Uma",
+      "url": "https://open.spotify.com/track/34v2sh3ilJ1Qqn1Ep40cgg"
+    },
+    {
+      "album": {
         "name": "Twistin\u2019 The Rock, Vol. 9",
         "url": "https://open.spotify.com/album/0MSicRahv1o4WgJ6pXjUkg"
       },
@@ -2386,6 +2484,24 @@
       "duration_ms": 224933,
       "name": "\u00c9coute Ch\u00e9rie",
       "url": "https://open.spotify.com/track/1zyUz3eZ3sytdaR9lfW17q"
+    },
+    {
+      "album": {
+        "name": "\u0417\u0435\u043b\u0451\u043d\u044b\u0439 \u043b\u0443\u0447",
+        "url": "https://open.spotify.com/album/2n89zVsPU9me8ZWvZVyc0Z"
+      },
+      "artists": [
+        {
+          "name": "\u041f\u0435\u0440\u0435\u043c\u043e\u0442\u043a\u0430",
+          "url": "https://open.spotify.com/artist/3AwNBhYb8tZmJ5m0VIKHp2"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183966,
+      "name": "\u0411\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u043e\u0435 \u043b\u0435\u0442\u043e",
+      "url": "https://open.spotify.com/track/3yV6aXteZm4wg8Y5JP0f7J"
     },
     {
       "album": {
@@ -2443,6 +2559,24 @@
     },
     {
       "album": {
+        "name": "\u043c\u043e\u0438 (\u0442\u0432\u043e\u0438) \u0442\u0451\u043c\u043d\u044b\u0435 \u0436\u0435\u043b\u0430\u043d\u0438\u044f",
+        "url": "https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01"
+      },
+      "artists": [
+        {
+          "name": "ooes",
+          "url": "https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "\u043f\u0440\u0430\u0432\u0430",
+      "url": "https://open.spotify.com/track/6E2ec1JmPOXyh7k37tYhYU"
+    },
+    {
+      "album": {
         "name": "\u0421\u043a\u0430\u0437\u043a\u0438 \u043b\u0435\u0441\u043d\u043e\u0439 \u043d\u0438\u043c\u0444\u044b",
         "url": "https://open.spotify.com/album/3LFGKPdcr1UsYAY1ln1VPh"
       },
@@ -2458,6 +2592,24 @@
       "duration_ms": 136065,
       "name": "\u0421\u043f\u044f\u0449\u0430\u044f \u043a\u0440\u0430\u0441\u0430\u0432\u0438\u0446\u0430",
       "url": "https://open.spotify.com/track/64Uiv4X755MZm6N597IT0M"
+    },
+    {
+      "album": {
+        "name": "\u042d\u0442\u0430\u0436\u0438",
+        "url": "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc"
+      },
+      "artists": [
+        {
+          "name": "Molchat Doma",
+          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141394,
+      "name": "\u0421\u0443\u0434\u043d\u043e (\u0411\u043e\u0440\u0438\u0441 \u0420\u0438\u0436\u0438\u0439)",
+      "url": "https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO"
     },
     {
       "album": {

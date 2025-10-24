@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-09-25",
-  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-10-20 07:18:09.601194",
+  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-10-23 07:16:18.170698",
   "name": "big mix",
   "tracks": [
     {
@@ -1164,6 +1164,28 @@
       "duration_ms": 220426,
       "name": "2000 Miles - 2007 Remaster",
       "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
+    },
+    {
+      "album": {
+        "name": "The T.Rex Wax Co. Singles A's & B's 1972-77",
+        "url": "https://open.spotify.com/album/5IFCwm6lSDxzlLZ0vIIg1H"
+      },
+      "artists": [
+        {
+          "name": "Marc Bolan",
+          "url": "https://open.spotify.com/artist/4M2gGLzKCo0rPyn224PsoN"
+        },
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221346,
+      "name": "20th Century Boy",
+      "url": "https://open.spotify.com/track/0HljvWM7AzlJaWgqxtz5Ii"
     },
     {
       "album": {
@@ -20166,6 +20188,24 @@
       "duration_ms": 241733,
       "name": "Dancing In the Dark",
       "url": "https://open.spotify.com/track/5nuqNArwDhWoqn0d67dsFh"
+    },
+    {
+      "album": {
+        "name": "Happiness Forever",
+        "url": "https://open.spotify.com/album/0jVGdTKQ0pValbbtxv5h5O"
+      },
+      "artists": [
+        {
+          "name": "Toploader",
+          "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230120,
+      "name": "Dancing in the Moonlight",
+      "url": "https://open.spotify.com/track/4IdDl9uvZBiI6C2A03sAIQ"
     },
     {
       "album": {
@@ -47819,6 +47859,24 @@
     },
     {
       "album": {
+        "name": "Bon Jovi Greatest Hits",
+        "url": "https://open.spotify.com/album/0VfHA0sk3N4Y1NqmC1iIaZ"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224600,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/6mqOtq4LgQ4eK6yF9yZvO7"
+    },
+    {
+      "album": {
         "name": "The Set List",
         "url": "https://open.spotify.com/album/7Gt5hv82rfRokHQP9a4vAu"
       },
@@ -58944,6 +59002,24 @@
       "duration_ms": 189946,
       "name": "Maria",
       "url": "https://open.spotify.com/track/3IKUD7z23F2QXCcbC4E1tL"
+    },
+    {
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/2hx6pazNQ4tMM5T47pIDBT"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 592797,
+      "name": "Maria - White Trash Mix",
+      "url": "https://open.spotify.com/track/3AYbK8Ns7TUUz2IFBTsXMc"
     },
     {
       "album": {
@@ -90789,6 +90865,28 @@
     },
     {
       "album": {
+        "name": "Talk To You (ft. Elton John)",
+        "url": "https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317040,
+      "name": "Talk To You (ft. Elton John)",
+      "url": "https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5"
+    },
+    {
+      "album": {
         "name": "The Masterplan",
         "url": "https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4"
       },
@@ -95994,6 +96092,24 @@
       "duration_ms": 270066,
       "name": "The Road to Hell Part 2",
       "url": "https://open.spotify.com/track/3lGyt8enqenwyqXihI6AVr"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171066,
+      "name": "The Rock Show",
+      "url": "https://open.spotify.com/track/1kyYimRnSQQbE7h4KFjVh5"
     },
     {
       "album": {

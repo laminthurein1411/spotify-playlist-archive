@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 136 songs - 7 hr 25 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 144 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,5 +144,13 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 134 | [Arbeiter von Wien](https://open.spotify.com/track/0Q4lgLJ2A8GnP4aYRl4vK5) | [Erich\-Weinert\-Ensemble](https://open.spotify.com/artist/6tuPwxuo1bWYs5N9z4vDXM) | [Hymnes et marches de la République Démocratique Allemande](https://open.spotify.com/album/54Aw3vJODQ5jrTAcoOZPjD) | 2:35 |
 | 135 | [Erika](https://open.spotify.com/track/5Mcc5HvNp9mZGMKfCz0Fsw) | [Grosses Blasorchester](https://open.spotify.com/artist/5P2XbGlMxF4OAZJDrnYWep) | [Marches allemandes \(Mono Version\)](https://open.spotify.com/album/7BzaAsIhP8s2Whi8SkIcay) | 2:16 |
 | 136 | [Судно \(Борис Рижий\)](https://open.spotify.com/track/6DONTnamNDOJdO6DzCu71p) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1vPytXXwF0VXnof89Z91Pm) | 2:21 |
+| 137 | [Судно \(Борис Рижий\)](https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 2:21 |
+| 138 | [права](https://open.spotify.com/track/6E2ec1JmPOXyh7k37tYhYU) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:26 |
+| 139 | [Ya Soshla S Uma](https://open.spotify.com/track/34v2sh3ilJ1Qqn1Ep40cgg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 |
+| 140 | [Бесконечное лето](https://open.spotify.com/track/3yV6aXteZm4wg8Y5JP0f7J) | [Перемотка](https://open.spotify.com/artist/3AwNBhYb8tZmJ5m0VIKHp2) | [Зелёный луч](https://open.spotify.com/album/2n89zVsPU9me8ZWvZVyc0Z) | 3:03 |
+| 141 | [Les Champs\-Elysées](https://open.spotify.com/track/57tINxkO8YQa6Eh5h4YFh2) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel..\. \(Edition deluxe\)](https://open.spotify.com/album/3SvYaXCHlH6MFUTgqjmsAw) | 2:37 |
+| 142 | [Emmenez\-moi](https://open.spotify.com/track/6kjDLNGtvnbYIXAMsc6iiu) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Entre deux rêves](https://open.spotify.com/album/5jm1jHoCMuMh3SElNY9R81) | 3:32 |
+| 143 | [Le temps est bon](https://open.spotify.com/track/2U5kSevItDmL0XzSDyemRp) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Aller\-retour](https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14) | 3:23 |
+| 144 | [La Seine \- Extrait de la bande originale un monstre à Paris](https://open.spotify.com/track/4B6XjmOWI55np7y4MUTXDu) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:47 |
 
-Snapshot ID: `AAAAUDNx4VtSVc1G2VaItlKhPLJP0GN+`
+Snapshot ID: `AAAAWPzRZvvZVnKlz0GT559kAjnNyvd6`

@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140413,
+      "name": "Kingdom Dance - From \"Tangled\"/Score",
+      "url": "https://open.spotify.com/track/0jkGkwy510cvhy0jYPFme4"
+    },
+    {
+      "album": {
         "name": "The Best of Violin",
         "url": "https://open.spotify.com/album/1AsHcz9FEbdN0tk3UW4pwA"
       },
@@ -1014,6 +1032,24 @@
       "duration_ms": 145495,
       "name": "Ti ho cercato",
       "url": "https://open.spotify.com/track/4qEKZXxgcx3yEP3nvNKD3O"
+    },
+    {
+      "album": {
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R"
+      },
+      "artists": [
+        {
+          "name": "Julie Fowlis",
+          "url": "https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151400,
+      "name": "Touch The Sky - From \"Brave\"/Soundtrack",
+      "url": "https://open.spotify.com/track/5yyqx4brn6Bm9U1Rj9ENnz"
     },
     {
       "album": {

@@ -2175,6 +2175,24 @@
     },
     {
       "album": {
+        "name": "Conquest",
+        "url": "https://open.spotify.com/album/7wZkqIpYypNxkR93nDucc5"
+      },
+      "artists": [
+        {
+          "name": "Madcon",
+          "url": "https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218706,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/4YeKAwFn69ehnciOfi7Sbf"
+    },
+    {
+      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
       },
@@ -5444,6 +5462,24 @@
       "duration_ms": 245640,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
+    },
+    {
+      "album": {
+        "name": "Fairytale",
+        "url": "https://open.spotify.com/album/6EWWmTEOXI58PL13vNk67S"
+      },
+      "artists": [
+        {
+          "name": "Alexander Rybak",
+          "url": "https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182600,
+      "name": "Fairytale",
+      "url": "https://open.spotify.com/track/3MnAsEBBsEj86d03RgO4EM"
     },
     {
       "album": {
@@ -11307,6 +11343,24 @@
     },
     {
       "album": {
+        "name": "Rockferry",
+        "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219920,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj"
+    },
+    {
+      "album": {
         "name": "Mi Gente",
         "url": "https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k"
       },
@@ -15342,6 +15396,24 @@
       "duration_ms": 189449,
       "name": "Soldier's Eyes",
       "url": "https://open.spotify.com/track/1Eajjnxn7T66L0vZcupQVe"
+    },
+    {
+      "album": {
+        "name": "Dear Wormwood",
+        "url": "https://open.spotify.com/album/1cPLA174FRXDxaU1yQtOGQ"
+      },
+      "artists": [
+        {
+          "name": "The Oh Hellos",
+          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165673,
+      "name": "Soldier, Poet, King",
+      "url": "https://open.spotify.com/track/0glyN0Yu0D6efNYu7oTjHg"
     },
     {
       "album": {
@@ -19920,6 +19992,24 @@
       "duration_ms": 208600,
       "name": "Wherever You Will Go",
       "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
+    },
+    {
+      "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/6XzZ5pg9buAKNYg293KOQ8"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147026,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/3QVtICc8ViNOy4I5K14d8Z"
     },
     {
       "album": {

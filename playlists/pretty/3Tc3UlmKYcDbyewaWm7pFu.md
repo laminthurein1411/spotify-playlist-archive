@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,127 songs - 2 day 19 hr 8 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,132 songs - 2 day 19 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1135,5 +1135,10 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 | 1125 | [Seven Minutes in Heaven](https://open.spotify.com/track/2t7B8DDBgLbMcYVMTo8vd5) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [MSI B\-SIDES vol.1](https://open.spotify.com/album/1EKVMKNNAOROOmoupP5OwS) | 2:13 |
 | 1126 | [What Was That](https://open.spotify.com/track/7hGCCQkdyF1MX6uk339uBS) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:29 |
 | 1127 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 |
+| 1128 | [Beggin'](https://open.spotify.com/track/4YeKAwFn69ehnciOfi7Sbf) | [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz) | [Conquest](https://open.spotify.com/album/7wZkqIpYypNxkR93nDucc5) | 3:38 |
+| 1129 | [Mercy](https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:39 |
+| 1130 | [Soldier, Poet, King](https://open.spotify.com/track/0glyN0Yu0D6efNYu7oTjHg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/1cPLA174FRXDxaU1yQtOGQ) | 2:45 |
+| 1131 | [Fairytale](https://open.spotify.com/track/3MnAsEBBsEj86d03RgO4EM) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Fairytale](https://open.spotify.com/album/6EWWmTEOXI58PL13vNk67S) | 3:02 |
+| 1132 | [White Winter Hymnal](https://open.spotify.com/track/3QVtICc8ViNOy4I5K14d8Z) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/6XzZ5pg9buAKNYg293KOQ8) | 2:27 |
 
-Snapshot ID: `AAAEo7JzqdRi0idsbUOoStDA5OeIk6Wo`
+Snapshot ID: `AAAEqMixSE3Dooz3KhDOvtzwS13cs6k1`

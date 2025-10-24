@@ -4,7 +4,7 @@
 
 > 
 
-1,127 songs - 2 day 19 hr 8 min
+1,132 songs - 2 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Beautiful Soul](https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Beautiful Soul](https://open.spotify.com/album/2gidE8vgVOkYufANjuvj3S) | 3:34 | 2023-11-06 |  |
 | [Because of You](https://open.spotify.com/track/1258tSoXDDa43uqT75r5N0) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Greatest Hits \- Chapter One](https://open.spotify.com/album/0UxWN628tSTCaR4NVpqSHM) | 3:40 | 2019-12-30 |  |
 | [Because You Loved Me \(Theme from "Up Close and Personal"\)](https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 4:33 | 2019-12-30 |  |
+| [Beggin'](https://open.spotify.com/track/4YeKAwFn69ehnciOfi7Sbf) | [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz) | [Conquest](https://open.spotify.com/album/7wZkqIpYypNxkR93nDucc5) | 3:38 | 2025-10-23 |  |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-12-10 |  |
 | [Being Alive](https://open.spotify.com/track/4GDSnxxtmIyVS4Twl7Y7UB) | [Stephen Sondheim](https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1) | [Company](https://open.spotify.com/album/6PaCKF5VoZp0Q1anuqXjf1) | 5:06 | 2023-11-06 |  |
 | [Believe](https://open.spotify.com/track/55lCPsTxQbJrQfuIQlu7LJ) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Believe](https://open.spotify.com/album/1yJwsI0A09AdfFRymETgiS) | 3:30 | 2021-10-30 |  |
@@ -299,6 +300,7 @@
 | [Everything Black](https://open.spotify.com/track/3UEnF6y5tyHVtMzldS3svp) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga), [Mike Taylor](https://open.spotify.com/artist/30ejUciK31BCg0IVCbt1dW), [UPxMT](https://open.spotify.com/artist/501jUQ5hTudaK2sZO3xeAD) | [Everything Black](https://open.spotify.com/album/65QMh46zprwhLoYR9vOlVz) | 3:48 | 2021-02-22 |  |
 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:45 | 2022-02-02 |  |
 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 | 2020-10-29 |  |
+| [Fairytale](https://open.spotify.com/track/3MnAsEBBsEj86d03RgO4EM) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Fairytale](https://open.spotify.com/album/6EWWmTEOXI58PL13vNk67S) | 3:02 | 2025-10-23 |  |
 | [Fairytale](https://open.spotify.com/track/4eDtZP99H6xfasP4Tku9Ee) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Lighthouse](https://open.spotify.com/album/4Pmm7z9aZUxOifop5oDvOJ) | 2:49 | 2021-09-28 |  |
 | [Faithfully](https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 4:27 | 2022-05-02 |  |
 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 | 2022-04-09 |  |
@@ -613,6 +615,7 @@
 | [Melody Noir](https://open.spotify.com/track/4dnC4CojiXNTipgNzrxmbw) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Melody Noir](https://open.spotify.com/album/4sr42YNi8QM5Ff3fE7wgfb) | 3:14 | 2024-04-04 |  |
 | [Memory](https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Memory](https://open.spotify.com/album/0jpQZkMeWh9yysxyTSCywk) | 2:33 | 2021-12-10 |  |
 | [Memory](https://open.spotify.com/track/21kvruyJddCLQguDk9oklX) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Memory](https://open.spotify.com/album/32yZcwzjlxC3mY9rWciv8P) | 3:17 | 2022-03-22 |  |
+| [Mercy](https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:39 | 2025-10-23 |  |
 | [Mi Gente](https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Mi Gente](https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k) | 3:09 | 2020-02-06 |  |
 | [Mi Mi Mi](https://open.spotify.com/track/0pqCMHN3IVkBDlWAg0kiVa) | [SEREBRO](https://open.spotify.com/artist/1Ulwacsns9Me7dz4OVwkiQ) | [Mi Mi Mi](https://open.spotify.com/album/2FhODV9NIjFwFOAsehA5UO) | 3:12 | 2020-03-07 |  |
 | [Midsummer Madness](https://open.spotify.com/track/6TodWdTSDfzwgYynTZSvJn) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Head In The Clouds](https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB) | 4:40 | 2020-06-14 |  |
@@ -826,6 +829,7 @@
 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 | 2025-07-21 |  |
 | [Soft Spot](https://open.spotify.com/track/31dK8fLdLeNQVyrwZ1unsy) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Soft Spot](https://open.spotify.com/album/5YxR0EDEfl0o1gyhCrvY3R) | 4:22 | 2024-11-24 |  |
 | [Soldier's Eyes](https://open.spotify.com/track/1Eajjnxn7T66L0vZcupQVe) | [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [Between The Minds](https://open.spotify.com/album/5YvxOOG2h2PF9FQtUqBFsN) | 3:09 | 2021-10-08 |  |
+| [Soldier, Poet, King](https://open.spotify.com/track/0glyN0Yu0D6efNYu7oTjHg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/1cPLA174FRXDxaU1yQtOGQ) | 2:45 | 2025-10-23 |  |
 | [Soldier, Poet, King](https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 2:45 | 2024-10-03 |  |
 | [Solo](https://open.spotify.com/track/1TEXhp3NMV9U3xvWFZy5Xq) | [Iyaz](https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C) | [Replay](https://open.spotify.com/album/44hyrGuZKAvITbmrlhryf8) | 3:14 | 2020-05-01 |  |
 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 | 2021-02-23 |  |
@@ -1069,6 +1073,7 @@
 | [Where I Stand](https://open.spotify.com/track/69aRqqcNYSCWEF4voEZ4Sv) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Midnight Sun \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11fknXHVexjkL3mFONyIFa) | 3:22 | 2022-02-08 |  |
 | [Wherever You Will Go](https://open.spotify.com/track/2n6FX3Jcg4b4Leoz0GOqBF) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/482njCey5m8quxX6ymvlIP) | 3:28 | 2020-05-04 |  |
 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 | 2025-08-24 |  |
+| [White Winter Hymnal](https://open.spotify.com/track/3QVtICc8ViNOy4I5K14d8Z) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/6XzZ5pg9buAKNYg293KOQ8) | 2:27 | 2025-10-23 |  |
 | [Who Do You Love](https://open.spotify.com/track/2fVHrSxsQbJUuj9MW9zG1e) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:46 | 2020-03-15 |  |
 | [Who Says](https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:15 | 2020-05-22 |  |
 | [Whoa Whoa Whoa](https://open.spotify.com/track/3CCiSDBBVMf0gHPZcREZxW) | [Watsky](https://open.spotify.com/artist/3mJ9GlkLzj8Ka7Z7EQaCMi) | [All You Can Do](https://open.spotify.com/album/2oFd5zCNTe0q3061ss0Fm9) | 3:07 | 2025-07-19 |  |
