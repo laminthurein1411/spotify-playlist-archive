@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YYPbPSu66tSNvJkawFiAx.md) - [plain]
 
 > Every week, discover the playlist of our Sonar show\. New releases and rarities selected by GRRIF radio\. www.grrif.ch RR GRRIF
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 827 songs - 2 day 2 hr 15 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 855 songs - 2 day 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -835,5 +835,33 @@ pretty - [cumulative](/playlists/cumulative/2YYPbPSu66tSNvJkawFiAx.md) - [plain]
 | 825 | [Routine](https://open.spotify.com/track/4rLazozVgJ9Sj2WoAM68ca) | [Bambu](https://open.spotify.com/artist/0iPS5GpwbHSmgNXfGE674K) | [Prey For The Devil](https://open.spotify.com/album/1muqY2S5vEafF0ieylPxzv) | 3:56 |
 | 826 | [Last Time](https://open.spotify.com/track/3Wvj5QBsofxKCvwqKs9jLh) | [Shungu](https://open.spotify.com/artist/1XIyDif58YyorFor2gNfUF), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Last Time](https://open.spotify.com/album/0VltGG3swfBwkkAAbS4tRa) | 2:26 |
 | 827 | [Koko](https://open.spotify.com/track/7yw8NPYhiQGPZdAWBXYrvJ) | [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [DJ\-Kicks: Modeselektor](https://open.spotify.com/album/4ApWMQXAEOaNpFWaKG2FtN) | 3:41 |
+| 828 | [Emptylands \- Edit](https://open.spotify.com/track/2p1164otxLLK2j39IBqmSh) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Emptylands](https://open.spotify.com/album/65Db53Ra4aCYu7twmFrZy8) | 3:55 |
+| 829 | [Week\-end à Rome \- Yuksek Remix](https://open.spotify.com/track/7dJHroWQ2LYHnwKw5Eouk7) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Week\-end à Rome \(Yuksek Remix\)](https://open.spotify.com/album/3cg3oGoAYdVqBHDU0lg36e) | 4:16 |
+| 830 | [The False Economy](https://open.spotify.com/track/6FCWwRr6OJs1K7tQUXurcL) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [All Systems Are Lying](https://open.spotify.com/album/5YrUPQ9Xib98i41d6caVl8) | 4:14 |
+| 831 | [Sorry](https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:17 |
+| 832 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
+| 833 | [27 \(too young\)](https://open.spotify.com/track/1B4xo51RQ73j4Z3b3JccKL) | [Ladji Mouflet](https://open.spotify.com/artist/2NNTIDSDRlsf4lzYW9fpKm) | [PLANET LADJI](https://open.spotify.com/album/50kV7k5EEbj7BP9rmdQbat) | 2:30 |
+| 834 | [A BUG'S LIFE](https://open.spotify.com/track/2Bb9jsaeHdjnDy6ZGIM5tY) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [A BUG'S LIFE](https://open.spotify.com/album/112vEhb67dIIWu6QOQB8qh) | 3:07 |
+| 835 | [One Last Nothing](https://open.spotify.com/track/1PFT6FIVOimQMZSqZXxcHD) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [One Last Nothing](https://open.spotify.com/album/7nvCouw3rwh7W2NYkYg4Yb) | 5:24 |
+| 836 | [Misty Shore](https://open.spotify.com/track/2ojVBeQ5Zv3xTB0TYciwbU) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Daybreak](https://open.spotify.com/album/1baFQcDb7WS9r8M6Q4ZZPO) | 2:53 |
+| 837 | [What's On Your Mind](https://open.spotify.com/track/1DEJKx9IYnTMiEe1mEj9H0) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [What's On Your Mind](https://open.spotify.com/album/1e03yQdw0r4dKmmZ49owsh) | 2:37 |
+| 838 | [Last Night's Empire](https://open.spotify.com/track/5JRyqsWzJAcuQpHcoIlrjf) | [Funny Weather](https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Funny Weather](https://open.spotify.com/album/23JGOUVZWY6hPFjRcOyQkS) | 4:30 |
+| 839 | [The Influence](https://open.spotify.com/track/0PWsiJQtAID6ZdWyWIgdw9) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN) | [The Influence](https://open.spotify.com/album/3dVizlvTNZbegli0Ihv15a) | 2:34 |
+| 840 | [Husbands](https://open.spotify.com/track/0xATIfA17cJDb9pYAuw70Y) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 4:08 |
+| 841 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 7:10 |
+| 842 | [Emptylands \- Edit](https://open.spotify.com/track/2p1164otxLLK2j39IBqmSh) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Emptylands](https://open.spotify.com/album/65Db53Ra4aCYu7twmFrZy8) | 3:55 |
+| 843 | [Week\-end à Rome \- Yuksek Remix](https://open.spotify.com/track/7dJHroWQ2LYHnwKw5Eouk7) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Week\-end à Rome \(Yuksek Remix\)](https://open.spotify.com/album/3cg3oGoAYdVqBHDU0lg36e) | 4:16 |
+| 844 | [The False Economy](https://open.spotify.com/track/6FCWwRr6OJs1K7tQUXurcL) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [All Systems Are Lying](https://open.spotify.com/album/5YrUPQ9Xib98i41d6caVl8) | 4:14 |
+| 845 | [Sorry](https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:17 |
+| 846 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
+| 847 | [27 \(too young\)](https://open.spotify.com/track/1B4xo51RQ73j4Z3b3JccKL) | [Ladji Mouflet](https://open.spotify.com/artist/2NNTIDSDRlsf4lzYW9fpKm) | [PLANET LADJI](https://open.spotify.com/album/50kV7k5EEbj7BP9rmdQbat) | 2:30 |
+| 848 | [A BUG'S LIFE](https://open.spotify.com/track/2Bb9jsaeHdjnDy6ZGIM5tY) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [A BUG'S LIFE](https://open.spotify.com/album/112vEhb67dIIWu6QOQB8qh) | 3:07 |
+| 849 | [One Last Nothing](https://open.spotify.com/track/1PFT6FIVOimQMZSqZXxcHD) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [One Last Nothing](https://open.spotify.com/album/7nvCouw3rwh7W2NYkYg4Yb) | 5:24 |
+| 850 | [Misty Shore](https://open.spotify.com/track/2ojVBeQ5Zv3xTB0TYciwbU) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Daybreak](https://open.spotify.com/album/1baFQcDb7WS9r8M6Q4ZZPO) | 2:53 |
+| 851 | [What's On Your Mind](https://open.spotify.com/track/1DEJKx9IYnTMiEe1mEj9H0) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [What's On Your Mind](https://open.spotify.com/album/1e03yQdw0r4dKmmZ49owsh) | 2:37 |
+| 852 | [Last Night's Empire](https://open.spotify.com/track/5JRyqsWzJAcuQpHcoIlrjf) | [Funny Weather](https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Funny Weather](https://open.spotify.com/album/23JGOUVZWY6hPFjRcOyQkS) | 4:30 |
+| 853 | [The Influence](https://open.spotify.com/track/0PWsiJQtAID6ZdWyWIgdw9) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN) | [The Influence](https://open.spotify.com/album/3dVizlvTNZbegli0Ihv15a) | 2:34 |
+| 854 | [Husbands](https://open.spotify.com/track/0xATIfA17cJDb9pYAuw70Y) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 4:08 |
+| 855 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 7:10 |
 
-Snapshot ID: `AAAAbUswvQphEOVdxXrIj6RbZc4UCouI`
+Snapshot ID: `AAAAb1U493DiX9hDThspyzHxBfQRMn1+`

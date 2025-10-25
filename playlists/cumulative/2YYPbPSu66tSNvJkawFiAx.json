@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "PLANET LADJI",
+        "url": "https://open.spotify.com/album/50kV7k5EEbj7BP9rmdQbat"
+      },
+      "artists": [
+        {
+          "name": "Ladji Mouflet",
+          "url": "https://open.spotify.com/artist/2NNTIDSDRlsf4lzYW9fpKm"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150260,
+      "name": "27 (too young)",
+      "url": "https://open.spotify.com/track/1B4xo51RQ73j4Z3b3JccKL"
+    },
+    {
+      "album": {
         "name": "2Nite",
         "url": "https://open.spotify.com/album/7g0tXuz4zBk1oKw3MEni26"
       },
@@ -20,6 +38,24 @@
       "duration_ms": 233626,
       "name": "2Nite",
       "url": "https://open.spotify.com/track/1CHJyIFsChUnq0i80iHNxV"
+    },
+    {
+      "album": {
+        "name": "A BUG'S LIFE",
+        "url": "https://open.spotify.com/album/112vEhb67dIIWu6QOQB8qh"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187533,
+      "name": "A BUG'S LIFE",
+      "url": "https://open.spotify.com/track/2Bb9jsaeHdjnDy6ZGIM5tY"
     },
     {
       "album": {
@@ -2531,6 +2567,24 @@
     },
     {
       "album": {
+        "name": "Emptylands",
+        "url": "https://open.spotify.com/album/65Db53Ra4aCYu7twmFrZy8"
+      },
+      "artists": [
+        {
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235500,
+      "name": "Emptylands - Edit",
+      "url": "https://open.spotify.com/track/2p1164otxLLK2j39IBqmSh"
+    },
+    {
+      "album": {
         "name": "Ends Meet",
         "url": "https://open.spotify.com/album/3GziivhJQCGZU7FlQWPT4Y"
       },
@@ -3999,6 +4053,24 @@
     },
     {
       "album": {
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248229,
+      "name": "Husbands",
+      "url": "https://open.spotify.com/track/0xATIfA17cJDb9pYAuw70Y"
+    },
+    {
+      "album": {
         "name": "The Dial",
         "url": "https://open.spotify.com/album/3zPQKfU44FE1sHcjqq3JG2"
       },
@@ -4991,6 +5063,28 @@
     },
     {
       "album": {
+        "name": "Funny Weather",
+        "url": "https://open.spotify.com/album/23JGOUVZWY6hPFjRcOyQkS"
+      },
+      "artists": [
+        {
+          "name": "Funny Weather",
+          "url": "https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270240,
+      "name": "Last Night's Empire",
+      "url": "https://open.spotify.com/track/5JRyqsWzJAcuQpHcoIlrjf"
+    },
+    {
+      "album": {
         "name": "Last Time",
         "url": "https://open.spotify.com/album/0VltGG3swfBwkkAAbS4tRa"
       },
@@ -5879,6 +5973,24 @@
     },
     {
       "album": {
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/1baFQcDb7WS9r8M6Q4ZZPO"
+      },
+      "artists": [
+        {
+          "name": "Sven Wunder",
+          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173877,
+      "name": "Misty Shore",
+      "url": "https://open.spotify.com/track/2ojVBeQ5Zv3xTB0TYciwbU"
+    },
+    {
+      "album": {
         "name": "Freakquencies: Volume 1",
         "url": "https://open.spotify.com/album/4gaNqy701TUFmsUtIFLfeD"
       },
@@ -6060,6 +6172,24 @@
       "duration_ms": 181786,
       "name": "My Moon",
       "url": "https://open.spotify.com/track/5BDPUrZvHrsxyHwYNCbjEj"
+    },
+    {
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298783,
+      "name": "My Old Ways",
+      "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
     },
     {
       "album": {
@@ -6560,6 +6690,24 @@
       "duration_ms": 156690,
       "name": "One Foot",
       "url": "https://open.spotify.com/track/7CpYtDjQe0qtyVxFFYBIl9"
+    },
+    {
+      "album": {
+        "name": "One Last Nothing",
+        "url": "https://open.spotify.com/album/7nvCouw3rwh7W2NYkYg4Yb"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324610,
+      "name": "One Last Nothing",
+      "url": "https://open.spotify.com/track/1PFT6FIVOimQMZSqZXxcHD"
     },
     {
       "album": {
@@ -8123,6 +8271,24 @@
     },
     {
       "album": {
+        "name": "LOVED",
+        "url": "https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197703,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP"
+    },
+    {
+      "album": {
         "name": "Samurai DX",
         "url": "https://open.spotify.com/album/63I6z4nAbUE4Q3sMiJjJAG"
       },
@@ -8923,6 +9089,24 @@
     },
     {
       "album": {
+        "name": "All Systems Are Lying",
+        "url": "https://open.spotify.com/album/5YrUPQ9Xib98i41d6caVl8"
+      },
+      "artists": [
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254413,
+      "name": "The False Economy",
+      "url": "https://open.spotify.com/track/6FCWwRr6OJs1K7tQUXurcL"
+    },
+    {
+      "album": {
         "name": "The Feels",
         "url": "https://open.spotify.com/album/5ykVDy6GFzq8KhpKaUoFQa"
       },
@@ -9012,6 +9196,24 @@
       "duration_ms": 284775,
       "name": "The Happy Dictator (feat. Sparks)",
       "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"
+    },
+    {
+      "album": {
+        "name": "The Influence",
+        "url": "https://open.spotify.com/album/3dVizlvTNZbegli0Ihv15a"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "The Influence",
+      "url": "https://open.spotify.com/track/0PWsiJQtAID6ZdWyWIgdw9"
     },
     {
       "album": {
@@ -9599,6 +9801,24 @@
     },
     {
       "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430800,
+      "name": "Untitled (How Does It Feel)",
+      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
+    },
+    {
+      "album": {
         "name": "Unwind [Feat. Melanie Charles]",
         "url": "https://open.spotify.com/album/2jWjJILBlCqfA2PCPgZNPQ"
       },
@@ -9959,6 +10179,28 @@
     },
     {
       "album": {
+        "name": "Week-end \u00e0 Rome (Yuksek Remix)",
+        "url": "https://open.spotify.com/album/3cg3oGoAYdVqBHDU0lg36e"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        },
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256306,
+      "name": "Week-end \u00e0 Rome - Yuksek Remix",
+      "url": "https://open.spotify.com/track/7dJHroWQ2LYHnwKw5Eouk7"
+    },
+    {
+      "album": {
         "name": "Tha Carter VI",
         "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
       },
@@ -9974,6 +10216,24 @@
       "duration_ms": 215425,
       "name": "Welcome to Tha Carter",
       "url": "https://open.spotify.com/track/0wI5MvhcdTrVERaDOHiNnp"
+    },
+    {
+      "album": {
+        "name": "What's On Your Mind",
+        "url": "https://open.spotify.com/album/1e03yQdw0r4dKmmZ49owsh"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157213,
+      "name": "What's On Your Mind",
+      "url": "https://open.spotify.com/track/1DEJKx9IYnTMiEe1mEj9H0"
     },
     {
       "album": {
