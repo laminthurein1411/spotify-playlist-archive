@@ -4,7 +4,7 @@
 
 > 
 
-403 songs - 1 day 2 hr 12 min
+404 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Merry Christmas, Please Don't Call](https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Merry Christmas, Please Don't Call](https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW) | 3:22 | 2025-10-21 |  |
 | [More Than I Can Say \- Remastered](https://open.spotify.com/track/3RJ81z1sPLeWEFuCfGaCLC) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Living In A Fantasy](https://open.spotify.com/album/7fjKXnW6bvlKkVzt6x2sZW) | 3:40 | 2022-06-05 |  |
 | [Mr\. Loverman](https://open.spotify.com/track/2IVsRhKrx8hlQBOWy4qebo) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Montgomery Ricky](https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3) | 3:36 | 2024-03-02 |  |
+| [My Kink Is Karma](https://open.spotify.com/track/32fSZSbxeVoiZShMQKLc6Z) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:42 | 2025-10-26 |  |
 | [My Mind & Me](https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [My Mind & Me](https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5) | 2:27 | 2023-07-26 |  |
 | [My Way](https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Way \(Expanded Edition\)](https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn) | 4:36 | 2023-11-29 |  |
 | [Mystery Of Love \- Demo](https://open.spotify.com/track/62RTXxio7jbtBTxWz43JPS) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery Of Love \(Demo\)](https://open.spotify.com/album/06pLW7elratms6S5yufTzn) | 4:04 | 2025-04-01 |  |

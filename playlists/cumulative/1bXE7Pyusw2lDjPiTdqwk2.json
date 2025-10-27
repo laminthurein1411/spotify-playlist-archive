@@ -4573,6 +4573,24 @@
     },
     {
       "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222578,
+      "name": "My Kink Is Karma",
+      "url": "https://open.spotify.com/track/32fSZSbxeVoiZShMQKLc6Z"
+    },
+    {
+      "album": {
         "name": "My Mind & Me",
         "url": "https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5"
       },

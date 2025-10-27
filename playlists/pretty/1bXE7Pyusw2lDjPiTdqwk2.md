@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1bXE7Pyusw2lDjPiTdqwk2.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 403 songs - 1 day 2 hr 12 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 404 songs - 1 day 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -411,5 +411,6 @@ pretty - [cumulative](/playlists/cumulative/1bXE7Pyusw2lDjPiTdqwk2.md) - [plain]
 | 401 | [Heaven Knows I'm Miserable Now \- 2011 Remaster](https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 3:35 |
 | 402 | [Merry Christmas, Please Don't Call](https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Merry Christmas, Please Don't Call](https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW) | 3:22 |
 | 403 | [Woodland Fairies](https://open.spotify.com/track/5dhdd2nshYGv6o4xWiBGCC) | [Derek Fiechter](https://open.spotify.com/artist/01Er12nK5rrnHx8usFPJAs) | [World of Wonders](https://open.spotify.com/album/5IkfTP4sPCxEql76L4SB6s) | 4:16 |
+| 404 | [My Kink Is Karma](https://open.spotify.com/track/32fSZSbxeVoiZShMQKLc6Z) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:42 |
 
-Snapshot ID: `AAABiwpEaJfkOSWLMZJuPiZnBxS2OLZy`
+Snapshot ID: `AAABjOBbAMyeJkLi9wlVWiUZc8Yu12Sb`
