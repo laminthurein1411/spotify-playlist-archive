@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-09-25",
-  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-10-23 07:16:18.170698",
+  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-10-27 07:16:45.143750",
   "name": "big mix",
   "tracks": [
     {
@@ -6859,6 +6859,24 @@
     },
     {
       "album": {
+        "name": "Asking For A Friend",
+        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269433,
+      "name": "Asking For A Friend",
+      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
+    },
+    {
+      "album": {
         "name": "The New Eve Is Rising",
         "url": "https://open.spotify.com/album/3Eg0fxQ3UrmFeYwZsMfSqH"
       },
@@ -7454,6 +7472,24 @@
       "duration_ms": 224560,
       "name": "Baby, I Love You",
       "url": "https://open.spotify.com/track/29imR7dda5XqwPRFmby7HS"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7g7SbdTnbvrA1hGYHwLEn8"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225360,
+      "name": "Baby, I Love You",
+      "url": "https://open.spotify.com/track/6hAjc7iB6BJ4jeggQ5HFXV"
     },
     {
       "album": {
@@ -18223,6 +18259,24 @@
     },
     {
       "album": {
+        "name": "In Limerence",
+        "url": "https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272693,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/6mOZSB8gmObud9MwsOte3e"
+    },
+    {
+      "album": {
         "name": "Connected",
         "url": "https://open.spotify.com/album/3NRQnGdFznbXtP8u2O4VKB"
       },
@@ -20961,6 +21015,24 @@
     },
     {
       "album": {
+        "name": "DCWDTTY",
+        "url": "https://open.spotify.com/album/4CoPsa7rdP1RBslPC87m2u"
+      },
+      "artists": [
+        {
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178624,
+      "name": "DCWDTTY",
+      "url": "https://open.spotify.com/track/3qv3FiGDssYR64BpirkUZI"
+    },
+    {
+      "album": {
         "name": "Zenyatta Mondatta (Remastered 2003)",
         "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
       },
@@ -23248,6 +23320,24 @@
       "duration_ms": 215000,
       "name": "Do You Want To",
       "url": "https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto"
+    },
+    {
+      "album": {
+        "name": "Does This Go Faster?",
+        "url": "https://open.spotify.com/album/3guYncfNvLNSUqNOZMXOur"
+      },
+      "artists": [
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187266,
+      "name": "Does This Go Faster?",
+      "url": "https://open.spotify.com/track/7jVPR3wXtkVsv4JyWHzywb"
     },
     {
       "album": {
@@ -34403,6 +34493,24 @@
     },
     {
       "album": {
+        "name": "Horses (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354320,
+      "name": "Gloria: In Excelsis Deo",
+      "url": "https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2"
+    },
+    {
+      "album": {
         "name": "Liebling (France version)",
         "url": "https://open.spotify.com/album/5JP2ldSSJOjHsLmiKNZmsP"
       },
@@ -34814,6 +34922,24 @@
       "duration_ms": 174906,
       "name": "God Only Knows - Remastered 1996",
       "url": "https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC"
+    },
+    {
+      "album": {
+        "name": "God Owes Me Money",
+        "url": "https://open.spotify.com/album/7tbEM7bL2urcY7uRoUyA78"
+      },
+      "artists": [
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201593,
+      "name": "God Owes Me Money",
+      "url": "https://open.spotify.com/track/6MmXxggQZ12nAVpeIeEXLT"
     },
     {
       "album": {
@@ -39815,6 +39941,24 @@
     },
     {
       "album": {
+        "name": "International Superhits!",
+        "url": "https://open.spotify.com/album/6HUIbDhzmqcwxrxUfTuHdW"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171466,
+      "name": "Hitchin' a Ride",
+      "url": "https://open.spotify.com/track/0jf3LiRADnkIRPonOQG5D8"
+    },
+    {
+      "album": {
         "name": "Nimrod",
         "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
@@ -42557,6 +42701,24 @@
     },
     {
       "album": {
+        "name": "At His Best",
+        "url": "https://open.spotify.com/album/74em7MoNhD7OC82JxFc9NN"
+      },
+      "artists": [
+        {
+          "name": "Robert Palmer",
+          "url": "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216986,
+      "name": "I Didn't Mean To Turn You On",
+      "url": "https://open.spotify.com/track/755xF092j4ev0euCXevkD2"
+    },
+    {
+      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/73bPiJRwVPkE8dpyCikfFd"
       },
@@ -43661,6 +43823,24 @@
     },
     {
       "album": {
+        "name": "90's One Hit Wonders",
+        "url": "https://open.spotify.com/album/779UxXcPip2XPDr7Pitem6"
+      },
+      "artists": [
+        {
+          "name": "Divinyls",
+          "url": "https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226613,
+      "name": "I Touch Myself",
+      "url": "https://open.spotify.com/track/4bqUeownG1UZDra0FVv70e"
+    },
+    {
+      "album": {
         "name": "Nineties & Noughties",
         "url": "https://open.spotify.com/album/0CvTU7AJP4RppJoYSaTLIP"
       },
@@ -44058,6 +44238,24 @@
       "duration_ms": 217443,
       "name": "I Was Born to Love You (Karaoke-Version) As Made Famous By: Freddie Mercury",
       "url": "https://open.spotify.com/track/4sURb4AipjvtVKX1eRQFKj"
+    },
+    {
+      "album": {
+        "name": "Killers",
+        "url": "https://open.spotify.com/album/6zht7Mcmwa0uApGLHanOGn"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258666,
+      "name": "I Was Made For Lovin' You",
+      "url": "https://open.spotify.com/track/52zotpwWs4nHkncYMQUAc1"
     },
     {
       "album": {
@@ -52093,6 +52291,24 @@
     },
     {
       "album": {
+        "name": "MTV Rocks",
+        "url": "https://open.spotify.com/album/27ZNLB2msMYPijVjk1r1zI"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200786,
+      "name": "Last Resort",
+      "url": "https://open.spotify.com/track/0xxNyuanV4biEFXGAa9RNS"
+    },
+    {
+      "album": {
         "name": "Chaos For The Fly",
         "url": "https://open.spotify.com/album/0lYFv5JDwH0NwiufmU4GKj"
       },
@@ -54030,6 +54246,24 @@
       "duration_ms": 206800,
       "name": "Light of the World",
       "url": "https://open.spotify.com/track/6mKeHFWsOZl4JMNohSti8K"
+    },
+    {
+      "album": {
+        "name": "Light Sleeper",
+        "url": "https://open.spotify.com/album/72guRO8Lc8hPd8ssvv0zlu"
+      },
+      "artists": [
+        {
+          "name": "Home Front",
+          "url": "https://open.spotify.com/artist/0CyB1ZUexbBDoyHb15UJrU"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199930,
+      "name": "Light Sleeper",
+      "url": "https://open.spotify.com/track/2DgVzYwUaDetaWMf4jIrSM"
     },
     {
       "album": {
@@ -60167,6 +60401,36 @@
     },
     {
       "album": {
+        "name": "Essex Honey",
+        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        },
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217901,
+      "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
+      "url": "https://open.spotify.com/track/04KHyqdGs5sVEWX6UnukF2"
+    },
+    {
+      "album": {
         "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
         "url": "https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt"
       },
@@ -62140,6 +62404,24 @@
       "duration_ms": 226426,
       "name": "Munich",
       "url": "https://open.spotify.com/track/1TF8mSG5YHyaS4o3NeBSAo"
+    },
+    {
+      "album": {
+        "name": "Tetsuo & Youth",
+        "url": "https://open.spotify.com/album/7F58zK8t8whSFjX5X09d28"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 528880,
+      "name": "Mural",
+      "url": "https://open.spotify.com/track/2zWZV7b1xu1qZPaMjavvpS"
     },
     {
       "album": {
@@ -75411,6 +75693,24 @@
     },
     {
       "album": {
+        "name": "The Very Best of the Doors",
+        "url": "https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427280,
+      "name": "Riders on the Storm - New Stereo Mix",
+      "url": "https://open.spotify.com/track/5j5VvsEHLlWT6IaEKSGDj9"
+    },
+    {
+      "album": {
         "name": "Whaler",
         "url": "https://open.spotify.com/album/2oKbwv9ClTQKWHHTKCqN59"
       },
@@ -76966,6 +77266,28 @@
       "duration_ms": 190185,
       "name": "Royals",
       "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
+    },
+    {
+      "album": {
+        "name": "Rubber Band Man (with Hozier)",
+        "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220266,
+      "name": "Rubber Band Man (with Hozier)",
+      "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
     },
     {
       "album": {
@@ -88532,6 +88854,24 @@
       "duration_ms": 239720,
       "name": "Sugar, We're Goin Down - Patrick Stump Remix",
       "url": "https://open.spotify.com/track/1NnXZNKoClFjwFNzVbmtWm"
+    },
+    {
+      "album": {
+        "name": "From Under The Cork Tree (20th Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/3mcEMwTAA2eJUDsUgsdCbc"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218360,
+      "name": "Sugar, We're Goin Down - TLA Radio Edit",
+      "url": "https://open.spotify.com/track/5kHeFRQK81hToSOtfr7z36"
     },
     {
       "album": {
@@ -101058,6 +101398,24 @@
     {
       "album": {
         "name": "Tenacious D",
+        "url": "https://open.spotify.com/album/7mv1ciCld5Bp1y6TDGtjQY"
+      },
+      "artists": [
+        {
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248053,
+      "name": "Tribute",
+      "url": "https://open.spotify.com/track/53XBXgtdqf1gmWMm3rqV27"
+    },
+    {
+      "album": {
+        "name": "Tenacious D",
         "url": "https://open.spotify.com/album/1AckkxSo39144vOBrJ1GkS"
       },
       "artists": [
@@ -103874,6 +104232,24 @@
       "duration_ms": 177666,
       "name": "Visions",
       "url": "https://open.spotify.com/track/4n4gZr1VEBUG0N9zuyDuk6"
+    },
+    {
+      "album": {
+        "name": "Ege Bamyasi (Remastered)",
+        "url": "https://open.spotify.com/album/1MLxE2czxo5A9OVZ2m8FV3"
+      },
+      "artists": [
+        {
+          "name": "CAN",
+          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Vitamin C",
+      "url": "https://open.spotify.com/track/4zdsBics0asw0gj4L5wu5v"
     },
     {
       "album": {
@@ -108249,6 +108625,24 @@
     },
     {
       "album": {
+        "name": "Misty Woman",
+        "url": "https://open.spotify.com/album/0VGbt5AcnePi65PdplNC2W"
+      },
+      "artists": [
+        {
+          "name": "Aunt Cynthia's Cabin",
+          "url": "https://open.spotify.com/artist/66kb7d5jDmTkMSs1XcOXTQ"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264466,
+      "name": "Which One Is the Jellyfish?",
+      "url": "https://open.spotify.com/track/13Ym4BnHYalKDX53zwo0b6"
+    },
+    {
+      "album": {
         "name": "If I Had a Hammer: Songs of Hope and Struggle",
         "url": "https://open.spotify.com/album/21k0wecYa9yprQ937HR62H"
       },
@@ -111718,6 +112112,24 @@
       "duration_ms": 161906,
       "name": "You Never Can Tell",
       "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
+    },
+    {
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242973,
+      "name": "You Never Give Me Your Money - Remastered 2009",
+      "url": "https://open.spotify.com/track/1jOLTO379yIu9aMnCkpMQl"
     },
     {
       "album": {

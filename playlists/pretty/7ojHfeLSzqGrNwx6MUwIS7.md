@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 
 ### [big mix](https://open.spotify.com/playlist/7ojHfeLSzqGrNwx6MUwIS7)
 
-> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-23 07:16:18.170698
+> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-27 07:16:45.143750
 
-[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,191 songs - 16 day 23 hr 49 min
+[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,213 songs - 17 day 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -6199,5 +6199,27 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 | 6189 | [Dancing in the Moonlight](https://open.spotify.com/track/4IdDl9uvZBiI6C2A03sAIQ) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Happiness Forever](https://open.spotify.com/album/0jVGdTKQ0pValbbtxv5h5O) | 3:50 |
 | 6190 | [20th Century Boy](https://open.spotify.com/track/0HljvWM7AzlJaWgqxtz5Ii) | [Marc Bolan](https://open.spotify.com/artist/4M2gGLzKCo0rPyn224PsoN), [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [The T.Rex Wax Co\. Singles A's & B's 1972\-77](https://open.spotify.com/album/5IFCwm6lSDxzlLZ0vIIg1H) | 3:41 |
 | 6191 | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb) | 5:17 |
+| 6192 | [I Was Made For Lovin' You](https://open.spotify.com/track/52zotpwWs4nHkncYMQUAc1) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Killers](https://open.spotify.com/album/6zht7Mcmwa0uApGLHanOGn) | 4:18 |
+| 6193 | [Which One Is the Jellyfish?](https://open.spotify.com/track/13Ym4BnHYalKDX53zwo0b6) | [Aunt Cynthia's Cabin](https://open.spotify.com/artist/66kb7d5jDmTkMSs1XcOXTQ) | [Misty Woman](https://open.spotify.com/album/0VGbt5AcnePi65PdplNC2W) | 4:24 |
+| 6194 | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/04KHyqdGs5sVEWX6UnukF2) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 3:37 |
+| 6195 | [Baby, I Love You](https://open.spotify.com/track/6hAjc7iB6BJ4jeggQ5HFXV) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Greatest Hits](https://open.spotify.com/album/7g7SbdTnbvrA1hGYHwLEn8) | 3:45 |
+| 6196 | [DCWDTTY](https://open.spotify.com/track/3qv3FiGDssYR64BpirkUZI) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [DCWDTTY](https://open.spotify.com/album/4CoPsa7rdP1RBslPC87m2u) | 2:58 |
+| 6197 | [Hitchin' a Ride](https://open.spotify.com/track/0jf3LiRADnkIRPonOQG5D8) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [International Superhits!](https://open.spotify.com/album/6HUIbDhzmqcwxrxUfTuHdW) | 2:51 |
+| 6198 | [I Didn't Mean To Turn You On](https://open.spotify.com/track/755xF092j4ev0euCXevkD2) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu) | [At His Best](https://open.spotify.com/album/74em7MoNhD7OC82JxFc9NN) | 3:36 |
+| 6199 | [Light Sleeper](https://open.spotify.com/track/2DgVzYwUaDetaWMf4jIrSM) | [Home Front](https://open.spotify.com/artist/0CyB1ZUexbBDoyHb15UJrU) | [Light Sleeper](https://open.spotify.com/album/72guRO8Lc8hPd8ssvv0zlu) | 3:19 |
+| 6200 | [Sugar, We're Goin Down \- TLA Radio Edit](https://open.spotify.com/track/5kHeFRQK81hToSOtfr7z36) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree \(20th Anniversary Deluxe\)](https://open.spotify.com/album/3mcEMwTAA2eJUDsUgsdCbc) | 3:38 |
+| 6201 | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq) | 3:40 |
+| 6202 | [Does This Go Faster?](https://open.spotify.com/track/7jVPR3wXtkVsv4JyWHzywb) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Does This Go Faster?](https://open.spotify.com/album/3guYncfNvLNSUqNOZMXOur) | 3:07 |
+| 6203 | [Asking For A Friend](https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Asking For A Friend](https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn) | 4:29 |
+| 6204 | [Vitamin C](https://open.spotify.com/track/4zdsBics0asw0gj4L5wu5v) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi \(Remastered\)](https://open.spotify.com/album/1MLxE2czxo5A9OVZ2m8FV3) | 3:32 |
+| 6205 | [I Touch Myself](https://open.spotify.com/track/4bqUeownG1UZDra0FVv70e) | [Divinyls](https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC) | [90's One Hit Wonders](https://open.spotify.com/album/779UxXcPip2XPDr7Pitem6) | 3:46 |
+| 6206 | [God Owes Me Money](https://open.spotify.com/track/6MmXxggQZ12nAVpeIeEXLT) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [God Owes Me Money](https://open.spotify.com/album/7tbEM7bL2urcY7uRoUyA78) | 3:21 |
+| 6207 | [Last Resort](https://open.spotify.com/track/0xxNyuanV4biEFXGAa9RNS) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [MTV Rocks](https://open.spotify.com/album/27ZNLB2msMYPijVjk1r1zI) | 3:20 |
+| 6208 | [Riders on the Storm \- New Stereo Mix](https://open.spotify.com/track/5j5VvsEHLlWT6IaEKSGDj9) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Very Best of the Doors](https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY) | 7:07 |
+| 6209 | [Confession](https://open.spotify.com/track/6mOZSB8gmObud9MwsOte3e) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi) | 4:32 |
+| 6210 | [You Never Give Me Your Money \- Remastered 2009](https://open.spotify.com/track/1jOLTO379yIu9aMnCkpMQl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:02 |
+| 6211 | [Mural](https://open.spotify.com/track/2zWZV7b1xu1qZPaMjavvpS) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Tetsuo & Youth](https://open.spotify.com/album/7F58zK8t8whSFjX5X09d28) | 8:48 |
+| 6212 | [Tribute](https://open.spotify.com/track/53XBXgtdqf1gmWMm3rqV27) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh) | [Tenacious D](https://open.spotify.com/album/7mv1ciCld5Bp1y6TDGtjQY) | 4:08 |
+| 6213 | [Gloria: In Excelsis Deo](https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 5:54 |
 
-Snapshot ID: `AAACjbyKXvq51Ltj3WSAwRAAc31aXfsw`
+Snapshot ID: `AAACj+gpqT7diL37aF7fExVW9VBd7icc`

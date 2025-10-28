@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,886 songs - 7 day 12 hr 28 min
+2,888 songs - 7 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,6 +682,7 @@
 | [Ebb & Flow](https://open.spotify.com/track/4dfIfxHbs9HUJPYGq3Yeyz) | [Burnstick](https://open.spotify.com/artist/0dbsbN4GmkykhylRBqDQaL) | [Made of Sin](https://open.spotify.com/album/6zPlTWj8JPSO0FYdfd3rMY) | 4:12 | 2025-10-01 |  |
 | [Echo Beach](https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [Metro Music](https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX) | 3:39 | 2025-09-07 |  |
 | [Edge of Seventeen](https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 5:29 | 2025-01-17 |  |
+| [Elderberry Wine](https://open.spotify.com/track/00lSB9CSyOcsxKVtbPbniL) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:35 | 2025-10-27 |  |
 | [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 | 2025-07-16 |  |
 | [Elderly Woman Behind the Counter in a Small Town \- Remastered](https://open.spotify.com/track/5lHgBqh9VwAAzQma55gHRY) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:16 | 2025-02-25 |  |
 | [Electric Avenue](https://open.spotify.com/track/55AMcB2JAUr7wmM3Z9Vgqc) | [Eddy Grant](https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA) | [Electric Avenue](https://open.spotify.com/album/3wx6sai5CkBZrvyNUHlN4c) | 3:47 | 2024-12-04 |  |
@@ -1031,6 +1032,7 @@
 | [Heroes](https://open.spotify.com/track/7FVnw5keApeODK1MO6lUBP) | [Wolf Saga](https://open.spotify.com/artist/0Lwn2PjwIw7QaoN7gHyqCA) | [Heroes](https://open.spotify.com/album/2h3Qf8SAl6A7izLystROhr) | 4:53 | 2025-07-17 |  |
 | [Heureux comme ça](https://open.spotify.com/track/1beumnMJjECxbkF6o0WkVT) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Heureux comme ça](https://open.spotify.com/album/4sI3aKZhpwWd8wLEPeASqm) | 2:49 | 2025-07-27 |  |
 | [Hey Jude \- Remastered 2015](https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 7:05 | 2025-09-11 |  |
+| [Hey Mom I Made It](https://open.spotify.com/track/00YB5b2EVOFz0SuNFP2Swv) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Hey Mom I Made It](https://open.spotify.com/album/3QjNG5uvzA9wIimwWpDy2c) | 2:49 | 2025-10-27 |  |
 | [hey rose](https://open.spotify.com/track/6J4et4u2ECB9AH2QC9B5tg) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 2:55 | 2025-01-06 |  |
 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 | 2024-11-21 |  |
 | [Hey Young World, Pt\. 2 \(feat\. Slick Rick\)](https://open.spotify.com/track/69h3lxaK6X71iDgoFy6VoL) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [the id](https://open.spotify.com/album/6TYleoMhZYHFUvYl8UQiqp) | 4:02 | 2024-12-16 |  |
