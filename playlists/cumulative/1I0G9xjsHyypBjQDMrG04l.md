@@ -4,7 +4,7 @@
 
 > Automatically updated playlist of songs played on the WILD 94.9 radio station: Top 40, New Hit Music radio station in San Francisco Bay Area\. \(no duplicates\)
 
-860 songs - 2 day 0 hr 10 min
+861 songs - 2 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-02-21 |  |
 | [Calling My Phone](https://open.spotify.com/track/5Kskr9LcNYa0tpt5f0ZEJx) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Calling My Phone](https://open.spotify.com/album/1QhKOq11hGEoNA42rV2IHp) | 3:25 | 2021-02-16 |  |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-09-13 |  |
+| [Camera](https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 3:35 | 2025-10-28 |  |
 | [Can't Feel My Face](https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 3:33 | 2020-09-19 |  |
 | [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 | 2020-09-16 |  |
 | [Changes](https://open.spotify.com/track/1ofhfV90EnYhEr7Un2fWiv) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Talent](https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:28 | 2021-03-31 |  |
@@ -515,7 +516,7 @@
 | [NDA](https://open.spotify.com/track/6uqyE384HDSsuwpoF4mjrL) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [NDA](https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29) | 3:15 | 2021-07-14 |  |
 | [Need to Know](https://open.spotify.com/track/10hcDov7xmcRviA8jLwEaI) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Need to Know](https://open.spotify.com/album/7N3SiwnBMR1C8hcA4W1GtH) | 3:30 | 2021-07-22 |  |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-10-18 |  |
-| [Neva Play \(feat\. RM of BTS\)](https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Neva Play \(feat\. RM of BTS\)](https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb) | 2:37 | 2024-09-11 |  |
+| [Neva Play \(feat\. RM of BTS\)](https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Neva Play \(feat\. RM of BTS\)](https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb) | 2:37 | 2024-09-11 | 2025-10-29 |
 | [Neverender](https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Neverender](https://open.spotify.com/album/6UGnOHEJZT6AkVXrtgcP0u) | 4:26 | 2025-06-09 |  |
 | [New Love \(feat\. Ellie Goulding\)](https://open.spotify.com/track/3qcse1HvDQ1vGQo6Egtkom) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [New Love \(feat\. Ellie Goulding\)](https://open.spotify.com/album/6DFajhqhakGIy5A8gy0LcZ) | 3:10 | 2021-02-05 |  |
 | [New Normal](https://open.spotify.com/track/2CIYemjFXdmCWpJnfbtrD6) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [New Normal](https://open.spotify.com/album/3icfuNPdPHFm1FS8WdBvRk) | 3:18 | 2021-08-06 |  |

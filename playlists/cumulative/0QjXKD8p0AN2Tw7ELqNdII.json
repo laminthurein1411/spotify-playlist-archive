@@ -5580,6 +5580,32 @@
           "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198004,
+      "name": "Gone Gone Gone",
+      "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
+    },
+    {
+      "album": {
+        "name": "Gone Gone Gone",
+        "url": "https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -15408,6 +15434,28 @@
       "duration_ms": 152535,
       "name": "Walk With Me - Edit",
       "url": "https://open.spotify.com/track/25NtKz5cq30ec81fhDM9rU"
+    },
+    {
+      "album": {
+        "name": "Walking On A Dream (BLOND:ISH Remix)",
+        "url": "https://open.spotify.com/album/4Fzl9coophjAezEV0v7tRu"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191849,
+      "name": "Walking On A Dream - BLOND:ISH Remix",
+      "url": "https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j"
     },
     {
       "album": {

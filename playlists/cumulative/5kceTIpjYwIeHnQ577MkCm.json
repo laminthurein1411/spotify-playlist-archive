@@ -14389,6 +14389,36 @@
     },
     {
       "album": {
+        "name": "Vincer\u00f2!",
+        "url": "https://open.spotify.com/album/06OwSFERS4XqAf9NmtJ92O"
+      },
+      "artists": [
+        {
+          "name": "Ruggero Leoncavallo",
+          "url": "https://open.spotify.com/artist/72auy9NefUbGecYVrTiPzq"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Leone Magiera",
+          "url": "https://open.spotify.com/artist/6pJfC2TAxHXlBX5jejeK5O"
+        },
+        {
+          "name": "Orchestra Da Camera Di Bologna",
+          "url": "https://open.spotify.com/artist/7inWcgmzph5WycKbLUm9NB"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Pagliacci, Act. I - Vesti la giubba",
+      "url": "https://open.spotify.com/track/3lZyRURocT77WdEx4KLnoz"
+    },
+    {
+      "album": {
         "name": "Pfitzner: Palestrina",
         "url": "https://open.spotify.com/album/5kwKr1x9HxhUAsjZq3XhRG"
       },

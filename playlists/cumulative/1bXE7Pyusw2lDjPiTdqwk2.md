@@ -4,7 +4,7 @@
 
 > 
 
-404 songs - 1 day 2 hr 16 min
+411 songs - 1 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [After Hours](https://open.spotify.com/track/6cA1usDL8nTHeSgFewQat3) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [The Velvet Underground \(45th Anniversary\)](https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX) | 2:07 | 2025-04-14 |  |
 | [All Apologies](https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 2:37 | 2024-05-06 |  |
 | [All By Myself](https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Eric Carmen](https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO) | 7:10 | 2022-02-26 |  |
+| [All I Ask](https://open.spotify.com/track/05TOt5Vz4StdjMpEdFPlvB) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:31 | 2025-10-28 |  |
 | [All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 3:48 | 2025-04-14 |  |
 | [All My Favorite Songs \(feat\. AJR\)](https://open.spotify.com/track/3A6nR4GSolo160nu7xtDk7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [All My Favorite Songs \(feat\. AJR\)](https://open.spotify.com/album/1FXt1CeMXHBlJ1AdvzaC5H) | 2:50 | 2022-03-22 |  |
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2022-02-02 |  |
@@ -155,6 +156,7 @@
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2022-02-02 |  |
 | [Heaven](https://open.spotify.com/track/0fYwfZcgijhIOyXn0RVPwq) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 3:50 | 2025-04-14 |  |
 | [Heaven Knows I'm Miserable Now \- 2011 Remaster](https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 3:35 | 2025-09-20 |  |
+| [Hell Above](https://open.spotify.com/track/3EKh7JNsBrGoh2xqPotBKT) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:43 | 2025-10-28 |  |
 | [Helpless Child](https://open.spotify.com/track/7jEfLF7XLMzBNj9w1PBmCq) | [Swans](https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA) | [Soundtracks for the Blind](https://open.spotify.com/album/7yV8WpwCChvzW3qr5MuzMf) | 15:47 | 2025-04-14 |  |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-04-24 |  |
 | [Here's Your Perfect](https://open.spotify.com/track/7ranmtPVs7Ckg2WLHO2L0m) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect \(Acoustic\)](https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN) | 2:38 | 2022-02-02 |  |
@@ -169,6 +171,7 @@
 | [How Do I Live](https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 4:26 | 2022-04-28 |  |
 | [How to Disappear Completely](https://open.spotify.com/track/2rtGaCAeYtmcIvuZsvgTf6) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 5:56 | 2025-04-14 |  |
 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 | 2022-05-30 |  |
+| [How You Remind Me](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Silver Side Up](https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u) | 3:43 | 2025-10-28 |  |
 | [Hurt \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1garkqJoxvHzQi1rmLtGNB) | [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS) | [Spotify Singles](https://open.spotify.com/album/4vibnRBWsLi12dV9kf5Jmy) | 4:27 | 2023-01-23 |  |
 | [I Believe](https://open.spotify.com/track/5eMEUe4B6dbQ55V2SVPSjO) | [Stephen Gately](https://open.spotify.com/artist/7eIPLl8GvZHAkTw101evsp) | [Billy Elliot](https://open.spotify.com/album/1Xa986HKp7Z39aHf1EKyCa) | 3:26 | 2022-06-08 |  |
 | [I Couldn't Say It To Your Face](https://open.spotify.com/track/2UEKe8Fl9PCd22X0Qu5KB2) | [Arthur Russell](https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj) | [Love Is Overtaking Me](https://open.spotify.com/album/02WH3YQOSzeEwwZK1jQWjX) | 2:36 | 2023-10-28 |  |
@@ -202,6 +205,8 @@
 | [If You Want Me](https://open.spotify.com/track/1zzUsVoY12XzrKN3dYHELh) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [If You Want Me](https://open.spotify.com/album/2bJeWm3knu48d3AhVLifrX) | 5:39 | 2022-10-24 |  |
 | [ill come back to you \(feat\. Sarcastic Sounds & Rxseboy\)](https://open.spotify.com/track/1DoECePnMuLtpLQSCZqwtK) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [poems of the past](https://open.spotify.com/album/4VUCwdM2v9WfRR8mwZuVq4) | 2:14 | 2022-04-16 |  |
 | [ilym](https://open.spotify.com/track/0Aw8DvbSKLbdoLXWNGFrgm) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5) | 3:53 | 2022-03-20 |  |
+| [In My Room](https://open.spotify.com/track/2Ui2JtVjnbHZuExldryCOA) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [PRESSURE](https://open.spotify.com/album/4vIzHHL3D8TacHTRQzYIYe) | 2:43 | 2025-10-28 |  |
+| [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 | 2025-10-28 |  |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-05-01 |  |
 | [Indigo Night](https://open.spotify.com/track/4Sf5gXjMvciYzNGSrQx7BK) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Amir](https://open.spotify.com/album/5RL52Y9Q7wmjcYvibTczjJ) | 4:15 | 2023-04-24 |  |
 | [Into Dust](https://open.spotify.com/track/7l5nkTZpoD93OkynN0gcon) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 5:36 | 2025-04-14 |  |
@@ -261,6 +266,7 @@
 | [My Way](https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Way \(Expanded Edition\)](https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn) | 4:36 | 2023-11-29 |  |
 | [Mystery Of Love \- Demo](https://open.spotify.com/track/62RTXxio7jbtBTxWz43JPS) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery Of Love \(Demo\)](https://open.spotify.com/album/06pLW7elratms6S5yufTzn) | 4:04 | 2025-04-01 |  |
 | [Neon Gravestones](https://open.spotify.com/track/0sXvjZV7p4uvyPN4uQo3FH) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 4:00 | 2025-04-14 |  |
+| [Never Too Late](https://open.spotify.com/track/3HE50TVRquwXe9yv2HFoNL) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:29 | 2025-10-28 |  |
 | [Nice to Meet You](https://open.spotify.com/track/0nxh4ijcMIwtkUth4aClzL) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Nice to Meet You](https://open.spotify.com/album/4hCeoPdicCGskR7BYasJxi) | 4:10 | 2023-02-11 |  |
 | [No Children](https://open.spotify.com/track/5cxnSTLzGD1t9xcdmJYFVB) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX) | 2:48 | 2024-02-03 |  |
 | [No One Saving Me](https://open.spotify.com/track/1EVvWvM6qTZTqaYzKSCLxQ) | [Ewan Mainwood](https://open.spotify.com/artist/0sYD7tLwt7uBajEg4adh6u) | [No One Saving Me](https://open.spotify.com/album/4EOYvJAJUHsboYnOJJAHvt) | 3:24 | 2022-05-15 |  |
@@ -314,6 +320,7 @@
 | [Shit Talk](https://open.spotify.com/track/6t8aRTXXIcx9JVRD8IRZKR) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 8:31 | 2025-04-15 |  |
 | [Should Have Known Better](https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 5:07 | 2025-04-14 |  |
 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 | 2022-02-08 |  |
+| [Silver Springs \- 2004 Remaster](https://open.spotify.com/track/2Y8BloifAHEn6GproQgPs7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Deluxe Edition\)](https://open.spotify.com/album/3nuRoTy7gi52Z4C0negdw1) | 4:48 | 2025-10-28 |  |
 | [SINS](https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [SINS](https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra) | 2:57 | 2022-12-20 |  |
 | [Slow Down](https://open.spotify.com/track/4kr1BMU4bNAoBEzS3mFo1i) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Slow Down](https://open.spotify.com/album/3cj18o5adcYX8Pm37cYD3V) | 2:36 | 2025-02-20 |  |
 | [Smoke and Ashes](https://open.spotify.com/track/6sGwACtF7BG4oht0ahdpS8) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [New Beginning](https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB) | 6:39 | 2025-04-14 |  |

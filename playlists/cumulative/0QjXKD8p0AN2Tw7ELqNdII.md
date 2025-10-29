@@ -4,7 +4,7 @@
 
 > 
 
-825 songs - 1 day 17 hr 4 min
+827 songs - 1 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-10 |  |
 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2025-05-27 |  |
 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-08-12 |  |
+| [Gone Gone Gone](https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Gone Gone Gone](https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz) | 3:18 | 2025-10-28 |  |
 | [Gone Gone Gone \- Extended](https://open.spotify.com/track/79R0lC3biM8p14ArsW1tuT) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Gone Gone Gone](https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz) | 4:15 | 2025-10-14 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-11-21 |  |
 | [Good Things Go](https://open.spotify.com/track/6aCBjSb87RizdH8lVBIRW7) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:29 | 2024-11-21 |  |
@@ -767,6 +768,7 @@
 | [Waldbrand](https://open.spotify.com/track/68Obsp7H5akdfFR4geTZpD) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Farbenblind EP](https://open.spotify.com/album/2mzXddPCtNlGzttAcr97ON) | 3:31 | 2024-12-17 |  |
 | [Walk All Over You](https://open.spotify.com/track/4JXLPQH0J7qlxTTHBM4Qhi) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/57mjk6I2MPuSB1Qq1aSlwH) | 3:04 | 2025-09-23 |  |
 | [Walk With Me \- Edit](https://open.spotify.com/track/25NtKz5cq30ec81fhDM9rU) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Walk With Me](https://open.spotify.com/album/6Gs1D2VbneEd0pwwKA7ivI) | 2:32 | 2025-02-18 |  |
+| [Walking On A Dream \- BLOND:ISH Remix](https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Walking On A Dream \(BLOND:ISH Remix\)](https://open.spotify.com/album/4Fzl9coophjAezEV0v7tRu) | 3:11 | 2025-10-28 |  |
 | [Walzer](https://open.spotify.com/track/1We3jgIztlD2Tkb0yOoX4b) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Walzer](https://open.spotify.com/album/4TZczY6TXXS0lDd7DX0WPv) | 3:21 | 2024-12-10 |  |
 | [warm](https://open.spotify.com/track/0BeR2fJmYnKNn7IORw3GR9) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd) | 3:21 | 2025-04-01 |  |
 | [was ich fühl](https://open.spotify.com/track/450Msk6LSW4yhRdtcedx03) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [was ich fühl](https://open.spotify.com/album/30dMPlHrOzT58edpPsKpUJ) | 2:51 | 2025-07-16 |  |

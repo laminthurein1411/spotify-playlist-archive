@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5kceTIpjYwIeHnQ577MkCm.md) - [plain]
 
 > opera songs that own distinct characteristics, musical styles, and dramatic conventions, contributing to the rich and diverse landscape of this art form.
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 1 like - 707 songs - 2 day 4 hr 58 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 1 like - 708 songs - 2 day 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -715,5 +715,6 @@ pretty - [cumulative](/playlists/cumulative/5kceTIpjYwIeHnQ577MkCm.md) - [plain]
 | 705 | [Mozart: Das Veilchen, K\. 476](https://open.spotify.com/track/6uyqzbf0GH64KQ5Jbuvmeo) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Barbara Bonney](https://open.spotify.com/artist/24fwyM31DLDqYOPvQ0jFFr) | [Mozart : Lieder \(Elatus\)](https://open.spotify.com/album/05pbPXGXFGwre9Ul31NSYr) | 2:43 |
 | 706 | [Cold Song’ \(What Power Art Thou...\)](https://open.spotify.com/track/4dbYaNvwv21fYQE041YZUx) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Les Inventions](https://open.spotify.com/artist/0utygxADMeUfJ5kwp8Cf9f), [Dingle Yandell](https://open.spotify.com/artist/2diFTgyJW1VD5qPxrQfQEj) | [A Purcell Collection](https://open.spotify.com/album/38Kbu18O3gygGXL9ms8rHw) | 4:26 |
 | 707 | [Days Pass](https://open.spotify.com/track/2ibEzgvc2FoxlY8bEJwC1n) | [Adrián Berenguer](https://open.spotify.com/artist/7rIUiy8qJEFQ5oooWdnhQv) | [The Art of Loneliness](https://open.spotify.com/album/058qe7UKzyEcdf9X8IKrGw) | 2:55 |
+| 708 | [Pagliacci, Act\. I \- Vesti la giubba](https://open.spotify.com/track/3lZyRURocT77WdEx4KLnoz) | [Ruggero Leoncavallo](https://open.spotify.com/artist/72auy9NefUbGecYVrTiPzq), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Leone Magiera](https://open.spotify.com/artist/6pJfC2TAxHXlBX5jejeK5O), [Orchestra Da Camera Di Bologna](https://open.spotify.com/artist/7inWcgmzph5WycKbLUm9NB) | [Vincerò!](https://open.spotify.com/album/06OwSFERS4XqAf9NmtJ92O) | 2:52 |
 
-Snapshot ID: `AAAANPsr8roy12wVsw/LLiRUZPdA4Pv9`
+Snapshot ID: `AAAANRNV2N4sZ8Wuom2+Zun6nyFDLqi8`
