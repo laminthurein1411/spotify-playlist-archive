@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAAWPzRZvvZVnKlz0GT559kAjnNyvd6",
+  "snapshot_id": "AAAAXpE6St0VECAVjrlhMQetb0Z58y5D",
   "tracks": [
     {
       "added_at": "2022-05-07 13:03:51",
@@ -2359,6 +2359,102 @@
       "duration_ms": 167520,
       "name": "La Seine - Extrait de la bande originale un monstre \u00e0 Paris",
       "url": "https://open.spotify.com/track/4B6XjmOWI55np7y4MUTXDu"
+    },
+    {
+      "added_at": "2025-10-30 05:49:28",
+      "album": {
+        "name": "Oublier",
+        "url": "https://open.spotify.com/album/5Ezw4AdjahQsjz7U3iXIec"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 168046,
+      "name": "Oublier",
+      "url": "https://open.spotify.com/track/08ERabruhqMIkZOlIPKIDb"
+    },
+    {
+      "added_at": "2025-10-30 05:55:41",
+      "album": {
+        "name": "Eternel",
+        "url": "https://open.spotify.com/album/1uXNErodaE5u4hZvcoyt9d"
+      },
+      "artists": [
+        {
+          "name": "Gilbert B\u00e9caud",
+          "url": "https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0"
+        }
+      ],
+      "duration_ms": 166346,
+      "name": "Je reviens te chercher",
+      "url": "https://open.spotify.com/track/1eg2GUAxtsngVbrylDQ4tO"
+    },
+    {
+      "added_at": "2025-10-30 05:56:04",
+      "album": {
+        "name": "Joe Dassin \u00c9ternel... (Edition deluxe)",
+        "url": "https://open.spotify.com/album/3SvYaXCHlH6MFUTgqjmsAw"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "duration_ms": 268560,
+      "name": "L'\u00e9t\u00e9 indien",
+      "url": "https://open.spotify.com/track/1Ggj10R2dFrBj9LjQscvDz"
+    },
+    {
+      "added_at": "2025-10-30 05:56:24",
+      "album": {
+        "name": "Deux enfants au soleil 1961",
+        "url": "https://open.spotify.com/album/2BnYopoRrm50Ql9byDmi6S"
+      },
+      "artists": [
+        {
+          "name": "Jean Ferrat",
+          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
+        }
+      ],
+      "duration_ms": 117866,
+      "name": "Ma m\u00f4me",
+      "url": "https://open.spotify.com/track/0eXqWCXs8LsJQw6LFTr8aO"
+    },
+    {
+      "added_at": "2025-10-30 05:56:43",
+      "album": {
+        "name": "Il est cinq heures",
+        "url": "https://open.spotify.com/album/6uZABwQhmEllK5otzX9ONK"
+      },
+      "artists": [
+        {
+          "name": "Jacques Dutronc",
+          "url": "https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq"
+        }
+      ],
+      "duration_ms": 103200,
+      "name": "Fais pas ci, fais pas \u00e7a",
+      "url": "https://open.spotify.com/track/0FypjlDKkK46KkvSPt7bem"
+    },
+    {
+      "added_at": "2025-10-30 05:57:36",
+      "album": {
+        "name": "Je m'voyais d\u00e9j\u00e0",
+        "url": "https://open.spotify.com/album/57ECx8bMhG0vJK9tcKpm9s"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 204786,
+      "name": "Je m'voyais d\u00e9j\u00e0",
+      "url": "https://open.spotify.com/track/359TSLfG30WauDV96x2PxJ"
     }
   ],
   "unique_name": "European \ud83c\udfe4",

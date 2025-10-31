@@ -2037,6 +2037,28 @@
     },
     {
       "album": {
+        "name": "Always On My Mind (feat. Rufus Wainwright)",
+        "url": "https://open.spotify.com/album/0DSIjfC8mBrloq5EbMdEil"
+      },
+      "artists": [
+        {
+          "name": "Chrissie Hynde",
+          "url": "https://open.spotify.com/artist/2ozLlEZTdSV3pjHgWwZMsi"
+        },
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202993,
+      "name": "Always On My Mind (feat. Rufus Wainwright)",
+      "url": "https://open.spotify.com/track/3NQ9gsvDQpaDJ5dszAedXH"
+    },
+    {
+      "album": {
         "name": "Ambulance",
         "url": "https://open.spotify.com/album/7Hirjru0fNGqdIF06Ia4Zu"
       },
@@ -17355,6 +17377,24 @@
     },
     {
       "album": {
+        "name": "I Can See The Future",
+        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196453,
+      "name": "Grieving",
+      "url": "https://open.spotify.com/track/6i3WSOFSYym4wrBmuhEyYs"
+    },
+    {
+      "album": {
         "name": "World Clique",
         "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
       },
@@ -25913,6 +25953,24 @@
     },
     {
       "album": {
+        "name": "HDTV",
+        "url": "https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172773,
+      "name": "last day on earth",
+      "url": "https://open.spotify.com/track/2sS1DcNGSsG34Ccua98Q4t"
+    },
+    {
+      "album": {
         "name": "Last Girls At The Party",
         "url": "https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU"
       },
@@ -28074,6 +28132,28 @@
       "duration_ms": 240053,
       "name": "LOVE IN THE DARK",
       "url": "https://open.spotify.com/track/6WrHKidpEVkYKX3vSQhBgL"
+    },
+    {
+      "album": {
+        "name": "I WANT MY LOVED ONES TO GO WITH ME (DELUXE)",
+        "url": "https://open.spotify.com/album/1srzE6EPPVOfxOxPV1SoEY"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228593,
+      "name": "Love Is A Canyon",
+      "url": "https://open.spotify.com/track/2rSuyPz6BfCzxB13UF6hpw"
     },
     {
       "album": {
@@ -42139,7 +42219,7 @@
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 218800,
+      "duration_ms": 219035,
       "name": "Spit It Out (feat. Rochelle Jordan)",
       "url": "https://open.spotify.com/track/73pICiosjURf6HJ6XEoexu"
     },

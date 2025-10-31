@@ -1,12 +1,12 @@
 {
-  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-10-27 07:16:45.143750",
+  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-10-30 07:15:59.914047",
   "num_followers": 1,
   "original_name": "big mix",
   "owner": {
     "name": "jeffers_uk",
     "url": "https://open.spotify.com/user/jeffers_uk"
   },
-  "snapshot_id": "AAACj+gpqT7diL37aF7fExVW9VBd7icc",
+  "snapshot_id": "AAACkfYY1UuWSyHzQA8GiLe9WBkFr1GZ",
   "tracks": [
     {
       "added_at": "2023-04-05 10:01:14",
@@ -8903,7 +8903,7 @@
     {
       "added_at": "2023-04-05 10:01:14",
       "album": {
-        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "name": "Kiss Me Kiss Me Kiss Me",
         "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
       },
       "artists": [
@@ -39935,7 +39935,7 @@
     {
       "added_at": "2023-08-28 06:14:56",
       "album": {
-        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "name": "Kiss Me Kiss Me Kiss Me",
         "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
       },
       "artists": [
@@ -63428,7 +63428,7 @@
           "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
         }
       ],
-      "duration_ms": 175117,
+      "duration_ms": 174732,
       "name": "Give It Up For Love",
       "url": "https://open.spotify.com/track/2L5fTA7BBgL70AjMYq0sfI"
     },
@@ -101187,6 +101187,54 @@
       "duration_ms": 354320,
       "name": "Gloria: In Excelsis Deo",
       "url": "https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2"
+    },
+    {
+      "added_at": "2025-10-30 07:15:59",
+      "album": {
+        "name": "Ego Death At A Bachelorette Party",
+        "url": "https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 220101,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/2hUGBM8wOKu0W1yFxdKzWb"
+    },
+    {
+      "added_at": "2025-10-30 07:15:59",
+      "album": {
+        "name": "ZZ Top's Greatest Hits",
+        "url": "https://open.spotify.com/album/3h8HzbSxQpQRo3DtBl5G31"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 239986,
+      "name": "Gimme All Your Lovin'",
+      "url": "https://open.spotify.com/track/3jwFxq2x7POiA3Enxuw8a4"
+    },
+    {
+      "added_at": "2025-10-30 07:15:59",
+      "album": {
+        "name": "Sympathy Magic",
+        "url": "https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 268886,
+      "name": "Sympathy Magic",
+      "url": "https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb"
     }
   ],
   "unique_name": "big mix",

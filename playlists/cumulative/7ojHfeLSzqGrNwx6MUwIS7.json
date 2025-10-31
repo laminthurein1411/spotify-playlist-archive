@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-09-25",
-  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-10-27 07:16:45.143750",
+  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-10-30 07:15:59.914047",
   "name": "big mix",
   "tracks": [
     {
@@ -33153,6 +33153,24 @@
     },
     {
       "album": {
+        "name": "ZZ Top's Greatest Hits",
+        "url": "https://open.spotify.com/album/3h8HzbSxQpQRo3DtBl5G31"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239986,
+      "name": "Gimme All Your Lovin'",
+      "url": "https://open.spotify.com/track/3jwFxq2x7POiA3Enxuw8a4"
+    },
+    {
+      "album": {
         "name": "Eliminator",
         "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
       },
@@ -34321,7 +34339,7 @@
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 175117,
+      "duration_ms": 174732,
       "name": "Give It Up For Love",
       "url": "https://open.spotify.com/track/2L5fTA7BBgL70AjMYq0sfI"
     },
@@ -50131,7 +50149,7 @@
     },
     {
       "album": {
-        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "name": "Kiss Me Kiss Me Kiss Me",
         "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
       },
       "artists": [
@@ -69446,6 +69464,24 @@
       "duration_ms": 138200,
       "name": "Paperback Writer - Remastered 2015",
       "url": "https://open.spotify.com/track/0Ui8KPWZbJJQ2Y0CIQuVqX"
+    },
+    {
+      "album": {
+        "name": "Ego Death At A Bachelorette Party",
+        "url": "https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220101,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/2hUGBM8wOKu0W1yFxdKzWb"
     },
     {
       "album": {
@@ -90383,6 +90419,24 @@
     },
     {
       "album": {
+        "name": "Sympathy Magic",
+        "url": "https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268886,
+      "name": "Sympathy Magic",
+      "url": "https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb"
+    },
+    {
+      "album": {
         "name": "Synchronicity (Remastered 2003)",
         "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
       },
@@ -109209,7 +109263,7 @@
     },
     {
       "album": {
-        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "name": "Kiss Me Kiss Me Kiss Me",
         "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
       },
       "artists": [

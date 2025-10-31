@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 
 ### [big mix](https://open.spotify.com/playlist/7ojHfeLSzqGrNwx6MUwIS7)
 
-> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-27 07:16:45.143750
+> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-30 07:15:59.914047
 
-[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,213 songs - 17 day 1 hr 22 min
+[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,216 songs - 17 day 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -552,7 +552,7 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 | 542 | [Travellers Tune](https://open.spotify.com/track/09nOcKwXlmIz4BHikHgzu9) | [Ocean Colour Scene](https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U) | [Marchin' Already](https://open.spotify.com/album/18zfF3ZSd8BmiUBBkxtAVW) | 3:40 |
 | 543 | [Your Woman](https://open.spotify.com/track/4ACxa9buEUnOdYEoPcnMpi) | [White Town](https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM) | [Women In Technology](https://open.spotify.com/album/3Xp1KG3G31VGZgV8JpMSX6) | 4:19 |
 | 544 | [Orange Crush \- Remastered 2013](https://open.spotify.com/track/7sNhXWrg9eW3qRqeuePaIC) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Green \(Remastered\)](https://open.spotify.com/album/7rfKAiPs9ToZP9zEJDBqBH) | 3:51 |
-| 545 | [Just Like Heaven](https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:32 |
+| 545 | [Just Like Heaven](https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me Kiss Me Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:32 |
 | 546 | [One Way](https://open.spotify.com/track/2KqzoO46gwMLOb5YXSlxqs) | [Levellers](https://open.spotify.com/artist/1TrwMxRrrlk0hZxJkw4jUF) | [Levelling The Land \(Remastered Version\)](https://open.spotify.com/album/5p6ntndL3u8MM0mxXuVusu) | 4:08 |
 | 547 | [Wide Asleep](https://open.spotify.com/track/1xpmaqqqyxCzZGPlZnnLyC) | [CQ Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wide Asleep](https://open.spotify.com/album/2DY3DFla02eVvCjHgW6s64) | 4:12 |
 | 548 | [Weak](https://open.spotify.com/track/08peUkRXVqOPjTalCjhr1g) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Paranoid & Sunburnt](https://open.spotify.com/album/7xCSZZQEnMSSpzTgWzrPhG) | 3:31 |
@@ -2461,7 +2461,7 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 | 2451 | [Bros](https://open.spotify.com/track/2PIcAQiSOayFwJrfWc72Qc) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 3:44 |
 | 2452 | [The Love Cats](https://open.spotify.com/track/588p73zBcq4r8JxsLSCb32) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs The Cure: Whisper](https://open.spotify.com/album/7nsI9QFZ6TCtqcnA27q8cf) | 4:20 |
 | 2453 | [Canter](https://open.spotify.com/track/4rrXxmaUQVCO0mqDpY5fZf) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [The Bonny](https://open.spotify.com/album/6Ed44ptXyYJQM20Xat64I0) | 4:26 |
-| 2454 | [Why Can't I Be You?](https://open.spotify.com/track/5hRhmOl7l5FrpxZJQQp9WL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:13 |
+| 2454 | [Why Can't I Be You?](https://open.spotify.com/track/5hRhmOl7l5FrpxZJQQp9WL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me Kiss Me Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:13 |
 | 2455 | [White Noise](https://open.spotify.com/track/2eeAPzI0YaSTL4MAXLrfca) | [Perfectparachutepicture](https://open.spotify.com/artist/7JZYdyhM3ECGBTQWT19nto) | [White Noise](https://open.spotify.com/album/0A4xw1a50NsEUaX6tD9yuz) | 2:29 |
 | 2456 | [Out Of Touch](https://open.spotify.com/track/1R57lHEZUf03rGvA82Oreu) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [NUT](https://open.spotify.com/album/4V3LgPfIIw3y0YrlfBJ1DK) | 3:36 |
 | 2457 | [Other Side Of The World](https://open.spotify.com/track/4A9E08l34BkPsCDAmOpHxb) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:34 |
@@ -3908,7 +3908,7 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 | 3898 | [Flea](https://open.spotify.com/track/28LRSVfLH4wJN8MRsoyr8z) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Flea](https://open.spotify.com/album/74lpr1ZRBpTMV7dU5qyjTN) | 3:46 |
 | 3899 | [She's A River \- 2002 Digital Remaster](https://open.spotify.com/track/4WhrINlPGuSiZjJdHoMTHE) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Good News From The Next World](https://open.spotify.com/album/3KGPshIDHDkW6NVQ1Ndjyr) | 5:32 |
 | 3900 | [Dark Matter](https://open.spotify.com/track/3UvsC6yg85yctBWPbp8sZE) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Running](https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS) | 3:31 |
-| 3901 | [Give It Up For Love](https://open.spotify.com/track/2L5fTA7BBgL70AjMYq0sfI) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF) | 2:55 |
+| 3901 | [Give It Up For Love](https://open.spotify.com/track/2L5fTA7BBgL70AjMYq0sfI) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF) | 2:54 |
 | 3902 | [Turn Bad Into Good](https://open.spotify.com/track/15zZOefuzVmq4g2sp2vSQb) | [Kelly Jones](https://open.spotify.com/artist/4kqfrYqOQRR0Yun2xc4deB), [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Turn Bad Into Good](https://open.spotify.com/album/2CQdWdOxV6Ihs5Sg0BKkou) | 4:00 |
 | 3903 | [Dilemma](https://open.spotify.com/track/2IAKtvOQjgBPsSvOWzwpig) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Great Stuff](https://open.spotify.com/album/149WlHxQGxaKPhOn8KdeKm) | 3:18 |
 | 3904 | [Love in Constant Spectacle](https://open.spotify.com/track/38BRW7EqRR0pbq1v3vTJKk) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Love in Constant Spectacle](https://open.spotify.com/album/5hjGGRwvUaOxaTbpYQ4zFo) | 4:17 |
@@ -6221,5 +6221,8 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 | 6211 | [Mural](https://open.spotify.com/track/2zWZV7b1xu1qZPaMjavvpS) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Tetsuo & Youth](https://open.spotify.com/album/7F58zK8t8whSFjX5X09d28) | 8:48 |
 | 6212 | [Tribute](https://open.spotify.com/track/53XBXgtdqf1gmWMm3rqV27) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh) | [Tenacious D](https://open.spotify.com/album/7mv1ciCld5Bp1y6TDGtjQY) | 4:08 |
 | 6213 | [Gloria: In Excelsis Deo](https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 5:54 |
+| 6214 | [Parachute](https://open.spotify.com/track/2hUGBM8wOKu0W1yFxdKzWb) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv) | 3:40 |
+| 6215 | [Gimme All Your Lovin'](https://open.spotify.com/track/3jwFxq2x7POiA3Enxuw8a4) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's Greatest Hits](https://open.spotify.com/album/3h8HzbSxQpQRo3DtBl5G31) | 3:59 |
+| 6216 | [Sympathy Magic](https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Sympathy Magic](https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU) | 4:28 |
 
-Snapshot ID: `AAACj+gpqT7diL37aF7fExVW9VBd7icc`
+Snapshot ID: `AAACkfYY1UuWSyHzQA8GiLe9WBkFr1GZ`

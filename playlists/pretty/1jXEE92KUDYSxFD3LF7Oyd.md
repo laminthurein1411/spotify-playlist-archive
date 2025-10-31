@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 144 songs - 7 hr 49 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 150 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,5 +152,11 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 142 | [Emmenez\-moi](https://open.spotify.com/track/6kjDLNGtvnbYIXAMsc6iiu) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Entre deux rêves](https://open.spotify.com/album/5jm1jHoCMuMh3SElNY9R81) | 3:32 |
 | 143 | [Le temps est bon](https://open.spotify.com/track/2U5kSevItDmL0XzSDyemRp) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Aller\-retour](https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14) | 3:23 |
 | 144 | [La Seine \- Extrait de la bande originale un monstre à Paris](https://open.spotify.com/track/4B6XjmOWI55np7y4MUTXDu) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:47 |
+| 145 | [Oublier](https://open.spotify.com/track/08ERabruhqMIkZOlIPKIDb) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Oublier](https://open.spotify.com/album/5Ezw4AdjahQsjz7U3iXIec) | 2:48 |
+| 146 | [Je reviens te chercher](https://open.spotify.com/track/1eg2GUAxtsngVbrylDQ4tO) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Eternel](https://open.spotify.com/album/1uXNErodaE5u4hZvcoyt9d) | 2:46 |
+| 147 | [L'été indien](https://open.spotify.com/track/1Ggj10R2dFrBj9LjQscvDz) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel..\. \(Edition deluxe\)](https://open.spotify.com/album/3SvYaXCHlH6MFUTgqjmsAw) | 4:28 |
+| 148 | [Ma môme](https://open.spotify.com/track/0eXqWCXs8LsJQw6LFTr8aO) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Deux enfants au soleil 1961](https://open.spotify.com/album/2BnYopoRrm50Ql9byDmi6S) | 1:57 |
+| 149 | [Fais pas ci, fais pas ça](https://open.spotify.com/track/0FypjlDKkK46KkvSPt7bem) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [Il est cinq heures](https://open.spotify.com/album/6uZABwQhmEllK5otzX9ONK) | 1:43 |
+| 150 | [Je m'voyais déjà](https://open.spotify.com/track/359TSLfG30WauDV96x2PxJ) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Je m'voyais déjà](https://open.spotify.com/album/57ECx8bMhG0vJK9tcKpm9s) | 3:24 |
 
-Snapshot ID: `AAAAWPzRZvvZVnKlz0GT559kAjnNyvd6`
+Snapshot ID: `AAAAXpE6St0VECAVjrlhMQetb0Z58y5D`

@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "Il est cinq heures",
+        "url": "https://open.spotify.com/album/6uZABwQhmEllK5otzX9ONK"
+      },
+      "artists": [
+        {
+          "name": "Jacques Dutronc",
+          "url": "https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103200,
+      "name": "Fais pas ci, fais pas \u00e7a",
+      "url": "https://open.spotify.com/track/0FypjlDKkK46KkvSPt7bem"
+    },
+    {
+      "album": {
         "name": "Ben \u00c9 Samba Bom (1964)",
         "url": "https://open.spotify.com/album/3p1lsEa1gZjIWwUDKA0AbT"
       },
@@ -860,6 +878,42 @@
       "duration_ms": 177946,
       "name": "J'aime les filles",
       "url": "https://open.spotify.com/track/196fYCjVMKAQb8uwOWxpUo"
+    },
+    {
+      "album": {
+        "name": "Je m'voyais d\u00e9j\u00e0",
+        "url": "https://open.spotify.com/album/57ECx8bMhG0vJK9tcKpm9s"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204786,
+      "name": "Je m'voyais d\u00e9j\u00e0",
+      "url": "https://open.spotify.com/track/359TSLfG30WauDV96x2PxJ"
+    },
+    {
+      "album": {
+        "name": "Eternel",
+        "url": "https://open.spotify.com/album/1uXNErodaE5u4hZvcoyt9d"
+      },
+      "artists": [
+        {
+          "name": "Gilbert B\u00e9caud",
+          "url": "https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166346,
+      "name": "Je reviens te chercher",
+      "url": "https://open.spotify.com/track/1eg2GUAxtsngVbrylDQ4tO"
     },
     {
       "album": {
@@ -1022,6 +1076,24 @@
       "duration_ms": 205973,
       "name": "L'horloge tourne",
       "url": "https://open.spotify.com/track/1sphiFFp9zrlSLmpFhywRV"
+    },
+    {
+      "album": {
+        "name": "Joe Dassin \u00c9ternel... (Edition deluxe)",
+        "url": "https://open.spotify.com/album/3SvYaXCHlH6MFUTgqjmsAw"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268560,
+      "name": "L'\u00e9t\u00e9 indien",
+      "url": "https://open.spotify.com/track/1Ggj10R2dFrBj9LjQscvDz"
     },
     {
       "album": {
@@ -1549,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "Deux enfants au soleil 1961",
+        "url": "https://open.spotify.com/album/2BnYopoRrm50Ql9byDmi6S"
+      },
+      "artists": [
+        {
+          "name": "Jean Ferrat",
+          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117866,
+      "name": "Ma m\u00f4me",
+      "url": "https://open.spotify.com/track/0eXqWCXs8LsJQw6LFTr8aO"
+    },
+    {
+      "album": {
         "name": "Deutschland 83 (Music Inspired from the TV Series)",
         "url": "https://open.spotify.com/album/3t57LrLti347dnbPlPh1YY"
       },
@@ -1744,6 +1834,24 @@
       "duration_ms": 181100,
       "name": "Nur wegen dir",
       "url": "https://open.spotify.com/track/19VrCmegsh8IqFfvpht5yw"
+    },
+    {
+      "album": {
+        "name": "Oublier",
+        "url": "https://open.spotify.com/album/5Ezw4AdjahQsjz7U3iXIec"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168046,
+      "name": "Oublier",
+      "url": "https://open.spotify.com/track/08ERabruhqMIkZOlIPKIDb"
     },
     {
       "album": {

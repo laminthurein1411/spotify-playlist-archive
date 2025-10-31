@@ -2,9 +2,9 @@
 
 ### [big mix](https://open.spotify.com/playlist/7ojHfeLSzqGrNwx6MUwIS7)
 
-> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-27 07:16:45.143750
+> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-10\-30 07:15:59.914047
 
-6,213 songs - 17 day 1 hr 22 min
+6,216 songs - 17 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1822,6 +1822,7 @@
 | [Ghosts Again](https://open.spotify.com/track/3p5JD79PQP737dyEY2hnmf) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Memento Mori](https://open.spotify.com/album/3QWc9HhBWgk9dIEwOkJx4q) | 3:58 | 2023-04-05 |  |
 | [Ghosts Again \- Massano Remix](https://open.spotify.com/track/2sQLabj3BSALTq2FmTrDXC) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Ghosts Again \(Remixes\)](https://open.spotify.com/album/24fKIcwvP22B7F4q96jL12) | 6:42 | 2023-05-17 |  |
 | [Gigantic \- 2007 Remaster](https://open.spotify.com/track/5G2g1EbEtFSMkMbAnhl7FV) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(2007 Remaster\)](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:55 | 2025-05-12 |  |
+| [Gimme All Your Lovin'](https://open.spotify.com/track/3jwFxq2x7POiA3Enxuw8a4) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's Greatest Hits](https://open.spotify.com/album/3h8HzbSxQpQRo3DtBl5G31) | 3:59 | 2025-10-30 |  |
 | [Gimme All Your Lovin'](https://open.spotify.com/track/0OBwxFLu6Yj61s2OagYbgY) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:01 | 2023-06-05 |  |
 | [Gimme All Your Lovin'](https://open.spotify.com/track/29uKzagduhFDTWPCjqaGOg) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK) | 4:01 | 2024-02-19 |  |
 | [Gimme All Your Lovin'](https://open.spotify.com/track/2M4zatgjpggjloLv51bv3o) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [100 Greatest Motivation Songs](https://open.spotify.com/album/4Xn7Bb8dZ1zVdZXKts2nVl) | 4:01 | 2025-06-02 |  |
@@ -1886,7 +1887,7 @@
 | [Give It Away](https://open.spotify.com/track/75mkILkEuX4Gc4hjhTOx4j) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [90's Rock Music](https://open.spotify.com/album/4uJ7kToZyppUnQCaHTEO7l) | 4:42 | 2024-04-22 |  |
 | [Give It Away](https://open.spotify.com/track/7bsk2IpugudbWmnKUMLnaB) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Allenarsi in Casa](https://open.spotify.com/album/0o0iTSNOlNHHKJraFEp8p2) | 4:42 | 2024-04-08 |  |
 | [Give It Away](https://open.spotify.com/track/0IRA91bYKETRPMmR7ElJ4X) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Studio Album Collection 1991 \- 2011](https://open.spotify.com/album/7aOFj1yM42sm2gzmlPidPP) | 4:44 | 2025-04-03 |  |
-| [Give It Up For Love](https://open.spotify.com/track/2L5fTA7BBgL70AjMYq0sfI) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF) | 2:55 | 2024-04-01 |  |
+| [Give It Up For Love](https://open.spotify.com/track/2L5fTA7BBgL70AjMYq0sfI) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF) | 2:54 | 2024-04-01 |  |
 | [Give Me Novacaine / She's a Rebel](https://open.spotify.com/track/11I3KKHv7g2pXiuqRDabRA) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 5:26 | 2024-06-24 |  |
 | [Gives You Hell](https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD) | 3:33 | 2023-04-11 |  |
 | [Gives You Hell](https://open.spotify.com/track/74YelYAShFqBK4sJkRAbBo) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [00s Mixtape](https://open.spotify.com/album/2R7nSAPTn5Xpb9UAEC3oI9) | 3:33 | 2025-04-03 |  |
@@ -2751,7 +2752,7 @@
 | [Just Like Christmas](https://open.spotify.com/track/33M9oYKMZqY8Og9VktDYZl) | [Ingo Star Cruiser](https://open.spotify.com/artist/5YKhVpvdTdSxflcK97obtR), [Gaby Fröden](https://open.spotify.com/artist/41JfdEPR6982FUkmJPXdht) | [My First Xmas E.P.](https://open.spotify.com/album/71D0vryZtRMKwkgnQNB2RQ) | 3:16 | 2023-12-18 |  |
 | [Just Like Christmas](https://open.spotify.com/track/4zMP6aieSmWQNFdp3O4Owv) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Christmas](https://open.spotify.com/album/1SITmIj0Gjx12n077CU0XC) | 3:08 | 2023-12-11 |  |
 | [Just Like Fred Astaire](https://open.spotify.com/track/7f9mxxS8jOGmT5qYX8HjPz) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Millionaires](https://open.spotify.com/album/1d2NPeBJsN1aK2CjIFwrN4) | 3:45 | 2023-09-21 |  |
-| [Just Like Heaven](https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:32 | 2023-04-05 |  |
+| [Just Like Heaven](https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me Kiss Me Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:32 | 2023-04-05 |  |
 | [Just Like Paradise](https://open.spotify.com/track/5ZY7Gug850kv4heJcWZGHM) | [David Lee Roth](https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3) | [Skyscraper](https://open.spotify.com/album/2mYFKWSxCYhLHSXsjLDmp4) | 4:03 | 2023-05-17 |  |
 | [Just Looking](https://open.spotify.com/track/1vltPOVBSb4Ib1JNVAfTYv) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Performance And Cocktails](https://open.spotify.com/album/3L8K0FWsWGSHvYj56skH00) | 4:13 | 2023-04-05 |  |
 | [Just Looking](https://open.spotify.com/track/6esZIyYFZ7nGIAzy1eQhho) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Just Looking](https://open.spotify.com/album/0NCpzx883LSk0bMQUVuVe9) | 4:14 | 2024-12-16 |  |
@@ -3808,6 +3809,7 @@
 | [Pantomime Horse](https://open.spotify.com/track/6GOavp9z18SRYXJF5xJkhs) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Suede](https://open.spotify.com/album/6i5BAZglY52p3gCm6d8z1w) | 5:49 | 2024-06-24 |  |
 | [Paper Machete](https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [In Times New Roman...](https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk) | 3:22 | 2023-07-27 |  |
 | [Paperback Writer \- Remastered 2015](https://open.spotify.com/track/0Ui8KPWZbJJQ2Y0CIQuVqX) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:18 | 2023-07-30 |  |
+| [Parachute](https://open.spotify.com/track/2hUGBM8wOKu0W1yFxdKzWb) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv) | 3:40 | 2025-10-30 |  |
 | [Parachute](https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 3:40 | 2025-09-11 |  |
 | [Parade Of The Wooden Soldiers](https://open.spotify.com/track/2t1rFVhlcummHG9ZG4JeNZ) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:55 | 2024-12-30 |  |
 | [Paradise](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:38 | 2023-04-25 |  |
@@ -4953,6 +4955,7 @@
 | [Sympathy](https://open.spotify.com/track/4QrELCnvQ8W1JGwVLVOi9s) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Sympathy](https://open.spotify.com/album/1wc35Jbd1rZ6xbpBHJ2GeN) | 3:05 | 2023-07-11 |  |
 | [Sympathy](https://open.spotify.com/track/6OyqoLlydgdp1NWDbNZFxZ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5) | 3:05 | 2024-02-12 |  |
 | [Sympathy For The Devil \- 50th Anniversary Edition](https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 6:18 | 2023-04-11 |  |
+| [Sympathy Magic](https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Sympathy Magic](https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU) | 4:28 | 2025-10-30 |  |
 | [Synchronicity II](https://open.spotify.com/track/5ynO8cYFjDwELIZfFHHeYe) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 5:00 | 2024-04-15 |  |
 | [T&A](https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2) | 3:45 | 2025-01-13 |  |
 | [T\-Shirt Weather](https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers \(Deluxe\)](https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM) | 3:12 | 2023-05-17 |  |
@@ -5980,7 +5983,7 @@
 | [Whole Lotta Love \- 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 5:33 | 2023-04-11 |  |
 | [Whole Lotta Love \- Remaster](https://open.spotify.com/track/3OuMIIFP5TxM8tLXMWYPGV) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(Remaster\)](https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y) | 5:34 | 2025-05-26 |  |
 | [Whole Lotta Rosie](https://open.spotify.com/track/4wYq5wugZDzQiMZQYG4wVB) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 5:33 | 2023-08-18 |  |
-| [Why Can't I Be You?](https://open.spotify.com/track/5hRhmOl7l5FrpxZJQQp9WL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:13 | 2023-08-28 |  |
+| [Why Can't I Be You?](https://open.spotify.com/track/5hRhmOl7l5FrpxZJQQp9WL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me Kiss Me Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:13 | 2023-08-28 |  |
 | [Why Can't This Be Love](https://open.spotify.com/track/0TaT50ZZxT4ytZxuqkE3A9) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [5150](https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq) | 3:47 | 2023-04-05 |  |
 | [Why Can’t You Hear Me?](https://open.spotify.com/track/4SbTFl2v15SJqhLdlFxFGd) | [FEVER](https://open.spotify.com/artist/6sqc5lrCbcsjjpTAp6m6cH) | [Why Can’t You Hear Me?](https://open.spotify.com/album/2JVcLWrryz4LNzsiXOrJWF) | 3:04 | 2024-06-03 |  |
 | [Why Does It Always Rain On Me?](https://open.spotify.com/track/3m9rlto1b5Whu7TPOYWO2L) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [Singles](https://open.spotify.com/album/5kSqDvRQMeV1TuTd6k7YCb) | 4:24 | 2025-04-03 |  |
