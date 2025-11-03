@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,922 songs - 7 day 14 hr 42 min
+2,925 songs - 7 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Call Me](https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Atomic/Atomix](https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6) | 3:32 | 2025-03-29 |  |
 | [Call Me Maybe](https://open.spotify.com/track/5UMgKsx50UqgN7VMNmeDuW) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/37P4BHTOht7qL3HhixE5Yx) | 3:13 | 2025-01-03 |  |
 | [Call Me Your Friend](https://open.spotify.com/track/58uNH8Z7PZYVyskBk0qykK) | [The Slakadeliqs](https://open.spotify.com/artist/4FeAigYpQz9R9ureYN5DhC), [Sandie Black?](https://open.spotify.com/artist/16hevX7f0W8noz2guBpedw) | [The Other Side of Tomorrow](https://open.spotify.com/album/0xrki5m3AAlHmrboZpVKTR) | 2:25 | 2025-10-15 |  |
+| [Call On Me](https://open.spotify.com/track/1QWxSUyWb0Lky2UV87vBfT) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ) | 2:49 | 2025-11-02 |  |
 | [Call On Me](https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Call On Me](https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu) | 2:49 | 2025-09-05 |  |
 | [Called Out In The Dark](https://open.spotify.com/track/4BBt0kc625eUAdG2XpWPHm) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Fallen Empires](https://open.spotify.com/album/56D3j08rASJg9ZGAyoq2ZZ) | 4:01 | 2025-02-05 |  |
 | [Calling To Say](https://open.spotify.com/track/70FI8C0JhbXUaKRn3IGlMf) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Calling To Say](https://open.spotify.com/album/5kAGuFuPZffYZv2Plrz9Kv) | 3:04 | 2024-12-21 |  |
@@ -1799,6 +1800,7 @@
 | [Old Friends \- Extended Version](https://open.spotify.com/track/5QlbD2KT1df1X3YPfl0EEm) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Hobbit: An Unexpected Journey \(Original Motion Picture Soundtrack\) \[Special Edition\]](https://open.spotify.com/album/6v6VCAaPl3G08OeNhuk6za) | 5:01 | 2025-04-19 |  |
 | [Old School Love \(feat\. Ed Sheeran\)](https://open.spotify.com/track/72FdcAg79So8xaAHs2mbrB) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old School Love \(feat\. Ed Sheeran\)](https://open.spotify.com/album/4Pd4rwnwatvI9RO6vFdc3e) | 4:33 | 2024-12-16 |  |
 | [Old Tape](https://open.spotify.com/track/19lrVQ7J4327BwMeBgkPdj) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Impressions \(feat\. Madison Cunningham\)](https://open.spotify.com/album/6xeD1QV6tIq2uzIZeZRmQJ) | 4:38 | 2025-03-16 | 2025-07-16 |
+| [Old Tape](https://open.spotify.com/track/2snmYlfVXnUH1XsuJ8RGd4) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [At the End of The Day](https://open.spotify.com/album/6kk7fCU4R8XAX4vshgMi0n) | 4:38 | 2025-11-02 |  |
 | [Old Tape](https://open.spotify.com/track/3eczqzv8ScyR9VjHjD3kjl) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Lucius](https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN) | 4:38 | 2025-08-03 |  |
 | [Old Tape](https://open.spotify.com/track/6DULodHR3iXN9PiGRifzhI) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Gold Rush](https://open.spotify.com/album/5PCVQKjEnyxqaWi9M45Gz9) | 4:38 | 2025-02-11 |  |
 | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/track/2EPD0p64N6mDkbme9gNrHK) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/album/5Pn6jZ3tkIeZ23DytAciWY) | 4:38 | 2024-12-10 |  |
@@ -2623,6 +2625,7 @@
 | [Toro](https://open.spotify.com/track/7dFcP5EbR1nVtM27YnSjG7) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 2:55 | 2024-11-29 |  |
 | [Total Eclipse of the Heart](https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [The Very Best of Bonnie Tyler](https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb) | 4:27 | 2025-08-22 |  |
 | [Tournament Of Hearts](https://open.spotify.com/track/1pkH2oFavgoVpxmXO9ylze) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Reunion Tour](https://open.spotify.com/album/1RIXytPt0J9WcBOvsklInr) | 3:34 | 2025-05-27 |  |
+| [Tout le monde](https://open.spotify.com/track/2r5vxMSdwFsu0hQ0wjHeZJ) | [Sam Bay](https://open.spotify.com/artist/45Ln6liMJ4RyydQYLs6vMW) | [Tout le monde](https://open.spotify.com/album/6khunHQ7tubrxkRsHzdjMd) | 2:53 | 2025-11-02 |  |
 | [Train in Vain \(Stand by Me\) \- Remastered](https://open.spotify.com/track/6ITuEsxEy2qPhqMowdDAeI) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:14 | 2025-03-04 |  |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-11-28 |  |
 | [Trendsetter](https://open.spotify.com/track/09VW2o6EHSWwzCdhW4ARU1) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [Trendsetter](https://open.spotify.com/album/1Hxam85Bhf98cIkMRKX9QA) | 2:22 | 2024-12-11 |  |

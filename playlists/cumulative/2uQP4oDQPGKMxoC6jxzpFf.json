@@ -6783,6 +6783,24 @@
     },
     {
       "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169004,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1QWxSUyWb0Lky2UV87vBfT"
+    },
+    {
+      "album": {
         "name": "Call On Me",
         "url": "https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu"
       },
@@ -33427,6 +33445,24 @@
     },
     {
       "album": {
+        "name": "At the End of The Day",
+        "url": "https://open.spotify.com/album/6kk7fCU4R8XAX4vshgMi0n"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278920,
+      "name": "Old Tape",
+      "url": "https://open.spotify.com/track/2snmYlfVXnUH1XsuJ8RGd4"
+    },
+    {
+      "album": {
         "name": "Lucius",
         "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
       },
@@ -48848,6 +48884,24 @@
       "duration_ms": 214826,
       "name": "Tournament Of Hearts",
       "url": "https://open.spotify.com/track/1pkH2oFavgoVpxmXO9ylze"
+    },
+    {
+      "album": {
+        "name": "Tout le monde",
+        "url": "https://open.spotify.com/album/6khunHQ7tubrxkRsHzdjMd"
+      },
+      "artists": [
+        {
+          "name": "Sam Bay",
+          "url": "https://open.spotify.com/artist/45Ln6liMJ4RyydQYLs6vMW"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173984,
+      "name": "Tout le monde",
+      "url": "https://open.spotify.com/track/2r5vxMSdwFsu0hQ0wjHeZJ"
     },
     {
       "album": {
