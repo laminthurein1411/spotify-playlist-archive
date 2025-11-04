@@ -4,7 +4,7 @@
 
 > playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-2,520 songs - 7 day 4 hr 44 min
+2,520 songs - 7 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1804,7 +1804,7 @@
 | [Saving All My Love for You](https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:57 | 2024-03-06 |  |
 | [Say It Again](https://open.spotify.com/track/7yXb6dInm0pKwtxMLFhRIP) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Beyond Appearances](https://open.spotify.com/album/5VsPopKKdkECx6B69QJRfb) | 3:29 | 2024-02-28 |  |
 | [Say It Isn't So](https://open.spotify.com/track/4Dnnchb3a2hx3HlUfF9DXE) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 3:33 | 2024-02-28 |  |
-| [Say It Isn't So](https://open.spotify.com/track/2CvpZHuFZNY5vrcz2fXkJ5) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/0EriQlp6zHpb1ThLZcandW) | 3:47 | 2024-03-03 |  |
+| [Say It Isn't So](https://open.spotify.com/track/2CvpZHuFZNY5vrcz2fXkJ5) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/0EriQlp6zHpb1ThLZcandW) | 3:49 | 2024-03-03 |  |
 | [Say What You Will](https://open.spotify.com/track/08nVwMJvWeJwwc9pSd74wO) | [Fastway](https://open.spotify.com/artist/7eD005d7pGOEYD3eWVRecb) | [FASTWAY](https://open.spotify.com/album/6sCVVfHN80AH6tzqTvCRDg) | 3:19 | 2024-03-15 |  |
 | [Say You Will](https://open.spotify.com/track/5nW7RbN0mBLPts9CURNwdy) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Inside Information](https://open.spotify.com/album/7w6HSgAb9MseMM4DDx3Ls2) | 4:15 | 2024-02-28 |  |
 | [Say You, Say Me](https://open.spotify.com/track/0ouQk4M3Lq2jIsuHQn2LTt) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz) | 4:01 | 2024-03-02 |  |
@@ -2040,7 +2040,7 @@
 | [Take It to the Limit \- 2013 Remaster](https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 4:47 | 2024-03-10 |  |
 | [Take Me Home \- 2016 Remaster](https://open.spotify.com/track/2s6wCS3vDZFPY9NOTlPXJZ) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 5:53 | 2024-03-04 |  |
 | [Take My Breath Away \- Love Theme from "Top Gun"](https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 4:15 | 2024-03-05 |  |
-| [Talk To Me](https://open.spotify.com/track/3df0KBxUCe4RP07WhUmNUi) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/0EriQlp6zHpb1ThLZcandW) | 3:34 | 2024-02-28 |  |
+| [Talk To Me](https://open.spotify.com/track/3df0KBxUCe4RP07WhUmNUi) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/0EriQlp6zHpb1ThLZcandW) | 3:38 | 2024-02-28 |  |
 | [Talking In Your Sleep \(2023 Remaster\)](https://open.spotify.com/track/7fRvtXvJMpGfTLdF0M09a1) | [The Romantics](https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE) | [In Heat \(2023 Remaster\)](https://open.spotify.com/album/0LMfbsue7HETT4P8Mqxbvg) | 3:56 | 2024-03-05 |  |
 | [Tall Cool One \- 2006 Remaster](https://open.spotify.com/track/6vejDalRlBqPrr7s3iwi9U) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [Now and Zen](https://open.spotify.com/album/7MwPi2NpS2OoZ8K1h5tmXV) | 4:38 | 2024-03-01 |  |
 | [Tarzan Boy](https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA) | [Baltimora](https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG) | [Living In The Background](https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9) | 6:18 | 2024-02-29 |  |
@@ -2520,8 +2520,8 @@
 | [Young Girl](https://open.spotify.com/track/3F64pIPqvcujnwvcVLVZ64) | [Gary Puckett & The Union Gap](https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ) | [Young Girl: The Best Of Gary Puckett & The Union Gap](https://open.spotify.com/album/15Oqj9h8TSkGsoOKDKjsqA) | 3:14 | 2024-03-08 |  |
 | [Young Hearts Run Free \- Robbie Rivera Mix](https://open.spotify.com/track/5ufneWQ9ZyczuurtrgcdHd) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et), [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP) | [Young Hearts Run Free](https://open.spotify.com/album/1p2eERY51qDLKVY4TsnC2Q) | 7:32 | 2024-03-15 |  |
 | [Young Turks](https://open.spotify.com/track/6vezarXrEyu0zN5WjJqGfg) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Storyteller \- The Complete Anthology: 1964 \- 1990](https://open.spotify.com/album/2Y7dwu7XmkrGi6zphZiYsu) | 5:03 | 2024-03-01 |  |
-| [Your Love](https://open.spotify.com/track/0WoFs3EdGOx58yX5BtXvOa) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/0EriQlp6zHpb1ThLZcandW) | 3:36 | 2024-02-28 |  |
 | [Your Love](https://open.spotify.com/track/5dRQUolXAVX3BbCiIxmSsf) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Super Hits](https://open.spotify.com/album/5FfkiNcXAvagExRCLd8nn4) | 3:41 | 2024-03-20 |  |
+| [Your Love](https://open.spotify.com/track/0WoFs3EdGOx58yX5BtXvOa) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/0EriQlp6zHpb1ThLZcandW) | 3:43 | 2024-02-28 |  |
 | [Your Love \- Radio Edit](https://open.spotify.com/track/0wgXzjgHh13xFz9S92SZpN) | [Lime](https://open.spotify.com/artist/5ANLE2tGUU9A9w2iqUPlSD) | [Your Love](https://open.spotify.com/album/3r6eaaduZYtYc47c91esYL) | 4:02 | 2024-03-23 |  |
 | [Your Mama Don't Dance](https://open.spotify.com/track/0FO5CkdIFiKOJNETXTyCMS) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 3:00 | 2024-03-20 |  |
 | [Your Song](https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:01 | 2024-03-03 |  |

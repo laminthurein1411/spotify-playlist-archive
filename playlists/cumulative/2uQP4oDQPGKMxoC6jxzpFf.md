@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,925 songs - 7 day 14 hr 53 min
+2,927 songs - 7 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,8 +553,8 @@
 | [Dance With You](https://open.spotify.com/track/2nsf0yZBCWNq20FvTUCXpe) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dance With You](https://open.spotify.com/album/4e0RTJEbQGd7cfGd2CHSm4) | 3:46 | 2025-07-02 |  |
 | [Dance, Dance, Dance \(Yowsah, Yowsah, Yowsah\) \- 2018 Remaster](https://open.spotify.com/track/1gHjPSEIKmFE9M8PAV2RyQ) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Chic \(2018 Remaster\)](https://open.spotify.com/album/388S3dsftPqG1nwgauItcx) | 8:22 | 2025-02-20 |  |
 | [Dancing In The Courthouse](https://open.spotify.com/track/4JhHlUbe2Elx7q9PPSgQFA) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mama's Boy](https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA) | 2:37 | 2025-03-27 | 2025-07-16 |
-| [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 | 2024-11-27 |  |
 | [Dancing In The Courthouse](https://open.spotify.com/track/5fX8WljoAFrmFrFqahjz4Y) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:37 | 2025-07-23 |  |
+| [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:39 | 2024-11-27 |  |
 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:01 | 2025-01-01 |  |
 | [Dancing In The Dark](https://open.spotify.com/track/2ZFfGgz5RonguqJlm6ajoR) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Dancing In The Dark](https://open.spotify.com/album/5MKkL2rwshzZ93F1cvUuBA) | 3:20 | 2025-07-23 |  |
 | [Dancing in the Moonlight](https://open.spotify.com/track/6vnkIGrygKosSdwgxsUIFe) | [Isla June](https://open.spotify.com/artist/18ioovgcBQpPVcUdRyGCe0), [A.O\. Gerber](https://open.spotify.com/artist/2OywDp0ldLitUL5iM8phSf) | [Dancing in the Moonlight](https://open.spotify.com/album/4fcLQFnMstoH1M3eSkiZn8) | 2:27 | 2025-01-23 |  |
@@ -2099,6 +2099,7 @@
 | [Save It For Later](https://open.spotify.com/track/5rBOBI3INEw0u0rwNNGib5) | [The English Beat](https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N) | [Special Beat Service \(Remastered\)](https://open.spotify.com/album/4Y1DZv5OK6rg4ljw2Oj6wP) | 3:33 | 2025-02-06 |  |
 | [Saving All My Love for You](https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:57 | 2025-02-14 |  |
 | [Say Goodbye, Tell No One](https://open.spotify.com/track/0ugLLqzg2FExprt0i6eUhk) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Save Your Soul / Say Goodbye, Tell No One](https://open.spotify.com/album/33AmcfGNqeKBZvoUVkXsMJ) | 6:12 | 2025-07-15 |  |
+| [Say Goodbye, Tell No One](https://open.spotify.com/track/4ruCWi3LnPgOlIpOsB32Ek) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Billionaire](https://open.spotify.com/album/169kyZ2zKTeB78mE2wPTmS) | 6:12 | 2025-11-03 |  |
 | [Say It Now](https://open.spotify.com/track/0Nr1KCfTimYBjsqgL6dLqy) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:40 | 2024-11-28 |  |
 | [Say My Name](https://open.spotify.com/track/4BZCJ0fl5MphZLIsYYzpvJ) | [Maddee Ritter](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [Songs Of Love & Death](https://open.spotify.com/album/1IDeR3gYRwpMm1na8BAGn4) | 3:07 | 2025-05-09 |  |
 | [Say My Name](https://open.spotify.com/track/60ofCSQ2IYj09Gi8Zslm9P) | [Maddee Ritter](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [Say My Name](https://open.spotify.com/album/02814uAXjSQEVI5FVlvDaa) | 3:07 | 2024-12-10 |  |
@@ -2849,6 +2850,7 @@
 | [With You](https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [With You](https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j) | 2:34 | 2024-12-11 |  |
 | [Without A Leg To Stand On](https://open.spotify.com/track/31J0OSQnOjWtLBdrcD0rEm) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Without A Leg To Stand On](https://open.spotify.com/album/4hJ5xoH77zEDmqJONIxSGp) | 4:12 | 2025-01-09 |  |
 | [Without A Leg To Stand On](https://open.spotify.com/track/4CDF9sHXsSNSNUGOgvFI3f) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Cunningham Bird](https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB) | 4:12 | 2025-06-05 | 2025-07-16 |
+| [Without Words](https://open.spotify.com/track/0EtjrrmpWOczvB0ToCPJxc) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [You're Beautiful \(Music from the Original TV Series\)](https://open.spotify.com/album/3FwD7Ki4LxnFRXyXPBer5e) | 4:03 | 2025-11-03 |  |
 | [Witness](https://open.spotify.com/track/4hGZicKdXKDEDAAY6C1CrI) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Witness](https://open.spotify.com/album/4QKKyKrDle0aV2JortEuT1) | 2:57 | 2025-02-27 |  |
 | [Wolf](https://open.spotify.com/track/1hIOttZmQV6aAi9Al7NYoU) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Wolf](https://open.spotify.com/album/0lUSsaAheHP7BXnktrZNlZ) | 3:08 | 2025-03-04 |  |
 | [Wonder](https://open.spotify.com/track/5uTK6cOfvHjOPV6e2XWltx) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN), [Ian Janes](https://open.spotify.com/artist/6P4BsECLsxl8Xxdd9TMOjB) | [Wonder](https://open.spotify.com/album/0U8ZxJRdNXUGFwpJFqQm9D) | 3:27 | 2024-11-24 |  |
