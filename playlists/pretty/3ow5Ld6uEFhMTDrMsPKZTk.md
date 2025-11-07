@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ow5Ld6uEFhMTDrMsPKZTk.md) - [plain]
 
 > Whores for instruments
 
-[Maya Parker](https://open.spotify.com/user/mcp8498) - 587 likes - 345 songs - 21 hr 33 min
+[Maya Parker](https://open.spotify.com/user/mcp8498) - 588 likes - 357 songs - 22 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -353,5 +353,17 @@ pretty - [cumulative](/playlists/cumulative/3ow5Ld6uEFhMTDrMsPKZTk.md) - [plain]
 | 343 | [Snake With a Bone](https://open.spotify.com/track/7yw87RtyWyIGfr1f2Pdoht) | [Day We Ran](https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS) | [Snake With a Bone](https://open.spotify.com/album/0qX9LG64eaDwqpehV15TEn) | 3:47 |
 | 344 | [Foaming](https://open.spotify.com/track/0HeEz3p1yVoAIOjAULJzrD) | [Day We Ran](https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS) | [Foaming](https://open.spotify.com/album/3Hwz49I44rdxZfJ07yZD4d) | 3:13 |
 | 345 | [Come on Mess Me Up](https://open.spotify.com/track/0U2G7dJYfwGlG6fNvhN6sr) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [This is Our Vice](https://open.spotify.com/album/3FyGYy0hYrQJgJKyNGWI4m) | 3:23 |
+| 346 | [Tobeloved](https://open.spotify.com/track/7cSLD89y304ZvX4mVhYVfw) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 4:05 |
+| 347 | [Ifyoucall](https://open.spotify.com/track/6cjALjYTubXSbLRXrnCNgY) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 4:01 |
+| 348 | [Safeandsound](https://open.spotify.com/track/0k6WMNaYENiEhseD7MAi4N) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 4:36 |
+| 349 | [Sorry](https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:17 |
+| 350 | [Yougotmefeeling](https://open.spotify.com/track/1eGYO1RzVRdphhWT86DSr9) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:03 |
+| 351 | [Leaves](https://open.spotify.com/track/07HZTpShoHhClfwKDEsvN5) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:41 |
+| 352 | [Everybodyelse](https://open.spotify.com/track/0B36Bnz5XYl4plV4MpXSAg) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:38 |
+| 353 | [Summerinlove](https://open.spotify.com/track/7r4NrHM4w6tJystfMbse4C) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 4:31 |
+| 354 | [Leaveyourlove](https://open.spotify.com/track/0NeYhtI2vLqaIpvYRQ7E5Y) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:51 |
+| 355 | [Thinkaboutit](https://open.spotify.com/track/7hiuxAwDEBlEil538YGffi) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 2:51 |
+| 356 | [Finallyover](https://open.spotify.com/track/1Ded9EOaAthYQVOs9MwtCp) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:11 |
+| 357 | [Iwanttobeyourlightagain](https://open.spotify.com/track/4LpNkTXEHMktM6cj6DV12i) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 5:02 |
 
-Snapshot ID: `AAABnAN7vmGxEVsjWpONZXQ2U82H2vdP`
+Snapshot ID: `AAABnSlwOzY/3yAZw9vj35jp9DNXRmkw`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 
 ### [big mix](https://open.spotify.com/playlist/7ojHfeLSzqGrNwx6MUwIS7)
 
-> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-11\-03 07:17:11.605951
+> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-11\-06 07:16:05.837570
 
-[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,254 songs - 17 day 4 hr 4 min
+[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,258 songs - 17 day 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -935,7 +935,7 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 | 925 | [Human](https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:20 |
 | 926 | [Nothing In My Way](https://open.spotify.com/track/7falOwHJ9MjskdcNehIh79) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Under The Iron Sea](https://open.spotify.com/album/02Ird1pnGUdA6ruy87cxVa) | 4:00 |
 | 927 | [Save Tonight](https://open.spotify.com/track/0smyCrJiibi2uwCiq5R1vj) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/0zS5fFa2I679lrdhSPAyIe) | 4:02 |
-| 928 | [Where Love Lives \(Come On In\) \- Classic Mix](https://open.spotify.com/track/0ilZMeXHPKDPjUc4Neu04f) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Club Classics](https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m) | 6:56 |
+| 928 | [Where Love Lives \- featured on the John Lewis Christmas Advert 2025](https://open.spotify.com/track/0ilZMeXHPKDPjUc4Neu04f) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Club Classics](https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m) | 6:56 |
 | 929 | [One Vision \- Remastered 2011](https://open.spotify.com/track/3ROPrLWea9uICOW4V2Px1y) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 5:11 |
 | 930 | [Temptation \- 12" Version / Remastered 2016](https://open.spotify.com/track/1u8wrxIC4Vo3OYI1Rbb5hN) | [Heaven 17](https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9) | [The Luxury Gap](https://open.spotify.com/album/3Hw08OOns5loVSh9cV8AeY) | 4:43 |
 | 931 | [Sometimes](https://open.spotify.com/track/1ilT5nVNWQexlEKPKd7bOf) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Fresh As A Daisy \- The Singles](https://open.spotify.com/album/7e7fzFvve38Tcof8wcMiFM) | 4:36 |
@@ -6262,5 +6262,9 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 | 6252 | [Somebody's Watching Me](https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Somebody's Watching Me](https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw) | 4:58 |
 | 6253 | [Hip To Be Square](https://open.spotify.com/track/4vS047dAeYGbZzqvqLyBDX) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 4:01 |
 | 6254 | [Canapé](https://open.spotify.com/track/7qe4xJ1DwX5MbN6VaN0BMb) | [Catalyst](https://open.spotify.com/artist/43H3BqSb393e4Rdp8uJHUR) | [Double Sky](https://open.spotify.com/album/7339Z9aBBRGaYp8PZWzVgS) | 3:29 |
+| 6255 | [Iron Sky](https://open.spotify.com/track/57y6dh0OkW8JSIrKdeEAkL) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Modern Crooners](https://open.spotify.com/album/11AOX0lOdRFlUTgPa0hznk) | 6:13 |
+| 6256 | [Everybody Scream](https://open.spotify.com/track/7tMF8Anyf7oIqQZSxE17do) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 4:04 |
+| 6257 | [A Kind Of Magic \- Remastered 2011](https://open.spotify.com/track/7g6hAuTCUIyC60CDVqIcY2) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II \(Remastered\)](https://open.spotify.com/album/1uG9cIT7IRuq9NqFvKFUsI) | 4:22 |
+| 6258 | [Stacy's Mom](https://open.spotify.com/track/3iDYVno09G6stYZ03KjzgN) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Skateboard & Skating Vibes](https://open.spotify.com/album/2K40eAlu5DdZeKmGvMIsvu) | 3:19 |
 
-Snapshot ID: `AAACk1WkzvoCpx+qBAHIDXJmQAkT2Q65`
+Snapshot ID: `AAAClewIwj/sb2KAM07YpRJp7DlOtboc`

@@ -1,12 +1,12 @@
 {
-  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-11-03 07:17:11.605951",
+  "description": "Songs from abr. Updated by potchin&#x2F;absolutespotify on 2025-11-06 07:16:05.837570",
   "num_followers": 1,
   "original_name": "big mix",
   "owner": {
     "name": "jeffers_uk",
     "url": "https://open.spotify.com/user/jeffers_uk"
   },
-  "snapshot_id": "AAACk1WkzvoCpx+qBAHIDXJmQAkT2Q65",
+  "snapshot_id": "AAAClewIwj/sb2KAM07YpRJp7DlOtboc",
   "tracks": [
     {
       "added_at": "2023-04-05 10:01:14",
@@ -15181,7 +15181,7 @@
         }
       ],
       "duration_ms": 416026,
-      "name": "Where Love Lives (Come On In) - Classic Mix",
+      "name": "Where Love Lives - featured on the John Lewis Christmas Advert 2025",
       "url": "https://open.spotify.com/track/0ilZMeXHPKDPjUc4Neu04f"
     },
     {
@@ -101855,6 +101855,70 @@
       "duration_ms": 209057,
       "name": "Canap\u00e9",
       "url": "https://open.spotify.com/track/7qe4xJ1DwX5MbN6VaN0BMb"
+    },
+    {
+      "added_at": "2025-11-06 07:16:05",
+      "album": {
+        "name": "Modern Crooners",
+        "url": "https://open.spotify.com/album/11AOX0lOdRFlUTgPa0hznk"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 373133,
+      "name": "Iron Sky",
+      "url": "https://open.spotify.com/track/57y6dh0OkW8JSIrKdeEAkL"
+    },
+    {
+      "added_at": "2025-11-06 07:16:05",
+      "album": {
+        "name": "Everybody Scream",
+        "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "Everybody Scream",
+      "url": "https://open.spotify.com/track/7tMF8Anyf7oIqQZSxE17do"
+    },
+    {
+      "added_at": "2025-11-06 07:16:05",
+      "album": {
+        "name": "Greatest Hits II (Remastered)",
+        "url": "https://open.spotify.com/album/1uG9cIT7IRuq9NqFvKFUsI"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 262253,
+      "name": "A Kind Of Magic - Remastered 2011",
+      "url": "https://open.spotify.com/track/7g6hAuTCUIyC60CDVqIcY2"
+    },
+    {
+      "added_at": "2025-11-06 07:16:05",
+      "album": {
+        "name": "Skateboard & Skating Vibes",
+        "url": "https://open.spotify.com/album/2K40eAlu5DdZeKmGvMIsvu"
+      },
+      "artists": [
+        {
+          "name": "Fountains Of Wayne",
+          "url": "https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "Stacy's Mom",
+      "url": "https://open.spotify.com/track/3iDYVno09G6stYZ03KjzgN"
     }
   ],
   "unique_name": "big mix",

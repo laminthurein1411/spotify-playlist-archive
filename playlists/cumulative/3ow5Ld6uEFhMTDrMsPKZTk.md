@@ -4,7 +4,7 @@
 
 > Whores for instruments
 
-345 songs - 21 hr 33 min
+357 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Electric Green Lambo](https://open.spotify.com/track/5cosFdrn8PBmz6eJpD00iq) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Electric Green Lambo](https://open.spotify.com/album/4nRdzHLndZ5zRaJvYDn1IM) | 2:35 | 2025-02-08 |  |
 | [Enough Of The Sweet Talk](https://open.spotify.com/track/3QOV1bCaYukb1rUAVP2f6x) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Enough Of The Sweet Talk](https://open.spotify.com/album/7Cmagko6o1A7RXCWkauw2B) | 4:00 | 2024-07-26 |  |
 | [Estimated Delivery](https://open.spotify.com/track/1GIDMzcU9cvO5j7f1kuT4Z) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [If That Makes Sense](https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn) | 3:25 | 2025-05-09 |  |
+| [Everybodyelse](https://open.spotify.com/track/0B36Bnz5XYl4plV4MpXSAg) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:38 | 2025-11-06 |  |
 | [Everyone Will See It](https://open.spotify.com/track/1m0KHgKO5q5jpttt0m3ESO) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Everyone Will See It](https://open.spotify.com/album/5dR2HScThHzyN9wggxsl8x) | 3:24 | 2025-02-05 |  |
 | [Everyroad](https://open.spotify.com/track/5233fZGEk0FY0AzdgLaWch) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 8:35 | 2022-12-27 |  |
 | [Everyroad \- from Hansa Studios, Berlin](https://open.spotify.com/track/2s7nxagCl9fnFUoNIQxjnp) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Live Vol\. 1](https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns) | 7:40 | 2024-08-04 |  |
@@ -89,6 +90,7 @@
 | [Feel](https://open.spotify.com/track/1TQR7tBPRo6jrSKlNWs6lu) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Lost Tropics](https://open.spotify.com/album/62xt1ooV02LKWxvIx15yA9) | 3:38 | 2023-02-22 |  |
 | [Feel Alright](https://open.spotify.com/track/3WYLPz0UU0jNmGP9unVSFc) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Feel Alright](https://open.spotify.com/album/14GKNazsKyqEsFantDrZyL) | 3:54 | 2023-07-19 |  |
 | [Feels Better](https://open.spotify.com/track/5CnYptXm29zR34TbI0I9qW) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [No Way to Treat an Animal](https://open.spotify.com/album/2FtQR5hIMjX6jHdboNI721) | 4:37 | 2022-12-27 |  |
+| [Finallyover](https://open.spotify.com/track/1Ded9EOaAthYQVOs9MwtCp) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:11 | 2025-11-06 |  |
 | [Flowers and Booze](https://open.spotify.com/track/5z4FiqAYXTfOuRohAKbZHz) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:03 | 2023-03-21 |  |
 | [Foam](https://open.spotify.com/track/4h6AjmvszVvlSLg0vwJJ46) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Foam](https://open.spotify.com/album/4Rmw7d4SsYHn1U5SosFCOI) | 3:05 | 2024-02-16 |  |
 | [Foaming](https://open.spotify.com/track/0HeEz3p1yVoAIOjAULJzrD) | [Day We Ran](https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS) | [Foaming](https://open.spotify.com/album/3Hwz49I44rdxZfJ07yZD4d) | 3:13 | 2025-09-23 |  |
@@ -147,6 +149,7 @@
 | [I Try \- triple j Like A Version](https://open.spotify.com/track/5NuQ0ZScWvAfymbG7itmWV) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [I Try \(triple j Like A Version\)](https://open.spotify.com/album/6xpjQvVXOQdCApdtaKKXuy) | 3:47 | 2022-12-27 |  |
 | [I Wanna Dance With You](https://open.spotify.com/track/4uwPEKdiVnXiscrLgk5666) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 2:54 | 2024-04-23 |  |
 | [If Our Love Is Dead](https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 2:53 | 2024-10-06 |  |
+| [Ifyoucall](https://open.spotify.com/track/6cjALjYTubXSbLRXrnCNgY) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 4:01 | 2025-11-06 |  |
 | [IknowhowIfeel](https://open.spotify.com/track/2IFaUS63AIAr9P46W1lEwt) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 5:27 | 2022-12-27 |  |
 | [IknowhowIfeel \- from Hansa Studios, Berlin](https://open.spotify.com/track/4M3MUIXtQLN2qRPcwcpHzW) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Live Vol\. 1](https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns) | 2:55 | 2022-12-28 |  |
 | [Iknowhowyoufeel \- from Le Palace, Paris](https://open.spotify.com/track/6FevjxAur2Re22JTr26023) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Live Vol\. 2](https://open.spotify.com/album/4FNiZmcoq8ts6zIDDUvTp9) | 5:39 | 2024-06-18 |  |
@@ -160,6 +163,7 @@
 | [It's Been a Long Day](https://open.spotify.com/track/3deMLKUGOk1FTcm2eqPpwI) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [It's Been a Long Day](https://open.spotify.com/album/49oWmrrTgigMNm6qMkd8Nd) | 4:04 | 2022-12-27 |  |
 | [It's Been a Long Day](https://open.spotify.com/track/6xhe7aIaV6woJKcOSENPfD) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody](https://open.spotify.com/album/1NDvZ5ehnQvrTg8ILwGwsg) | 4:04 | 2022-12-27 |  |
 | [Itch](https://open.spotify.com/track/17h9TtoP2a0JGFm2bjqmzi) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Brain Candy](https://open.spotify.com/album/0zDv1dS31Rjxv85BSDYs9p) | 4:54 | 2022-12-27 |  |
+| [Iwanttobeyourlightagain](https://open.spotify.com/track/4LpNkTXEHMktM6cj6DV12i) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 5:02 | 2025-11-06 |  |
 | [Jasmine](https://open.spotify.com/track/5m33FFYcnzhVDXktnkIchF) | [Majak Door](https://open.spotify.com/artist/07T4q3baUiO1NImfuaAwid) | [Jasmine](https://open.spotify.com/album/225bPmt4gLOJNe7vqx6uA3) | 4:07 | 2024-05-14 |  |
 | [jazz burger](https://open.spotify.com/track/0LqqWpieFCkt7jtA6RafAG) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 3:11 | 2025-08-22 |  |
 | [jazz burger](https://open.spotify.com/track/1JNDmvQPhhEQdvWpVTz5Fp) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf) | 3:11 | 2025-08-29 |  |
@@ -175,6 +179,8 @@
 | [Lady](https://open.spotify.com/track/6fad2MISHjGdBBd5GHhAa8) | [Mako Road](https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz) | [Local Safari](https://open.spotify.com/album/19RcyQddPrMjNlFXVclJ9Z) | 4:49 | 2023-06-14 |  |
 | [Lapwing](https://open.spotify.com/track/1t7Oxc4ZevaInzS3c60QXe) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Low Altitude Living](https://open.spotify.com/album/4liDg8UR2VK9etnZmhHEXG) | 6:12 | 2023-05-10 |  |
 | [Le Fangz](https://open.spotify.com/track/1bzaBdh5Rx5FO7sGUOVBbH) | [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Which Way Is Out](https://open.spotify.com/album/4Tr8UMljNp7ptVQODDWnEZ) | 2:55 | 2024-06-24 |  |
+| [Leaves](https://open.spotify.com/track/07HZTpShoHhClfwKDEsvN5) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:41 | 2025-11-06 |  |
+| [Leaveyourlove](https://open.spotify.com/track/0NeYhtI2vLqaIpvYRQ7E5Y) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:51 | 2025-11-06 |  |
 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 | 2025-09-02 |  |
 | [Left Me Like Summer](https://open.spotify.com/track/4lOmEhpeN25q3a6PUWWx7g) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Venus Ate Mars](https://open.spotify.com/album/4UtiON8kXiHkgsX1qxP5GJ) | 4:45 | 2022-12-27 |  |
 | [Left Of The Dealer](https://open.spotify.com/track/4Q7rtmpimCOymEt8q7Ek1D) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Left Of The Dealer](https://open.spotify.com/album/7g8nObVYvr2ew5XU5VIhwi) | 4:14 | 2025-02-12 |  |
@@ -244,6 +250,7 @@
 | [Rocket](https://open.spotify.com/track/2tf15sXrdAFhszsDivYSaJ) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Venus Ate Mars](https://open.spotify.com/album/4UtiON8kXiHkgsX1qxP5GJ) | 3:42 | 2023-02-03 |  |
 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 | 2022-12-27 |  |
 | [Sadie](https://open.spotify.com/track/1m930sgHvklCOlyr469vGm) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Sadie](https://open.spotify.com/album/4SwP71BadsE4g3TERbxzSA) | 3:42 | 2024-03-23 |  |
+| [Safeandsound](https://open.spotify.com/track/0k6WMNaYENiEhseD7MAi4N) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 4:36 | 2025-11-06 |  |
 | [Sawteeth](https://open.spotify.com/track/723LKKIHY5tyvP9VTB14Ep) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [In the Slight](https://open.spotify.com/album/2YhpaqUM9ftmRkONucxsnE) | 4:00 | 2022-12-27 |  |
 | [Say No More](https://open.spotify.com/track/011Jwus1f7xJCyXQ4bNMbA) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Bienvenido](https://open.spotify.com/album/4zzJAKl9AfkUrlMUlrHkIO) | 3:48 | 2024-09-03 |  |
 | [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 | 2025-08-14 |  |
@@ -269,6 +276,7 @@
 | [Something Good](https://open.spotify.com/track/6JAEa1ka5uJkj220pI65SL) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Strawberry Skies](https://open.spotify.com/album/0tPVDtZiotsh28JoxICbCX) | 4:24 | 2022-12-27 |  |
 | [Somethinggreater \- Single Version](https://open.spotify.com/track/1hp7aHiWB6zxcpehJR7xRO) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:29 | 2022-12-27 |  |
 | [Sometime](https://open.spotify.com/track/1G7O90QZGVISwDfd1wOKeA) | [Ra Ra Viper](https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId) | [Sometime](https://open.spotify.com/album/2xmZIEgZkrqrkhJG8jqYo1) | 4:22 | 2024-05-14 |  |
+| [Sorry](https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:17 | 2025-11-06 |  |
 | [Sorry Instead](https://open.spotify.com/track/5rHD6gnDX7pyBiS5AuRMwT) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody \(Deluxe\)](https://open.spotify.com/album/3VHJ9vMV6k9gSxbI1yPPFz) | 3:19 | 2023-02-17 |  |
 | [Southern Sun](https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Harlequin Dream](https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN) | 4:41 | 2023-07-28 |  |
 | [Space](https://open.spotify.com/track/553ljdFtUKCqS29IblRDeE) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [The Other Side](https://open.spotify.com/album/7yshjn4QjDjMrjeWtxfLKD) | 3:30 | 2022-12-27 |  |
@@ -288,6 +296,7 @@
 | [Streets of Your Town \- Remastered](https://open.spotify.com/track/4ImZYT2EsMgcracYQIQ5vH) | [The Go\-Betweens](https://open.spotify.com/artist/4HCubdy7diarb4KZo8etrq) | [16 Lovers Lane \(Remastered\)](https://open.spotify.com/album/2jodAR4BsYntuyZn55ZrHB) | 3:39 | 2023-03-02 |  |
 | [Sugarcat](https://open.spotify.com/track/18pICKHsEvVhiKB2zwW1ta) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Sugarcat](https://open.spotify.com/album/1Z8ssIYHiBTNsCTwUCpOHP) | 2:54 | 2025-03-27 |  |
 | [Summerinlove](https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Summerinlove](https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4) | 4:31 | 2025-08-01 |  |
+| [Summerinlove](https://open.spotify.com/track/7r4NrHM4w6tJystfMbse4C) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 4:31 | 2025-11-06 |  |
 | [Sunday Stitches](https://open.spotify.com/track/3M176knH0qYJi7shSNFFBa) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Sunday Stitches](https://open.spotify.com/album/5y9kaAlRXK6rvPxLP6y7gK) | 3:03 | 2024-09-07 |  |
 | [Sunny Days](https://open.spotify.com/track/0BUjoJcv2ztFWofXSti4bD) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Sunny Days](https://open.spotify.com/album/7e3Qart8YYS7NRgXs619fQ) | 3:38 | 2023-01-06 |  |
 | [Sweetheart](https://open.spotify.com/track/3OL6LXYwlRlrsx8tuoxlIN) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Sweetheart](https://open.spotify.com/album/6zmd0wYMvigFRmGP4FUT7z) | 3:04 | 2024-03-28 |  |
@@ -305,6 +314,7 @@
 | [The Sun Comes Up](https://open.spotify.com/track/6aNVEIjxBi4gm0t1CFg7uk) | [Mako Road](https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz) | [The Sun Comes Up](https://open.spotify.com/album/067DByB9MxpzzHb07ORR3P) | 4:14 | 2023-02-24 |  |
 | [These Girls](https://open.spotify.com/track/4iURgDfsolmCJtknzWuyxj) | [Sticky Fingers](https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0) | [Caress Your Soul](https://open.spotify.com/album/1dpC5MkRXeSEwnMMWG6t2z) | 3:25 | 2022-12-27 |  |
 | [Theworstthing](https://open.spotify.com/track/0EvZksFiDpboeG4UVaIvJa) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:03 | 2024-08-05 |  |
+| [Thinkaboutit](https://open.spotify.com/track/7hiuxAwDEBlEil538YGffi) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 2:51 | 2025-11-06 |  |
 | [Thrills](https://open.spotify.com/track/45BjJ17XA2U5aMdLqXVCGZ) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [No Way to Treat an Animal](https://open.spotify.com/album/2FtQR5hIMjX6jHdboNI721) | 3:29 | 2023-01-08 |  |
 | [Through My Teeth](https://open.spotify.com/track/1HPjqA8j8yVb4DoqD7dJpx) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Through My Teeth](https://open.spotify.com/album/4x7Jd8pLbRyJdhuIrlhnBZ) | 3:25 | 2025-04-08 |  |
 | [Through My Teeth](https://open.spotify.com/track/3nmeo61cAnkuN6xmnsh8D7) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [If That Makes Sense](https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn) | 3:25 | 2025-05-09 |  |
@@ -312,6 +322,7 @@
 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 | 2022-12-27 |  |
 | [Til The Morning](https://open.spotify.com/track/6WqZzEA3Q24gnhQxHYX3Dg) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/7IoPY9MnsHUoG5Emfp3R6q) | 3:32 | 2024-09-15 |  |
 | [tiny things](https://open.spotify.com/track/68jZByx2c1UWtRyIX7gpN7) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [tiny things](https://open.spotify.com/album/3bKudQjY5CKr4OQaRCkJpB) | 2:30 | 2024-08-20 |  |
+| [Tobeloved](https://open.spotify.com/track/7cSLD89y304ZvX4mVhYVfw) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 4:05 | 2025-11-06 |  |
 | [Tombstone](https://open.spotify.com/track/0E4ioSPXXQIy46ZcklqHpR) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Tombstone](https://open.spotify.com/album/0eU5eT0Zn6WdHuwfHyK5fp) | 4:01 | 2022-12-27 |  |
 | [torn jeans](https://open.spotify.com/track/5YR1LE4OoPHmlKzUvI089a) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf) | 3:22 | 2025-08-25 |  |
 | [Touch Back Down](https://open.spotify.com/track/0CSu1cnY1HmvkCFqsChtEd) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Low Altitude Living](https://open.spotify.com/album/4liDg8UR2VK9etnZmhHEXG) | 4:15 | 2022-12-29 |  |
@@ -350,6 +361,7 @@
 | [Write A List of Things To Look Forward To](https://open.spotify.com/track/5MI8umTu0luQ4wQPm87adK) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 2:48 | 2023-01-06 |  |
 | [Yellow Mellow](https://open.spotify.com/track/37PW5zbkDIya8arHEHEo6q) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Yellow Mellow EP](https://open.spotify.com/album/2sITa9oyQTzBNmtvl5zIKE) | 3:45 | 2022-12-27 |  |
 | [Yet](https://open.spotify.com/track/65za8SQlRiA88BxZ6Oec4B) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody](https://open.spotify.com/album/1NDvZ5ehnQvrTg8ILwGwsg) | 3:25 | 2022-12-27 |  |
+| [Yougotmefeeling](https://open.spotify.com/track/1eGYO1RzVRdphhWT86DSr9) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:03 | 2025-11-06 |  |
 | [Young](https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Vibes](https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C) | 3:09 | 2023-01-06 |  |
 | [Yourfault](https://open.spotify.com/track/6jhdjIaErMtj2ymt0PufjG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 3:39 | 2024-08-03 |  |
 | [Yourfault \- from Hansa Studios, Berlin](https://open.spotify.com/track/2TeGrk8lm2DhSnAx63KAqv) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Live Vol\. 1](https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns) | 4:24 | 2024-08-05 |  |

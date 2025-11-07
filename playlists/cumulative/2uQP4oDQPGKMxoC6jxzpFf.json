@@ -10065,7 +10065,7 @@
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 200281,
+      "duration_ms": 200282,
       "name": "Cursed",
       "url": "https://open.spotify.com/track/4MlstlvEZVegz6fvYkCB61"
     },
@@ -19594,6 +19594,24 @@
       "duration_ms": 251986,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/0c6xIDDpzE81m2q797ordA"
+    },
+    {
+      "album": {
+        "name": "Sound Of A Woman",
+        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
+      },
+      "artists": [
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251986,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/51tUT1gHE30GQPhn1agudM"
     },
     {
       "album": {
@@ -35775,6 +35793,24 @@
     },
     {
       "album": {
+        "name": "Electric Light",
+        "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252906,
+      "name": "Pink Lemonade",
+      "url": "https://open.spotify.com/track/5nSDY75s6O6jA0K7J1EMYQ"
+    },
+    {
+      "album": {
         "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
       },
@@ -50745,6 +50781,24 @@
     },
     {
       "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253295,
+      "name": "Walking on Broken Glass",
+      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
+    },
+    {
+      "album": {
         "name": "Broken Glass, Vol. 1",
         "url": "https://open.spotify.com/album/3ajA1SGBwUrVIaqaUZBiR8"
       },
@@ -51805,6 +51859,24 @@
     },
     {
       "album": {
+        "name": "West End Girl",
+        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246293,
+      "name": "West End Girl",
+      "url": "https://open.spotify.com/track/6gafVG02AvcZou1oz7titv"
+    },
+    {
+      "album": {
         "name": "Discography - Complete Singles Collection",
         "url": "https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy"
       },
@@ -52146,6 +52218,42 @@
       "duration_ms": 183786,
       "name": "What You Need (feat. Charlotte Day Wilson)",
       "url": "https://open.spotify.com/track/0lWmT9NbSJRgFY6g1GHu4e"
+    },
+    {
+      "album": {
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286493,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
+    },
+    {
+      "album": {
+        "name": "Devotion - The Gold Edition (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4g6eC6k3MUgz0Yy0op86Z5"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244420,
+      "name": "What You Won't Do For Love",
+      "url": "https://open.spotify.com/track/7FbS2TMmzyxEeiRsykzq0e"
     },
     {
       "album": {

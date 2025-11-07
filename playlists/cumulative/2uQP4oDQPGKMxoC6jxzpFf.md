@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,941 songs - 7 day 15 hr 57 min
+2,947 songs - 7 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1058,6 +1058,7 @@
 | [Hide Your Love](https://open.spotify.com/track/0WP6Mfw109a5Mrr92SWb3I) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Night in the Park, Kiss in the Dark](https://open.spotify.com/album/2MAkOacwf7ipO9ywdL1IM7) | 3:22 | 2025-05-06 |  |
 | [Hide Your Love](https://open.spotify.com/track/4ZjYIYWwRYbYSGtIqBddnF) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Hide Your Love](https://open.spotify.com/album/7LRmsyHaUCQslgFxDnnrD0) | 3:22 | 2024-12-12 |  |
 | [Hideaway](https://open.spotify.com/track/0c6xIDDpzE81m2q797ordA) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Sound Of A Woman](https://open.spotify.com/album/44Wg9gZPHK8MebSuBpq63k) | 4:11 | 2025-07-02 |  |
+| [Hideaway](https://open.spotify.com/track/51tUT1gHE30GQPhn1agudM) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Sound Of A Woman](https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr) | 4:11 | 2025-11-06 |  |
 | [High and Dry](https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:17 | 2025-03-03 |  |
 | [High And Dry \- Remastered](https://open.spotify.com/track/4PZEQo9X77uGUU6lg3fgSn) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic \(Remastered\)](https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3) | 4:54 | 2025-10-05 |  |
 | [High Ground](https://open.spotify.com/track/1o5j3WOJtAWBQaz3VMpD37) | [BAD CHILD](https://open.spotify.com/artist/7ayksoJ16I0E4Riftzvfaz) | [High Ground](https://open.spotify.com/album/2VeWyIFyf1VWIxZtsRKax9) | 2:27 | 2025-10-28 |  |
@@ -1925,6 +1926,7 @@
 | [Pigeons](https://open.spotify.com/track/1kWbGFavvuacXK0ETiTbov) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Crash](https://open.spotify.com/album/3U5bsoCn3V7p9b4VNKU6wQ) | 3:07 | 2025-03-05 |  |
 | [Pinball King](https://open.spotify.com/track/6Xpa6vuHtROIprUCTVKf7k) | [Terra Lightfoot](https://open.spotify.com/artist/2LnGGtWA0aGHKW0hRghrWq) | [New Mistakes](https://open.spotify.com/album/5aNfIafHDkGkAw78ky3GQk) | 3:19 | 2025-01-07 |  |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2025-02-23 |  |
+| [Pink Lemonade](https://open.spotify.com/track/5nSDY75s6O6jA0K7J1EMYQ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Electric Light](https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R) | 4:12 | 2025-11-06 |  |
 | [Pink Moon](https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 2:25 | 2025-03-15 |  |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2025-01-02 |  |
 | [Pitou](https://open.spotify.com/track/1Nagyi5mquIU038cAvfYLH) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [La nuit est une panthère](https://open.spotify.com/album/7eau0t375JHKnxK48tequj) | 3:16 | 2024-12-18 |  |
@@ -2724,6 +2726,7 @@
 | [Waiting On The World To Change](https://open.spotify.com/track/2DT4FA6QOsCO9tE3Id5kNc) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [TajMo](https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX) | 2:42 | 2024-11-27 |  |
 | [Walk On By](https://open.spotify.com/track/1jwKdqb7OindD204ocIryP) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Hot Buttered Soul](https://open.spotify.com/album/71rxIr6MJYUzDG9ge6Jq3J) | 12:00 | 2025-03-13 |  |
 | [Walking in My Shoes](https://open.spotify.com/track/2Y7ndoyiIm0IaFJa13gV3H) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Songs of Faith and Devotion \(Deluxe\)](https://open.spotify.com/album/6x7S6u9Cx2S0JD48nPsavE) | 5:26 | 2025-03-08 |  |
+| [Walking on Broken Glass](https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Diva](https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B) | 4:13 | 2025-11-06 |  |
 | [Walking on Broken Glass](https://open.spotify.com/track/0ZCs6DZnq2GifODJZsUZXV) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV), [Goodwerks](https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM) | [Broken Glass, Vol\. 1](https://open.spotify.com/album/3ajA1SGBwUrVIaqaUZBiR8) | 3:35 | 2025-06-21 |  |
 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 | 2025-07-03 |  |
 | [Walking with a Ghost](https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 2:30 | 2025-01-11 |  |
@@ -2780,6 +2783,7 @@
 | [Weighty Ghost](https://open.spotify.com/track/1kVEX9FBvKC8531ALTrNfl) | [Wintersleep](https://open.spotify.com/artist/1VrpL9mx2a6WRolLh7mHrE) | [Welcome To The Night Sky](https://open.spotify.com/album/0vz1SlNzlwZ4Qyes30dXFL) | 3:38 | 2025-01-04 |  |
 | [Weird Fishes](https://open.spotify.com/track/0pBPm7QxjaC46nlqQ4YNt8) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Weird Fishes](https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv) | 5:54 | 2025-02-05 |  |
 | [WELTiTA](https://open.spotify.com/track/5WEF0icHWmAZBBMglBd599) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:07 | 2025-10-16 |  |
+| [West End Girl](https://open.spotify.com/track/6gafVG02AvcZou1oz7titv) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 4:06 | 2025-11-06 |  |
 | [West End Girls](https://open.spotify.com/track/5Dqik1P9toCJTLj5rEm78s) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Discography \- Complete Singles Collection](https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy) | 4:01 | 2025-04-17 |  |
 | [Western Wind](https://open.spotify.com/track/0pvaSNIZx5mtLsBKLNTRNq) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time \(Clean\)](https://open.spotify.com/album/2eb73Cr0MZ4c8Vyb0e9w8N) | 3:45 | 2025-05-03 |  |
 | [What "U" Waitin' "4"?](https://open.spotify.com/track/0ehXKX6msltAmBw8Zxwtbe) | [Jungle Brothers](https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj) | [Done By The Forces Of Nature](https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V) | 4:04 | 2024-12-05 |  |
@@ -2798,6 +2802,8 @@
 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-05-07 |  |
 | [What Was That](https://open.spotify.com/track/7hGCCQkdyF1MX6uk339uBS) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:29 | 2025-07-14 |  |
 | [What You Need \(feat\. Charlotte Day Wilson\)](https://open.spotify.com/track/0lWmT9NbSJRgFY6g1GHu4e) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [BUBBA](https://open.spotify.com/album/73cx7CQjHEROjjzUGP3UpQ) | 3:03 | 2025-01-20 |  |
+| [What You Won't Do for Love](https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [What You Won't Do for Love](https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2) | 4:46 | 2025-11-06 |  |
+| [What You Won't Do For Love](https://open.spotify.com/track/7FbS2TMmzyxEeiRsykzq0e) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Devotion \- The Gold Edition \(Deluxe Version\)](https://open.spotify.com/album/4g6eC6k3MUgz0Yy0op86Z5) | 4:04 | 2025-11-06 |  |
 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 | 2024-11-28 |  |
 | [What's Going On \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:35 | 2025-02-05 |  |
 | [What...?](https://open.spotify.com/track/2zkp8sFTnlN7xBrxnG5PA6) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 2:26 | 2024-11-21 |  |
