@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,947 songs - 7 day 16 hr 22 min
+2,949 songs - 7 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Ain't No Sunshine](https://open.spotify.com/track/4QePcFLP4adPyd4bg2dx0T) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [Ladysmith Black Mambazo & Friends](https://open.spotify.com/album/3LEnx2iNd4AzOUuvZ0LyNG) | 3:47 | 2025-02-09 |  |
 | [Ain't Nothing Goin' On But the Rent](https://open.spotify.com/track/3MsCusFUpTvTKLQ1AcgTtO) | [Gwen Guthrie Tribute Band](https://open.spotify.com/artist/6cq7l4qmFDdhOZLJS9A3jc) | [World's Greatest 80's Disco \- The Only 80's Disco Album You'll Ever Need](https://open.spotify.com/album/0Xnmjdz1dZKdQ9cT9tAI6k) | 3:33 | 2025-01-02 |  |
 | [Airplanes](https://open.spotify.com/track/62ZyZBJDJmvwBjKOFvAaDt) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Airplanes / Caribou](https://open.spotify.com/album/6F0h2APKV6LqwUYgJ3MrjS) | 4:36 | 2025-05-27 |  |
+| [Airport](https://open.spotify.com/track/3vKmQHFEAo4lOHePyq03eQ) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Airport & Only the Truth](https://open.spotify.com/album/1fdgTSKopXNYrLKMWeUX8r) | 3:32 | 2025-11-07 |  |
 | [Alibi](https://open.spotify.com/track/1hS3RXEQbXtWgYpot2Ay07) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy) | 2:48 | 2025-05-11 |  |
 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 | 2025-02-08 |  |
 | [All Cylinders](https://open.spotify.com/track/0BS6vPGMgofeUMgJe2EpdK) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders](https://open.spotify.com/album/1ls9QyYWFw9Y35jThBvGKa) | 3:28 | 2025-09-22 |  |
@@ -1751,6 +1752,7 @@
 | [Nighthawks](https://open.spotify.com/track/3VGFQIgw8EZpjpuqcmRSc5) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [Panther in the Dollhouse](https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn) | 3:23 | 2025-03-31 |  |
 | [Nights In December](https://open.spotify.com/track/4gzI4ztYkEmfKeAbtfwoOw) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Nights In December](https://open.spotify.com/album/0SBe1du5GRDFDiX8tmyzRk) | 3:36 | 2024-12-02 |  |
 | [No Control](https://open.spotify.com/track/1EW898Iyk89JCycAS789kG) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Are You in Love?](https://open.spotify.com/album/239IOiFGedlaYhS4iVsQgj) | 3:58 | 2024-11-24 |  |
+| [No Damn Fears](https://open.spotify.com/track/63wu8tCkgGNthwVSCL4JMP) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [No Damn Fears](https://open.spotify.com/album/3dOnUiclom9Lj3A4fsShRf) | 4:21 | 2025-11-07 |  |
 | [No Diggity](https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [Another Level](https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi) | 5:04 | 2025-06-18 |  |
 | [No Goodbyes](https://open.spotify.com/track/5E7WSEcWIFoo5lbdQBw9hX) | [Semiah](https://open.spotify.com/artist/3A49ypDX1xiexcxLr4tY1I) | [After the Night Ends](https://open.spotify.com/album/0TkqR0BprDV509mCbhoz4J) | 3:38 | 2024-11-30 |  |
 | [No Hurry](https://open.spotify.com/track/2aOKYYWb44KqWdaHrkcNXM) | [Terra Lightfoot](https://open.spotify.com/artist/2LnGGtWA0aGHKW0hRghrWq) | [Every Time My Mind Runs Wild](https://open.spotify.com/album/2TioZ89cmLNsgoZ9Z1IFgS) | 3:31 | 2025-01-18 |  |

@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241783,
+      "name": "Afterthought",
+      "url": "https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5"
+    },
+    {
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/4K87pAxpT0qowwEuEBOelo"
       },
@@ -716,6 +734,24 @@
       "duration_ms": 180731,
       "name": "Armani Section",
       "url": "https://open.spotify.com/track/7pgwaq8Kcrjaefu8sMHqvO"
+    },
+    {
+      "album": {
+        "name": "Around For Days",
+        "url": "https://open.spotify.com/album/5aG81FEJlLzixseYPulMKi"
+      },
+      "artists": [
+        {
+          "name": "Michi",
+          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166212,
+      "name": "Around For Days",
+      "url": "https://open.spotify.com/track/63F9BEXDoamp98cK7tllNo"
     },
     {
       "album": {
@@ -4569,6 +4605,24 @@
     },
     {
       "album": {
+        "name": "If You Want Me / I Just Don't Want You",
+        "url": "https://open.spotify.com/album/4vCwjbissrRSenYWDRMJOm"
+      },
+      "artists": [
+        {
+          "name": "The Womack Sisters",
+          "url": "https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186389,
+      "name": "If You Want Me",
+      "url": "https://open.spotify.com/track/7jY1fynjJEtkiSpMkQSk2P"
+    },
+    {
+      "album": {
         "name": "Hallucinating Love",
         "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
       },
@@ -4695,6 +4749,24 @@
     },
     {
       "album": {
+        "name": "In The City",
+        "url": "https://open.spotify.com/album/0IPR1Bmg15FsnBtZ0BNFA5"
+      },
+      "artists": [
+        {
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433146,
+      "name": "In The City",
+      "url": "https://open.spotify.com/track/0o6xNkQZVcfPP22gC0ON7w"
+    },
+    {
+      "album": {
         "name": "Friends & Family",
         "url": "https://open.spotify.com/album/1nUIe59HS9voX4GS2W77tX"
       },
@@ -4754,6 +4826,24 @@
       "duration_ms": 458992,
       "name": "Innocent Money - Lovefingers Remix",
       "url": "https://open.spotify.com/track/7La1dVE9H8bnSsM19GHp8P"
+    },
+    {
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/3AKbeXvey1HmmyYEcWZRqq"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165388,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt"
     },
     {
       "album": {
@@ -5097,6 +5187,24 @@
     },
     {
       "album": {
+        "name": "hooke\u2019s law",
+        "url": "https://open.spotify.com/album/2sTsH9vYQhIi60IYjE3hJp"
+      },
+      "artists": [
+        {
+          "name": "keiyaA",
+          "url": "https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80222,
+      "name": "k.i.s.s.",
+      "url": "https://open.spotify.com/track/7l4mLWJSXcRuRUmy5aURep"
+    },
+    {
+      "album": {
         "name": "Kaymak",
         "url": "https://open.spotify.com/album/7cEKpp5ckM81pNThQdSyin"
       },
@@ -5142,6 +5250,28 @@
       "duration_ms": 316493,
       "name": "KeepHer (feat. Thundercat) (Knxwledge Remix)",
       "url": "https://open.spotify.com/track/3JfrAySr3ZP46p0bB5caf2"
+    },
+    {
+      "album": {
+        "name": "Kimchi",
+        "url": "https://open.spotify.com/album/2E2sbUX9NEjgBiY6xEQhEl"
+      },
+      "artists": [
+        {
+          "name": "Pan Amsterdam",
+          "url": "https://open.spotify.com/artist/7KPqrVAWjUBAtn8tiZayOE"
+        },
+        {
+          "name": "Guts",
+          "url": "https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169232,
+      "name": "Kimchi",
+      "url": "https://open.spotify.com/track/6YCe6kD9xf6Bp6LBdz40Fb"
     },
     {
       "album": {
@@ -7681,6 +7811,24 @@
     },
     {
       "album": {
+        "name": "Backyard Galaxy",
+        "url": "https://open.spotify.com/album/6zLqGy5WHyDfSbalXD92gL"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384900,
+      "name": "Rhythm Baby",
+      "url": "https://open.spotify.com/track/6fBlhiRqwnmwkRdzOkvmKs"
+    },
+    {
+      "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
       },
@@ -7888,6 +8036,24 @@
       "duration_ms": 236533,
       "name": "Routine",
       "url": "https://open.spotify.com/track/4rLazozVgJ9Sj2WoAM68ca"
+    },
+    {
+      "album": {
+        "name": "All Systems Are Lying / Run Free",
+        "url": "https://open.spotify.com/album/2PvfvL5KzRnuo7AD4hpd3t"
+      },
+      "artists": [
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280040,
+      "name": "Run Free",
+      "url": "https://open.spotify.com/track/6FpGarU82UbiZXyI7Dyh6M"
     },
     {
       "album": {
@@ -8875,6 +9041,24 @@
     },
     {
       "album": {
+        "name": "To Whom It May Concern",
+        "url": "https://open.spotify.com/album/6ASYQrrbSf56Wi6uoPejAz"
+      },
+      "artists": [
+        {
+          "name": "Freestyle Fellowship",
+          "url": "https://open.spotify.com/artist/0IXabnQgJf7eO1hIF71YS9"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273841,
+      "name": "Sunshine Men",
+      "url": "https://open.spotify.com/track/5tvj6qRTey3pA3yISWQiFZ"
+    },
+    {
+      "album": {
         "name": "Supermagnet",
         "url": "https://open.spotify.com/album/7auztruEk6HYbKfco22SFq"
       },
@@ -9064,6 +9248,24 @@
       "duration_ms": 176163,
       "name": "Tagw",
       "url": "https://open.spotify.com/track/6EcEfLQE5K6XJzokNLZfQV"
+    },
+    {
+      "album": {
+        "name": "Late Again",
+        "url": "https://open.spotify.com/album/6qU9OQbVjw7HwhMFRYLirB"
+      },
+      "artists": [
+        {
+          "name": "Sven Wunder",
+          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179440,
+      "name": "Take A Break",
+      "url": "https://open.spotify.com/track/0a3OncBmvyH15J54mxPgpz"
     },
     {
       "album": {
@@ -9407,6 +9609,32 @@
     },
     {
       "album": {
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/7qFDSLH4Pa8nb8wc4LJIdn"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        },
+        {
+          "name": "Gwendoline Christie",
+          "url": "https://open.spotify.com/artist/5IVTpZihpMnl50YeAvZ9RS"
+        },
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180553,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/0t0WWWHYPt2wD6OAHy4Vvo"
+    },
+    {
+      "album": {
         "name": "The Happy Dictator (feat. Sparks)",
         "url": "https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF"
       },
@@ -9573,6 +9801,24 @@
     },
     {
       "album": {
+        "name": "Departures & Arrivals: Adventures of Captain Curt",
+        "url": "https://open.spotify.com/album/6kslXkHCr5rcOpf07Ss37k"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221333,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/4difawHT7Gzi9q7l9qUcZi"
+    },
+    {
+      "album": {
         "name": "Human After All",
         "url": "https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu"
       },
@@ -9588,6 +9834,24 @@
       "duration_ms": 263240,
       "name": "The Prime Time of Your Life",
       "url": "https://open.spotify.com/track/0UZRFYMoz9xmeE2AQUhTDl"
+    },
+    {
+      "album": {
+        "name": "The Right Track",
+        "url": "https://open.spotify.com/album/038P5k59aUgyXgncKLR2Yl"
+      },
+      "artists": [
+        {
+          "name": "The Emkays",
+          "url": "https://open.spotify.com/artist/44lk4zUo0wqAIq30ylogoy"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152706,
+      "name": "The Right Track",
+      "url": "https://open.spotify.com/track/7rSm6b5HcJGky2LnJgCpwN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1FkWMWqVe36nz1AjaHHBoe.md) - [plain]
 
 > 
 
-[Wager](https://open.spotify.com/user/rhi3jmopik5mvpfg2jq6uthh6) - 1,804 likes - 179 songs - 12 hr 16 min
+[Wager](https://open.spotify.com/user/rhi3jmopik5mvpfg2jq6uthh6) - 1,806 likes - 179 songs - 12 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

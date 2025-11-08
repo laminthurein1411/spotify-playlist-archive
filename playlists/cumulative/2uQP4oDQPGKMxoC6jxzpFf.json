@@ -1519,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "Airport & Only the Truth",
+        "url": "https://open.spotify.com/album/1fdgTSKopXNYrLKMWeUX8r"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212430,
+      "name": "Airport",
+      "url": "https://open.spotify.com/track/3vKmQHFEAo4lOHePyq03eQ"
+    },
+    {
+      "album": {
         "name": "The Past Is Still Alive",
         "url": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy"
       },
@@ -8691,7 +8709,7 @@
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 195760,
+      "duration_ms": 195763,
       "name": "Circles Around This Town",
       "url": "https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN"
     },
@@ -32480,6 +32498,24 @@
       "duration_ms": 238986,
       "name": "No Control",
       "url": "https://open.spotify.com/track/1EW898Iyk89JCycAS789kG"
+    },
+    {
+      "album": {
+        "name": "No Damn Fears",
+        "url": "https://open.spotify.com/album/3dOnUiclom9Lj3A4fsShRf"
+      },
+      "artists": [
+        {
+          "name": "Sloan",
+          "url": "https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261859,
+      "name": "No Damn Fears",
+      "url": "https://open.spotify.com/track/63wu8tCkgGNthwVSCL4JMP"
     },
     {
       "album": {
