@@ -1573,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "Affection (Deluxe)",
+        "url": "https://open.spotify.com/album/3jYzTXPBPBeJ0dyzDZAS5g"
+      },
+      "artists": [
+        {
+          "name": "Lisa Stansfield",
+          "url": "https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268293,
+      "name": "All Around the World",
+      "url": "https://open.spotify.com/track/0piPn2zyL4Yi60ml53qNXE"
+    },
+    {
+      "album": {
         "name": "All Cylinders",
         "url": "https://open.spotify.com/album/1ls9QyYWFw9Y35jThBvGKa"
       },
@@ -31865,6 +31883,24 @@
     },
     {
       "album": {
+        "name": "Homebody (The Red Version)",
+        "url": "https://open.spotify.com/album/29R7ZwF8KLauyYYeExnVHx"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172293,
+      "name": "Never Be Without Love",
+      "url": "https://open.spotify.com/track/4Z2cZ9KlAzURjf9r5lay9Y"
+    },
+    {
+      "album": {
         "name": "Never Be Without Love",
         "url": "https://open.spotify.com/album/0BCZ4HqL2CZN58qa2w8mxx"
       },
@@ -37332,6 +37368,24 @@
       "duration_ms": 203877,
       "name": "Red",
       "url": "https://open.spotify.com/track/5S9dPgnMIKPCiPZpykzxxG"
+    },
+    {
+      "album": {
+        "name": "Maybe It's Me",
+        "url": "https://open.spotify.com/album/7y23Xmk4INXgFVUZT3ZXo0"
+      },
+      "artists": [
+        {
+          "name": "Treble Charger",
+          "url": "https://open.spotify.com/artist/24DYOmDNLWoZxLh1SbNpSY"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281506,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/4edSlLlGTbanPZUaKa3mXX"
     },
     {
       "album": {

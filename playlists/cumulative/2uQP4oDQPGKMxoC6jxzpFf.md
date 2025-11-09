@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,949 songs - 7 day 16 hr 30 min
+2,952 songs - 7 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Airport](https://open.spotify.com/track/3vKmQHFEAo4lOHePyq03eQ) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Airport & Only the Truth](https://open.spotify.com/album/1fdgTSKopXNYrLKMWeUX8r) | 3:32 | 2025-11-07 |  |
 | [Alibi](https://open.spotify.com/track/1hS3RXEQbXtWgYpot2Ay07) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy) | 2:48 | 2025-05-11 |  |
 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 | 2025-02-08 |  |
+| [All Around the World](https://open.spotify.com/track/0piPn2zyL4Yi60ml53qNXE) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1) | [Affection \(Deluxe\)](https://open.spotify.com/album/3jYzTXPBPBeJ0dyzDZAS5g) | 4:28 | 2025-11-08 |  |
 | [All Cylinders](https://open.spotify.com/track/0BS6vPGMgofeUMgJe2EpdK) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders](https://open.spotify.com/album/1ls9QyYWFw9Y35jThBvGKa) | 3:28 | 2025-09-22 |  |
 | [All for Nothing](https://open.spotify.com/track/4eOydYjbFRCfFZ8jxtwrQX) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [All for Nothing](https://open.spotify.com/album/0kWI8zbuMg3aNL7p6ceWJ7) | 3:23 | 2024-11-21 |  |
 | [All For You](https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [All For You](https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9) | 5:29 | 2024-12-28 |  |
@@ -1718,6 +1719,7 @@
 | [Neon Signs](https://open.spotify.com/track/2HgWT80qPCO6i2t3A8Xaku) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Neon Signs](https://open.spotify.com/album/4n7ZCE5iVNosvnh0WHsrWx) | 5:07 | 2024-11-21 |  |
 | [Neon Signs](https://open.spotify.com/track/2iMao6uEOB4JDPDfYmVHrl) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Humanhood](https://open.spotify.com/album/7qWfaw5cGD6TBkfFFoKW5N) | 5:07 | 2025-03-19 |  |
 | [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 | 2024-11-27 |  |
+| [Never Be Without Love](https://open.spotify.com/track/4Z2cZ9KlAzURjf9r5lay9Y) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Homebody \(The Red Version\)](https://open.spotify.com/album/29R7ZwF8KLauyYYeExnVHx) | 2:52 | 2025-11-08 |  |
 | [Never Be Without Love](https://open.spotify.com/track/6MkxIJbhsXIiL1maMJFZHm) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Never Be Without Love](https://open.spotify.com/album/0BCZ4HqL2CZN58qa2w8mxx) | 2:52 | 2025-09-04 |  |
 | [Never Fail](https://open.spotify.com/track/2PZCiAmLY7UO9qnVd8tIvO) | [Jah'Mila](https://open.spotify.com/artist/4jV1TM9uYCekcZ8PPlCj39) | [Woman of the Sun](https://open.spotify.com/album/1aackkmMfs9NjBCvsfUJTh) | 4:44 | 2025-07-02 |  |
 | [Never Get Enough](https://open.spotify.com/track/1v20BOUbOcMGKujbMQj3Li) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Never Get Enough](https://open.spotify.com/album/4AtPTZNc6lEMelJJEsGvMD) | 4:20 | 2024-12-10 |  |
@@ -2007,6 +2009,7 @@
 | [Rebirth Of Slick \(Cool Like Dat\)](https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Reachin' \(A New Refutation Of Time And Space\)](https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP) | 4:21 | 2025-04-14 |  |
 | [Reckoner](https://open.spotify.com/track/02ppMPbg1OtEdHgoPqoqju) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 4:50 | 2025-10-04 |  |
 | [Red](https://open.spotify.com/track/5S9dPgnMIKPCiPZpykzxxG) | [Terra Lightfoot](https://open.spotify.com/artist/2LnGGtWA0aGHKW0hRghrWq), [Bill Priddle](https://open.spotify.com/artist/5ueP5LUFv7cPYCq3XVkArR) | [Red](https://open.spotify.com/album/3KJTv25aLI2zAAUVPKoBjc) | 3:23 | 2025-09-17 |  |
+| [Red](https://open.spotify.com/track/4edSlLlGTbanPZUaKa3mXX) | [Treble Charger](https://open.spotify.com/artist/24DYOmDNLWoZxLh1SbNpSY) | [Maybe It's Me](https://open.spotify.com/album/7y23Xmk4INXgFVUZT3ZXo0) | 4:41 | 2025-11-08 |  |
 | [RED FUTURE \(feat\. Electric Fields\)](https://open.spotify.com/track/2p1UpmRJBVHek5DKL0tbQa) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [RED FUTURE](https://open.spotify.com/album/7445IRz5iyAR4DLwkZJD5a) | 3:08 | 2025-04-10 |  |
 | [RED FUTURE \(feat\. Electric Fields\)](https://open.spotify.com/track/7nvnmUYiJYbHgGL0MDH7G0) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [RED FUTURE \(feat\. Electric Fields\)](https://open.spotify.com/album/13zIKYYrCqLwiuphkkgII9) | 3:08 | 2024-12-02 |  |
 | [Redbone](https://open.spotify.com/track/3vQ4T78TTMOjQXGfXVKQJo) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4JCybsNZUXWrK2Jpyn12Ni) | 5:26 | 2025-02-11 |  |
