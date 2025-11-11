@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 
 ### [big mix](https://open.spotify.com/playlist/7ojHfeLSzqGrNwx6MUwIS7)
 
-> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-11\-06 07:16:05.837570
+> Songs from abr\. Updated by potchin&\#x2F;absolutespotify on 2025\-11\-10 07:16:37.282383
 
-[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,258 songs - 17 day 4 hr 22 min
+[jeffers\_uk](https://open.spotify.com/user/jeffers_uk) - 1 like - 6,279 songs - 17 day 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -6266,5 +6266,26 @@ pretty - [cumulative](/playlists/cumulative/7ojHfeLSzqGrNwx6MUwIS7.md) - [plain]
 | 6256 | [Everybody Scream](https://open.spotify.com/track/7tMF8Anyf7oIqQZSxE17do) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 4:04 |
 | 6257 | [A Kind Of Magic \- Remastered 2011](https://open.spotify.com/track/7g6hAuTCUIyC60CDVqIcY2) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II \(Remastered\)](https://open.spotify.com/album/1uG9cIT7IRuq9NqFvKFUsI) | 4:22 |
 | 6258 | [Stacy's Mom](https://open.spotify.com/track/3iDYVno09G6stYZ03KjzgN) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Skateboard & Skating Vibes](https://open.spotify.com/album/2K40eAlu5DdZeKmGvMIsvu) | 3:19 |
+| 6259 | [Hæð í húsi](https://open.spotify.com/track/51X8byWkRcDGPRMzodWkzG) | [200.000 naglbítar](https://open.spotify.com/artist/3x0afbPtBvjqaKUR7NQQOG) | [Neóndýrin](https://open.spotify.com/album/0kY9N3leR10IBzuxaLVa1f) | 3:26 |
+| 6260 | [Wall of Glass](https://open.spotify.com/track/3eqhMltljpvMkVNUbAHyQI) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Wall of Glass](https://open.spotify.com/album/0uoY7d6TJpVDWWKRA7dLAA) | 3:43 |
+| 6261 | [FOLD](https://open.spotify.com/track/4ozubWR5amfykjUcBjPj1O) | [Farewell Days](https://open.spotify.com/artist/3STq4NDUV6i4LCl61NpvXw) | [FOLD](https://open.spotify.com/album/1qHBnTNQv5xs7iK2A5EuQB) | 5:11 |
+| 6262 | [Cinque Dita](https://open.spotify.com/track/4cXazKchh3yBhqUYeBuiN9) | [Origami](https://open.spotify.com/artist/2z0MB92U117RLN71TMPolD) | [Il Gioco Delle Tre Carte](https://open.spotify.com/album/6w6f1vXCdPiO9VBVUhvsJN) | 3:32 |
+| 6263 | [Marty e Marco](https://open.spotify.com/track/0umiBslW07PYXwre3BPtkY) | [pianura](https://open.spotify.com/artist/0cOIqH4yt6byMJXKlTlTee) | [Sonic Pianura](https://open.spotify.com/album/4fPp4HiEVKLREVVUawIrIc) | 2:53 |
+| 6264 | [Minority](https://open.spotify.com/track/0ecA7bhTRuquuy7uSh0CXZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [International Superhits!](https://open.spotify.com/album/6HUIbDhzmqcwxrxUfTuHdW) | 2:48 |
+| 6265 | [To Space](https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [EP \#2](https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8) | 3:53 |
+| 6266 | [Miss](https://open.spotify.com/track/7vBOMoBKb6InbMdQiFwRCO) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Miss](https://open.spotify.com/album/1FzOkO7pp3y2Q8BXffpLsb) | 3:37 |
+| 6267 | [monalisa, we miss you//](https://open.spotify.com/track/2MFtNJEL5yexgzMT3wAXOU) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [conditions of an orphan//](https://open.spotify.com/album/3zxmqudfcPr7f5Fk066Fid) | 3:38 |
+| 6268 | [Hot Legs](https://open.spotify.com/track/5x9Xt6fC1VzNdmNbTCOdzZ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Ultimate Hits](https://open.spotify.com/album/1ev6RPZtpdi6bCTEMdQhVh) | 5:15 |
+| 6269 | [Strange Fruit](https://open.spotify.com/track/2eKwjJkBUaeaGq5GA1wTwc) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 3:28 |
+| 6270 | [We Didn't Start the Fire](https://open.spotify.com/track/38bDGWuyYdSdNfrFfbCiVS) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 4:48 |
+| 6271 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/40A4eR3xf3ybS0GTemQZSd) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Youthquake](https://open.spotify.com/album/2unDXVVmIQAcSY5bCEL8nU) | 3:19 |
+| 6272 | [Dance, Dance](https://open.spotify.com/track/1fFMtdpipgBC3sixLNZGkt) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree \(20th Anniversary Deluxe\)](https://open.spotify.com/album/3mcEMwTAA2eJUDsUgsdCbc) | 3:00 |
+| 6273 | [Ruthless](https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 4:07 |
+| 6274 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
+| 6275 | [Koya](https://open.spotify.com/track/6GMUwFCOUn5DxXPpxpE9LG) | [The Maccabees](https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB) | [Koya](https://open.spotify.com/album/0XjWU0ZXEr2sVK33LUSpFy) | 5:17 |
+| 6276 | [Fireworks](https://open.spotify.com/track/6N7vV9dPvhL4ZO8Ohn5Gna) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Dreams](https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf) | 3:12 |
+| 6277 | [Gloria: In Excelsis Deo](https://open.spotify.com/track/0MaaCJ3Cn2Jt3qe1d5VPPA) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(50th Anniversary\)](https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm) | 5:55 |
+| 6278 | [Deeper And Deeper](https://open.spotify.com/track/1uu9i2GYUDxSpOwzdv4zsu) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [We Are Love](https://open.spotify.com/album/6NfDKhBNBIMR1HeStDZqs7) | 3:59 |
+| 6279 | [You Can Have It All](https://open.spotify.com/track/3ZIXPNe0ZsLdUXlIHGNAdx) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 3:59 |
 
-Snapshot ID: `AAAClewIwj/sb2KAM07YpRJp7DlOtboc`
+Snapshot ID: `AAACl/CV57j4NH3TkhBFDlLalIAD8Utw`
