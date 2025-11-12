@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ow5Ld6uEFhMTDrMsPKZTk.md) - [plain]
 
 > Whores for instruments
 
-[Maya Parker](https://open.spotify.com/user/mcp8498) - 591 likes - 357 songs - 22 hr 19 min
+[Maya Parker](https://open.spotify.com/user/mcp8498) - 592 likes - 357 songs - 22 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
