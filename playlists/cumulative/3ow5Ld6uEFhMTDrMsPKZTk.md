@@ -4,7 +4,7 @@
 
 > Whores for instruments
 
-357 songs - 22 hr 19 min
+358 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Domesticated Man](https://open.spotify.com/track/4EwwoytGW20H0z7jnkWard) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Learn to Exist](https://open.spotify.com/album/3DWhWfiW17a3UbKhdGCyyt) | 3:07 | 2022-12-27 |  |
 | [Double Espresso](https://open.spotify.com/track/2GefMW8nR2IoEhuZU9Neo6) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Double Espresso](https://open.spotify.com/album/12dgqT2wKdRfFKo4vanOS8) | 3:25 | 2022-12-29 |  |
 | [Double Vision](https://open.spotify.com/track/5k2RORXwvAZgZnCXfx7Zv0) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Low Altitude Living](https://open.spotify.com/album/4liDg8UR2VK9etnZmhHEXG) | 4:53 | 2023-01-21 |  |
+| [Drenched](https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Love Balloon](https://open.spotify.com/album/0yxuksgs4Ecu9U9UJLG8lm) | 4:11 | 2025-11-13 |  |
 | [Drinks and Cigars](https://open.spotify.com/track/0dnudcH7aqeuea7gJet9t4) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Low Altitude Living](https://open.spotify.com/album/4liDg8UR2VK9etnZmhHEXG) | 4:11 | 2023-08-07 |  |
 | [Egg Beater](https://open.spotify.com/track/3Blg6ZTHUJwPxP5CgUPvD8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Bar & Grill](https://open.spotify.com/album/3nY1adGXhrb5La2iZMpsJE) | 3:52 | 2025-03-03 |  |
 | [Electric Green Lambo](https://open.spotify.com/track/5cosFdrn8PBmz6eJpD00iq) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Electric Green Lambo](https://open.spotify.com/album/4nRdzHLndZ5zRaJvYDn1IM) | 2:35 | 2025-02-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ow5Ld6uEFhMTDrMsPKZTk.md) - [plain]
 
 > Whores for instruments
 
-[Maya Parker](https://open.spotify.com/user/mcp8498) - 593 likes - 357 songs - 22 hr 19 min
+[Maya Parker](https://open.spotify.com/user/mcp8498) - 594 likes - 358 songs - 22 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -365,5 +365,6 @@ pretty - [cumulative](/playlists/cumulative/3ow5Ld6uEFhMTDrMsPKZTk.md) - [plain]
 | 355 | [Thinkaboutit](https://open.spotify.com/track/7hiuxAwDEBlEil538YGffi) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 2:51 |
 | 356 | [Finallyover](https://open.spotify.com/track/1Ded9EOaAthYQVOs9MwtCp) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:11 |
 | 357 | [Iwanttobeyourlightagain](https://open.spotify.com/track/4LpNkTXEHMktM6cj6DV12i) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 5:02 |
+| 358 | [Drenched](https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Love Balloon](https://open.spotify.com/album/0yxuksgs4Ecu9U9UJLG8lm) | 4:11 |
 
-Snapshot ID: `AAABnSlwOzY/3yAZw9vj35jp9DNXRmkw`
+Snapshot ID: `AAABnloLOO949OHKlScZn7KltlRoRpYb`

@@ -1,12 +1,12 @@
 {
   "description": "Whores for instruments ",
-  "num_followers": 593,
+  "num_followers": 594,
   "original_name": "Australian bands make the best music ",
   "owner": {
     "name": "Maya Parker",
     "url": "https://open.spotify.com/user/mcp8498"
   },
-  "snapshot_id": "AAABnSlwOzY/3yAZw9vj35jp9DNXRmkw",
+  "snapshot_id": "AAABnloLOO949OHKlScZn7KltlRoRpYb",
   "tracks": [
     {
       "added_at": "2022-12-27 13:24:49",
@@ -5735,6 +5735,22 @@
       "duration_ms": 302895,
       "name": "Iwanttobeyourlightagain",
       "url": "https://open.spotify.com/track/4LpNkTXEHMktM6cj6DV12i"
+    },
+    {
+      "added_at": "2025-11-13 22:44:15",
+      "album": {
+        "name": "Love Balloon",
+        "url": "https://open.spotify.com/album/0yxuksgs4Ecu9U9UJLG8lm"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 251880,
+      "name": "Drenched",
+      "url": "https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX"
     }
   ],
   "unique_name": "Australian bands make the best music ",
