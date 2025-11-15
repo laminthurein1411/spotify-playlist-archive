@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,977 songs - 7 day 18 hr 8 min
+2,980 songs - 7 day 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Astra](https://open.spotify.com/track/3mW56a3lOOIrq6EBolq3Ng) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Astra](https://open.spotify.com/album/6URu3zeYOlrVHeDmY1pPlf) | 3:37 | 2024-11-23 |  |
 | [Astral Ride \- Original Mix](https://open.spotify.com/track/6HSxboO2RnUoLp9mQVO3e5) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Astral Ride](https://open.spotify.com/album/4jXa0dhSmhSTmXzHrXU2PB) | 7:48 | 2024-11-22 |  |
 | [Astum \(ft\. Leanne Betasamosake Simpson\)](https://open.spotify.com/track/1dmuDCdB7jiuOKlUkxc5OS) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC), [Leanne Betasamosake Simpson](https://open.spotify.com/artist/6REprvUcVwBr69s8NfEQj4) | [Astum \(ft\. Leanne Betasamosake Simpson\)](https://open.spotify.com/album/7ykvzLEf3h2nxlzFAVOmYf) | 5:30 | 2025-01-26 |  |
+| [At The Same Time](https://open.spotify.com/track/5J4z19TT86JBYzO73B7N3T) | [Absolute Losers](https://open.spotify.com/artist/536OFtmA73Nu7vOIXaGwON) | [In The Crowd](https://open.spotify.com/album/1Hx50hQnzcOcZfUKKwI4pC) | 2:54 | 2025-11-14 |  |
 | [At The Same Time](https://open.spotify.com/track/6simTsYsg2SyXcpv4kaIEb) | [Absolute Losers](https://open.spotify.com/artist/536OFtmA73Nu7vOIXaGwON) | [At The Same Time](https://open.spotify.com/album/1CJUWS7p3P88tNGEg7bOd9) | 2:54 | 2025-09-04 |  |
 | [Athena](https://open.spotify.com/track/1FzfXpRRwJCy6zCZgEiYIk) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Athena](https://open.spotify.com/album/1TYPqgLnfLQHY3bOrGCiZg) | 3:13 | 2025-05-22 |  |
 | [Athena](https://open.spotify.com/track/1NdIXpAE5dlio13op4u7eU) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Beauty's Pride](https://open.spotify.com/album/3E17SnMfc5UA3ucGSjBT1U) | 3:13 | 2025-10-11 |  |
@@ -520,7 +521,7 @@
 | [condition of us](https://open.spotify.com/track/3eMXCmEnmQCvT7KrdT729j) | [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [XO SKELETON](https://open.spotify.com/album/4Uiq57boKVYu31j88BeLm9) | 4:18 | 2024-12-30 |  |
 | [Confetti](https://open.spotify.com/track/3idS1vTmHLXIdqovJV0YAN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/37EYSu5EaOgHhB7stzTkHn) | 3:03 | 2025-02-12 |  |
 | [Confusion Song](https://open.spotify.com/track/6EMpn1kcSUrwwBJMALxQN5) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/7i3h5FxsKCEFVvtKg2fZGs) | 2:41 | 2024-12-14 |  |
-| [Connected](https://open.spotify.com/track/1ZoE2naC9ySlPLdBZhS1rM) | [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8) | [Connected](https://open.spotify.com/album/3NRQnGdFznbXtP8u2O4VKB) | 5:13 | 2025-05-29 | 2025-07-16 |
+| [Connected](https://open.spotify.com/track/1ZoE2naC9ySlPLdBZhS1rM) | [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8) | [Connected](https://open.spotify.com/album/3NRQnGdFznbXtP8u2O4VKB) | 5:13 | 2025-05-29 |  |
 | [Connected](https://open.spotify.com/track/5t09SnxOR2AelOghumKkXO) | [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8) | [Connected](https://open.spotify.com/album/2IozNWNXp77fqFQOgzpLcw) | 5:14 | 2025-01-08 |  |
 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 | 2025-01-29 |  |
 | [Conqueror](https://open.spotify.com/track/37JCU4vvjMn0dfM18dYFPt) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/24CyXZHXgFPncdizaeTnSq) | 3:27 | 2025-01-27 |  |
@@ -792,7 +793,7 @@
 | [Fire and Rain](https://open.spotify.com/track/3IZPpwCWEj8uNaWQoNqZTE) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1RmWIBEicywaqVL5re4qbI) | 3:07 | 2025-06-29 |  |
 | [Fire and Rain](https://open.spotify.com/track/1XUKItaRs2494LclJwHhl8) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Greatest Hits](https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC) | 3:20 | 2024-11-21 |  |
 | [Firework](https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2025-05-06 |  |
-| [Fireworks](https://open.spotify.com/track/3qJImzh896FdKl5mJfpFaC) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 4:14 | 2025-05-26 |  |
+| [Fireworks](https://open.spotify.com/track/3qJImzh896FdKl5mJfpFaC) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 4:15 | 2025-05-26 |  |
 | [Fireworks](https://open.spotify.com/track/3lHpyOxyejGeE73kYKZJLs) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [The Sun](https://open.spotify.com/album/02CRRcqdMBr8GStxOh28xU) | 3:18 | 2025-01-19 |  |
 | [First Place](https://open.spotify.com/track/5Td5Y4mFerZdmgs2mmGw9A) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [First Place](https://open.spotify.com/album/4t8vZxmCJHeUWcaQlKtBK6) | 2:33 | 2024-12-22 |  |
 | [First Thing Smokin'](https://open.spotify.com/track/0rALhVKdan2uNBuz50bXtN) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [LOONY](https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy) | 3:43 | 2025-05-16 |  |
@@ -1331,6 +1332,7 @@
 | [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 | 2025-03-19 |  |
 | [It's My Life](https://open.spotify.com/track/05QjvTR451nno4NyhKmrSe) | [Allegories](https://open.spotify.com/artist/61bTkOisFXOWUZibTyZhgD) | [It's My Life](https://open.spotify.com/album/36XdQbKqUI1NNGPdcoWbp4) | 3:56 | 2025-05-02 |  |
 | [It's Oh So Quiet](https://open.spotify.com/track/0OMNQyneWmmZtTQpULYJcl) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:37 | 2025-06-06 |  |
+| [It's So Strange](https://open.spotify.com/track/5Jh4RRuFLFZWCFpokPkUVD) | [Jerry Leger](https://open.spotify.com/artist/3GtHH5i1nt9Bb3dr39l4ac) | [It's So Strange](https://open.spotify.com/album/21BF1P12UhhU9PlRZYrjBK) | 3:24 | 2025-11-14 |  |
 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/25vPkiryH1W0SPHLUdcMxB) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Miss Patti's Christmas](https://open.spotify.com/album/1aqIyE9ljoggPYx7u6JXl0) | 3:06 | 2024-12-20 |  |
 | [I’ll Be Home For Christmas](https://open.spotify.com/track/504nGhJlqAHhetXtDvAXI4) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [This Christmas With Glenn Lewis](https://open.spotify.com/album/6xMW1pbkF1sch0QbXersBD) | 3:54 | 2024-12-18 |  |
 | [J\-Boy](https://open.spotify.com/track/57tOzus76E38NNNkNp1lnq) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR) | 4:07 | 2025-02-18 |  |
@@ -2737,6 +2739,7 @@
 | [Vibrations](https://open.spotify.com/track/4xmJmpkbZhTMXfFtqFBCY4) | [Mick Davis & Thin Love](https://open.spotify.com/artist/5zvV1x0UoyivsEhIYo8vun) | [Garbage Street](https://open.spotify.com/album/3aF0zloKuU6wNX67U6YlEq) | 3:15 | 2024-12-19 |  |
 | [Victim](https://open.spotify.com/track/66gtnUDneW30UV5DptKEW7) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Sundry Rock Song Stock](https://open.spotify.com/album/1Yl8659iDQjjaHNyTNXR4b) | 4:42 | 2025-09-16 |  |
 | [Video Games](https://open.spotify.com/track/5ojgsoCVfOmwmHOWX9I9VT) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5), [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Here and Now \(Deluxe Edition\)](https://open.spotify.com/album/5U1SO7vSCl10H2zH7kDe0o) | 3:41 | 2025-08-12 |  |
+| [Video Games](https://open.spotify.com/track/24jvD83UgLmrdGjhWTFslY) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:41 | 2025-11-14 |  |
 | [Virtual Insanity](https://open.spotify.com/track/24SUWisv2lYQiB3bVpE1sn) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Pop Music: The Modern Era 1976\-1999](https://open.spotify.com/album/0Jh7XIEQrNQAXm7a6hbJ1h) | 3:47 | 2025-02-17 |  |
 | [Viscosity](https://open.spotify.com/track/1TEGV7gRlnbQ9enNeSbYg8) | [Leanne Betasamosake Simpson](https://open.spotify.com/artist/6REprvUcVwBr69s8NfEQj4) | [Theory of Ice](https://open.spotify.com/album/5mNIgEkN9LCFvLDO6r9rw1) | 4:27 | 2024-12-02 |  |
 | [Vision of Love](https://open.spotify.com/track/0gLQ6jhJsyYfl7PrD1RZ7X) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 3:29 | 2025-04-12 |  |

@@ -2839,6 +2839,24 @@
     },
     {
       "album": {
+        "name": "In The Crowd",
+        "url": "https://open.spotify.com/album/1Hx50hQnzcOcZfUKKwI4pC"
+      },
+      "artists": [
+        {
+          "name": "Absolute Losers",
+          "url": "https://open.spotify.com/artist/536OFtmA73Nu7vOIXaGwON"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174373,
+      "name": "At The Same Time",
+      "url": "https://open.spotify.com/track/5J4z19TT86JBYzO73B7N3T"
+    },
+    {
+      "album": {
         "name": "At The Same Time",
         "url": "https://open.spotify.com/album/1CJUWS7p3P88tNGEg7bOd9"
       },
@@ -9556,7 +9574,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 313000,
       "name": "Connected",
       "url": "https://open.spotify.com/track/1ZoE2naC9ySlPLdBZhS1rM"
@@ -14621,7 +14639,7 @@
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 254546,
+      "duration_ms": 255213,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/3qJImzh896FdKl5mJfpFaC"
     },
@@ -24672,6 +24690,24 @@
       "duration_ms": 217733,
       "name": "It's Oh So Quiet",
       "url": "https://open.spotify.com/track/0OMNQyneWmmZtTQpULYJcl"
+    },
+    {
+      "album": {
+        "name": "It's So Strange",
+        "url": "https://open.spotify.com/album/21BF1P12UhhU9PlRZYrjBK"
+      },
+      "artists": [
+        {
+          "name": "Jerry Leger",
+          "url": "https://open.spotify.com/artist/3GtHH5i1nt9Bb3dr39l4ac"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204923,
+      "name": "It's So Strange",
+      "url": "https://open.spotify.com/track/5Jh4RRuFLFZWCFpokPkUVD"
     },
     {
       "album": {
@@ -50984,6 +51020,24 @@
       "duration_ms": 221122,
       "name": "Video Games",
       "url": "https://open.spotify.com/track/5ojgsoCVfOmwmHOWX9I9VT"
+    },
+    {
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281960,
+      "name": "Video Games",
+      "url": "https://open.spotify.com/track/24jvD83UgLmrdGjhWTFslY"
     },
     {
       "album": {
