@@ -2437,6 +2437,24 @@
     },
     {
       "album": {
+        "name": "Forever Is A Feeling: The Archives",
+        "url": "https://open.spotify.com/album/2K91mmZiTrqVmt3ZRoosk6"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190648,
+      "name": "Ankles (demo)",
+      "url": "https://open.spotify.com/track/6oSz9Jxa1k6UNu5QtEe4Cq"
+    },
+    {
+      "album": {
         "name": "Anniversary",
         "url": "https://open.spotify.com/album/076ZsTO3oHNUUNVd6iXWin"
       },
@@ -9877,6 +9895,24 @@
     },
     {
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5xB1vlldYNgaPU9HGBmr4x"
+      },
+      "artists": [
+        {
+          "name": "The New Pornographers",
+          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246573,
+      "name": "Crash Years",
+      "url": "https://open.spotify.com/track/6prrKpR20mjb4rHiu9Oyew"
+    },
+    {
+      "album": {
         "name": "CRAZY",
         "url": "https://open.spotify.com/album/1UkmWpR2LjZq57qJGxMp81"
       },
@@ -10498,6 +10534,24 @@
       "duration_ms": 230400,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
+    },
+    {
+      "album": {
+        "name": "Disco Loadout (Volume 1)",
+        "url": "https://open.spotify.com/album/0UGRWKGadnvxN8vgQ4ynCh"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228120,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/4M7F4iSoMNcyOZUwpAsHsZ"
     },
     {
       "album": {
@@ -31030,6 +31084,24 @@
       "duration_ms": 189893,
       "name": "Moneygrabber",
       "url": "https://open.spotify.com/track/4PwwyZBEkHcm4OTJThCzXi"
+    },
+    {
+      "album": {
+        "name": "High Road Reverie",
+        "url": "https://open.spotify.com/album/0fvZtAXepoxeCJKsjThct8"
+      },
+      "artists": [
+        {
+          "name": "Pony Gold",
+          "url": "https://open.spotify.com/artist/5olZNeXkXEoJOM0B2cJTRm"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295659,
+      "name": "Montreal",
+      "url": "https://open.spotify.com/track/2ZtP34xboXogvczZIz4Rqa"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,987 songs - 7 day 18 hr 48 min
+2,991 songs - 7 day 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Ankles](https://open.spotify.com/track/1T53djSDubYgBOhvUBbqBo) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Talk](https://open.spotify.com/album/6kX0IaoVlOu3my3g9Zzi36) | 3:11 | 2025-03-15 | 2025-07-16 |
 | [Ankles](https://open.spotify.com/track/4VhbsGXRGDncpi79aiX8eE) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:11 | 2025-05-08 |  |
 | [Ankles](https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P) | 3:11 | 2025-02-05 |  |
+| [Ankles \(demo\)](https://open.spotify.com/track/6oSz9Jxa1k6UNu5QtEe4Cq) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling: The Archives](https://open.spotify.com/album/2K91mmZiTrqVmt3ZRoosk6) | 3:10 | 2025-11-16 |  |
 | [Anniversary](https://open.spotify.com/track/6nMb2r36d2nUbBgkvVYkWT) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Anniversary](https://open.spotify.com/album/076ZsTO3oHNUUNVd6iXWin) | 2:54 | 2025-02-11 |  |
 | [Another Is Waiting](https://open.spotify.com/track/5dFeNkfQT1l8XdEA990jxP) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Magpie And The Dandelion \(Deluxe\)](https://open.spotify.com/album/3vxPdhrgTuqqPArgXgEDdj) | 2:08 | 2024-12-19 |  |
 | [Another Life](https://open.spotify.com/track/3BpmezdTQq6L0pBpt3pq8c) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Another Life](https://open.spotify.com/album/3jUvrYB4Bh3Hw9liq8dbCi) | 4:37 | 2025-09-09 |  |
@@ -538,6 +539,7 @@
 | [Crabbuckit](https://open.spotify.com/track/5ONb0fTAqTygOmGfLHqi28) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Collected](https://open.spotify.com/album/6uNDNflKRjEjnEESQUQrXT) | 4:06 | 2025-02-07 |  |
 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD) | 3:33 | 2024-12-08 |  |
 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 | 2025-07-29 |  |
+| [Crash Years](https://open.spotify.com/track/6prrKpR20mjb4rHiu9Oyew) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Together](https://open.spotify.com/album/5xB1vlldYNgaPU9HGBmr4x) | 4:06 | 2025-11-16 |  |
 | [CRAZY](https://open.spotify.com/track/0GHYReBaUlcFXJKumjvdqT) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [CRAZY](https://open.spotify.com/album/1UkmWpR2LjZq57qJGxMp81) | 4:05 | 2025-10-11 |  |
 | [Crazy](https://open.spotify.com/track/6XrjVmlk0dxQxqUfw3LXzP) | [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [Critical Hit](https://open.spotify.com/album/1eJcCQWhDRYdT3wDyUZ1E1) | 3:56 | 2024-12-01 |  |
 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 2:43 | 2025-01-10 |  |
@@ -572,6 +574,7 @@
 | [Dancing On My Own](https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk Pt\. 1](https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn) | 4:45 | 2025-09-17 |  |
 | [Dancing On The Ceiling](https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 4:30 | 2025-03-11 |  |
 | [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 | 2025-04-09 |  |
+| [Dancing Queen](https://open.spotify.com/track/4M7F4iSoMNcyOZUwpAsHsZ) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Disco Loadout \(Volume 1\)](https://open.spotify.com/album/0UGRWKGadnvxN8vgQ4ynCh) | 3:48 | 2025-11-16 |  |
 | [Dancing with Sue](https://open.spotify.com/track/4YxHmgZPQkFqr7kWMMiEQw) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Dancing with Sue](https://open.spotify.com/album/21PsHSGaIjG5ucnpWm4xRS) | 2:52 | 2024-12-08 |  |
 | [Dancing with Sue](https://open.spotify.com/track/59Frl2BCKGy6las4ickX0S) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Chandler](https://open.spotify.com/album/6n4MUgNl5I0ZndmMO3AaZV) | 2:52 | 2025-06-08 |  |
 | [Dangerous](https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Not 4 Sale](https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e) | 4:06 | 2025-04-12 |  |
@@ -1672,6 +1675,7 @@
 | [Money City Maniacs](https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Navy Blues](https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6) | 3:53 | 2025-08-09 |  |
 | [Money Jane \- Remix](https://open.spotify.com/track/6rsZGGCPYMjCHVje3V5Mvu) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Quest For Fire: Firestarter Vol\. 1](https://open.spotify.com/album/37hfyOQ5XtPYS3vmKhNXSu) | 6:56 | 2025-02-20 |  |
 | [Moneygrabber](https://open.spotify.com/track/4PwwyZBEkHcm4OTJThCzXi) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Pickin' up the Pieces](https://open.spotify.com/album/6v1XsTQiTP6IziGoGpTLu1) | 3:09 | 2024-12-01 |  |
+| [Montreal](https://open.spotify.com/track/2ZtP34xboXogvczZIz4Rqa) | [Pony Gold](https://open.spotify.com/artist/5olZNeXkXEoJOM0B2cJTRm) | [High Road Reverie](https://open.spotify.com/album/0fvZtAXepoxeCJKsjThct8) | 4:55 | 2025-11-16 |  |
 | [Montreal](https://open.spotify.com/track/0R7GBxCjrQiKdrrRSDPFCn) | [Tara Williamson](https://open.spotify.com/artist/6IqYQfkG3QN6ccetMA5Y3l) | [Enough](https://open.spotify.com/album/1HrsfTuUaOorhzbnzws8PE) | 1:57 | 2024-11-30 |  |
 | [Mood Hoover](https://open.spotify.com/track/1Kma7Z2DAv6tI7beez0Jqo) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Mood Hoover](https://open.spotify.com/album/6QMxKOuHssNVCqphLFbUn1) | 3:14 | 2024-11-23 |  |
 | [Moonage Daydream \- 2012 Remaster](https://open.spotify.com/track/6mib3N4E8PZHAGQ3xy7bho) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:39 | 2025-08-07 |  |
