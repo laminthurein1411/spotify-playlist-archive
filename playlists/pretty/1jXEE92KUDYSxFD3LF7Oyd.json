@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAAXpE6St0VECAVjrlhMQetb0Z58y5D",
+  "snapshot_id": "AAAAYHAmL0LbRBoLIZ49TEHhIeFUZ7J3",
   "tracks": [
     {
       "added_at": "2022-05-07 13:03:51",
@@ -2455,6 +2455,38 @@
       "duration_ms": 204786,
       "name": "Je m'voyais d\u00e9j\u00e0",
       "url": "https://open.spotify.com/track/359TSLfG30WauDV96x2PxJ"
+    },
+    {
+      "added_at": "2025-11-17 03:44:30",
+      "album": {
+        "name": "Que c'est triste Venise",
+        "url": "https://open.spotify.com/album/3kZ8kQRYbgqgD5HVEsAzv1"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 143466,
+      "name": "Hier encore",
+      "url": "https://open.spotify.com/track/66TDFKCZpMRfLcgJpa15xq"
+    },
+    {
+      "added_at": "2025-11-17 06:47:56",
+      "album": {
+        "name": "Les plus grandes com\u00e9dies musicales, Vol. 2",
+        "url": "https://open.spotify.com/album/4Yf7trzH83p3XAafB03yqA"
+      },
+      "artists": [
+        {
+          "name": "Stars en sc\u00e8ne",
+          "url": "https://open.spotify.com/artist/5jWrGVHPMo5jdOQNMbcafu"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Les rois du monde (Th\u00e8me de \"Rom\u00e9o et Juliette, de la haine \u00e0 l'amour\" - La com\u00e9die musicale)",
+      "url": "https://open.spotify.com/track/6nJyEWfTU0qWxBA3bJuJYc"
     }
   ],
   "unique_name": "European \ud83c\udfe4",

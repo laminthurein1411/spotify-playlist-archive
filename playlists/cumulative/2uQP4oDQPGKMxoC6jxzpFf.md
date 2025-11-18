@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-2,991 songs - 7 day 19 hr 4 min
+2,997 songs - 7 day 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1374,6 +1374,7 @@
 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 | 2024-11-21 |  |
 | [Just A Girl \- From The Original Series “Yellowjackets”](https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Just A Girl \(From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk) | 4:34 | 2024-11-23 |  |
 | [Just a Little Bit](https://open.spotify.com/track/4VvjZsVBfjt5n67o172VUV) | [Julian Taylor Band](https://open.spotify.com/artist/3IsYMSHNCR1ThXnjCPyLJ5) | [Desert Star](https://open.spotify.com/album/4W7VMh26wc9BcMGrBCNSSx) | 3:41 | 2024-12-16 |  |
+| [Just Bounce](https://open.spotify.com/track/5jJsbuo1WG7Clno0SkTYbW) | [Team Rezofficial](https://open.spotify.com/artist/5HPqNmb2bULMuR8bLtt2UG) | [The Foundation](https://open.spotify.com/album/3kFLBWwCSpfKAuliGXIw4F) | 4:16 | 2025-11-17 |  |
 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 | 2025-03-08 |  |
 | [Just Fine](https://open.spotify.com/track/22uRwJJKTg0QtjMgM7jHNg) | [Desirée Dawson](https://open.spotify.com/artist/1BeMe0yy4Sqo29rnqkZ1tc) | [Just Fine](https://open.spotify.com/album/31UOVclZsMn9ve6j88kODH) | 3:31 | 2024-12-30 |  |
 | [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 | 2025-10-28 |  |
@@ -1739,6 +1740,7 @@
 | [Neon Signs](https://open.spotify.com/track/2HgWT80qPCO6i2t3A8Xaku) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Neon Signs](https://open.spotify.com/album/4n7ZCE5iVNosvnh0WHsrWx) | 5:07 | 2024-11-21 |  |
 | [Neon Signs](https://open.spotify.com/track/2iMao6uEOB4JDPDfYmVHrl) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Humanhood](https://open.spotify.com/album/7qWfaw5cGD6TBkfFFoKW5N) | 5:07 | 2025-03-19 |  |
 | [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 | 2024-11-27 |  |
+| [Never Be Without Love](https://open.spotify.com/track/1beUwQMn1RQizG3JvZhIym) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Billy Raffoul](https://open.spotify.com/album/7qg4d56S9VEuBCpfjfuUsZ) | 2:52 | 2025-11-17 |  |
 | [Never Be Without Love](https://open.spotify.com/track/4Z2cZ9KlAzURjf9r5lay9Y) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Homebody \(The Red Version\)](https://open.spotify.com/album/29R7ZwF8KLauyYYeExnVHx) | 2:52 | 2025-11-08 |  |
 | [Never Be Without Love](https://open.spotify.com/track/6MkxIJbhsXIiL1maMJFZHm) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Never Be Without Love](https://open.spotify.com/album/0BCZ4HqL2CZN58qa2w8mxx) | 2:52 | 2025-09-04 |  |
 | [Never Fail](https://open.spotify.com/track/2PZCiAmLY7UO9qnVd8tIvO) | [Jah'Mila](https://open.spotify.com/artist/4jV1TM9uYCekcZ8PPlCj39) | [Woman of the Sun](https://open.spotify.com/album/1aackkmMfs9NjBCvsfUJTh) | 4:44 | 2025-07-02 |  |
@@ -2216,6 +2218,7 @@
 | [Signal](https://open.spotify.com/track/4g6g00gTmC7GDrl2GKb16E) | [Quantum Tangle](https://open.spotify.com/artist/0cSZE2fT3uEf8MH8Pb1I7S), [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Signal](https://open.spotify.com/album/0uTQyWeoJCrVq1TsG22OMR) | 4:07 | 2025-02-12 |  |
 | [Silarjuaq](https://open.spotify.com/track/2KaWB23pBUwVhQEhRAGBVo) | [Maya Cook](https://open.spotify.com/artist/11HhVyC7uLe9xUEJI4N4cK) | [salt](https://open.spotify.com/album/1u7Mi9yXBUsfKcIuQqXHjT) | 3:28 | 2025-07-16 |  |
 | [Silarjuaq](https://open.spotify.com/track/5orsLpgEGvqDdX1ilZfGuB) | [Maya Cook](https://open.spotify.com/artist/11HhVyC7uLe9xUEJI4N4cK) | [Silarjuaq](https://open.spotify.com/album/1fnYyYYmMIL6CHIt47HUs4) | 3:28 | 2025-03-18 |  |
+| [Silencio](https://open.spotify.com/track/5cBeYTPwgbGXw6cZtGzIc3) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Uh Oh](https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0) | 4:21 | 2025-11-17 |  |
 | [Silencio](https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Silencio](https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg) | 4:21 | 2025-03-18 |  |
 | [Silver Bells](https://open.spotify.com/track/6HXkMYlcqQ55UW6YfrL0Uj) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Wonderland](https://open.spotify.com/album/3RumoLPCjQPosp5mPiBl2V) | 4:23 | 2024-12-23 |  |
 | [SILVER LINING](https://open.spotify.com/track/2NXainInz93S8nQl5F0urZ) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DIARY FOR THE LONELY HEARTS](https://open.spotify.com/album/3Ezv3QTAvXYrD7x00UG97J) | 4:43 | 2025-04-19 |  |
@@ -2307,6 +2310,7 @@
 | [somnambulist](https://open.spotify.com/track/4qZKt7X9tbe90PqSQQLTmb) | [nêhiyawak](https://open.spotify.com/artist/1ABpOPFTkd957JpeQUN3U4) | [nipiy](https://open.spotify.com/album/3Jco6in23tJMrvZFLtLqyT) | 3:16 | 2025-08-03 |  |
 | [Son Of A Preacher Man](https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis](https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2) | 2:28 | 2025-03-08 |  |
 | [Song for a Winter's Night](https://open.spotify.com/track/7DNDz3jLpOUJ0ltdtJxP39) | [Good Lovelies](https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S) | [Winter's Calling](https://open.spotify.com/album/7bxtKj1CULqgolcJkUWCa0) | 3:51 | 2024-12-24 |  |
+| [Song For Granny](https://open.spotify.com/track/2bjiqqXTzvFy4VUveg9oey) | [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [LOVECHILD](https://open.spotify.com/album/02qZwyJxHH4KxUnbs8K65l) | 2:44 | 2025-11-17 |  |
 | [Song For Granny](https://open.spotify.com/track/6vZe7Qzk1c6maH3JtK0CAA) | [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [Song For Granny](https://open.spotify.com/album/2WlxQVhGHwXAWfMnAscDXE) | 2:44 | 2025-02-26 |  |
 | [Song on the Radio](https://open.spotify.com/track/1aIQwa4vK6YWUjXhaI3TcI) | [Amelia Curran](https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69) | [They Promised You Mercy](https://open.spotify.com/album/4PcYifVE41chkkzTZMzqdF) | 4:03 | 2025-01-05 |  |
 | [SOS \(Overboard\)](https://open.spotify.com/track/3fvZ8dEACqm3uIK0FYaI2I) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/7vFffWRCAH13VwwmlZTr8m) | 3:05 | 2024-11-30 |  |
@@ -2699,6 +2703,7 @@
 | [Try](https://open.spotify.com/track/6sYTEXhTijY6ulSTY9mMIZ) | [POSTDATA](https://open.spotify.com/artist/05mMvlRkzuup4xMEKV8619) | [Run Wild](https://open.spotify.com/album/2sF2kfMWRDJCYl1SAXBLPy) | 4:16 | 2025-05-08 |  |
 | [Try \- 2012 Remaster](https://open.spotify.com/track/13lYKkKAYEVCkGAyrFGZjF) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Outskirts](https://open.spotify.com/album/0o6RdxMt0NZvMISpQJduVY) | 4:05 | 2025-08-10 |  |
 | [Try a Little Tenderness](https://open.spotify.com/track/2mxpmQLdFou7zbLQjTC069) | [Peter Dreams](https://open.spotify.com/artist/55zmcbCA9XmEOPDGfvkxmv) | [Try a Little Tenderness](https://open.spotify.com/album/66WiYjRv8K9P91qIKVgtv8) | 3:36 | 2025-05-23 |  |
+| [Try Again](https://open.spotify.com/track/3KYuuNTDTJxEtqu7ciBtDj) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Neon Skyline](https://open.spotify.com/album/2Bw5SFzC3f5CqD5xGSTtRW) | 3:48 | 2025-11-17 |  |
 | [Tu Boca Lo Quita](https://open.spotify.com/track/2ZPJeJ5s6Uf0NHN8wOXf73) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Agua Del Pozo](https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd) | 2:58 | 2025-10-02 |  |
 | [Tu ne seras jamais là](https://open.spotify.com/track/2NFa1vElKE3810Snp4HyUb) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Impossible à aimer](https://open.spotify.com/album/1k6lh8sWWBUuJQDqqW10XX) | 3:07 | 2025-01-06 |  |
 | [Tulsa Time](https://open.spotify.com/track/4JUtgvNgUYzcIsMnBl0kxS) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6), [Jim Cuddy](https://open.spotify.com/artist/1RprcCfY08k2trEW0m3aHg) | [Tulsa Time](https://open.spotify.com/album/4RX8Yc7XD764cRaOC5q1CD) | 3:21 | 2025-01-31 |  |
@@ -2819,6 +2824,7 @@
 | [Wear You Out](https://open.spotify.com/track/1Rfk20b8r3oKm53umKOgj6) | [Jane Penny](https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd) | [Surfacing](https://open.spotify.com/album/2ER1TDjFLnhzAk0zKqVl5p) | 3:31 | 2025-03-16 |  |
 | [Weighing Down](https://open.spotify.com/track/2nb4iYxCmA8Dh1a2Hz2inu) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Pathways](https://open.spotify.com/album/3K1pEVfbFF5QbmXUpTH1WS) | 3:52 | 2025-03-30 |  |
 | [Weightless](https://open.spotify.com/track/3F2bKtyjMIE1vRvlzsHSq9) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [My Soft Machine](https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn) | 4:02 | 2025-04-17 |  |
+| [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2025-11-17 |  |
 | [Weighty Ghost](https://open.spotify.com/track/1RBXohVxCKn4zWDVRp4WJv) | [Wintersleep](https://open.spotify.com/artist/1VrpL9mx2a6WRolLh7mHrE) | [Welcome to the Night Sky](https://open.spotify.com/album/6MuADadjxQKY9P3xWdI5wT) | 3:38 | 2025-10-09 |  |
 | [Weighty Ghost](https://open.spotify.com/track/1kVEX9FBvKC8531ALTrNfl) | [Wintersleep](https://open.spotify.com/artist/1VrpL9mx2a6WRolLh7mHrE) | [Welcome To The Night Sky](https://open.spotify.com/album/0vz1SlNzlwZ4Qyes30dXFL) | 3:38 | 2025-01-04 |  |
 | [Weird Fishes](https://open.spotify.com/track/0pBPm7QxjaC46nlqQ4YNt8) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Weird Fishes](https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv) | 5:54 | 2025-02-05 |  |

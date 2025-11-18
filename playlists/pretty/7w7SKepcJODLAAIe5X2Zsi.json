@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAAZIPD3r7AAnbfAzRKExMncMGaDHz1",
+  "snapshot_id": "AAAAZZm6LSeitVGkd4W+IVy0DP8qCLvx",
   "tracks": [
     {
       "added_at": "2020-01-16 15:46:47",
@@ -4183,6 +4183,26 @@
       "duration_ms": 133071,
       "name": "Foggy Mountain Breakdown",
       "url": "https://open.spotify.com/track/0PlXgfunAKx3UHOWwZe7nb"
+    },
+    {
+      "added_at": "2025-11-17 05:36:45",
+      "album": {
+        "name": "Qalbi Fil Madinah",
+        "url": "https://open.spotify.com/album/6iPrwxzLdwfMrjymjvxvJM"
+      },
+      "artists": [
+        {
+          "name": "Maher Zain",
+          "url": "https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz"
+        },
+        {
+          "name": "Harris J",
+          "url": "https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE"
+        }
+      ],
+      "duration_ms": 204948,
+      "name": "Qalbi Fil Madinah",
+      "url": "https://open.spotify.com/track/0wlrVtFDcIBzZQoTdVcIkg"
     }
   ],
   "unique_name": "Various Song",

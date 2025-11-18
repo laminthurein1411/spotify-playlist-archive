@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3K9Kpz7u5Pa3XEr9FNc8q1.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 63 songs - 3 hr 25 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,5 +71,7 @@ pretty - [cumulative](/playlists/cumulative/3K9Kpz7u5Pa3XEr9FNc8q1.md) - [plain]
 | 61 | [The Wishing Well / Apples in Winter / Frost Is All Over \- 3 Traditional Irish and Celtic Instrumentals for Jigs and Reels](https://open.spotify.com/track/3cmEQ3vaej0Srsf8Gu3Dvo) | [Alban Fuam](https://open.spotify.com/artist/5GRfzbhNRVxozF8s42mwWT) | [Whiskey 'n Beer \(12 Most Popular Irish and Celtic Folk Traditional Songs Performed on Violins, Bodhran, Irish Guitars, Tin Whistle Flute and Vocals\)](https://open.spotify.com/album/0qMbfvhVcfLkCIGrjUlAja) | 4:34 |
 | 62 | [Kingdom Dance \- From "Tangled"/Score](https://open.spotify.com/track/0jkGkwy510cvhy0jYPFme4) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 2:20 |
 | 63 | [Dance of the Fairy Folk](https://open.spotify.com/track/2W6zB2k41ubt8sTRoRAiYG) | [Derek Fiechter](https://open.spotify.com/artist/01Er12nK5rrnHx8usFPJAs), [Brandon Fiechter](https://open.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x) | [Treefolk](https://open.spotify.com/album/6dDjwmrQVbVUGSnKwQgl2x) | 3:34 |
+| 64 | [C'est La Vie](https://open.spotify.com/track/5iqrbO0fhuLMiy9tYGanv6) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [C'est La Vie](https://open.spotify.com/album/4LzLRLP1DU8escOmv26SsP) | 3:45 |
+| 65 | [رايحين نسهر \- بام بام](https://open.spotify.com/track/7wKUqlOL9OES7gwPdgUcQl) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [رايحين نسهر \- بام بام](https://open.spotify.com/album/7zG7vNSjzxjXNY9UHPL3X0) | 2:49 |
 
-Snapshot ID: `AAAAQNeNe5jGaWIJ8f5aX3p3k4qOXlWY`
+Snapshot ID: `AAAAQlQxkSXENmxpzpblFs2fxz8CaXIq`

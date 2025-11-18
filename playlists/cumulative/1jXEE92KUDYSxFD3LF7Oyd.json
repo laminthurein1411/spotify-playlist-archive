@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Que c'est triste Venise",
+        "url": "https://open.spotify.com/album/3kZ8kQRYbgqgD5HVEsAzv1"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "Hier encore",
+      "url": "https://open.spotify.com/track/66TDFKCZpMRfLcgJpa15xq"
+    },
+    {
+      "album": {
         "name": "FILTER",
         "url": "https://open.spotify.com/album/3UZVvbtFNygVU4Pr7oTU5l"
       },
@@ -1564,6 +1582,24 @@
       "duration_ms": 250613,
       "name": "Les mots bleus",
       "url": "https://open.spotify.com/track/1rCd7kvnOBmT4dYHwHychc"
+    },
+    {
+      "album": {
+        "name": "Les plus grandes com\u00e9dies musicales, Vol. 2",
+        "url": "https://open.spotify.com/album/4Yf7trzH83p3XAafB03yqA"
+      },
+      "artists": [
+        {
+          "name": "Stars en sc\u00e8ne",
+          "url": "https://open.spotify.com/artist/5jWrGVHPMo5jdOQNMbcafu"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196706,
+      "name": "Les rois du monde (Th\u00e8me de \"Rom\u00e9o et Juliette, de la haine \u00e0 l'amour\" - La com\u00e9die musicale)",
+      "url": "https://open.spotify.com/track/6nJyEWfTU0qWxBA3bJuJYc"
     },
     {
       "album": {

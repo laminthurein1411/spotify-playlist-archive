@@ -25477,6 +25477,24 @@
     },
     {
       "album": {
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/3kFLBWwCSpfKAuliGXIw4F"
+      },
+      "artists": [
+        {
+          "name": "Team Rezofficial",
+          "url": "https://open.spotify.com/artist/5HPqNmb2bULMuR8bLtt2UG"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256079,
+      "name": "Just Bounce",
+      "url": "https://open.spotify.com/track/5jJsbuo1WG7Clno0SkTYbW"
+    },
+    {
+      "album": {
         "name": "Speak and Spell (Deluxe)",
         "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
       },
@@ -32252,6 +32270,24 @@
       "duration_ms": 145720,
       "name": "NEVER AGAIN",
       "url": "https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2"
+    },
+    {
+      "album": {
+        "name": "Billy Raffoul",
+        "url": "https://open.spotify.com/album/7qg4d56S9VEuBCpfjfuUsZ"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172293,
+      "name": "Never Be Without Love",
+      "url": "https://open.spotify.com/track/1beUwQMn1RQizG3JvZhIym"
     },
     {
       "album": {
@@ -41229,6 +41265,28 @@
     },
     {
       "album": {
+        "name": "Uh Oh",
+        "url": "https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "November Ultra",
+          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261379,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/5cBeYTPwgbGXw6cZtGzIc3"
+    },
+    {
+      "album": {
         "name": "Silencio",
         "url": "https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg"
       },
@@ -42924,6 +42982,24 @@
       "duration_ms": 231953,
       "name": "Song for a Winter's Night",
       "url": "https://open.spotify.com/track/7DNDz3jLpOUJ0ltdtJxP39"
+    },
+    {
+      "album": {
+        "name": "LOVECHILD",
+        "url": "https://open.spotify.com/album/02qZwyJxHH4KxUnbs8K65l"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Gaskin",
+          "url": "https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164909,
+      "name": "Song For Granny",
+      "url": "https://open.spotify.com/track/2bjiqqXTzvFy4VUveg9oey"
     },
     {
       "album": {
@@ -50259,6 +50335,24 @@
     },
     {
       "album": {
+        "name": "The Neon Skyline",
+        "url": "https://open.spotify.com/album/2Bw5SFzC3f5CqD5xGSTtRW"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228813,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/3KYuuNTDTJxEtqu7ciBtDj"
+    },
+    {
+      "album": {
         "name": "Agua Del Pozo",
         "url": "https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd"
       },
@@ -52524,6 +52618,24 @@
       "duration_ms": 242922,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/3F2bKtyjMIE1vRvlzsHSq9"
+    },
+    {
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242922,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
     },
     {
       "album": {

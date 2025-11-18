@@ -4,12 +4,15 @@
 
 > 
 
-7 songs - 25 min 5 sec
+10 songs - 33 min 27 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Being Alive](https://open.spotify.com/track/4GDSnxxtmIyVS4Twl7Y7UB) | [Stephen Sondheim](https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1) | [Company](https://open.spotify.com/album/6PaCKF5VoZp0Q1anuqXjf1) | 5:06 | 2023-11-06 |  |
 | [For Her](https://open.spotify.com/track/5BTWh85WbDMSsQTvkw8WEI) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Original Broadway Cast of The Great Gatsby \- A New Musical](https://open.spotify.com/artist/7yHJ9NFHBIguBEjpJwRNXM) | [The Great Gatsby \- A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1ROa0bSRzWi67kUyzfyfq6) | 3:56 | 2025-04-12 |  |
+| [Herrscher der Welt](https://open.spotify.com/track/6UPfoBz9gHbG4ooBsvBGk5) | [Raimund Theater Ensemble](https://open.spotify.com/artist/3iEpVzPlwo5MMmz31QRvvF), [Vereinigte Bühnen Wien](https://open.spotify.com/artist/6zP4g2QgmkJ9rhtEnD697U) | [Romeo & Julia \- Cast Album Wien](https://open.spotify.com/album/6mubCXnWMaVFcP9HjIKwbG) | 3:05 | 2025-11-17 |  |
+| [Herrscher der Welt \- Romeo und Julia](https://open.spotify.com/track/2Pc7DK34vkLaDklaHGWB30) | [Gérard Presgurvic](https://open.spotify.com/artist/4JSta40oigS6oqwJ0Qwq0m), [Lukas Perman](https://open.spotify.com/artist/5QYH2ibeFPBFaOowpecvMJ), [Rob Fowler](https://open.spotify.com/artist/0rDGYdu3E0pyT2arLFwsFU), [Kai Hüsgen](https://open.spotify.com/artist/0wNyX8mbg5yifnWw6b4IMI), [Ensemble](https://open.spotify.com/artist/6zMAnfrMg3Wg0BcgoPUbG7) | [Musical Forever 2](https://open.spotify.com/album/05z3tBdf4gtpKw1hJrpKhf) | 1:47 | 2025-11-17 |  |
+| [I re del mondo \- Les rois du monde](https://open.spotify.com/track/2BsIIbcnA8AB6AVjQxGKRN) | [Luca Giacomelli](https://open.spotify.com/artist/0TwSEzq5nMwrGS8zXsaTF0), [Riccardo Maccaferri](https://open.spotify.com/artist/2TimBDlQ412AQrPjE1Unyl), [Davide Merlini](https://open.spotify.com/artist/264j2NL2ggavz1d4ziYRyv) | [Romeo & Giulietta: ama e cambia il mondo](https://open.spotify.com/album/20xgFFKReZShMVIx78eZAF) | 3:28 | 2025-11-17 |  |
 | [I'd Do Anything For Love \(But I Won't Do That\) \- Single Edit](https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell II: Back Into Hell](https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z) | 5:16 | 2024-05-06 |  |
 | [I'm Alive](https://open.spotify.com/track/4hWkVEHdEOSzpjQa0NRttw) | [Jack Wolfe](https://open.spotify.com/artist/2fuwv10XgJs4sLjQXqaQnb) | [Next To Normal \(Original London Cast Recording\)](https://open.spotify.com/album/5IWkvoiJdAJgbebPS47Uy6) | 3:54 | 2025-07-09 |  |
 | [I'm Alive \(Reprise\)](https://open.spotify.com/track/26kaVx2Jx7YkYespsRJ0LB) | [Jack Wolfe](https://open.spotify.com/artist/2fuwv10XgJs4sLjQXqaQnb) | [Next To Normal \(Original London Cast Recording\)](https://open.spotify.com/album/5IWkvoiJdAJgbebPS47Uy6) | 1:33 | 2025-07-09 |  |

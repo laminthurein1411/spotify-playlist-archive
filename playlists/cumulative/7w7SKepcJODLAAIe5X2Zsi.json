@@ -2991,6 +2991,28 @@
     },
     {
       "album": {
+        "name": "Qalbi Fil Madinah",
+        "url": "https://open.spotify.com/album/6iPrwxzLdwfMrjymjvxvJM"
+      },
+      "artists": [
+        {
+          "name": "Maher Zain",
+          "url": "https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz"
+        },
+        {
+          "name": "Harris J",
+          "url": "https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204948,
+      "name": "Qalbi Fil Madinah",
+      "url": "https://open.spotify.com/track/0wlrVtFDcIBzZQoTdVcIkg"
+    },
+    {
+      "album": {
         "name": "Shubh Mangal Zyada Saavdhan",
         "url": "https://open.spotify.com/album/1qvic7ic93zptwsWs2nvhU"
       },

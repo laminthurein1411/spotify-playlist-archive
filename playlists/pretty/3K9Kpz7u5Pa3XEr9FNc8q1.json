@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAAQNeNe5jGaWIJ8f5aX3p3k4qOXlWY",
+  "snapshot_id": "AAAAQlQxkSXENmxpzpblFs2fxz8CaXIq",
   "tracks": [
     {
       "added_at": "2022-01-30 11:44:14",
@@ -1131,6 +1131,38 @@
       "duration_ms": 214903,
       "name": "Dance of the Fairy Folk",
       "url": "https://open.spotify.com/track/2W6zB2k41ubt8sTRoRAiYG"
+    },
+    {
+      "added_at": "2025-11-17 10:09:25",
+      "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/4LzLRLP1DU8escOmv26SsP"
+      },
+      "artists": [
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+        }
+      ],
+      "duration_ms": 225751,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/5iqrbO0fhuLMiy9tYGanv6"
+    },
+    {
+      "added_at": "2025-11-17 10:10:56",
+      "album": {
+        "name": "\u0631\u0627\u064a\u062d\u064a\u0646 \u0646\u0633\u0647\u0631 - \u0628\u0627\u0645 \u0628\u0627\u0645",
+        "url": "https://open.spotify.com/album/7zG7vNSjzxjXNY9UHPL3X0"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "\u0631\u0627\u064a\u062d\u064a\u0646 \u0646\u0633\u0647\u0631 - \u0628\u0627\u0645 \u0628\u0627\u0645",
+      "url": "https://open.spotify.com/track/7wKUqlOL9OES7gwPdgUcQl"
     }
   ],
   "unique_name": "dAnCe \ud83d\udd7a",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 150 songs - 8 hr 6 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 152 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,5 +158,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 148 | [Ma môme](https://open.spotify.com/track/0eXqWCXs8LsJQw6LFTr8aO) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Deux enfants au soleil 1961](https://open.spotify.com/album/2BnYopoRrm50Ql9byDmi6S) | 1:57 |
 | 149 | [Fais pas ci, fais pas ça](https://open.spotify.com/track/0FypjlDKkK46KkvSPt7bem) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [Il est cinq heures](https://open.spotify.com/album/6uZABwQhmEllK5otzX9ONK) | 1:43 |
 | 150 | [Je m'voyais déjà](https://open.spotify.com/track/359TSLfG30WauDV96x2PxJ) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Je m'voyais déjà](https://open.spotify.com/album/57ECx8bMhG0vJK9tcKpm9s) | 3:24 |
+| 151 | [Hier encore](https://open.spotify.com/track/66TDFKCZpMRfLcgJpa15xq) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Que c'est triste Venise](https://open.spotify.com/album/3kZ8kQRYbgqgD5HVEsAzv1) | 2:23 |
+| 152 | [Les rois du monde \(Thème de "Roméo et Juliette, de la haine à l'amour" \- La comédie musicale\)](https://open.spotify.com/track/6nJyEWfTU0qWxBA3bJuJYc) | [Stars en scène](https://open.spotify.com/artist/5jWrGVHPMo5jdOQNMbcafu) | [Les plus grandes comédies musicales, Vol\. 2](https://open.spotify.com/album/4Yf7trzH83p3XAafB03yqA) | 3:16 |
 
-Snapshot ID: `AAAAXpE6St0VECAVjrlhMQetb0Z58y5D`
+Snapshot ID: `AAAAYHAmL0LbRBoLIZ49TEHhIeFUZ7J3`

@@ -3417,6 +3417,24 @@
     },
     {
       "album": {
+        "name": "EVERYONE'S A STAR! (Fully Evolved)",
+        "url": "https://open.spotify.com/album/5PZaqv1kmnGYMvO8lS0Cqs"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212565,
+      "name": "I'll Find You",
+      "url": "https://open.spotify.com/track/2hShdJova68Ea7tMC1PGRf"
+    },
+    {
+      "album": {
         "name": "Instrument Soundtrack",
         "url": "https://open.spotify.com/album/1owNOVlXTqmDVo4M2Z20uk"
       },
@@ -5176,6 +5194,24 @@
       "duration_ms": 210944,
       "name": "Past Tense",
       "url": "https://open.spotify.com/track/6Qqx311TdRrqdA7VWZVpWF"
+    },
+    {
+      "album": {
+        "name": "Past Won't Leave My Bed",
+        "url": "https://open.spotify.com/album/3WVLl7wbF8oNra7oMZ62Ta"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166106,
+      "name": "Past Won't Leave My Bed",
+      "url": "https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv"
     },
     {
       "album": {

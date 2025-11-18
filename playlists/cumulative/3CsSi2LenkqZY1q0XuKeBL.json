@@ -5361,6 +5361,24 @@
     },
     {
       "album": {
+        "name": "\u3046\u3089\u304c\u308f\u306e\u5b58\u5728",
+        "url": "https://open.spotify.com/album/4V3O8lJQkUQ5KTXVD6NYt0"
+      },
+      "artists": [
+        {
+          "name": "\u30ae\u30f4\u30f3",
+          "url": "https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266226,
+      "name": "\u3046\u3089\u304c\u308f\u306e\u5b58\u5728",
+      "url": "https://open.spotify.com/track/6sz0Rbp0MbQDIZDz6p5a3O"
+    },
+    {
+      "album": {
         "name": "\u304a\u52c9\u5f37\u3057\u3068\u3044\u3066\u3088",
         "url": "https://open.spotify.com/album/3cOMXsId5ORUGXt9xu90NI"
       },
@@ -6327,6 +6345,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30c8\u30ec\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/5FigjD6aBPtmy4pHivXAdk"
+      },
+      "artists": [
+        {
+          "name": "syh",
+          "url": "https://open.spotify.com/artist/3bKQgwripMGjcjH3hTjRkW"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136852,
+      "name": "\u30b9\u30c8\u30ec\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/46Qfr2EcTsB0H7I1h2XLoc"
+    },
+    {
+      "album": {
         "name": "\u4eba\u9593\u958b\u82b1",
         "url": "https://open.spotify.com/album/7Mv9wIDCmtaKgnl79YivzS"
       },
@@ -6624,6 +6660,24 @@
       "duration_ms": 208346,
       "name": "\u30d1\u30d7\u30ea\u30ab",
       "url": "https://open.spotify.com/track/0bdYJCO9clK9ew61Z7GqMf"
+    },
+    {
+      "album": {
+        "name": "\u30d1\u30ec\u30a4\u30c9",
+        "url": "https://open.spotify.com/album/5lPGcuP6rKcmkGbI2eOAbD"
+      },
+      "artists": [
+        {
+          "name": "syh",
+          "url": "https://open.spotify.com/artist/3bKQgwripMGjcjH3hTjRkW"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161492,
+      "name": "\u30d1\u30ec\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/7uXzW6dPhkd4NbRv8sLNS6"
     },
     {
       "album": {
@@ -7041,6 +7095,24 @@
     },
     {
       "album": {
+        "name": "\u50d5\u3089\u3060\u3051\u306e\u4e3b\u984c\u6b4c",
+        "url": "https://open.spotify.com/album/74zMa5sPYuVcxW8eQkpIVW"
+      },
+      "artists": [
+        {
+          "name": "Centimillimental",
+          "url": "https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321866,
+      "name": "\u50d5\u3089\u3060\u3051\u306e\u4e3b\u984c\u6b4c",
+      "url": "https://open.spotify.com/track/0wS1jLwkJkGyMvzyJW5XMy"
+    },
+    {
+      "album": {
         "name": "\u50d5\u3089\u306e\u5b63\u7bc0 - From THE FIRST TAKE",
         "url": "https://open.spotify.com/album/6NQjQMflWnEHhvd25fqnMw"
       },
@@ -7164,6 +7236,42 @@
       "duration_ms": 206306,
       "name": "\u51ac\u306e\u306f\u306a\u3057",
       "url": "https://open.spotify.com/track/0bgujdpFkvd6vmQpqmT2pz"
+    },
+    {
+      "album": {
+        "name": "gift",
+        "url": "https://open.spotify.com/album/7wR9KWzI8aoR89ryUPDhmr"
+      },
+      "artists": [
+        {
+          "name": "\u30ae\u30f4\u30f3",
+          "url": "https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208906,
+      "name": "\u51ac\u306e\u306f\u306a\u3057",
+      "url": "https://open.spotify.com/track/3VrKkcEm7RYXBI9RLv7SL7"
+    },
+    {
+      "album": {
+        "name": "\u51ac\u306e\u306f\u306a\u3057 -with \u7acb\u590fver.-",
+        "url": "https://open.spotify.com/album/5XN5TWOa79XESseANPQmNk"
+      },
+      "artists": [
+        {
+          "name": "\u30ae\u30f4\u30f3",
+          "url": "https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206733,
+      "name": "\u51ac\u306e\u306f\u306a\u3057 -with \u7acb\u590fver.-",
+      "url": "https://open.spotify.com/track/5Hx7H767SqDFuW8aoqPFql"
     },
     {
       "album": {
@@ -7473,6 +7581,24 @@
     },
     {
       "album": {
+        "name": "\u591c\u304c\u660e\u3051\u308b",
+        "url": "https://open.spotify.com/album/4ttX6ihcc7gMOOB4bv3UYL"
+      },
+      "artists": [
+        {
+          "name": "\u30ae\u30f4\u30f3",
+          "url": "https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281360,
+      "name": "\u591c\u304c\u660e\u3051\u308b",
+      "url": "https://open.spotify.com/track/346M9KFZc9DzgRCRpL4YXq"
+    },
+    {
+      "album": {
         "name": "\u591c\u306b\u99c6\u3051\u308b",
         "url": "https://open.spotify.com/album/3GzwPyPZCyrqUTaurTaS23"
       },
@@ -7658,6 +7784,24 @@
       "duration_ms": 216959,
       "name": "\u5bc4\u308a\u9154\u3044",
       "url": "https://open.spotify.com/track/154Jycdld9dX9rBLE6L3v4"
+    },
+    {
+      "album": {
+        "name": "\u50d5\u3089\u3060\u3051\u306e\u4e3b\u984c\u6b4c",
+        "url": "https://open.spotify.com/album/7dX2LTdlPwGavBL3gN4NXf"
+      },
+      "artists": [
+        {
+          "name": "Centimillimental",
+          "url": "https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221346,
+      "name": "\u5bfe\u843d",
+      "url": "https://open.spotify.com/track/2zpp4VHIh4k1CdgBURnM5P"
     },
     {
       "album": {
@@ -8025,6 +8169,24 @@
     },
     {
       "album": {
+        "name": "\u661f\u304c\u964d\u308b",
+        "url": "https://open.spotify.com/album/0kRJqchrgUe86AEc6XmuCA"
+      },
+      "artists": [
+        {
+          "name": "Centimillimental",
+          "url": "https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359426,
+      "name": "\u661f\u304c\u964d\u308b",
+      "url": "https://open.spotify.com/track/4qyJYAZDR8qc1FrqvxtTYR"
+    },
+    {
+      "album": {
         "name": "\u6625\u3072\u3055\u304e",
         "url": "https://open.spotify.com/album/77rZiXsVgvBMtogzAjQjbg"
       },
@@ -8256,6 +8418,24 @@
       "duration_ms": 234184,
       "name": "\u6d77\u306e\u5e7d\u970a",
       "url": "https://open.spotify.com/track/4HHboK1nN2moxSvQE6Rg3J"
+    },
+    {
+      "album": {
+        "name": "\u6d77\u3078",
+        "url": "https://open.spotify.com/album/7BvayWh9X6PeDHXwVbiCyF"
+      },
+      "artists": [
+        {
+          "name": "syh",
+          "url": "https://open.spotify.com/artist/3bKQgwripMGjcjH3hTjRkW"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288613,
+      "name": "\u6d77\u3078",
+      "url": "https://open.spotify.com/track/0UV888klzGdbyMpwuxPYnK"
     },
     {
       "album": {

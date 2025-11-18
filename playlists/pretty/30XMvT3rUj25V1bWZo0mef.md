@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/30XMvT3rUj25V1bWZo0mef.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 7 songs - 25 min 5 sec
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 10 songs - 33 min 27 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,5 +15,8 @@ pretty - [cumulative](/playlists/cumulative/30XMvT3rUj25V1bWZo0mef.md) - [plain]
 | 5 | [I'm Alive](https://open.spotify.com/track/4hWkVEHdEOSzpjQa0NRttw) | [Jack Wolfe](https://open.spotify.com/artist/2fuwv10XgJs4sLjQXqaQnb) | [Next To Normal \(Original London Cast Recording\)](https://open.spotify.com/album/5IWkvoiJdAJgbebPS47Uy6) | 3:54 |
 | 6 | [There's a World](https://open.spotify.com/track/5aB6tAvucmfVZL7zfZa9IC) | [Jack Wolfe](https://open.spotify.com/artist/2fuwv10XgJs4sLjQXqaQnb) | [Next To Normal \(Original London Cast Recording\)](https://open.spotify.com/album/5IWkvoiJdAJgbebPS47Uy6) | 1:52 |
 | 7 | [I'm Alive \(Reprise\)](https://open.spotify.com/track/26kaVx2Jx7YkYespsRJ0LB) | [Jack Wolfe](https://open.spotify.com/artist/2fuwv10XgJs4sLjQXqaQnb) | [Next To Normal \(Original London Cast Recording\)](https://open.spotify.com/album/5IWkvoiJdAJgbebPS47Uy6) | 1:33 |
+| 8 | [Herrscher der Welt \- Romeo und Julia](https://open.spotify.com/track/2Pc7DK34vkLaDklaHGWB30) | [Gérard Presgurvic](https://open.spotify.com/artist/4JSta40oigS6oqwJ0Qwq0m), [Lukas Perman](https://open.spotify.com/artist/5QYH2ibeFPBFaOowpecvMJ), [Rob Fowler](https://open.spotify.com/artist/0rDGYdu3E0pyT2arLFwsFU), [Kai Hüsgen](https://open.spotify.com/artist/0wNyX8mbg5yifnWw6b4IMI), [Ensemble](https://open.spotify.com/artist/6zMAnfrMg3Wg0BcgoPUbG7) | [Musical Forever 2](https://open.spotify.com/album/05z3tBdf4gtpKw1hJrpKhf) | 1:47 |
+| 9 | [I re del mondo \- Les rois du monde](https://open.spotify.com/track/2BsIIbcnA8AB6AVjQxGKRN) | [Luca Giacomelli](https://open.spotify.com/artist/0TwSEzq5nMwrGS8zXsaTF0), [Riccardo Maccaferri](https://open.spotify.com/artist/2TimBDlQ412AQrPjE1Unyl), [Davide Merlini](https://open.spotify.com/artist/264j2NL2ggavz1d4ziYRyv) | [Romeo & Giulietta: ama e cambia il mondo](https://open.spotify.com/album/20xgFFKReZShMVIx78eZAF) | 3:28 |
+| 10 | [Herrscher der Welt](https://open.spotify.com/track/6UPfoBz9gHbG4ooBsvBGk5) | [Raimund Theater Ensemble](https://open.spotify.com/artist/3iEpVzPlwo5MMmz31QRvvF), [Vereinigte Bühnen Wien](https://open.spotify.com/artist/6zP4g2QgmkJ9rhtEnD697U) | [Romeo & Julia \- Cast Album Wien](https://open.spotify.com/album/6mubCXnWMaVFcP9HjIKwbG) | 3:05 |
 
-Snapshot ID: `AAAACM4twr/g5AS8rmpTcc6NJ7cFeUoQ`
+Snapshot ID: `AAAAC+HkGgBzInSj3waefuTiLNi0I1oA`

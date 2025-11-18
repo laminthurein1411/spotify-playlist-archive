@@ -45,6 +45,88 @@
     },
     {
       "album": {
+        "name": "Romeo & Julia - Cast Album Wien",
+        "url": "https://open.spotify.com/album/6mubCXnWMaVFcP9HjIKwbG"
+      },
+      "artists": [
+        {
+          "name": "Raimund Theater Ensemble",
+          "url": "https://open.spotify.com/artist/3iEpVzPlwo5MMmz31QRvvF"
+        },
+        {
+          "name": "Vereinigte B\u00fchnen Wien",
+          "url": "https://open.spotify.com/artist/6zP4g2QgmkJ9rhtEnD697U"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185760,
+      "name": "Herrscher der Welt",
+      "url": "https://open.spotify.com/track/6UPfoBz9gHbG4ooBsvBGk5"
+    },
+    {
+      "album": {
+        "name": "Musical Forever 2",
+        "url": "https://open.spotify.com/album/05z3tBdf4gtpKw1hJrpKhf"
+      },
+      "artists": [
+        {
+          "name": "G\u00e9rard Presgurvic",
+          "url": "https://open.spotify.com/artist/4JSta40oigS6oqwJ0Qwq0m"
+        },
+        {
+          "name": "Lukas Perman",
+          "url": "https://open.spotify.com/artist/5QYH2ibeFPBFaOowpecvMJ"
+        },
+        {
+          "name": "Rob Fowler",
+          "url": "https://open.spotify.com/artist/0rDGYdu3E0pyT2arLFwsFU"
+        },
+        {
+          "name": "Kai H\u00fcsgen",
+          "url": "https://open.spotify.com/artist/0wNyX8mbg5yifnWw6b4IMI"
+        },
+        {
+          "name": "Ensemble",
+          "url": "https://open.spotify.com/artist/6zMAnfrMg3Wg0BcgoPUbG7"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107493,
+      "name": "Herrscher der Welt - Romeo und Julia",
+      "url": "https://open.spotify.com/track/2Pc7DK34vkLaDklaHGWB30"
+    },
+    {
+      "album": {
+        "name": "Romeo & Giulietta: ama e cambia il mondo",
+        "url": "https://open.spotify.com/album/20xgFFKReZShMVIx78eZAF"
+      },
+      "artists": [
+        {
+          "name": "Luca Giacomelli",
+          "url": "https://open.spotify.com/artist/0TwSEzq5nMwrGS8zXsaTF0"
+        },
+        {
+          "name": "Riccardo Maccaferri",
+          "url": "https://open.spotify.com/artist/2TimBDlQ412AQrPjE1Unyl"
+        },
+        {
+          "name": "Davide Merlini",
+          "url": "https://open.spotify.com/artist/264j2NL2ggavz1d4ziYRyv"
+        }
+      ],
+      "date_added": "2025-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208039,
+      "name": "I re del mondo - Les rois du monde",
+      "url": "https://open.spotify.com/track/2BsIIbcnA8AB6AVjQxGKRN"
+    },
+    {
+      "album": {
         "name": "Bat Out Of Hell II: Back Into Hell",
         "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
       },

@@ -4,7 +4,7 @@
 
 > Collection Of All Types Of Music Genres With Japanese Songs.
 
-499 songs - 1 day 11 hr 22 min
+509 songs - 1 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [いつも何度でも \(千と千尋の神隠し\)](https://open.spotify.com/track/72bSTCHCnP3lJzoMlqkF1c) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [ジブリ名曲セレクション〜Dear GHIBLI](https://open.spotify.com/album/6RCUjz2HJI5pONu99Tss31) | 4:40 | 2020-07-16 |  |
 | [いとしき日々よ Album Mix](https://open.spotify.com/track/22yVcRfZSGRV95fmJchmvf) | [Ken Hirai](https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc) | [JAPANESE SINGER](https://open.spotify.com/album/4gBaRgBlp0TdYj77hC5Hgd) | 5:59 | 2022-08-09 |  |
 | [うそじゃないよ](https://open.spotify.com/track/7x53MzOuoNzvozbPCQ0bX7) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [Assortrip](https://open.spotify.com/album/0SqYPfOJIzouJ5IJykSuqy) | 4:04 | 2020-03-24 |  |
+| [うらがわの存在](https://open.spotify.com/track/6sz0Rbp0MbQDIZDz6p5a3O) | [ギヴン](https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j) | [うらがわの存在](https://open.spotify.com/album/4V3O8lJQkUQ5KTXVD6NYt0) | 4:26 | 2025-11-17 |  |
 | [お勉強しといてよ](https://open.spotify.com/track/6k90ibcH1z8Mx9684nfuLW) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [お勉強しといてよ](https://open.spotify.com/album/3cOMXsId5ORUGXt9xu90NI) | 4:40 | 2020-06-30 |  |
 | [かいしんのいちげき！](https://open.spotify.com/track/3S8JAu4eBOfpaGNi7kLQ0t) | [Amatsuki](https://open.spotify.com/artist/5WbJGPIGG5oCaVgMsfXZgu) | [それはきっと恋でした。](https://open.spotify.com/album/1JbYE0WlMhD6ngNnUEcGR4) | 4:00 | 2020-06-30 |  |
 | [きみのうた](https://open.spotify.com/track/6Nl4rMUTJxNk8k0vlHfQ8c) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi) | [Re:I](https://open.spotify.com/album/2NWLavCE5Y1Cm4K7ZxAfYz) | 6:10 | 2020-07-16 |  |
@@ -351,6 +352,7 @@
 | [スターティングブルー](https://open.spotify.com/track/2ZZIQRTnm8ec0XY1mS1hKd) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [Assortrip](https://open.spotify.com/album/0SqYPfOJIzouJ5IJykSuqy) | 3:48 | 2020-03-24 |  |
 | [スターライトキセキ](https://open.spotify.com/track/3KCJiENY9qHlwFcPutv1ik) | [Amatsuki](https://open.spotify.com/artist/5WbJGPIGG5oCaVgMsfXZgu) | [TOKYO \- MIRACLE \-](https://open.spotify.com/album/4HZgw2HZZ8P6eSOvaNL9aT) | 3:55 | 2020-06-30 |  |
 | [スターラブレイション](https://open.spotify.com/track/0PTGYdQvnVQ1YJ65jxBNoT) | [Kera Kera](https://open.spotify.com/artist/5PVENmQjFWIJJO1dZD5tLZ) | [ケラケライフ](https://open.spotify.com/album/0uWJlL13kdOK5vUnCX1fHO) | 4:35 | 2020-03-01 |  |
+| [ストレイト](https://open.spotify.com/track/46Qfr2EcTsB0H7I1h2XLoc) | [syh](https://open.spotify.com/artist/3bKQgwripMGjcjH3hTjRkW) | [ストレイト](https://open.spotify.com/album/5FigjD6aBPtmy4pHivXAdk) | 2:16 | 2025-11-17 |  |
 | [スパークル \- original ver.](https://open.spotify.com/track/6flPjptL3p4nNpMMjBW7I4) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [人間開花](https://open.spotify.com/album/7Mv9wIDCmtaKgnl79YivzS) | 6:48 | 2020-03-01 |  |
 | [センチメンタルクライシス](https://open.spotify.com/track/48gbPVwayrBnpyrjaQxP2q) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [Sentimental Crisis](https://open.spotify.com/album/48wxnaMynnuZ4XUbrYyu33) | 4:02 | 2020-03-24 |  |
 | [センパイ。](https://open.spotify.com/track/5DlEzB9ieJLQqxASwOOGnA) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Tail Wind](https://open.spotify.com/album/15sVY9quG7rrqS0Gulyqur) | 5:12 | 2020-03-07 |  |
@@ -367,6 +369,7 @@
 | [ハルノユキ from polaris](https://open.spotify.com/track/0xT31iv2XzjRn6eqRRncEh) | [Lily, Sayonara.](https://open.spotify.com/artist/2SkaSsUw8OaFvPUusPl6le) | [僕らのポラリス](https://open.spotify.com/album/6Dgl8DIvnCmgOAg58Kk0wZ) | 6:20 | 2024-09-26 |  |
 | [ハートは温泉美人の私のものよ \(feat\. 謎女\)](https://open.spotify.com/track/5AuQdpbXLrQ06EFqH8iOGX) | [美的計画](https://open.spotify.com/artist/4hiUgGl5CgLqYUWDTIjlnC), [謎女](https://open.spotify.com/artist/1EWEmAOiffAhebNVtxywWL) | [ハートは温泉美人の私のものよ \(feat\. 謎女\)](https://open.spotify.com/album/5a77nDVKFIc17OYxcWdblE) | 3:29 | 2021-03-28 |  |
 | [パプリカ](https://open.spotify.com/track/0bdYJCO9clK9ew61Z7GqMf) | [Foorin](https://open.spotify.com/artist/3h95Ve9m3Q07d8VG6V9hEU) | [Paprika](https://open.spotify.com/album/1UJss5wLdjCTQ7tTWGoDCv) | 3:28 | 2020-03-10 |  |
+| [パレイド](https://open.spotify.com/track/7uXzW6dPhkd4NbRv8sLNS6) | [syh](https://open.spotify.com/artist/3bKQgwripMGjcjH3hTjRkW) | [パレイド](https://open.spotify.com/album/5lPGcuP6rKcmkGbI2eOAbD) | 2:41 | 2025-11-17 |  |
 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 | 2020-06-30 |  |
 | [ビリーヴ](https://open.spotify.com/track/0fsan60OgxYamREqipnSQt) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [ビリーヴ](https://open.spotify.com/album/03EQXwgJ8Se0VgFFaiLyfP) | 3:39 | 2020-07-16 |  |
 | [フィクション](https://open.spotify.com/track/543jStmHR1VrSfpxmjUIn6) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Chime](https://open.spotify.com/album/3foRklHeA5lXq56ZsEbkfv) | 3:50 | 2025-09-02 |  |
@@ -390,6 +393,7 @@
 | [俺たちルーキーズ](https://open.spotify.com/track/22bPXquDZsiJPPIxF6uOMz) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [Oretachi Rookies](https://open.spotify.com/album/3uvRY3K4aT5wWpnEGhrPci) | 4:38 | 2020-06-27 |  |
 | [僕たちがやりました（DISH//オリジナルver.）](https://open.spotify.com/track/4LNKZxChCkK1OwfhmoiqRo) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [Bokutachiga Yarimashita](https://open.spotify.com/album/1pVgIQA6sn6btSOMoHxUhc) | 3:14 | 2020-06-27 |  |
 | [僕は君に恋をする](https://open.spotify.com/track/6ndV7ABnMIVyPuWJ46cX4g) | [Ken Hirai](https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc) | [JAPANESE SINGER](https://open.spotify.com/album/4gBaRgBlp0TdYj77hC5Hgd) | 5:08 | 2022-08-09 |  |
+| [僕らだけの主題歌](https://open.spotify.com/track/0wS1jLwkJkGyMvzyJW5XMy) | [Centimillimental](https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw) | [僕らだけの主題歌](https://open.spotify.com/album/74zMa5sPYuVcxW8eQkpIVW) | 5:21 | 2025-11-17 |  |
 | [僕らの季節 \- From THE FIRST TAKE](https://open.spotify.com/track/2Jw0KHHtnytlbR0DSrW125) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [僕らの季節 \- From THE FIRST TAKE](https://open.spotify.com/album/6NQjQMflWnEHhvd25fqnMw) | 3:39 | 2022-06-05 |  |
 | [優しさ](https://open.spotify.com/track/0f3Ce9xjHymExIpEyHUC8D) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 4:00 | 2020-06-19 |  |
 | [優しさの剣](https://open.spotify.com/track/61ogHTz2An1wikfoi2txai) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [優しさの剣](https://open.spotify.com/album/5d7AldBu8i6VQEn916kzFF) | 4:19 | 2022-03-09 |  |
@@ -397,6 +401,8 @@
 | [六兆年と一夜物語](https://open.spotify.com/track/1L2CbnBS9C8uNMbS6GSHer) | [WagakkiBand](https://open.spotify.com/artist/3PzqP5IkpLhlSdZLh7jwPn) | [ボカロ三昧](https://open.spotify.com/album/6jnNF6NJ93A07Vl2gWMlgg) | 3:55 | 2020-10-07 |  |
 | [冬のうた](https://open.spotify.com/track/13ZrdwZjgT6P1In07B4TBF) | [Kiroro](https://open.spotify.com/artist/279R7zEl7kwZxoMw18Pr9R) | [Kiroroのうた ①](https://open.spotify.com/album/7evQI7Gxwto5ByAD0fiQBF) | 5:45 | 2020-07-16 |  |
 | [冬のはなし](https://open.spotify.com/track/0bgujdpFkvd6vmQpqmT2pz) | [ギヴン](https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j) | [Marutsuke / Fuyunohanashi](https://open.spotify.com/album/7nvNAEOkeGjNVeHrywY62y) | 3:26 | 2020-06-09 |  |
+| [冬のはなし](https://open.spotify.com/track/3VrKkcEm7RYXBI9RLv7SL7) | [ギヴン](https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j) | [gift](https://open.spotify.com/album/7wR9KWzI8aoR89ryUPDhmr) | 3:28 | 2025-11-17 |  |
+| [冬のはなし \-with 立夏ver.\-](https://open.spotify.com/track/5Hx7H767SqDFuW8aoqPFql) | [ギヴン](https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j) | [冬のはなし \-with 立夏ver.\-](https://open.spotify.com/album/5XN5TWOa79XESseANPQmNk) | 3:26 | 2025-11-17 |  |
 | [別の人の彼女になったよ](https://open.spotify.com/track/5TIMNeqGc26Ohw0yfcAfGB) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [Gunjo Refrain](https://open.spotify.com/album/1vEXWjPI7MCx60PSMM5n9F) | 5:04 | 2020-03-01 |  |
 | [勝手にMY SOUL](https://open.spotify.com/track/3eTlLNtRPYlrAJAEb55a9J) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [Katteni My Soul](https://open.spotify.com/album/3jsDE1m6e94CfK2oAZSKxh) | 4:28 | 2020-06-27 |  |
 | [千本桜](https://open.spotify.com/track/21J7iTRQDBVfq6wM3ZHGhV) | [WagakkiBand](https://open.spotify.com/artist/3PzqP5IkpLhlSdZLh7jwPn) | [ボカロ三昧](https://open.spotify.com/album/6jnNF6NJ93A07Vl2gWMlgg) | 4:30 | 2020-10-07 |  |
@@ -414,6 +420,7 @@
 | [変顔でバイバイ!!](https://open.spotify.com/track/794PY5r6lL8qjELoZukdkP) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [Hengaode Bye Bye](https://open.spotify.com/album/6vO0oSgjwUw9vhuqffqS0b) | 4:53 | 2020-06-27 |  |
 | [夏音](https://open.spotify.com/track/3k6o8UMc7aVgpKqm9epIrU) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [夏音](https://open.spotify.com/album/4psiGEqjjfBVn9jBQZDotU) | 3:57 | 2021-11-21 |  |
 | [夕凪、某、花惑い](https://open.spotify.com/track/3gY1UX6zV7IQAKcBgi2gcm) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [エルマ](https://open.spotify.com/album/2jgZDVp8aoPDTAqxswhz9g) | 3:18 | 2020-06-30 |  |
+| [夜が明ける](https://open.spotify.com/track/346M9KFZc9DzgRCRpL4YXq) | [ギヴン](https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j) | [夜が明ける](https://open.spotify.com/album/4ttX6ihcc7gMOOB4bv3UYL) | 4:41 | 2025-11-17 |  |
 | [夜に駆ける](https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [夜に駆ける](https://open.spotify.com/album/3GzwPyPZCyrqUTaurTaS23) | 4:21 | 2020-06-30 |  |
 | [夜行](https://open.spotify.com/track/1sPu1euMR0UlTMFFWHh4wB) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [夜行](https://open.spotify.com/album/1NS80RxTI4CotMafJtxoDd) | 3:23 | 2020-06-30 |  |
 | [大嫌い](https://open.spotify.com/track/18KarUhMNQ1c7JwT5APNO6) | [MIREI](https://open.spotify.com/artist/7Lb6KifoVBVM3cAXiDvirw), [SANARI](https://open.spotify.com/artist/16E27V4q0TPZXIriwMYTWV) | [Playlist](https://open.spotify.com/album/0jhvpWKwlIC1X6Nl0umZQo) | 4:06 | 2020-05-19 |  |
@@ -424,6 +431,7 @@
 | [好きだから。](https://open.spotify.com/track/0F6nGXMCUbtk8FiXvKi6HK) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [好きだから。](https://open.spotify.com/album/7J3ut50EyHiP6Rl92spPIu) | 4:58 | 2021-11-21 |  |
 | [好きなのに](https://open.spotify.com/track/0xgGvmREM0eO8P8egYp6gf) | [まるりとりゅうが](https://open.spotify.com/artist/6dcd2CUUMnZjue8tgSE68n) | [はじめまして。](https://open.spotify.com/album/0MoIx8uXbbaokflhIzVAqQ) | 4:19 | 2020-05-19 |  |
 | [寄り酔い](https://open.spotify.com/track/154Jycdld9dX9rBLE6L3v4) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [寄り酔い](https://open.spotify.com/album/1gIajde1Q5nywlwqPNZ68i) | 3:36 | 2022-03-09 |  |
+| [対落](https://open.spotify.com/track/2zpp4VHIh4k1CdgBURnM5P) | [Centimillimental](https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw) | [僕らだけの主題歌](https://open.spotify.com/album/7dX2LTdlPwGavBL3gN4NXf) | 3:41 | 2025-11-17 |  |
 | [小さな恋のうた](https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:42 | 2020-03-01 |  |
 | [帰り道](https://open.spotify.com/track/5vSpNkJEfDmYgkkBD6Vg6k) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [帰り道/Where have you gone](https://open.spotify.com/album/7eO8IeMMKv6AgA0K3x6o4q) | 3:25 | 2020-01-08 |  |
 | [帰ろう](https://open.spotify.com/track/6Dmxt4rbi97c7sjoWRrJoj) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 4:44 | 2020-06-30 |  |
@@ -444,6 +452,7 @@
 | [新世界](https://open.spotify.com/track/4vSfuMisps3hAqliT11Aqd) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [10'S BEST](https://open.spotify.com/album/4znIpWTHyquyN7h10eRnFv) | 5:16 | 2020-06-30 |  |
 | [新世界](https://open.spotify.com/track/5atme1lLuSZ7U0NN23h8Sh) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [HELLO WORLD \(Original Sound Track\)](https://open.spotify.com/album/4A96GTUlSFQTG9JntPrSSQ) | 5:18 | 2020-03-17 |  |
 | [旅立ちの前に](https://open.spotify.com/track/1FpWMTcirff8toGilu4EGT) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [旅立ちの前に](https://open.spotify.com/album/4OMNNnUh9IZ9tMZp9yWQGU) | 4:28 | 2021-05-26 |  |
+| [星が降る](https://open.spotify.com/track/4qyJYAZDR8qc1FrqvxtTYR) | [Centimillimental](https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw) | [星が降る](https://open.spotify.com/album/0kRJqchrgUe86AEc6XmuCA) | 5:59 | 2025-11-17 |  |
 | [春ひさぎ](https://open.spotify.com/track/3opvzEeKvkWEKi0TV2ePbC) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [春ひさぎ](https://open.spotify.com/album/77rZiXsVgvBMtogzAjQjbg) | 3:36 | 2020-06-30 |  |
 | [時が止まればいいのに](https://open.spotify.com/track/2HzvcO4ybDUb4M8G2opPPf) | [まるりとりゅうが](https://open.spotify.com/artist/6dcd2CUUMnZjue8tgSE68n) | [はじめまして。](https://open.spotify.com/album/0MoIx8uXbbaokflhIzVAqQ) | 4:55 | 2020-05-19 |  |
 | [暮れゆく空の彼方に](https://open.spotify.com/track/2rRTnzaNmaEpvjZOEmQF6H) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [Yeah!! Natsuyasumi](https://open.spotify.com/album/3k5IxJ7koQN3zpLFXpyicO) | 5:28 | 2020-06-27 |  |
@@ -457,6 +466,7 @@
 | [水平線](https://open.spotify.com/track/5m1i6hq7dmRlp3c1utE48L) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [水平線](https://open.spotify.com/album/4Z7pjeWlxxT8EXXlxW5i4y) | 4:45 | 2022-03-09 |  |
 | [海のリビング](https://open.spotify.com/track/0CZB07xMxIGRfCZT93ynFj) | [Suzukisuzuki](https://open.spotify.com/artist/76QUiw7IqXtPsy2dqmr2ev) | [海のリビング](https://open.spotify.com/album/6DVkH0UdUTke1mEPZSsf80) | 3:43 | 2022-03-09 |  |
 | [海の幽霊](https://open.spotify.com/track/4HHboK1nN2moxSvQE6Rg3J) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [海の幽霊](https://open.spotify.com/album/526IyVAjasI4guTWPeTqB2) | 3:54 | 2020-03-10 |  |
+| [海へ](https://open.spotify.com/track/0UV888klzGdbyMpwuxPYnK) | [syh](https://open.spotify.com/artist/3bKQgwripMGjcjH3hTjRkW) | [海へ](https://open.spotify.com/album/7BvayWh9X6PeDHXwVbiCyF) | 4:48 | 2025-11-17 |  |
 | [海月](https://open.spotify.com/track/6jCXkVjHAofV72gbR3IcTx) | [Seiya Matsumuro](https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ) | [シティ・ライツ](https://open.spotify.com/album/0OVumDzYnMsgqJk8lp5Hub) | 6:17 | 2020-03-01 |  |
 | [灯火](https://open.spotify.com/track/0YdCBegk4nNMCOeuiY5L0k) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/7bBfstaSAzGc11JfgU40oJ) | 2:58 | 2020-06-19 |  |
 | [灰色と青 \( + 菅田将暉 \)](https://open.spotify.com/track/31wFi94buu7x6KeWFobOaW) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [BOOTLEG](https://open.spotify.com/album/5ztm773WXmGJDkzGWH0YXT) | 5:32 | 2020-03-09 |  |

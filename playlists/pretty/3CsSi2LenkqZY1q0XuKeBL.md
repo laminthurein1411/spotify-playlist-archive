@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3CsSi2LenkqZY1q0XuKeBL.md) - [plain]
 
 > Collection Of All Types Of Music Genres With Japanese Songs.
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 4 likes - 504 songs - 1 day 11 hr 46 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 4 likes - 514 songs - 1 day 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -512,5 +512,15 @@ pretty - [cumulative](/playlists/cumulative/3CsSi2LenkqZY1q0XuKeBL.md) - [plain]
 | 502 | [カワキヲアメク](https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/6R5yCaIbIwK9IQJErCb0FV) | 4:11 |
 | 503 | [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 |
 | 504 | [アイビー](https://open.spotify.com/track/3y3gIFisu61Qc3NtRE7a2r) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [アイビー](https://open.spotify.com/album/58sJhrUW1QEwPl1W1zBPGY) | 4:31 |
+| 505 | [星が降る](https://open.spotify.com/track/4qyJYAZDR8qc1FrqvxtTYR) | [Centimillimental](https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw) | [星が降る](https://open.spotify.com/album/0kRJqchrgUe86AEc6XmuCA) | 5:59 |
+| 506 | [冬のはなし](https://open.spotify.com/track/3VrKkcEm7RYXBI9RLv7SL7) | [ギヴン](https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j) | [gift](https://open.spotify.com/album/7wR9KWzI8aoR89ryUPDhmr) | 3:28 |
+| 507 | [夜が明ける](https://open.spotify.com/track/346M9KFZc9DzgRCRpL4YXq) | [ギヴン](https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j) | [夜が明ける](https://open.spotify.com/album/4ttX6ihcc7gMOOB4bv3UYL) | 4:41 |
+| 508 | [僕らだけの主題歌](https://open.spotify.com/track/0wS1jLwkJkGyMvzyJW5XMy) | [Centimillimental](https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw) | [僕らだけの主題歌](https://open.spotify.com/album/74zMa5sPYuVcxW8eQkpIVW) | 5:21 |
+| 509 | [対落](https://open.spotify.com/track/2zpp4VHIh4k1CdgBURnM5P) | [Centimillimental](https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw) | [僕らだけの主題歌](https://open.spotify.com/album/7dX2LTdlPwGavBL3gN4NXf) | 3:41 |
+| 510 | [うらがわの存在](https://open.spotify.com/track/6sz0Rbp0MbQDIZDz6p5a3O) | [ギヴン](https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j) | [うらがわの存在](https://open.spotify.com/album/4V3O8lJQkUQ5KTXVD6NYt0) | 4:26 |
+| 511 | [ストレイト](https://open.spotify.com/track/46Qfr2EcTsB0H7I1h2XLoc) | [syh](https://open.spotify.com/artist/3bKQgwripMGjcjH3hTjRkW) | [ストレイト](https://open.spotify.com/album/5FigjD6aBPtmy4pHivXAdk) | 2:16 |
+| 512 | [パレイド](https://open.spotify.com/track/7uXzW6dPhkd4NbRv8sLNS6) | [syh](https://open.spotify.com/artist/3bKQgwripMGjcjH3hTjRkW) | [パレイド](https://open.spotify.com/album/5lPGcuP6rKcmkGbI2eOAbD) | 2:41 |
+| 513 | [海へ](https://open.spotify.com/track/0UV888klzGdbyMpwuxPYnK) | [syh](https://open.spotify.com/artist/3bKQgwripMGjcjH3hTjRkW) | [海へ](https://open.spotify.com/album/7BvayWh9X6PeDHXwVbiCyF) | 4:48 |
+| 514 | [冬のはなし \-with 立夏ver.\-](https://open.spotify.com/track/5Hx7H767SqDFuW8aoqPFql) | [ギヴン](https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j) | [冬のはなし \-with 立夏ver.\-](https://open.spotify.com/album/5XN5TWOa79XESseANPQmNk) | 3:26 |
 
-Snapshot ID: `AAACF+Zh4zhN/MgqBAfyaEX7cmVZKtIc`
+Snapshot ID: `AAACIdatFPb7SIVpcIMOw/IEQWAvrN6w`
