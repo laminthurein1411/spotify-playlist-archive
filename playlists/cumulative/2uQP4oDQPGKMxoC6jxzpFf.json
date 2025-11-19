@@ -4555,7 +4555,7 @@
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 224986,
+      "duration_ms": 224423,
       "name": "Best Thing That Ever Happened to Me",
       "url": "https://open.spotify.com/track/0bYwN4LqZYLfs9ZEHPXjBC"
     },
@@ -9889,7 +9889,7 @@
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 250973,
+      "duration_ms": 250970,
       "name": "Cranes in the Sky",
       "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
     },
@@ -11561,7 +11561,7 @@
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 213373,
+      "duration_ms": 213366,
       "name": "Dis Generation (feat. Busta Rhymes)",
       "url": "https://open.spotify.com/track/2Pp3QD3thPnk2kCxmu2MHK"
     },
@@ -15582,6 +15582,46 @@
       "duration_ms": 228835,
       "name": "Fully Completely",
       "url": "https://open.spotify.com/track/7Gj5Gd0IlD4GTxL9bmVZg1"
+    },
+    {
+      "album": {
+        "name": "Stranger in the Alps (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232373,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/4GvdsVns332wQ3JsWAg2OV"
+    },
+    {
+      "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/2bzBJNa70MEQ9nkztvLmiS"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        },
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/05yoo2Hu2A78m4bdUk8ujq"
     },
     {
       "album": {
@@ -20444,6 +20484,24 @@
     {
       "album": {
         "name": "Holding On",
+        "url": "https://open.spotify.com/album/1GhqblHdJTtbfipwdvB5vD"
+      },
+      "artists": [
+        {
+          "name": "Clever Hopes",
+          "url": "https://open.spotify.com/artist/3KGz7mRSlChvSwCI8bUit7"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221330,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/5z5RhvbwIzaGqcu9i4YbF7"
+    },
+    {
+      "album": {
+        "name": "Holding On",
         "url": "https://open.spotify.com/album/1Jy7L7La5zdiW6DICkIWuj"
       },
       "artists": [
@@ -21391,7 +21449,7 @@
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 200186,
+      "duration_ms": 200192,
       "name": "Human",
       "url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O"
     },
@@ -25251,7 +25309,7 @@
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 161533,
+      "duration_ms": 163275,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
     },
@@ -26709,7 +26767,7 @@
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 275720,
+      "duration_ms": 275733,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/0y5CnV2idm2KkQEudDjfDT"
     },
@@ -28606,6 +28664,24 @@
       "duration_ms": 236813,
       "name": "Lost In The Light",
       "url": "https://open.spotify.com/track/0boz2COxgC376hg1Drao5V"
+    },
+    {
+      "album": {
+        "name": "No Cities Left",
+        "url": "https://open.spotify.com/album/644U8dRKV284UXEq4aLQ7C"
+      },
+      "artists": [
+        {
+          "name": "The Dears",
+          "url": "https://open.spotify.com/artist/2qljmykdCfgGy9zUw7UqkX"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290164,
+      "name": "Lost in the Plot",
+      "url": "https://open.spotify.com/track/35w2ArhL2JbnSnaJ3EWGU3"
     },
     {
       "album": {
@@ -35103,6 +35179,24 @@
     },
     {
       "album": {
+        "name": "Two",
+        "url": "https://open.spotify.com/album/58eBrPuCSuuHXQ4lpjYcAA"
+      },
+      "artists": [
+        {
+          "name": "Ria Mae",
+          "url": "https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174027,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/4fkyHLoaE4mc7wzUzZLHzI"
+    },
+    {
+      "album": {
         "name": "Otherside",
         "url": "https://open.spotify.com/album/1N9FTCajqxPioNAbD0clCg"
       },
@@ -36213,7 +36307,7 @@
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 164200,
+      "duration_ms": 164177,
       "name": "Phenomenal Woman",
       "url": "https://open.spotify.com/track/5UKaekWw9wkPts9iORegbP"
     },
@@ -41679,7 +41773,7 @@
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 239626,
+      "duration_ms": 239620,
       "name": "Skin",
       "url": "https://open.spotify.com/track/6y2Kaz9QI01XBKJ8mTb7Pf"
     },
@@ -42073,7 +42167,7 @@
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 183333,
+      "duration_ms": 187440,
       "name": "Smooth Sailin'",
       "url": "https://open.spotify.com/track/3jpeI1goQHPIwwCMxrLrwx"
     },
@@ -42332,6 +42426,24 @@
       "duration_ms": 304413,
       "name": "Soak Up The Sun",
       "url": "https://open.spotify.com/track/5KFk83dKowEmJGCnJeagMe"
+    },
+    {
+      "album": {
+        "name": "Kauai",
+        "url": "https://open.spotify.com/album/0G3xqC6L3eKFNSIaF4MIyi"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252026,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/7CQ2IUALMZScQUbpdiSxdk"
     },
     {
       "album": {
@@ -45943,7 +46055,7 @@
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 204986,
+      "duration_ms": 204595,
       "name": "Talking to You",
       "url": "https://open.spotify.com/track/3N08HLCSwOHhMQKJGIZ7rE"
     },
@@ -50863,6 +50975,24 @@
     },
     {
       "album": {
+        "name": "Unhinged",
+        "url": "https://open.spotify.com/album/3NQxrzLOQvUi82RbGIMgIA"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184711,
+      "name": "Unhinged",
+      "url": "https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5"
+    },
+    {
+      "album": {
         "name": "The Collection (Standard Edition)",
         "url": "https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg"
       },
@@ -55075,6 +55205,24 @@
     },
     {
       "album": {
+        "name": "Gossip In The Grain",
+        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231840,
+      "name": "You Are the Best Thing",
+      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
+    },
+    {
+      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -55126,6 +55274,24 @@
       "duration_ms": 167933,
       "name": "You Can't Hurry Love",
       "url": "https://open.spotify.com/track/6kAS4yj3wHJXcLp93vr5aG"
+    },
+    {
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/5cERxgxqQGUNmqEjsaz0B8"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "date_added": "2025-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194853,
+      "name": "You Can't Judge A Book By Its Cover",
+      "url": "https://open.spotify.com/track/4HEmPMRG1Mz4pYEpYbWTO0"
     },
     {
       "album": {
