@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/0tSyqg2TUZxNhLw1DVKPe8.md) - [plain]
 
 > Created by Deej\-A.I\. https:&\#x2F;&\#x2F;deej\-ai.online
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 10 songs - 35 min 23 sec
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 10 songs - 35 min 27 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Georgia On My Mind](https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 4:19 |
+| 1 | [Georgia On My Mind](https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 4:22 |
 | 2 | [For A Spanish Guitar](https://open.spotify.com/track/6W0UUyajTqT4iRS26NQemb) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [White Light](https://open.spotify.com/album/00QhioPN9frbBoaG7m2mut) | 4:58 |
 | 3 | [Sweet Memories](https://open.spotify.com/track/0F10lU6k6XEkDthWKAja9r) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [One Hell Of A Ride](https://open.spotify.com/album/4Jh0a4YXdXmIMaB0oIWyqv) | 3:12 |
 | 4 | [Almost Blue \- Live](https://open.spotify.com/track/681R81RqnIJtkWIzhxxQeP) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn), [Vince Mendoza](https://open.spotify.com/artist/4E9rsN1uXPIM0zc9CwVBSt), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Costello: My Flame Burns Blue](https://open.spotify.com/album/6ZuCP20E1helW6c703zLYs) | 5:51 |

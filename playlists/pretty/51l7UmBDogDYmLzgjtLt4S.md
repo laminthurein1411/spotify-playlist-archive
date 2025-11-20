@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/51l7UmBDogDYmLzgjtLt4S.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 1 like - 58 songs - 3 hr 29 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 1 like - 58 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/51l7UmBDogDYmLzgjtLt4S.md) - [plain]
 | 52 | [Psycho](https://open.spotify.com/track/0GSCAqCsmp7OVUWwC6sSgT) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Psycho](https://open.spotify.com/album/0kWahEXdUersaxWrukioH2) | 2:53 |
 | 53 | [Sleeping Dogs](https://open.spotify.com/track/3xUDy5p6nu58LCVHa1JCXp) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Slow Horses: Season 1 \(ATV+ Original Series Soundtrack\)](https://open.spotify.com/album/2AjxTLIWa6qnYhylH9xCZV) | 2:22 |
 | 54 | [Carmina Burana / Fortuna imperatrix mundi: I\. "O Fortuna" \- Live from the Forbidden City](https://open.spotify.com/track/0LT1AhcewOnBZZNqReeZTc) | [Carl Orff](https://open.spotify.com/artist/4LXxsm5BF85PWnQ1dUDAze), [Wiener Singakademie](https://open.spotify.com/artist/20R3tA1uiP0SgbejFVSNjH), [Heinz Ferlesch](https://open.spotify.com/artist/0VKN4RBetJqIFLNAU58W15), [Shanghai Symphony Orchestra](https://open.spotify.com/artist/5axjIS5grj9EJYzXJW10IY), [Long Yu](https://open.spotify.com/artist/6PDtLxf4LD0rK9J055kocq) | [Orff: Carmina Burana \(Live from the Forbidden City\)](https://open.spotify.com/album/3IN29kXvjOrTNzCqiMnHMd) | 2:18 |
-| 55 | [Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:48 |
+| 55 | [Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:47 |
 | 56 | [Dead But Pretty](https://open.spotify.com/track/1s5xcMrCKYWMgLNke6u2Ri) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [KISS OF DEATH](https://open.spotify.com/album/3egxaOj9p2ytra4fo0DL9z) | 2:45 |
 | 57 | [Le Monde \- From Talk to Me](https://open.spotify.com/track/424DkevE18QJazwlljiTD4) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [Talk to Me \(Original Soundtrack\)](https://open.spotify.com/album/1d1ZEmPwvPZXIOQRqjDBkw) | 2:14 |
 | 58 | [I Wanna Be Your Boyfriend](https://open.spotify.com/track/0vwg93DXwMDgFsVvWjNdBO) | [Hot Freaks](https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9) | [Hot Freaks](https://open.spotify.com/album/3ddMQ2PZjiD8Zxm0lu92rb) | 2:36 |

@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "1950",
+        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225133,
+      "name": "1950",
+      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
+    },
+    {
+      "album": {
         "name": "mySOUL",
         "url": "https://open.spotify.com/album/0qXCohVBpF3muXSZc9sDyJ"
       },
@@ -505,7 +523,7 @@
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 217346,
+      "duration_ms": 217573,
       "name": "50 Ways to Leave Your Lover",
       "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
     },
@@ -595,7 +613,7 @@
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 162466,
+      "duration_ms": 166749,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
@@ -873,7 +891,7 @@
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 427693,
+      "duration_ms": 427407,
       "name": "A House Is Not a Home",
       "url": "https://open.spotify.com/track/4gFVTfg1EFuuXJguJe1Z7W"
     },
@@ -1173,7 +1191,7 @@
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 278746,
+      "duration_ms": 278757,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/5AnCLGg35ziFOloEnXK4uu"
     },
@@ -1903,7 +1921,7 @@
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 269560,
+      "duration_ms": 269556,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
     },
@@ -5587,6 +5605,24 @@
     },
     {
       "album": {
+        "name": "Good Buddy",
+        "url": "https://open.spotify.com/album/2iIkOsqJ9gRP8oEM2NRvfQ"
+      },
+      "artists": [
+        {
+          "name": "FONTINE",
+          "url": "https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Body Double",
+      "url": "https://open.spotify.com/track/5EewQq5LmalL8a9NiWXIGh"
+    },
+    {
+      "album": {
         "name": "Body To Body",
         "url": "https://open.spotify.com/album/2xBsIALzD8MjPfSzlQFc1c"
       },
@@ -6473,7 +6509,7 @@
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 200733,
+      "duration_ms": 200573,
       "name": "Budapest",
       "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
     },
@@ -8521,7 +8557,7 @@
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 166453,
+      "duration_ms": 170143,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/46pF1zFimM582ss1PrMy68"
     },
@@ -9373,7 +9409,7 @@
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 280040,
+      "duration_ms": 279973,
       "name": "Coming of Age",
       "url": "https://open.spotify.com/track/1yzbqrSF0vuaO7nuKYSd6f"
     },
@@ -10321,7 +10357,7 @@
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 266000,
+      "duration_ms": 266155,
       "name": "Dance With My Father",
       "url": "https://open.spotify.com/track/7snmvZMLdGGk3l9PcvoYSM"
     },
@@ -10705,7 +10741,7 @@
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 234333,
+      "duration_ms": 235142,
       "name": "Daughter - Remastered",
       "url": "https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw"
     },
@@ -12201,6 +12237,24 @@
     },
     {
       "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193346,
+      "name": "Don't Stop - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
+    },
+    {
+      "album": {
         "name": "Miss Thang",
         "url": "https://open.spotify.com/album/71mPApAzW9HkbUGdYzMQHb"
       },
@@ -13037,7 +13091,7 @@
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 196186,
+      "duration_ms": 196195,
       "name": "Elderly Woman Behind the Counter in a Small Town - Remastered",
       "url": "https://open.spotify.com/track/5lHgBqh9VwAAzQma55gHRY"
     },
@@ -13247,7 +13301,7 @@
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 259665,
+      "duration_ms": 261093,
       "name": "Endless Love (with Mariah Carey)",
       "url": "https://open.spotify.com/track/7IljDTNkQEyy77CcaRbiAj"
     },
@@ -14162,6 +14216,24 @@
       "duration_ms": 161360,
       "name": "FAR AWAY",
       "url": "https://open.spotify.com/track/12H6iTEgiX4HPnCPphYSMk"
+    },
+    {
+      "album": {
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/77VQ2I9lStc8xdvLCra1RE"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227542,
+      "name": "Farmhouse",
+      "url": "https://open.spotify.com/track/08JK3XQdO3Fzgj6PsRQS86"
     },
     {
       "album": {
@@ -19109,7 +19181,7 @@
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 285706,
+      "duration_ms": 285462,
       "name": "Heartbreaker (feat. JAY-Z)",
       "url": "https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO"
     },
@@ -20885,7 +20957,7 @@
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 157040,
+      "duration_ms": 159796,
       "name": "Hot Fun in the Summertime - Mono Single Master",
       "url": "https://open.spotify.com/track/4t6NQkpUmvpvLDCkl3XuwA"
     },
@@ -22805,7 +22877,7 @@
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 291293,
+      "duration_ms": 292875,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
@@ -24027,7 +24099,7 @@
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 293386,
+      "duration_ms": 295171,
       "name": "In My Secret Life",
       "url": "https://open.spotify.com/track/31TADh49q4s4jm6lGDeIrd"
     },
@@ -27319,6 +27391,24 @@
     },
     {
       "album": {
+        "name": "It\u2019s Not That Deep",
+        "url": "https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2025-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183247,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O"
+    },
+    {
+      "album": {
         "name": "Symphony in Effect",
         "url": "https://open.spotify.com/album/1gz6hrPGkSNJCQa6fuN3ns"
       },
@@ -28697,7 +28787,7 @@
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 226946,
+      "duration_ms": 227052,
       "name": "Lost in the Supermarket - Remastered",
       "url": "https://open.spotify.com/track/72boGlgSwUK01n44O2tOCv"
     },
@@ -32581,7 +32671,7 @@
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 230466,
+      "duration_ms": 230269,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
     },
@@ -41117,7 +41207,7 @@
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 188986,
+      "duration_ms": 188987,
       "name": "Should I Stay or Should I Go - Remastered",
       "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
     },
@@ -46585,7 +46675,7 @@
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 291320,
+      "duration_ms": 291073,
       "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
       "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
     },
@@ -48471,7 +48561,7 @@
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 245293,
+      "duration_ms": 245786,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
     },
@@ -48685,7 +48775,7 @@
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 225920,
+      "duration_ms": 226605,
       "name": "These Eyes",
       "url": "https://open.spotify.com/track/5lEyMg4GNKnMbaarvT4sRd"
     },
@@ -49287,7 +49377,7 @@
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 288720,
+      "duration_ms": 289186,
       "name": "Thunder Road",
       "url": "https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk"
     },
@@ -50113,7 +50203,7 @@
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 194666,
+      "duration_ms": 192454,
       "name": "Train in Vain (Stand by Me) - Remastered",
       "url": "https://open.spotify.com/track/6ITuEsxEy2qPhqMowdDAeI"
     },
@@ -53909,7 +53999,7 @@
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 170640,
+      "duration_ms": 170651,
       "name": "White & Nerdy (Parody of \"Ridin'\" by Chamillionaire feat. Krayzie Bone)",
       "url": "https://open.spotify.com/track/60R2v9lheAu3lwZwAFxMZK"
     },
@@ -54652,7 +54742,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 168562,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
@@ -54761,7 +54851,7 @@
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 223120,
+      "duration_ms": 223119,
       "name": "Word Crimes",
       "url": "https://open.spotify.com/track/4JqQWAr47pGEoaMArpA7Z3"
     },
@@ -55235,7 +55325,7 @@
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 280000,
+      "duration_ms": 280586,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
     },
