@@ -601,6 +601,24 @@
     },
     {
       "album": {
+        "name": "Happiness Is Going To Get You",
+        "url": "https://open.spotify.com/album/2MhRCfdhN8os29CovIIsqV"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159945,
+      "name": "7th Floor",
+      "url": "https://open.spotify.com/track/09zVY3bc1dyrNSQrZcJ9UB"
+    },
+    {
+      "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
@@ -26351,6 +26369,24 @@
     },
     {
       "album": {
+        "name": "LOVE ON DIGITAL",
+        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236635,
+      "name": "KISSING IN PUBLIC",
+      "url": "https://open.spotify.com/track/6sJR82bgpwFPjzB1DHzGw8"
+    },
+    {
+      "album": {
         "name": "Knock The Door",
         "url": "https://open.spotify.com/album/26PFj9ecPuBhsQ0vQnc3sS"
       },
@@ -28708,6 +28744,24 @@
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
+    },
+    {
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
     },
     {
       "album": {
@@ -32205,6 +32259,24 @@
     },
     {
       "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243586,
+      "name": "Mysterious Ways",
+      "url": "https://open.spotify.com/track/50JK22El2PTIzZBU2liLDI"
+    },
+    {
+      "album": {
         "name": "It's Only a Little Loneliness",
         "url": "https://open.spotify.com/album/4ZRQS7I2IlLKLNyDV6ON7P"
       },
@@ -34471,24 +34543,6 @@
     },
     {
       "album": {
-        "name": "Lucius",
-        "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "date_added": "2025-08-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 278920,
-      "name": "Old Tape",
-      "url": "https://open.spotify.com/track/3eczqzv8ScyR9VjHjD3kjl"
-    },
-    {
-      "album": {
         "name": "Gold Rush",
         "url": "https://open.spotify.com/album/5PCVQKjEnyxqaWi9M45Gz9"
       },
@@ -34522,6 +34576,24 @@
       "duration_ms": 278853,
       "name": "Old Tape (feat. Adam Granduciel)",
       "url": "https://open.spotify.com/track/2EPD0p64N6mDkbme9gNrHK"
+    },
+    {
+      "album": {
+        "name": "Lucius",
+        "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278920,
+      "name": "Old Tape (feat. Adam Granduciel)",
+      "url": "https://open.spotify.com/track/3eczqzv8ScyR9VjHjD3kjl"
     },
     {
       "album": {
@@ -34576,6 +34648,24 @@
       "duration_ms": 199352,
       "name": "OMG",
       "url": "https://open.spotify.com/track/52VcoJ6ZsMyXiTy6bMCCj5"
+    },
+    {
+      "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226133,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI"
     },
     {
       "album": {
@@ -51580,6 +51670,24 @@
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
+    },
+    {
+      "album": {
+        "name": "Strange Trip Ahead",
+        "url": "https://open.spotify.com/album/3IILNy0XPiGB4g8jtm9Agp"
+      },
+      "artists": [
+        {
+          "name": "Mariel Buckley",
+          "url": "https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254772,
+      "name": "Vending Machines",
+      "url": "https://open.spotify.com/track/4OoQp7wJMut10OSeVFzFuS"
     },
     {
       "album": {
