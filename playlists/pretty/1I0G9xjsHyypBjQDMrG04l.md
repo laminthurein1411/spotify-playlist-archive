@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1I0G9xjsHyypBjQDMrG04l.md) - [plain]
 
 > Automatically updated playlist of songs played on the WILD 94.9 radio station: Top 40, New Hit Music radio station in San Francisco Bay Area\. \(no duplicates\)
 
-[scfi](https://open.spotify.com/user/stephenip10) - 1,957 likes - 841 songs - 1 day 23 hr 9 min
+[scfi](https://open.spotify.com/user/stephenip10) - 1,958 likes - 841 songs - 1 day 23 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

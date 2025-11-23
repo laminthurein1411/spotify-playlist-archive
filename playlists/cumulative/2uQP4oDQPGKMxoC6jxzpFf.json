@@ -25395,6 +25395,24 @@
     },
     {
       "album": {
+        "name": "Rain Dogs (2023 Remaster)",
+        "url": "https://open.spotify.com/album/51CvLH7MxsLuFgTwVvzApx"
+      },
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166573,
+      "name": "Jockey Full Of Bourbon - 2023 Remaster",
+      "url": "https://open.spotify.com/track/2WictPRLvPfwd9bgjHt9K3"
+    },
+    {
+      "album": {
         "name": "Joey",
         "url": "https://open.spotify.com/album/7okiABgKTNJeHh4kpx2ry6"
       },
@@ -33702,6 +33720,24 @@
       "duration_ms": 201278,
       "name": "No Wonder",
       "url": "https://open.spotify.com/track/26E7c125wkzIcTSBdC8th3"
+    },
+    {
+      "album": {
+        "name": "No Wonder",
+        "url": "https://open.spotify.com/album/0IKRk05mSAHnmnjM6OIav9"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201278,
+      "name": "No Wonder",
+      "url": "https://open.spotify.com/track/7JAoHbIqVDYcfQtvcQIiqj"
     },
     {
       "album": {
@@ -51065,6 +51101,24 @@
     },
     {
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345360,
+      "name": "Tyrone - Extended Version",
+      "url": "https://open.spotify.com/track/5h5BrNPFvc4IXfCgnZJ2lT"
+    },
+    {
+      "album": {
         "name": "Please Hammer Don't Hurt 'Em",
         "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
       },
@@ -52280,6 +52334,24 @@
       "duration_ms": 201040,
       "name": "War Face",
       "url": "https://open.spotify.com/track/0pINKK9wp6OdMVgbXutkYY"
+    },
+    {
+      "album": {
+        "name": "On Top of The Covers",
+        "url": "https://open.spotify.com/album/3nrTn6ARC5PpGw1DZysRNU"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379647,
+      "name": "War Pigs",
+      "url": "https://open.spotify.com/track/5YZXVNIzaJquPCaSCePq98"
     },
     {
       "album": {

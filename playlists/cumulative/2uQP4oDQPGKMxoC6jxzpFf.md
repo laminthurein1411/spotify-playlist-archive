@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,025 songs - 7 day 21 hr 8 min
+3,029 songs - 7 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1369,6 +1369,7 @@
 | [Jessie’s Girl](https://open.spotify.com/track/2KgbSelPWubEiPbwpI8VUN) | [Mary Lambert](https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA) | [Heart On My Sleeve](https://open.spotify.com/album/7465SFJqro6TQRkVHAajN4) | 3:30 | 2024-12-08 |  |
 | [Jesus Children](https://open.spotify.com/track/6hgrKSQrK7mx0xMOMr75tY) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Malcolm Jamal Warner](https://open.spotify.com/artist/6A9y5Imt5aHX9zmpthihDL) | [Black Radio 2 \(Deluxe\)](https://open.spotify.com/album/1KT2Z6ctgebnYJFuas27AX) | 5:29 | 2025-07-26 |  |
 | [Jim Carrey](https://open.spotify.com/track/7iMX7Qg21N73YZvQ8R6srB) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/37EYSu5EaOgHhB7stzTkHn) | 3:03 | 2025-02-03 |  |
+| [Jockey Full Of Bourbon \- 2023 Remaster](https://open.spotify.com/track/2WictPRLvPfwd9bgjHt9K3) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Rain Dogs \(2023 Remaster\)](https://open.spotify.com/album/51CvLH7MxsLuFgTwVvzApx) | 2:46 | 2025-11-22 |  |
 | [Joey](https://open.spotify.com/track/5SRnNKI1cLQOLDBclOfIEP) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Joey](https://open.spotify.com/album/7okiABgKTNJeHh4kpx2ry6) | 3:56 | 2025-05-06 |  |
 | [Johnny](https://open.spotify.com/track/3CwXVufJkL9YDzznX2lwHH) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Die 4 Ur Love](https://open.spotify.com/album/0jO4fXVHqEh3J1OgCfkxoi) | 3:33 | 2025-02-23 |  |
 | [Johnny Come Home](https://open.spotify.com/track/4fFxkU9C7prSviiYtvlV8V) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [Fine Young Cannibals](https://open.spotify.com/album/7KQgihtbLnpyr3KVk9OqYB) | 3:35 | 2025-01-17 |  |
@@ -1816,6 +1817,7 @@
 | [No Woman No Cry](https://open.spotify.com/track/2yrtWT6W4KUMbfNtBcH8iN) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:33 | 2025-03-12 |  |
 | [No Woman, No Cry](https://open.spotify.com/track/5bUVHuzQh5mkvMPjUU074i) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:33 | 2025-05-16 |  |
 | [No Wonder](https://open.spotify.com/track/26E7c125wkzIcTSBdC8th3) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [No Wonder](https://open.spotify.com/album/6RJuDAODnxAKIkXTxNhKHx) | 3:21 | 2024-11-28 |  |
+| [No Wonder](https://open.spotify.com/track/7JAoHbIqVDYcfQtvcQIiqj) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [No Wonder](https://open.spotify.com/album/0IKRk05mSAHnmnjM6OIav9) | 3:21 | 2025-11-22 |  |
 | [No, No, No, Pt\. 1](https://open.spotify.com/track/2pdzseh7ELZCKlXXXX4anK) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny's Child](https://open.spotify.com/album/3zB2PjaK4CDzxBErKvDvfo) | 4:07 | 2025-07-09 |  |
 | [Nobody](https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 3:13 | 2025-04-13 |  |
 | [Nobody's Soldier](https://open.spotify.com/track/3rnAobCeh4uD1NfNpbNc2e) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3nXgYu1LTKBflY7ES8WEdo) | 3:57 | 2024-12-07 |  |
@@ -2742,6 +2744,7 @@
 | [Type Dangerous](https://open.spotify.com/track/2G0ut5Ii61RrxTjr18sYnI) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 2:55 | 2025-10-07 |  |
 | [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 | 2025-06-18 |  |
 | [Type Dangerous \- The Brazil Funk Remix](https://open.spotify.com/track/7xa8fAugOwINDATQGs8y8J) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Type Dangerous \- The Remixes](https://open.spotify.com/album/7Jv4EKxbrxJYaatg4lSd4v) | 2:26 | 2025-07-22 |  |
+| [Tyrone \- Extended Version](https://open.spotify.com/track/5h5BrNPFvc4IXfCgnZJ2lT) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Live](https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX) | 5:45 | 2025-11-22 |  |
 | [U Can't Touch This](https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu) | [MC Hammer](https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW) | [Please Hammer Don't Hurt 'Em](https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN) | 4:17 | 2025-02-12 |  |
 | [U Got It Bad](https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:07 | 2025-06-20 |  |
 | [U\-turn](https://open.spotify.com/track/5VvR8ub7sv0x27WYlDgWIt) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Love You to Death](https://open.spotify.com/album/0zqoBumDciJGNoOsvfTP5U) | 2:58 | 2025-03-22 |  |
@@ -2807,6 +2810,7 @@
 | [Want You Back](https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:52 | 2024-12-01 |  |
 | [War Cry](https://open.spotify.com/track/3yXLUhbX6hAhGEffYt3m1S) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Watin](https://open.spotify.com/album/42rAIuXgRtLB5Qe6Lur5AN) | 3:42 | 2025-01-13 |  |
 | [War Face](https://open.spotify.com/track/0pINKK9wp6OdMVgbXutkYY) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [Lone Wolf](https://open.spotify.com/album/5yJaELdErAYjZKkR8rsSzK) | 3:21 | 2025-01-09 |  |
+| [War Pigs](https://open.spotify.com/track/5YZXVNIzaJquPCaSCePq98) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [On Top of The Covers](https://open.spotify.com/album/3nrTn6ARC5PpGw1DZysRNU) | 6:19 | 2025-11-22 |  |
 | [War Pigs / Luke's Wall \- 2012 \- Remaster](https://open.spotify.com/track/2rd9ETlulTbz6BYZcdvIE1) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 7:54 | 2025-11-01 |  |
 | [Warbler](https://open.spotify.com/track/4v0UFyLoGY8kUykeyEwypJ) | [The Hello Crows](https://open.spotify.com/artist/6NpbbwjbGrOS1qWi3K2IrU) | [Warbler](https://open.spotify.com/album/4ZACCkn0NOqszPnohawpah) | 3:32 | 2025-06-22 |  |
 | [Wash Your Face In My Sink](https://open.spotify.com/track/33thSPOfzybaOuyZb3ZLpm) | [Dream Warriors](https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU) | [And Now The Legacy Begins](https://open.spotify.com/album/6AelbV20VsSWwnYhalKjdd) | 3:40 | 2025-01-31 |  |
