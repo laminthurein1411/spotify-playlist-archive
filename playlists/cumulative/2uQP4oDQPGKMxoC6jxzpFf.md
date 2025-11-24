@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,029 songs - 7 day 21 hr 26 min
+3,031 songs - 7 day 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -929,6 +929,7 @@
 | [Gone Daddy Gone](https://open.spotify.com/track/7mVoBnU3mxV5Q6n4DmOv6K) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 3:06 | 2025-04-14 |  |
 | [Gone Gone Gone \(Done Moved On\)](https://open.spotify.com/track/7MRw8W5jZoG0SNNcHLgkEO) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raising Sand](https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n) | 3:32 | 2024-12-13 |  |
 | [Good Buddy](https://open.spotify.com/track/6g2lV7jTfCUfcq51KK1tge) | [FONTINE](https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy) | [Good Buddy](https://open.spotify.com/album/2pVUCn4axh12NiqvpajS3e) | 2:34 | 2025-08-08 |  |
+| [Good Buddy](https://open.spotify.com/track/7s3LXB2IecZ0E3pijltHKu) | [FONTINE](https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy) | [Good Buddy](https://open.spotify.com/album/2iIkOsqJ9gRP8oEM2NRvfQ) | 2:34 | 2025-11-23 |  |
 | [Good Dream](https://open.spotify.com/track/1U4jlnas1vDAI9BNtpyohV) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [Good Dream / Stowaway](https://open.spotify.com/album/3nIJ6OwyVRrRaV3iynN5HE) | 3:03 | 2025-03-20 |  |
 | [Good Dream](https://open.spotify.com/track/4GsuTxzqtKbhEBb2gFYa3A) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [I'm A TV](https://open.spotify.com/album/05BuE3SIGlbsHhGN1rBstS) | 3:03 | 2025-10-23 |  |
 | [Good Enough](https://open.spotify.com/track/2h31JBzjZP1XztFIhVZ5eB) | [July Talk](https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq) | [Pray For It](https://open.spotify.com/album/4IDCNcbSrNEeZqUzbZ8b34) | 4:12 | 2025-01-11 |  |
@@ -1219,6 +1220,7 @@
 | [I Love You I Don't Love You I Don't Know](https://open.spotify.com/track/3VYTQPLzAh24WKMBkM2KQ4) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Why You Wanna Leave, Runaway Queen?](https://open.spotify.com/album/0oTTQnhihdD5IDQeW2xoVL) | 3:47 | 2024-12-19 |  |
 | [I Love You, I Don’t Love You, I Don’t Know](https://open.spotify.com/track/3HEmmZ9uCsaCCuv2jhJbX5) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Why You Wanna Leave, Runaway Queen?](https://open.spotify.com/album/1KCKZT0JfjVXGrTyYrqEMb) | 3:47 | 2025-08-05 |  |
 | [I Melt with You](https://open.spotify.com/track/3xzRBn3ywzobJrc1efC7Sb) | [Modern English](https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF) | [After the Snow](https://open.spotify.com/album/6Pz5ErA6rBH5ErKP3i06qM) | 4:11 | 2025-01-07 |  |
+| [I Melt with You](https://open.spotify.com/track/2uvrwAz8xNOeru9s4SxIi8) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Silja](https://open.spotify.com/artist/0tIcOIn4jRTGXAM6FwIAt0) | [Nouvelle vague](https://open.spotify.com/album/5odsgd8X7BBy1azAyyKZGY) | 4:00 | 2025-11-23 |  |
 | [I Miss Those Days](https://open.spotify.com/track/7kK5ihEqZcXEWr1r8o99E2) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:37 | 2025-06-01 |  |
 | [I Need A Dollar](https://open.spotify.com/track/3oUphdZVPyrsprZ8FgbmQS) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Good Things](https://open.spotify.com/album/6G9PvX9f6Dq26JzsiVHIdl) | 4:03 | 2025-02-03 |  |
 | [I Pity the Country](https://open.spotify.com/track/2Daa5UT9Sym9EQtVW9H7k7) | [Leanne Betasamosake Simpson](https://open.spotify.com/artist/6REprvUcVwBr69s8NfEQj4) | [Theory of Ice](https://open.spotify.com/album/5mNIgEkN9LCFvLDO6r9rw1) | 4:54 | 2025-06-22 |  |

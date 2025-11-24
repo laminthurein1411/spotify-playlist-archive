@@ -17191,6 +17191,24 @@
     },
     {
       "album": {
+        "name": "Good Buddy",
+        "url": "https://open.spotify.com/album/2iIkOsqJ9gRP8oEM2NRvfQ"
+      },
+      "artists": [
+        {
+          "name": "FONTINE",
+          "url": "https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154853,
+      "name": "Good Buddy",
+      "url": "https://open.spotify.com/track/7s3LXB2IecZ0E3pijltHKu"
+    },
+    {
+      "album": {
         "name": "Good Dream / Stowaway",
         "url": "https://open.spotify.com/album/3nIJ6OwyVRrRaV3iynN5HE"
       },
@@ -22600,6 +22618,28 @@
       "duration_ms": 251573,
       "name": "I Melt with You",
       "url": "https://open.spotify.com/track/3xzRBn3ywzobJrc1efC7Sb"
+    },
+    {
+      "album": {
+        "name": "Nouvelle vague",
+        "url": "https://open.spotify.com/album/5odsgd8X7BBy1azAyyKZGY"
+      },
+      "artists": [
+        {
+          "name": "Nouvelle Vague",
+          "url": "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
+        },
+        {
+          "name": "Silja",
+          "url": "https://open.spotify.com/artist/0tIcOIn4jRTGXAM6FwIAt0"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240880,
+      "name": "I Melt with You",
+      "url": "https://open.spotify.com/track/2uvrwAz8xNOeru9s4SxIi8"
     },
     {
       "album": {
