@@ -1,13 +1,37 @@
 {
   "description": "Automatically updated playlist of songs played on the WILD 94.9 radio station: Top 40, New Hit Music radio station in San Francisco Bay Area. (no duplicates)",
-  "num_followers": 1958,
+  "num_followers": 1959,
   "original_name": "WILD 94.9 Radio Station",
   "owner": {
     "name": "scfi",
     "url": "https://open.spotify.com/user/stephenip10"
   },
-  "snapshot_id": "AAAGCXOssLbyr1R+y8r8AYWxJ5VQR9R+",
+  "snapshot_id": "AAAGCxSP3hPHSBSssU/NIv/Aihn/X0SU",
   "tracks": [
+    {
+      "added_at": "2025-11-24 14:30:17",
+      "album": {
+        "name": "Gone Gone Gone",
+        "url": "https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 198004,
+      "name": "Gone Gone Gone",
+      "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
+    },
     {
       "added_at": "2025-11-19 07:00:17",
       "album": {
@@ -3571,22 +3595,6 @@
       "duration_ms": 208946,
       "name": "Find Your Love",
       "url": "https://open.spotify.com/track/4BycRneKmOs6MhYG9THsuX"
-    },
-    {
-      "added_at": "2024-09-25 07:00:21",
-      "album": {
-        "name": "Heatstroke",
-        "url": "https://open.spotify.com/album/0K1FyZLvPpqJPofQukKbhL"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Heatstroke",
-      "url": "https://open.spotify.com/track/1Bs8WpjQ8s2QE9jgh27fUB"
     },
     {
       "added_at": "2024-09-08 03:30:20",

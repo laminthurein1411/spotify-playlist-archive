@@ -4,7 +4,7 @@
 
 > Collection Of All Types Of Music Genres With Japanese Songs.
 
-509 songs - 1 day 12 hr 3 min
+510 songs - 1 day 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [summertime](https://open.spotify.com/track/172zA5Yn0YzayQWvEJuGAm) | [cinnamons](https://open.spotify.com/artist/5aAe7DHdSJgTpBijaxTUaf), [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [summertime](https://open.spotify.com/album/0CvEmNg3fc8Dh6E4ERIPli) | 4:11 | 2020-03-17 |  |
 | [Super Shooter](https://open.spotify.com/track/6B1Ume5T9fCaZKGfGp2UWA) | [RIP SLYME](https://open.spotify.com/artist/5kgH3qVSSDPPmKnQfrkblH) | [GOOD TIMES](https://open.spotify.com/album/4xhOTN0Ao4XlQ7eDsjcWbh) | 4:44 | 2020-03-01 |  |
 | [Sweeping Memories](https://open.spotify.com/track/6Qk01TqqQ4j232MMvaJ6vt) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [Kiki's Delivery Service Vocal Album](https://open.spotify.com/album/27471z8AFf0kAwhrNZjuyX) | 4:45 | 2020-07-16 |  |
+| [The Cruel Angel's Thesis \(Director's Edit Version\)](https://open.spotify.com/track/3x4378ztiLvFmm2nuzEI0C) | [高橋　洋子](https://open.spotify.com/artist/7E5MrVWMFeqB4lK3xCEL6B) | [NEON GENESIS EVANGELION \(Original Series Soundtrack\)](https://open.spotify.com/album/4vwgTxjKwiSWfEoGOqhiWa) | 4:05 | 2025-11-24 |  |
 | [The Hero / One\-Punch Man \- Japanese](https://open.spotify.com/track/3dNKHeRYSWpn1i9qUay6Em) | [Rob Lundgren](https://open.spotify.com/artist/3CXPg5iixXzuMX1RUhd7Ni), [Nirre](https://open.spotify.com/artist/20DiMPAwPJvUhM58ZNMDBY) | [Covers the World, Vol\. 3](https://open.spotify.com/album/2nvvivPsvk4APObgeGG4W4) | 1:27 | 2020-03-24 |  |
 | [The Light](https://open.spotify.com/track/1XBVkvA7EFAdM5uF5KVoDO) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Kizuna AI](https://open.spotify.com/artist/2nKGmC5Mc13ct02xAY8ccS) | [The Light](https://open.spotify.com/album/0WNJQmwLIiG61dal8eb0WL) | 2:45 | 2020-03-10 |  |
 | [The Love We've Made](https://open.spotify.com/track/4DuBh90Ptapbo30LMVYJML) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [eyes](https://open.spotify.com/album/50BlleBqX2CiTpTjvpCgPh) | 3:24 | 2020-06-30 |  |

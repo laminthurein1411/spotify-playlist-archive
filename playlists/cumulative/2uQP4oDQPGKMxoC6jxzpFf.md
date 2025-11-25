@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,031 songs - 7 day 21 hr 33 min
+3,033 songs - 7 day 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1545,6 +1545,7 @@
 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 | 2025-10-22 |  |
 | [LONELY HEARTS](https://open.spotify.com/track/2hwFDV2RHB6C5dJ5Fq0UDY) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DIARY FOR THE LONELY HEARTS](https://open.spotify.com/album/3Ezv3QTAvXYrD7x00UG97J) | 3:25 | 2025-05-09 |  |
 | [LONELY HEARTS](https://open.spotify.com/track/5T00I9mmODSgccQH3AsZYh) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DIARY FOR THE LONELY HEARTS](https://open.spotify.com/album/15Hcu8TpsQaXn6VcI7axfb) | 3:25 | 2025-01-14 |  |
+| [Lonely Love](https://open.spotify.com/track/7hkw8UsnUSBI5BTrf6Dx9l) | [Mo Kenney](https://open.spotify.com/artist/37bB4IgC1rMZekz2XvshyS) | [Lonely Love](https://open.spotify.com/album/5GsmDkp9E5DgS8fy6aN4pm) | 3:09 | 2025-11-24 |  |
 | [Long Train Running](https://open.spotify.com/track/333bLeCs2SWX5COzf1ac2D) | [Bananarama](https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx) | [Pop Life \(Collector's Edition\)](https://open.spotify.com/album/2sUnfFZmrSyjgsYuj3zX9o) | 3:30 | 2024-12-04 |  |
 | [Look at Me Now](https://open.spotify.com/track/0dcuh08Qmeacu0et9yz2gd) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Scenery](https://open.spotify.com/album/5Q1QrtmEGrT0UqGlaMPzpf) | 3:12 | 2025-10-29 |  |
 | [Lose Control \(feat\. Ciara & Fat Man Scoop\)](https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [The Cookbook](https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K) | 3:46 | 2025-08-02 |  |
@@ -2268,6 +2269,7 @@
 | [SKODEN](https://open.spotify.com/track/1nhcsAm554MdmY79NrLlhl) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Zhawenim](https://open.spotify.com/album/4cktud6ZSAorujL3Ft3Bnw) | 3:33 | 2024-11-24 |  |
 | [Sky High](https://open.spotify.com/track/7F9K69ywGHjiuiXfkdrG2P) | [Tia Wood](https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC) | [Pretty Red Bird](https://open.spotify.com/album/4CVvKdcEb3rkac230DsOQB) | 2:56 | 2024-12-07 |  |
 | [Sky's the Limit \(feat\. 112\) \- 2014 Remaster](https://open.spotify.com/track/0xdYzkbBBfTevSyOJqWUSX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 5:29 | 2025-02-25 |  |
+| [Slanted](https://open.spotify.com/track/1Qc07xFZtoVauMsFnlxXed) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [Slanted](https://open.spotify.com/album/7gxPP42HXKFhHaeHVY3GQw) | 2:18 | 2025-11-24 |  |
 | [Sleeper](https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Sleeper](https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD) | 4:04 | 2024-12-08 |  |
 | [Sleepwalking](https://open.spotify.com/track/050TMrxpzlXGYRDAjnrSp6) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:45 | 2025-01-05 |  |
 | [Slicked Back Hair](https://open.spotify.com/track/0ZhStYZNAZZk52Udk4sREx) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Slicked Back Hair](https://open.spotify.com/album/7gxQnRYlUl5UkH1KMuxZRJ) | 2:42 | 2025-09-25 |  |

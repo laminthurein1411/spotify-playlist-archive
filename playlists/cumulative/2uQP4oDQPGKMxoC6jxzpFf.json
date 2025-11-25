@@ -28671,6 +28671,24 @@
     },
     {
       "album": {
+        "name": "Lonely Love",
+        "url": "https://open.spotify.com/album/5GsmDkp9E5DgS8fy6aN4pm"
+      },
+      "artists": [
+        {
+          "name": "Mo Kenney",
+          "url": "https://open.spotify.com/artist/37bB4IgC1rMZekz2XvshyS"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189493,
+      "name": "Lonely Love",
+      "url": "https://open.spotify.com/track/7hkw8UsnUSBI5BTrf6Dx9l"
+    },
+    {
+      "album": {
         "name": "Pop Life (Collector's Edition)",
         "url": "https://open.spotify.com/album/2sUnfFZmrSyjgsYuj3zX9o"
       },
@@ -42206,6 +42224,24 @@
       "duration_ms": 329426,
       "name": "Sky's the Limit (feat. 112) - 2014 Remaster",
       "url": "https://open.spotify.com/track/0xdYzkbBBfTevSyOJqWUSX"
+    },
+    {
+      "album": {
+        "name": "Slanted",
+        "url": "https://open.spotify.com/album/7gxPP42HXKFhHaeHVY3GQw"
+      },
+      "artists": [
+        {
+          "name": "Shad",
+          "url": "https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138761,
+      "name": "Slanted",
+      "url": "https://open.spotify.com/track/1Qc07xFZtoVauMsFnlxXed"
     },
     {
       "album": {

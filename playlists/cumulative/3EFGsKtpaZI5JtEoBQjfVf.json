@@ -1595,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "Best I've Found",
+        "url": "https://open.spotify.com/album/0ahn66Llwp3h9JVXoNaT9k"
+      },
+      "artists": [
+        {
+          "name": "Yes Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171651,
+      "name": "Best I've Found",
+      "url": "https://open.spotify.com/track/0aTBWw56m2qpmy0WdEdjZq"
+    },
+    {
+      "album": {
         "name": "I LEFT MYY HEART OUT WEST",
         "url": "https://open.spotify.com/album/6nwl0MVK57lBELY6Vloiz4"
       },
@@ -2620,6 +2638,24 @@
       "duration_ms": 327584,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/64fFsjcOMJcHNfpeqMx1w7"
+    },
+    {
+      "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
       "album": {
@@ -4567,6 +4603,28 @@
     },
     {
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/1NATXlXj7ZUSJuAbLoQyIE"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138795,
+      "name": "FaceTime (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/7bxtXC2RHjmd7yNQPnbiZI"
+    },
+    {
+      "album": {
         "name": "Falling out of Touch",
         "url": "https://open.spotify.com/album/7be7aajivvusaA65WdhpZQ"
       },
@@ -5805,6 +5863,24 @@
     },
     {
       "album": {
+        "name": "HANDS",
+        "url": "https://open.spotify.com/album/2KTzR18cs1Oj7US8wUXFvi"
+      },
+      "artists": [
+        {
+          "name": "WAAX",
+          "url": "https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175693,
+      "name": "HANDS",
+      "url": "https://open.spotify.com/track/64QFjvDeg3YVf9oGkASVx3"
+    },
+    {
+      "album": {
         "name": "Hannah",
         "url": "https://open.spotify.com/album/1Yn4AIEEgUQcKTG20EJziF"
       },
@@ -5820,6 +5896,24 @@
       "duration_ms": 189000,
       "name": "Hannah",
       "url": "https://open.spotify.com/track/2xPC3ORH1X2bWZqa2rewJe"
+    },
+    {
+      "album": {
+        "name": "EUSEXUA Afterglow",
+        "url": "https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214125,
+      "name": "HARD",
+      "url": "https://open.spotify.com/track/5AzO8bswSqsYtJIfVA2BqX"
     },
     {
       "album": {
@@ -7067,6 +7161,24 @@
     },
     {
       "album": {
+        "name": "In Twos",
+        "url": "https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166897,
+      "name": "In Twos",
+      "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
+    },
+    {
+      "album": {
         "name": "Inferno",
         "url": "https://open.spotify.com/album/2Ztfpa7y9zCMUGoyF0GFiM"
       },
@@ -8203,6 +8315,24 @@
     },
     {
       "album": {
+        "name": "Dean's Home",
+        "url": "https://open.spotify.com/album/6PlMdUOo0eMq6u4ZNSOoBr"
+      },
+      "artists": [
+        {
+          "name": "Dean Brady",
+          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183042,
+      "name": "Looking for Trouble",
+      "url": "https://open.spotify.com/track/7x2ILyNOw4bofJSL7IKAyy"
+    },
+    {
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj"
       },
@@ -8984,6 +9114,24 @@
       "duration_ms": 182616,
       "name": "million times",
       "url": "https://open.spotify.com/track/14ecReKKTaW1TTTwm2wq00"
+    },
+    {
+      "album": {
+        "name": "Miss Erotica",
+        "url": "https://open.spotify.com/album/4RCODSJEhuEtzxYai4toJa"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150614,
+      "name": "Miss Erotica",
+      "url": "https://open.spotify.com/track/5PNy5elvtxQgYtossfpgAI"
     },
     {
       "album": {
@@ -9840,6 +9988,24 @@
       "duration_ms": 196923,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/6ozVpMaT25G5u9V9B1R8JL"
+    },
+    {
+      "album": {
+        "name": "Airheaded",
+        "url": "https://open.spotify.com/album/5ZuJagEURomOFnub9N6P2B"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9lie Farren",
+          "url": "https://open.spotify.com/artist/6xRbdqe7I2llmjw533rYnG"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187042,
+      "name": "Ocean Sounds",
+      "url": "https://open.spotify.com/track/5PAOchxqQRT4P0q1eECVt8"
     },
     {
       "album": {
@@ -10809,6 +10975,28 @@
     },
     {
       "album": {
+        "name": "Give Me All Your Love",
+        "url": "https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        },
+        {
+          "name": "Meg Mac",
+          "url": "https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242753,
+      "name": "Queen Of The World",
+      "url": "https://open.spotify.com/track/4Mw1EvjALlaA1Xy7rwfb9O"
+    },
+    {
+      "album": {
         "name": "RACER",
         "url": "https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk"
       },
@@ -11630,6 +11818,24 @@
       "duration_ms": 174288,
       "name": "SLIDE",
       "url": "https://open.spotify.com/track/0Jij0ywlT1cCn8MqmSmj4E"
+    },
+    {
+      "album": {
+        "name": "SLOW DOWN",
+        "url": "https://open.spotify.com/album/4kPj7R7jJBHYFo26X3MVyk"
+      },
+      "artists": [
+        {
+          "name": "Newport",
+          "url": "https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198740,
+      "name": "SLOW DOWN",
+      "url": "https://open.spotify.com/track/6XfHOmKvxgtbbRE61jP6ni"
     },
     {
       "album": {
@@ -13582,6 +13788,24 @@
       "duration_ms": 190728,
       "name": "Toyota Camry",
       "url": "https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa"
+    },
+    {
+      "album": {
+        "name": "Tracy",
+        "url": "https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0"
+      },
+      "artists": [
+        {
+          "name": "PASH",
+          "url": "https://open.spotify.com/artist/3jEgbW70PXxv993symSK35"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "Tracy",
+      "url": "https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC"
     },
     {
       "album": {

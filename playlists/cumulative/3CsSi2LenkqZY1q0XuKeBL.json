@@ -4531,6 +4531,24 @@
     },
     {
       "album": {
+        "name": "NEON GENESIS EVANGELION (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4vwgTxjKwiSWfEoGOqhiWa"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6a4b\u3000\u6d0b\u5b50",
+          "url": "https://open.spotify.com/artist/7E5MrVWMFeqB4lK3xCEL6B"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245093,
+      "name": "The Cruel Angel's Thesis (Director's Edit Version)",
+      "url": "https://open.spotify.com/track/3x4378ztiLvFmm2nuzEI0C"
+    },
+    {
+      "album": {
         "name": "Covers the World, Vol. 3",
         "url": "https://open.spotify.com/album/2nvvivPsvk4APObgeGG4W4"
       },
