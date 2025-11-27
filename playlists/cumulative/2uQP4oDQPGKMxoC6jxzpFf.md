@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,039 songs - 7 day 22 hr 2 min
+3,043 songs - 7 day 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1186,6 +1186,7 @@
 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 | 2024-12-12 |  |
 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:38 | 2024-11-27 |  |
 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 | 2025-06-09 |  |
+| [I Can See Clearly Now](https://open.spotify.com/track/7aJZxI6TVdIvQSuWxQ4rqp) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [We All Are One: The Best Of Jimmy Cliff](https://open.spotify.com/album/0g0F1l0hQ1nZTelBbmlmB5) | 3:16 | 2025-11-26 |  |
 | [I Can't Impress You](https://open.spotify.com/track/61IkHt1VGPzsGtSb0GzkyK) | [Dennis Ellsworth](https://open.spotify.com/artist/3YZWrLzjRyroaj0DVpPEFd) | [Hardcore Freewheelin'](https://open.spotify.com/album/4FbvWomQowF9pSEP5fVGBO) | 3:26 | 2025-05-16 |  |
 | [I Can't Stand The Rain](https://open.spotify.com/track/5EdKQSvlFXptbMPxEPdWX8) | [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Ladies & Gentlemen..\. Nigel Hall](https://open.spotify.com/album/2qXzKYKvPw58rsYwU1Eu56) | 4:06 | 2025-02-27 |  |
 | [I Can't Stand Up For Falling Down](https://open.spotify.com/track/2Hd2wSNaIujq6CYVp2wLl6) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Get Happy](https://open.spotify.com/album/38sLlYZ4sdfm5SvjmshqcY) | 2:06 | 2024-12-14 |  |
@@ -1479,6 +1480,7 @@
 | [Le grand rendez\-vous](https://open.spotify.com/track/3m37sRlDSQwESGfgdgm3vG) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII) | [Le grand rendez\-vous](https://open.spotify.com/album/0KqBsV2qciDizQ3EzToWtE) | 3:06 | 2025-10-19 |  |
 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 | 2025-09-04 |  |
 | [Learning To Fly](https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 4:02 | 2025-01-08 |  |
+| [LEARNING TO LET GO](https://open.spotify.com/track/4kpfcyJunli1ItlRyp7OXv) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [LEARNING TO LET GO](https://open.spotify.com/album/5Kaox65VYgYqGERbe1YrPK) | 3:16 | 2025-11-26 |  |
 | [Leave \(Get Out\)](https://open.spotify.com/track/3QigOeWryUCP56I1IlTB9x) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [JoJo](https://open.spotify.com/album/33t6wEe101JYowTIA4ESw8) | 4:02 | 2024-12-07 |  |
 | [Leaving On A Jet Plane](https://open.spotify.com/track/2tFYV2RZGwRLCmfDqfI3OT) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Since We Met: The Best of 1996\-2006](https://open.spotify.com/album/67QWVDS41ddKIKYhlsJjJt) | 4:40 | 2025-06-07 |  |
 | [Lemongrass](https://open.spotify.com/track/60Kmo3ctvORB7cjEoeGMrO) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Uncle Fester](https://open.spotify.com/artist/1NDO9FL12aOUTjSL6BdZMU) | [Bleeding Gums Murphy](https://open.spotify.com/album/50cl5MGwlLCVUdHgQ43R8I) | 3:52 | 2025-05-15 |  |
@@ -2519,6 +2521,7 @@
 | [Teeth](https://open.spotify.com/track/0JNgAdyuKvjdepuvm1OPmX) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Teeth](https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0) | 2:52 | 2025-08-08 |  |
 | [Teeth](https://open.spotify.com/track/6b5p4KfEO2DEfa8Wu46qJY) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Teeth](https://open.spotify.com/album/0NSSmu9dVU5TGt5B1euw7U) | 2:52 | 2025-03-14 |  |
 | [Telephones](https://open.spotify.com/track/7KdThN9wfuIGdPWEIdG5G8) | [Mo Kenney](https://open.spotify.com/artist/37bB4IgC1rMZekz2XvshyS) | [In My Dreams](https://open.spotify.com/album/6n6FyijPCjhk5WgvhXF8yu) | 3:09 | 2025-11-11 |  |
+| [Tell It to My Heart](https://open.spotify.com/track/3YVPpVJvJG2EauXurPA90F) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Tell It to My Heart \(Expanded Edition\)](https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk) | 3:40 | 2025-11-26 |  |
 | [Tell Me](https://open.spotify.com/track/581KISzBIATjlONj5MbPQe) | [BROS](https://open.spotify.com/artist/4b2FejUQCLbLbalnwPyLQc) | [Vol\. 1](https://open.spotify.com/album/1q8IVSmI5N41iEuhMyX3Bf) | 3:51 | 2025-06-24 |  |
 | [Tell Me How](https://open.spotify.com/track/00RDBupKs9RP0YQEBrKn1i) | [Loryn Taggart](https://open.spotify.com/artist/2DwFvKJOTB8DNK7j0q3HaO) | [Tell Me How](https://open.spotify.com/album/60QZB4L7P6e41u3rNBgB2m) | 4:25 | 2024-11-21 |  |
 | [Tell Me How](https://open.spotify.com/track/0AAb8t7o7HreZ5KdfUCKrh) | [Loryn Taggart](https://open.spotify.com/artist/2DwFvKJOTB8DNK7j0q3HaO) | [Tell Me How](https://open.spotify.com/album/4ISjGPqN1SRuNEfmAmR80s) | 4:25 | 2025-04-08 | 2025-07-16 |
@@ -2777,6 +2780,7 @@
 | [Up To My Neck In You](https://open.spotify.com/track/3NZUpiDCW5NjnAQextLN57) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Up To My Neck In You](https://open.spotify.com/album/7b4GM8ZlUOt3hFgvXcUKn5) | 3:51 | 2025-08-22 |  |
 | [Up Top](https://open.spotify.com/track/1AgKm1bLfkByxpONHlaLLk) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Uncommon Good](https://open.spotify.com/album/29r3Vl3AHVHiYIQB3mwkW7) | 4:37 | 2025-01-26 |  |
 | [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 | 2025-05-10 |  |
+| [Upside Down \(Candy Crush\)](https://open.spotify.com/track/1WCzVWXNgKiadQJiOhYGbL) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Upside Down \(Candy Crush\)](https://open.spotify.com/album/7r5mhyO9C2p6mvRRP8YDHf) | 3:29 | 2025-11-26 |  |
 | [Upward Over the Mountain](https://open.spotify.com/track/7fLBwcH8ixVT0kD5KFqfu7) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Creek Drank the Cradle](https://open.spotify.com/album/6ntb18dIoT5KvUFwWgkmMw) | 5:56 | 2024-12-14 |  |
 | [Use Me](https://open.spotify.com/track/1rk6KmLoVPmJ1qtOVhVdd6) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/6q8R2OCmCS9W6Y7kqnSd78) | 5:05 | 2024-12-07 |  |
 | [Use Me](https://open.spotify.com/track/66H52V5uGd9AOGHVrnV25U) | [jacksoul](https://open.spotify.com/artist/3xEW8BqMGXWkxTZbQhtnLE), [BLACK ALLIANCE](https://open.spotify.com/artist/5iHKSmOgoWIIS1Nz7gHgoF) | [Use Me](https://open.spotify.com/album/00r3qLARw5dMsm7flbj1mk) | 3:23 | 2025-02-13 |  |

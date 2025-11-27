@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Dsp6i8lvmcTg5aiusjnFH.md) - [plain]
 
 > 
 
-[Samuel Ilias](https://open.spotify.com/user/12120151714) - 136,165 likes - 3,065 songs - 7 day 23 hr 26 min
+[Samuel Ilias](https://open.spotify.com/user/12120151714) - 136,193 likes - 3,065 songs - 7 day 23 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1730,7 +1730,7 @@ pretty - [cumulative](/playlists/cumulative/0Dsp6i8lvmcTg5aiusjnFH.md) - [plain]
 | 1720 | [Paradise](https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:42 |
 | 1721 | [Barcelona](https://open.spotify.com/track/1yJZwBqTyGTB7mz8nZyiel) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage](https://open.spotify.com/album/5tF2lAa2rh2kU2xIiBzWia) | 3:08 |
 | 1722 | [If I Could Turn Back Time](https://open.spotify.com/track/0eHZ7dpv4iT7bMEYDoILIa) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/60Q5H9OJaMs0sFzImKDJ8s) | 3:59 |
-| 1723 | [Too Many Times](https://open.spotify.com/track/1O1ZV7eutpuHYNvuzaUwqz) | [Mental As Anything](https://open.spotify.com/artist/6PFydyUHMKD2jm5NXzRPiK) | [Essential as Anything \(30th Anniversary Edition\) \[Audio Version\]](https://open.spotify.com/album/2H32rwTnGWdb30AESVHNJr) | 2:38 |
+| 1723 | [Too Many Times](https://open.spotify.com/track/1O1ZV7eutpuHYNvuzaUwqz) | [Mental As Anything](https://open.spotify.com/artist/6PFydyUHMKD2jm5NXzRPiK) | [Essential as Anything \(30th Anniversary Edition\) \(Audio Version\)](https://open.spotify.com/album/2H32rwTnGWdb30AESVHNJr) | 2:38 |
 | 1724 | [Start Me Up](https://open.spotify.com/track/6ml6iL8HUdQKgtMaehAZc8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/1YvnuYGlblQ5vLnOhaZzpn) | 3:33 |
 | 1725 | [When We Stand Together](https://open.spotify.com/track/4bCOAuhvjsxbVBM5MM8oik) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Here and Now](https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd) | 3:10 |
 | 1726 | [Act Yr Age](https://open.spotify.com/track/3HLicjnTcxTyykFvlHJxd7) | [Bluejuice](https://open.spotify.com/artist/7sCcPQQft3sSxcJaB30dlb) | [Company](https://open.spotify.com/album/14G6bEuRS9A0vETVepVQRQ) | 3:20 |
