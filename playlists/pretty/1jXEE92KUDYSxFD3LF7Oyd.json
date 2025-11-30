@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAAYHAmL0LbRBoLIZ49TEHhIeFUZ7J3",
+  "snapshot_id": "AAAAYSu9KVLAQgJ+yTXzXmoZfPUKx8as",
   "tracks": [
     {
       "added_at": "2022-05-07 13:03:51",
@@ -2487,6 +2487,22 @@
       "duration_ms": 196706,
       "name": "Les rois du monde (Th\u00e8me de \"Rom\u00e9o et Juliette, de la haine \u00e0 l'amour\" - La com\u00e9die musicale)",
       "url": "https://open.spotify.com/track/6nJyEWfTU0qWxBA3bJuJYc"
+    },
+    {
+      "added_at": "2025-11-29 11:41:49",
+      "album": {
+        "name": "Azis 2014",
+        "url": "https://open.spotify.com/album/4eob5WbssPxs5RqRQ61zau"
+      },
+      "artists": [
+        {
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "Sen Trope",
+      "url": "https://open.spotify.com/track/11ELEGzmuK6ENekjKFai3e"
     }
   ],
   "unique_name": "European \ud83c\udfe4",

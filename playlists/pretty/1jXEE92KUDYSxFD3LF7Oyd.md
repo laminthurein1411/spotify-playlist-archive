@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 152 songs - 8 hr 11 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 153 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,5 +160,6 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 150 | [Je m'voyais déjà](https://open.spotify.com/track/359TSLfG30WauDV96x2PxJ) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Je m'voyais déjà](https://open.spotify.com/album/57ECx8bMhG0vJK9tcKpm9s) | 3:24 |
 | 151 | [Hier encore](https://open.spotify.com/track/66TDFKCZpMRfLcgJpa15xq) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Que c'est triste Venise](https://open.spotify.com/album/3kZ8kQRYbgqgD5HVEsAzv1) | 2:23 |
 | 152 | [Les rois du monde \(Thème de "Roméo et Juliette, de la haine à l'amour" \- La comédie musicale\)](https://open.spotify.com/track/6nJyEWfTU0qWxBA3bJuJYc) | [Stars en scène](https://open.spotify.com/artist/5jWrGVHPMo5jdOQNMbcafu) | [Les plus grandes comédies musicales, Vol\. 2](https://open.spotify.com/album/4Yf7trzH83p3XAafB03yqA) | 3:16 |
+| 153 | [Sen Trope](https://open.spotify.com/track/11ELEGzmuK6ENekjKFai3e) | [Azis](https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1) | [Azis 2014](https://open.spotify.com/album/4eob5WbssPxs5RqRQ61zau) | 3:32 |
 
-Snapshot ID: `AAAAYHAmL0LbRBoLIZ49TEHhIeFUZ7J3`
+Snapshot ID: `AAAAYSu9KVLAQgJ+yTXzXmoZfPUKx8as`

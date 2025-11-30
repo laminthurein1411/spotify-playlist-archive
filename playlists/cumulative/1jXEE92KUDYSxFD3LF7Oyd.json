@@ -2209,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "Azis 2014",
+        "url": "https://open.spotify.com/album/4eob5WbssPxs5RqRQ61zau"
+      },
+      "artists": [
+        {
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212586,
+      "name": "Sen Trope",
+      "url": "https://open.spotify.com/track/11ELEGzmuK6ENekjKFai3e"
+    },
+    {
+      "album": {
         "name": "Soarele si Luna",
         "url": "https://open.spotify.com/album/49qCedDRPg3yBRXtVmBYqJ"
       },

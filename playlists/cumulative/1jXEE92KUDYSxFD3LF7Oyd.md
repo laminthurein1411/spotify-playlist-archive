@@ -4,7 +4,7 @@
 
 > 
 
-152 songs - 8 hr 12 min
+153 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Santa Maria](https://open.spotify.com/track/3wfQEIvOfeVkXgGZogK3gL) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Santa Maria](https://open.spotify.com/album/7sxlz5Rgse37BmYI6MdqMc) | 3:09 | 2022-05-07 |  |
 | [Santiano](https://open.spotify.com/track/5xacwJHf9yLJKCn5JjSiRz) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5) | 2:12 | 2023-12-09 |  |
 | [Santé](https://open.spotify.com/track/3Mcxi78U3lCjt8DMKa6YY4) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:11 | 2022-05-07 |  |
+| [Sen Trope](https://open.spotify.com/track/11ELEGzmuK6ENekjKFai3e) | [Azis](https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1) | [Azis 2014](https://open.spotify.com/album/4eob5WbssPxs5RqRQ61zau) | 3:32 | 2025-11-29 |  |
 | [Soarele si Luna](https://open.spotify.com/track/6SO3p9lb1qiPMN1e7iHAjv) | [Pasha Parfeni](https://open.spotify.com/artist/1J9gxGgm6LhmCwTCdekIXb) | [Soarele si Luna](https://open.spotify.com/album/49qCedDRPg3yBRXtVmBYqJ) | 2:58 | 2023-05-27 |  |
 | [Taxi](https://open.spotify.com/track/1dvlLMVlu14AP9psmzfZuH) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/0pcRdTAIkItbFdyRA4CVZM) | 4:18 | 2023-05-05 |  |
 | [Tempête](https://open.spotify.com/track/4zeo96p50qBwUysP5tcbM9) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/0pcRdTAIkItbFdyRA4CVZM) | 3:40 | 2023-05-05 |  |
