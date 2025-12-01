@@ -4,7 +4,7 @@
 
 > 
 
-3,067 songs - 7 day 23 hr 34 min
+3,068 songs - 7 day 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2208,6 +2208,7 @@
 | [SAD!](https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:46 | 2019-07-17 |  |
 | [Safe And Sound](https://open.spotify.com/track/6BnONjR7itGMEqwxKTIlRM) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/5ps3FwS0qGdRCvXop8q9vn) | 3:12 | 2017-04-16 |  |
 | [Sail](https://open.spotify.com/track/5xhQChGGhKLWqBqX4XhtYE) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony Deluxe](https://open.spotify.com/album/6dMfMvS3hyk3ZCl4yljEDD) | 4:19 | 2017-03-06 |  |
+| [Sailing](https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:16 | 2025-11-30 |  |
 | [Saltpissed](https://open.spotify.com/track/4utP0q7JxduZ9TAxTv5NmJ) | [BOCCE](https://open.spotify.com/artist/1X51we90z0a5VkjBTy1GYd) | [While We Wait](https://open.spotify.com/album/5xKj8F7L6JzW0vlgcxJMUH) | 4:05 | 2022-08-26 |  |
 | [Same Love \(feat\. Mary Lambert\)](https://open.spotify.com/track/01uqI4H13Gsd8Lyl1EYd8H) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Mary Lambert](https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA) | [The Heist](https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8) | 5:18 | 2017-03-13 |  |
 | [Sandstorm](https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Before the Storm, Special Edition](https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo) | 3:45 | 2017-01-18 |  |

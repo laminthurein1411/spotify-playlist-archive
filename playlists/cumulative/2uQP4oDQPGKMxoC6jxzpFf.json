@@ -277,6 +277,24 @@
     },
     {
       "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/5aRmeQVSfJ0R1gjTbGq6mX"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183666,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/5euhdy9cnRoS8rfoud52BK"
+    },
+    {
+      "album": {
         "name": "Roadhouse 01",
         "url": "https://open.spotify.com/album/3CbNgBzI7r9o0F6VjH9sTY"
       },
@@ -2054,6 +2072,24 @@
       "duration_ms": 165370,
       "name": "All The Things I Wasn't",
       "url": "https://open.spotify.com/track/54nKrmdmySSSBNgFKB2P55"
+    },
+    {
+      "album": {
+        "name": "Bahamas Is Afie",
+        "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234973,
+      "name": "All The Time",
+      "url": "https://open.spotify.com/track/0qI1W6chJgvrSAzAkX9JBa"
     },
     {
       "album": {
@@ -9119,6 +9155,28 @@
     },
     {
       "album": {
+        "name": "When Flowers Bloom",
+        "url": "https://open.spotify.com/album/2lq4xT9TgZb6Rcio6x4P0N"
+      },
+      "artists": [
+        {
+          "name": "Adria Kain",
+          "url": "https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y"
+        },
+        {
+          "name": "Leila Dey",
+          "url": "https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173444,
+      "name": "Classic (feat. Leila Dey)",
+      "url": "https://open.spotify.com/track/6ldSqE9raZgUQH3Gt4KyHK"
+    },
+    {
+      "album": {
         "name": "SYML",
         "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
       },
@@ -14045,6 +14103,24 @@
     },
     {
       "album": {
+        "name": "Solitudes",
+        "url": "https://open.spotify.com/album/0q7qInfdzXEaJxQt1YNvvi"
+      },
+      "artists": [
+        {
+          "name": "Matt Holubowski",
+          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258839,
+      "name": "Exhale/Inhale",
+      "url": "https://open.spotify.com/track/2GZuhBnGy4oNHcDrDTzTp0"
+    },
+    {
+      "album": {
         "name": "Straight Outta Compton",
         "url": "https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW"
       },
@@ -18129,6 +18205,24 @@
     },
     {
       "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "album": {
         "name": "Dr. Seuss' How The Grinch Stole Christmas",
         "url": "https://open.spotify.com/album/3eWFPHtloHTw9Ilod4Ivi6"
       },
@@ -21556,6 +21650,24 @@
       "duration_ms": 232440,
       "name": "How Could You Babe",
       "url": "https://open.spotify.com/track/2Bx62uYPdyvACpPB0gu7MX"
+    },
+    {
+      "album": {
+        "name": "Please Clap Your Hands",
+        "url": "https://open.spotify.com/album/4yt5JKsDA1F6XIKt0vrNpd"
+      },
+      "artists": [
+        {
+          "name": "the bird and the bee",
+          "url": "https://open.spotify.com/artist/65XA3lk0aG9XejO8y37jjD"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204653,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/4DDD2P6dJurAgk3IYWqK3p"
     },
     {
       "album": {
@@ -29358,6 +29470,24 @@
       "duration_ms": 249586,
       "name": "Lost In Yesterday",
       "url": "https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB"
+    },
+    {
+      "album": {
+        "name": "FILM NOIR",
+        "url": "https://open.spotify.com/album/0FffqcK2whBazSFcAIxebQ"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189471,
+      "name": "LOST MY MIND IN PARIS",
+      "url": "https://open.spotify.com/track/1p7HFcNMWbxEndrxP5sU1d"
     },
     {
       "album": {
@@ -39948,6 +40078,28 @@
       "duration_ms": 190185,
       "name": "Royals",
       "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
+    },
+    {
+      "album": {
+        "name": "Rubber Band Man (with Hozier)",
+        "url": "https://open.spotify.com/album/2L7tp1R1F3f2KOLCGkmzDp"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220266,
+      "name": "Rubber Band Man (with Hozier)",
+      "url": "https://open.spotify.com/track/5DJ0y9uatNMVRCqLtFxGPR"
     },
     {
       "album": {

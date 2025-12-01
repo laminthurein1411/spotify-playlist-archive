@@ -4,7 +4,7 @@
 
 > 
 
-56 songs - 2 hr 54 min
+57 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Il suono dei passi](https://open.spotify.com/track/5hEunran57tbGy5xHeDnbp) | [Andrea Guerra](https://open.spotify.com/artist/2RH4zVV2q0H5iVnfSl7XFz) | [Nuovo Olimpo \(Musiche dal film Netflix\)](https://open.spotify.com/album/5WOpX1MSBSauxKJdC4yakZ) | 1:21 | 2023-11-07 |  |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2023-07-18 |  |
 | [Kingdom Dance \- From "Tangled"/Score](https://open.spotify.com/track/0jkGkwy510cvhy0jYPFme4) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 2:20 | 2025-10-23 |  |
+| [L'amore dice ciao \(From "La matriarca \- The Libertine"\) \- Main Titles](https://open.spotify.com/track/5UYsWTdlcRc22ilaY3VyL0) | [Armando Trovajoli](https://open.spotify.com/artist/5PHOUKyz1tjA3vaDPIIVE0) | [Romantic, Film Music Collection](https://open.spotify.com/album/1ipQF6GjDEbb690XMVdVdQ) | 3:12 | 2025-11-30 |  |
 | [La Campanella](https://open.spotify.com/track/1IRqLBc1JAKIsLcOKwIMyY) | [Niccolò Paganini](https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q), [Salvatore Accardo](https://open.spotify.com/artist/4J806QjdyKrK4guMFMRzKc), [Orchestra Da Camera Italiana](https://open.spotify.com/artist/1VtgLYQd3dXtIBfQFHWqab) | [The Best of Violin](https://open.spotify.com/album/1AsHcz9FEbdN0tk3UW4pwA) | 9:11 | 2023-03-26 |  |
 | [La foule \- Symphonique, orch\. Nathan Stornetta](https://open.spotify.com/track/2rQrEv6WPmqys743IVtkG7) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j), [Legendis Orchestra](https://open.spotify.com/artist/1XvxY2rMMnLfsXRW6hbpkA) | [Symphonique](https://open.spotify.com/album/3ry22siNcsQCSbklOtdTR7) | 2:59 | 2023-10-15 |  |
 | [Le Mans 66](https://open.spotify.com/track/3zm3jy3iQlIwRGC7D5LyFz) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Buck Sanders](https://open.spotify.com/artist/3kd5QEBANOWwymbZwmQ3uT) | [Ford v Ferrari \(Original Score\)](https://open.spotify.com/album/1n4U9TkpKGcaG47DXCVINp) | 5:42 | 2023-09-03 |  |

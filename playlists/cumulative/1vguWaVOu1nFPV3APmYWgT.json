@@ -497,6 +497,24 @@
     },
     {
       "album": {
+        "name": "Romantic, Film Music Collection",
+        "url": "https://open.spotify.com/album/1ipQF6GjDEbb690XMVdVdQ"
+      },
+      "artists": [
+        {
+          "name": "Armando Trovajoli",
+          "url": "https://open.spotify.com/artist/5PHOUKyz1tjA3vaDPIIVE0"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192466,
+      "name": "L'amore dice ciao (From \"La matriarca - The Libertine\") - Main Titles",
+      "url": "https://open.spotify.com/track/5UYsWTdlcRc22ilaY3VyL0"
+    },
+    {
+      "album": {
         "name": "The Best of Violin",
         "url": "https://open.spotify.com/album/1AsHcz9FEbdN0tk3UW4pwA"
       },

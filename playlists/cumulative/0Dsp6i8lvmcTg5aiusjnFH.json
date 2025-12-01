@@ -42481,6 +42481,24 @@
     },
     {
       "album": {
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256146,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
+    },
+    {
+      "album": {
         "name": "While We Wait",
         "url": "https://open.spotify.com/album/5xKj8F7L6JzW0vlgcxJMUH"
       },

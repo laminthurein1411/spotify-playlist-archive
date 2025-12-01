@@ -66967,6 +66967,22 @@
     {
       "added_at": "2024-05-20 06:15:43",
       "album": {
+        "name": "Abend - 80s",
+        "url": "https://open.spotify.com/album/0IJq3sXm5zB7mlwpihAA2J"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "The Living Daylights",
+      "url": "https://open.spotify.com/track/1IcISYEumt4MPAMnI908bN"
+    },
+    {
+      "added_at": "2024-05-20 06:15:43",
+      "album": {
         "name": "Ohio Players",
         "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
       },
