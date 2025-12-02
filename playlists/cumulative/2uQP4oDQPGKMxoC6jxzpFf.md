@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,069 songs - 7 day 23 hr 54 min
+3,071 songs - 8 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2393,6 +2393,7 @@
 | [Spirit](https://open.spotify.com/track/2THafljJQ7WhO4AlrVzTI8) | [Wintersleep](https://open.spotify.com/artist/1VrpL9mx2a6WRolLh7mHrE) | [The Great Detachment](https://open.spotify.com/album/4qDqVhOlfvARuMQmN1Xm73) | 3:36 | 2024-12-19 |  |
 | [Spirits](https://open.spotify.com/track/60T49w6pqDRRVJQ2hWUd1c) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Spirits](https://open.spotify.com/album/546Fl3Gns3Fttgm5bdRO1Y) | 3:14 | 2025-02-02 |  |
 | [Spit It Out \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/73pICiosjURf6HJ6XEoexu) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [TIMELESS](https://open.spotify.com/album/4kPTj6wYQUYtgBOZb1E6Pg) | 3:39 | 2024-11-22 |  |
+| [stabilise](https://open.spotify.com/track/1HHvqhsTBnxz6ii0nmZNbH) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/6nA31S4tEamZaWmvIA0qae) | 3:32 | 2025-12-01 |  |
 | [Stadium Pow Wow](https://open.spotify.com/track/10qUlM8qSsDUoEaw4vNFeJ) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z), [Black Bear](https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7) | [Stadium Pow Wow](https://open.spotify.com/album/3cfp4IU8MrGQcxqSShCgA6) | 3:27 | 2025-06-21 |  |
 | [Stage Fright \- Remastered 2000](https://open.spotify.com/track/7uYK13jsmGi8flq2bF6r90) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA), [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Stage Fright \(Expanded Edition\)](https://open.spotify.com/album/4AxJWv0DDSY96U5ETJcCaY) | 3:43 | 2025-08-15 |  |
 | [Stand By Me](https://open.spotify.com/track/3azS2MvwBQ1ekjIXCzVXEr) | [Bearhead Sisters](https://open.spotify.com/artist/3lM0lK4jIbgoZTOfxisYcH) | [Women's Journey](https://open.spotify.com/album/0tCB9ISvkCoyhAraeW3mcJ) | 3:52 | 2025-07-01 |  |
@@ -2922,6 +2923,7 @@
 | [What You Won't Do For Love](https://open.spotify.com/track/7FbS2TMmzyxEeiRsykzq0e) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Devotion \- The Gold Edition \(Deluxe Version\)](https://open.spotify.com/album/4g6eC6k3MUgz0Yy0op86Z5) | 4:04 | 2025-11-06 |  |
 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 | 2024-11-28 |  |
 | [What's Going On \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:35 | 2025-02-05 |  |
+| [What's Love Got to Do with It](https://open.spotify.com/track/5QU6EDtAtaKhh671YPW21j) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Stray Birds](https://open.spotify.com/album/5DbN44ad4PlRnjprexxLlW) | 3:57 | 2025-12-01 |  |
 | [What...?](https://open.spotify.com/track/2zkp8sFTnlN7xBrxnG5PA6) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 2:26 | 2024-11-21 |  |
 | [Whatever It Takes](https://open.spotify.com/track/7bwC7LVX6ggTACrN6wfxLy) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Retriever](https://open.spotify.com/album/6fiR4UKCzgxWXTHJbN5T4J) | 3:20 | 2024-12-07 |  |
 | [Whatta Man](https://open.spotify.com/track/7sJN693sYKEIEMu7fc5VnJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ), [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 5:08 | 2025-02-18 |  |

@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAEqwdzx9CrxukWRD7ZMA4l7CjYNKSt",
+  "snapshot_id": "AAAErNx5dFItIV6y4hemDwrqC41n2nik",
   "tracks": [
     {
       "added_at": "2019-12-20 13:17:42",
@@ -12329,7 +12329,7 @@
         }
       ],
       "duration_ms": 135666,
-      "name": "I Love To Boogie (From 'Billy Elliot')",
+      "name": "I Love To Boogie (From \"Billy Elliot\")",
       "url": "https://open.spotify.com/track/2yCXjCr32mfkJ4JPxQ35dz"
     },
     {
@@ -19055,6 +19055,22 @@
       "duration_ms": 195229,
       "name": "Everyone\u2019s A Star!",
       "url": "https://open.spotify.com/track/1tFexZhbULb1jutHnDFo4h"
+    },
+    {
+      "added_at": "2025-12-01 05:02:58",
+      "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 342099,
+      "name": "Gibson Girl",
+      "url": "https://open.spotify.com/track/02yzNsWcv7BtITeIoIqeVU"
     }
   ],
   "unique_name": "Western Songs",

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Unbecoming",
+        "url": "https://open.spotify.com/album/08u4TJCcZUmIe22D5tYdQ1"
+      },
+      "artists": [
+        {
+          "name": "Vyva Melinkolya",
+          "url": "https://open.spotify.com/artist/4Xqfu74FUnmBMe9V13QTUX"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408488,
+      "name": "222",
+      "url": "https://open.spotify.com/track/7aNnPkfL1wZl62WdhNvlOy"
+    },
+    {
+      "album": {
         "name": "The Bedroom Demos",
         "url": "https://open.spotify.com/album/0yVBYSlNkpWuqB9TheUQEm"
       },
@@ -2318,6 +2336,24 @@
       "duration_ms": 193733,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
+    },
+    {
+      "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342099,
+      "name": "Gibson Girl",
+      "url": "https://open.spotify.com/track/02yzNsWcv7BtITeIoIqeVU"
     },
     {
       "album": {
@@ -5356,6 +5392,24 @@
       "duration_ms": 188306,
       "name": "Please, Please, Please Let Me Get What I Want",
       "url": "https://open.spotify.com/track/0smzrlYiBiecxfG8p5QDcQ"
+    },
+    {
+      "album": {
+        "name": "Perverts",
+        "url": "https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400000,
+      "name": "Punish",
+      "url": "https://open.spotify.com/track/6JnZ9hXxtXTtjwB3aAptTf"
     },
     {
       "album": {

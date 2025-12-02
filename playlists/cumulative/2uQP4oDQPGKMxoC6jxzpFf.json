@@ -44523,6 +44523,24 @@
     },
     {
       "album": {
+        "name": "PAINLESS",
+        "url": "https://open.spotify.com/album/6nA31S4tEamZaWmvIA0qae"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212120,
+      "name": "stabilise",
+      "url": "https://open.spotify.com/track/1HHvqhsTBnxz6ii0nmZNbH"
+    },
+    {
+      "album": {
         "name": "Stadium Pow Wow",
         "url": "https://open.spotify.com/album/3cfp4IU8MrGQcxqSShCgA6"
       },
@@ -54450,6 +54468,24 @@
       "duration_ms": 215146,
       "name": "What's Going On - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU"
+    },
+    {
+      "album": {
+        "name": "Stray Birds",
+        "url": "https://open.spotify.com/album/5DbN44ad4PlRnjprexxLlW"
+      },
+      "artists": [
+        {
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237685,
+      "name": "What's Love Got to Do with It",
+      "url": "https://open.spotify.com/track/5QU6EDtAtaKhh671YPW21j"
     },
     {
       "album": {
