@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAErNx5dFItIV6y4hemDwrqC41n2nik",
+  "snapshot_id": "AAAErUngpvi93QnMYCPKQGTMhzVTF4GQ",
   "tracks": [
     {
       "added_at": "2019-12-20 13:17:42",
@@ -19071,6 +19071,22 @@
       "duration_ms": 342099,
       "name": "Gibson Girl",
       "url": "https://open.spotify.com/track/02yzNsWcv7BtITeIoIqeVU"
+    },
+    {
+      "added_at": "2025-12-02 08:41:47",
+      "album": {
+        "name": "BABYDOLL",
+        "url": "https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "BABYDOLL",
+      "url": "https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc"
     }
   ],
   "unique_name": "Western Songs",

@@ -4,7 +4,7 @@
 
 > 
 
-1,136 songs - 2 day 19 hr 39 min
+1,137 songs - 2 day 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Baby Blue](https://open.spotify.com/track/4FSIfpGQEdJsLXIbufqvOo) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [When Facing the Things We Turn Away From](https://open.spotify.com/album/5T1HI88OceUlUExSsAM3GQ) | 3:43 | 2022-08-08 |  |
 | [Baby I Would](https://open.spotify.com/track/3E7J648DbnDGSPe0Hjfy7L) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [O\-Town](https://open.spotify.com/album/2yWrBg2LjW4oPnCRQrJJLV) | 3:54 | 2020-03-15 |  |
 | [Baby I'm Yours](https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw) | 2:32 | 2023-11-12 |  |
+| [BABYDOLL](https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL](https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u) | 3:16 | 2025-12-02 |  |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2021-06-05 |  |
 | [Back for Good \- Radio Mix](https://open.spotify.com/track/6vcdzohhBSbNdsZBh5IRpQ) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Nobody Else \(Expanded Edition\)](https://open.spotify.com/album/5SjK8QSqZEHMkzlq2LgM8e) | 4:02 | 2021-10-25 |  |
 | [Back Here](https://open.spotify.com/track/6znv7i4Wif5fLwI6OjKHZ4) | [BBMAK](https://open.spotify.com/artist/7y1GT7SdgGiFLWoktv2TSw) | [Sooner Or Later](https://open.spotify.com/album/1vaydA93AMLnjddGnQM15Q) | 3:38 | 2020-03-15 |  |

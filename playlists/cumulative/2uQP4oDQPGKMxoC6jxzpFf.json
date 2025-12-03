@@ -1663,6 +1663,24 @@
     },
     {
       "album": {
+        "name": "My Aim Is True",
+        "url": "https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204533,
+      "name": "Alison",
+      "url": "https://open.spotify.com/track/1v98rfd0an913AzHvMNG8a"
+    },
+    {
+      "album": {
         "name": "Electric Ladyland",
         "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
@@ -12188,6 +12206,24 @@
       "duration_ms": 224590,
       "name": "domino szn",
       "url": "https://open.spotify.com/track/5jpVbqCqZadexyOSoJnwSS"
+    },
+    {
+      "album": {
+        "name": "everything, in time",
+        "url": "https://open.spotify.com/album/5QknArSibMONi8qaAWn4OQ"
+      },
+      "artists": [
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224659,
+      "name": "domino szn",
+      "url": "https://open.spotify.com/track/6R3tNHerZIE1sCcOZmguyj"
     },
     {
       "album": {
@@ -26984,6 +27020,24 @@
       "duration_ms": 184524,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
+    },
+    {
+      "album": {
+        "name": "Santigold",
+        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204906,
+      "name": "L.E.S. Artistes",
+      "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
     },
     {
       "album": {
@@ -53522,7 +53576,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 254919,
       "name": "We Find Love",
       "url": "https://open.spotify.com/track/5jTIePmUbBUVjJnpZeGiM3"
@@ -55732,7 +55786,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 252960,
       "name": "Without A Leg To Stand On",
       "url": "https://open.spotify.com/track/4CDF9sHXsSNSNUGOgvFI3f"
