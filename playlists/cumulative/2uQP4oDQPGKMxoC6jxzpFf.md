@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,074 songs - 8 day 0 hr 12 min
+3,079 songs - 8 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [Can't Get Enough of Myself \(feat\. BC Unidos\)](https://open.spotify.com/track/5RuKwWwNwA2URfO4btAKwZ) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p), [BC Unidos](https://open.spotify.com/artist/2gn19OAsopaOKSrDw9ma08) | [99 Cents](https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk) | 3:57 | 2024-12-14 |  |
 | [Can't Hardly Wait \- 2008 Remaster](https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Pleased to Meet Me \(Expanded\)](https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv) | 3:08 | 2025-10-23 |  |
 | [Can't Hide It](https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 3:19 | 2024-11-23 |  |
+| [Can't Hold Us \[Feat\. Mwanjé\]](https://open.spotify.com/track/4m7GhyLPmnQvZybjuxeYlP) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Can't Hold Us \[Feat\. Mwanjé\]](https://open.spotify.com/album/4rX3FZJVX0PSnhnlYs19qu) | 2:46 | 2025-12-03 |  |
 | [Can't Let Go](https://open.spotify.com/track/1KI016Hog5kWTGaKN3nZJS) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x) | 3:28 | 2025-03-19 |  |
 | [Can't Stop](https://open.spotify.com/track/5PbEiFCl62s4tKT7GwA96F) | [jacksoul](https://open.spotify.com/artist/3xEW8BqMGXWkxTZbQhtnLE) | [Sleepless](https://open.spotify.com/album/127pTtnPhVNMiY1XvgZNy3) | 3:59 | 2024-12-10 |  |
 | [Can't Take My Eyes Off of You \- \(I Love You Baby\)](https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 3:41 | 2025-02-15 |  |
@@ -863,6 +864,7 @@
 | [Força](https://open.spotify.com/track/6ildNZ9Dv8KMKxEyIYCTcw) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Folklore](https://open.spotify.com/album/0n5YYYnL8cjKL2E7fmu1lu) | 3:40 | 2025-10-25 |  |
 | [Freaks Come Out at Night](https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:42 | 2025-11-01 |  |
 | [Free](https://open.spotify.com/track/4iaaEAAyCWrQdYT5tRnyDb) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Rise\)](https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF) | 5:05 | 2025-04-14 |  |
+| [Freedom! '25](https://open.spotify.com/track/7IXAOzkEiArV6EEL2qnRbM) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Freedom! '25](https://open.spotify.com/album/3efwdrXMifTD6aQzjxGqAi) | 3:51 | 2025-12-03 |  |
 | [From](https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:02 | 2025-05-17 |  |
 | [Fully Completely](https://open.spotify.com/track/7Gj5Gd0IlD4GTxL9bmVZg1) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Fully Completely](https://open.spotify.com/album/5iSeNirSdjXzdv4eBx72X1) | 3:48 | 2025-11-04 |  |
 | [Funeral](https://open.spotify.com/track/4GvdsVns332wQ3JsWAg2OV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:52 | 2025-11-18 |  |
@@ -1215,6 +1217,7 @@
 | [I Don’t Know What to Say](https://open.spotify.com/track/29PNMs2uIqGnIn0jG0i7cc) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Racing Hearts](https://open.spotify.com/album/2d1WFG96ltcNsBwIN4Mwp1) | 4:04 | 2025-08-22 |  |
 | [I Drove All Night](https://open.spotify.com/track/3zN4OLeBAN7LwAr442bB8E) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [One Heart](https://open.spotify.com/album/1H4QtgObVxPXea86RvJgv9) | 4:00 | 2025-02-19 |  |
 | [I Feel Alive](https://open.spotify.com/track/4Y0ieV8qAUq96PVY3XpEgi) | [Art d'Ecco](https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J) | [I Feel Alive](https://open.spotify.com/album/28gGU7ltRiUsQuxPqY98ZX) | 3:25 | 2024-11-21 |  |
+| [I Feel Alive](https://open.spotify.com/track/5IH4TmW79BnAqYUO9Nz46c) | [Art d'Ecco](https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J) | [I Feel Alive](https://open.spotify.com/album/29BfM65m8AgJUvEijTImhC) | 3:25 | 2025-12-03 |  |
 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 | 2025-01-06 |  |
 | [I Feel It](https://open.spotify.com/track/2JwsKtYUxn6j5m6snFXi3M) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/3SaOC7YKiYYtVSTww9SuTx) | 4:56 | 2025-09-28 |  |
 | [I Feel It All](https://open.spotify.com/track/0lduqJYb8aylYcfGcJ9a5o) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/5aRmeQVSfJ0R1gjTbGq6mX) | 3:39 | 2025-01-13 |  |
@@ -1762,6 +1765,7 @@
 | [My Life](https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [52nd Street](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) | 4:45 | 2025-03-08 |  |
 | [My Life](https://open.spotify.com/track/7ytES33eLYS9WaZLKqWfYM) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 4:17 | 2024-11-30 |  |
 | [My Love](https://open.spotify.com/track/7jQuTeWHCKKLc2QV6MPunK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:51 | 2025-07-17 |  |
+| [My Lovin' \(You're Never Gonna Get It\)](https://open.spotify.com/track/0YneC4nNQEsKCqAGCv1tJK) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [The Very Best of En Vogue](https://open.spotify.com/album/6ABqEktNUuYULXWUubkHKg) | 4:41 | 2025-12-03 |  |
 | [My Mind At Ease](https://open.spotify.com/track/3x8E6sX3I3rGP0oITZRHLX) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [My Mind At Ease](https://open.spotify.com/album/1oBZ20zNFcydJedaGQ5InG) | 2:55 | 2024-11-24 |  |
 | [My Mind At Ease](https://open.spotify.com/track/6s4MLHKqzLkSpdT5WpGaMO) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Our Roots Run Deep](https://open.spotify.com/album/1ucca4wuWot78VAnORCwN8) | 2:55 | 2025-05-13 |  |
 | [My Music At Work](https://open.spotify.com/track/6e7pBANRzNhX2dKBxat8cD) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Music@Work](https://open.spotify.com/album/1HUCg8G3crYzn2sGujgSho) | 3:06 | 2025-05-02 |  |
@@ -2924,6 +2928,7 @@
 | [What You Need \(feat\. Charlotte Day Wilson\)](https://open.spotify.com/track/0lWmT9NbSJRgFY6g1GHu4e) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [BUBBA](https://open.spotify.com/album/73cx7CQjHEROjjzUGP3UpQ) | 3:03 | 2025-01-20 |  |
 | [What You Won't Do for Love](https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [What You Won't Do for Love](https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2) | 4:46 | 2025-11-06 |  |
 | [What You Won't Do For Love](https://open.spotify.com/track/7FbS2TMmzyxEeiRsykzq0e) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Devotion \- The Gold Edition \(Deluxe Version\)](https://open.spotify.com/album/4g6eC6k3MUgz0Yy0op86Z5) | 4:04 | 2025-11-06 |  |
+| [What's Going On](https://open.spotify.com/track/1eHB3udidLeLRHBtn0VuLd) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [What's Going On / Save The Children](https://open.spotify.com/album/0QkROS1U1RUJgI3rd3Dkd5) | 4:30 | 2025-12-03 |  |
 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 | 2024-11-28 |  |
 | [What's Going On \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:35 | 2025-02-05 |  |
 | [What's Love Got to Do with It](https://open.spotify.com/track/5QU6EDtAtaKhh671YPW21j) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Stray Birds](https://open.spotify.com/album/5DbN44ad4PlRnjprexxLlW) | 3:57 | 2025-12-01 |  |

@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAErUngpvi93QnMYCPKQGTMhzVTF4GQ",
+  "snapshot_id": "AAAEr08fuQmnIDlEem8ChIwKaonAID7Q",
   "tracks": [
     {
       "added_at": "2019-12-20 13:17:42",
@@ -19087,6 +19087,38 @@
       "duration_ms": 196235,
       "name": "BABYDOLL",
       "url": "https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc"
+    },
+    {
+      "added_at": "2025-12-03 08:34:22",
+      "album": {
+        "name": "Healing Process",
+        "url": "https://open.spotify.com/album/7k3PdFJ8APzpSCwptwI9cT"
+      },
+      "artists": [
+        {
+          "name": "Pity Party (Girls Club)",
+          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
+        }
+      ],
+      "duration_ms": 134442,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/36Owb6DDJbBFXi86x3X61z"
+    },
+    {
+      "added_at": "2025-12-03 11:43:30",
+      "album": {
+        "name": "Elliott Yamin",
+        "url": "https://open.spotify.com/album/4G390E1M4qCVxgAcbYaFwu"
+      },
+      "artists": [
+        {
+          "name": "Elliott Yamin",
+          "url": "https://open.spotify.com/artist/4am1I89OWXUzFh4ctRLkdd"
+        }
+      ],
+      "duration_ms": 261320,
+      "name": "Wait for You",
+      "url": "https://open.spotify.com/track/0U969xYNlAyfzi8P1TaO7u"
     }
   ],
   "unique_name": "Western Songs",

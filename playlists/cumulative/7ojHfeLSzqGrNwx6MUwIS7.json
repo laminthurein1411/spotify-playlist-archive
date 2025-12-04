@@ -10837,24 +10837,6 @@
     },
     {
       "album": {
-        "name": "Walking in the Air (Duet) and O Holy Night (Solo) [EU Version]",
-        "url": "https://open.spotify.com/album/05kitdp7o7cpIhcS2V1ldx"
-      },
-      "artists": [
-        {
-          "name": "Aled Jones",
-          "url": "https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn"
-        }
-      ],
-      "date_added": "2024-12-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207586,
-      "name": "Blake: Walking in the Air (Duet)",
-      "url": "https://open.spotify.com/track/6jq3BhFgU8VjYCKwEy5R6i"
-    },
-    {
-      "album": {
         "name": "Wanted on Voyage (Expanded Edition)",
         "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
       },
@@ -106224,6 +106206,24 @@
       "duration_ms": 206733,
       "name": "Walking in the Air",
       "url": "https://open.spotify.com/track/1CIWyhjA0BPzl7BltBa5VG"
+    },
+    {
+      "album": {
+        "name": "Walking in the Air (Duet) and O Holy Night (Solo) [EU Version]",
+        "url": "https://open.spotify.com/album/05kitdp7o7cpIhcS2V1ldx"
+      },
+      "artists": [
+        {
+          "name": "Aled Jones",
+          "url": "https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207586,
+      "name": "Walking in the Air (Duet)",
+      "url": "https://open.spotify.com/track/6jq3BhFgU8VjYCKwEy5R6i"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1bXE7Pyusw2lDjPiTdqwk2.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 417 songs - 1 day 3 hr 12 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 423 songs - 1 day 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -425,5 +425,11 @@ pretty - [cumulative](/playlists/cumulative/1bXE7Pyusw2lDjPiTdqwk2.md) - [plain]
 | 415 | [Gibson Girl](https://open.spotify.com/track/02yzNsWcv7BtITeIoIqeVU) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 5:42 |
 | 416 | [Punish](https://open.spotify.com/track/6JnZ9hXxtXTtjwB3aAptTf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Perverts](https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv) | 6:40 |
 | 417 | [222](https://open.spotify.com/track/7aNnPkfL1wZl62WdhNvlOy) | [Vyva Melinkolya](https://open.spotify.com/artist/4Xqfu74FUnmBMe9V13QTUX) | [Unbecoming](https://open.spotify.com/album/08u4TJCcZUmIe22D5tYdQ1) | 6:48 |
+| 418 | [The World We Knew \(Over and Over\)](https://open.spotify.com/track/3KCDS84f8yKeW8eSF4YNUI) | [Vlad Holiday](https://open.spotify.com/artist/4kzBapiIVMxwhJLsTm28Gc) | [The World We Knew \(Over and Over\)](https://open.spotify.com/album/72YcmXYdWE8ZGAVWMOgns5) | 2:52 |
+| 419 | [Heroin Song](https://open.spotify.com/track/7CI3G8yGsE8tGeywhAtrY6) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Melt Away](https://open.spotify.com/album/4aakJBO52AmbAK0sMy8blA) | 5:10 |
+| 420 | [Mateo](https://open.spotify.com/track/4u9YwUMT4G6cVBNfNebMcj) | [Lian Ray](https://open.spotify.com/artist/1Cgq6nEMS0BeLYLbL4J3wu) | [Rose](https://open.spotify.com/album/2EsSvgpaFxI0tljem5BKZa) | 3:50 |
+| 421 | [Mushroom Cloud](https://open.spotify.com/track/4CBdk3m49AsxYeRwPwQAFI) | [Tempesst](https://open.spotify.com/artist/6yYoIxAvtAgGPSSring5SB) | [Must Be a Dream](https://open.spotify.com/album/5zGfpfO04UiTB9g73oFi5F) | 4:18 |
+| 422 | [Wait for You](https://open.spotify.com/track/0U969xYNlAyfzi8P1TaO7u) | [Elliott Yamin](https://open.spotify.com/artist/4am1I89OWXUzFh4ctRLkdd) | [Elliott Yamin](https://open.spotify.com/album/4G390E1M4qCVxgAcbYaFwu) | 4:21 |
+| 423 | [Secret Love Song, Pt\. II](https://open.spotify.com/track/0NyRSfiU6ri61vku1xiLoD) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 4:26 |
 
-Snapshot ID: `AAABmaUfFybHEwMnPH57R2hjzMZxf7Ij`
+Snapshot ID: `AAABn2uAu+IMBV3xpYYFfDgrO3lyN96s`

@@ -4,7 +4,7 @@
 
 > Collection Of All Types Of Music Genres With Japanese Songs.
 
-510 songs - 1 day 12 hr 7 min
+512 songs - 1 day 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,8 @@
 | [新世界](https://open.spotify.com/track/4vSfuMisps3hAqliT11Aqd) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [10'S BEST](https://open.spotify.com/album/4znIpWTHyquyN7h10eRnFv) | 5:16 | 2020-06-30 |  |
 | [新世界](https://open.spotify.com/track/5atme1lLuSZ7U0NN23h8Sh) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [HELLO WORLD \(Original Sound Track\)](https://open.spotify.com/album/4A96GTUlSFQTG9JntPrSSQ) | 5:18 | 2020-03-17 |  |
 | [旅立ちの前に](https://open.spotify.com/track/1FpWMTcirff8toGilu4EGT) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [旅立ちの前に](https://open.spotify.com/album/4OMNNnUh9IZ9tMZp9yWQGU) | 4:28 | 2021-05-26 |  |
+| [明日、僕は君に会いに行く。](https://open.spotify.com/track/3ilHVNsvKWpfT6uzrAo60D) | [wakaba](https://open.spotify.com/artist/2uo1XalgqLUYeHMtKrLt4n) | [『世界一初恋』コレクターズボーカルアルバム](https://open.spotify.com/album/2uoDgx3TE2tVZJ24rum1jh) | 4:07 | 2025-12-03 |  |
+| [明日、僕は君に会いに行く。](https://open.spotify.com/track/1KXGwIhcTM3ela6AaM4ztc) | [wakaba](https://open.spotify.com/artist/2uo1XalgqLUYeHMtKrLt4n) | [Atlas](https://open.spotify.com/album/4icPDR6gQIj6IYYwOptVGu) | 4:09 | 2025-12-03 |  |
 | [星が降る](https://open.spotify.com/track/4qyJYAZDR8qc1FrqvxtTYR) | [Centimillimental](https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw) | [星が降る](https://open.spotify.com/album/0kRJqchrgUe86AEc6XmuCA) | 5:59 | 2025-11-17 |  |
 | [春ひさぎ](https://open.spotify.com/track/3opvzEeKvkWEKi0TV2ePbC) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [春ひさぎ](https://open.spotify.com/album/77rZiXsVgvBMtogzAjQjbg) | 3:36 | 2020-06-30 |  |
 | [時が止まればいいのに](https://open.spotify.com/track/2HzvcO4ybDUb4M8G2opPPf) | [まるりとりゅうが](https://open.spotify.com/artist/6dcd2CUUMnZjue8tgSE68n) | [はじめまして。](https://open.spotify.com/album/0MoIx8uXbbaokflhIzVAqQ) | 4:55 | 2020-05-19 |  |
