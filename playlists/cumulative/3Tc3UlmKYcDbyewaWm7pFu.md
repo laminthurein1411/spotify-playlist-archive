@@ -4,7 +4,7 @@
 
 > 
 
-1,139 songs - 2 day 19 hr 49 min
+1,140 songs - 2 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Emperor's New Clothes](https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 2:38 | 2021-02-22 |  |
 | [Endless Summer Nights](https://open.spotify.com/track/2iXH35MhsqO5Ry8a7iptpJ) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Richard Marx](https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ) | 4:30 | 2024-05-06 |  |
 | [Enemy \- From the series Arcane League of Legends](https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(from the series Arcane League of Legends\)](https://open.spotify.com/album/2Y9Kal9IDz6JphsCfY6GzG) | 2:53 | 2021-11-26 |  |
+| [enough](https://open.spotify.com/track/2TtRe0m0PhThwIhxNDQfbP) | [Michael Clifford](https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0) | [SIDEQUEST](https://open.spotify.com/album/1IEj1Bvyvn7fIdDLJZNmfD) | 2:58 | 2025-12-04 |  |
 | [Es Rappelt Im Karton](https://open.spotify.com/track/4UwNCBXTMnv5LMl3ZKLzyK) | [Pixie Paris](https://open.spotify.com/artist/5aYYfqv1Tn30dh1yZIowOi) | [Es Rappelt Im Karton](https://open.spotify.com/album/3miBIuRglfNwDRyE4gV5eg) | 3:24 | 2020-03-07 |  |
 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2023-12-17 |  |
 | [Eternal Flame](https://open.spotify.com/track/4xiaE15ARCs5CVPA6J8gmC) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC), [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL) | [Everything](https://open.spotify.com/album/6Zryl3gseZcPOYq3KnPXf9) | 3:55 | 2022-05-02 |  |

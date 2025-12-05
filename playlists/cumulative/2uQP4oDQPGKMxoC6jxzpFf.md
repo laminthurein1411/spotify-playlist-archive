@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,079 songs - 8 day 0 hr 31 min
+3,081 songs - 8 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1453,6 +1453,7 @@
 | [Kiss from a Rose](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1) | 4:48 | 2025-06-11 |  |
 | [KISSING IN PUBLIC](https://open.spotify.com/track/2tA9LObXZkn5oazvqyRkxY) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [KISSING IN PUBLIC](https://open.spotify.com/album/4OTvEacbBrVMCYo7bk6cQa) | 3:56 | 2025-06-19 |  |
 | [KISSING IN PUBLIC](https://open.spotify.com/track/6sJR82bgpwFPjzB1DHzGw8) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 3:56 | 2025-11-21 |  |
+| [Kissing My Love](https://open.spotify.com/track/30XguDb3BXoTGRshBlcbjA) | [Logan Richard](https://open.spotify.com/artist/0clafcEW9Npsrqo76bL13o) | [Kissing My Love](https://open.spotify.com/album/6xT0BGksPbEj1X9urnAruA) | 3:26 | 2025-12-04 |  |
 | [Knock The Door](https://open.spotify.com/track/01YT44qYFnb4ioVl2KGN3I) | [Spek](https://open.spotify.com/artist/08GOo5iQklmf62JyrfKcsi) | [Knock The Door](https://open.spotify.com/album/26PFj9ecPuBhsQ0vQnc3sS) | 3:49 | 2025-03-28 |  |
 | [Knocks Me Off My Feet](https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [My Heart](https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV) | 3:42 | 2025-02-27 |  |
 | [know that you're not alone](https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [know that you're not alone](https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl) | 2:56 | 2024-11-27 |  |
@@ -2703,6 +2704,7 @@
 | [This Too Shall Pass](https://open.spotify.com/track/3ayt6U38NgTxDQV3NCJTgI) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [I'd Be Lying If I Said I Didn't Care](https://open.spotify.com/album/7fm8nJG9Iz8MqYISvJV268) | 3:13 | 2025-06-08 | 2025-07-16 |
 | [This Too Shall Pass](https://open.spotify.com/track/5tHL9kn8JcRrYtYegfl2Ov) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [This Too Shall Pass](https://open.spotify.com/album/3IzPs8eRDChZcbMb29KXlY) | 3:13 | 2024-12-04 |  |
 | [This Tornado Loves You](https://open.spotify.com/track/5FRmsiVS8ybJHQCV0fjuI1) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Middle Cyclone](https://open.spotify.com/album/3gMzehYCxYMrW6pYlcThWJ) | 3:19 | 2025-06-09 |  |
+| [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 | 2025-12-04 |  |
 | [This Woman's Work \- 2021 Remaster](https://open.spotify.com/track/741OE401HO7ZCaPhEqCZ7w) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 4:00 | 2025-02-11 |  |
 | [Thodi Si Daaru](https://open.spotify.com/track/3JiLQJmVW7d4O8AQDFB3oj) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Thodi Si Daaru](https://open.spotify.com/album/5VtCQYa9RJHYMQAfzAb1HQ) | 3:00 | 2025-08-06 |  |
 | [Three Little Birds](https://open.spotify.com/track/7vggqxNKwd6xdRoYS0pQtM) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:00 | 2025-08-22 |  |

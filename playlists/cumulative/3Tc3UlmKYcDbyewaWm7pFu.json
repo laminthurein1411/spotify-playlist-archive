@@ -5185,6 +5185,24 @@
     },
     {
       "album": {
+        "name": "SIDEQUEST",
+        "url": "https://open.spotify.com/album/1IEj1Bvyvn7fIdDLJZNmfD"
+      },
+      "artists": [
+        {
+          "name": "Michael Clifford",
+          "url": "https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178600,
+      "name": "enough",
+      "url": "https://open.spotify.com/track/2TtRe0m0PhThwIhxNDQfbP"
+    },
+    {
+      "album": {
         "name": "Es Rappelt Im Karton",
         "url": "https://open.spotify.com/album/3miBIuRglfNwDRyE4gV5eg"
       },
