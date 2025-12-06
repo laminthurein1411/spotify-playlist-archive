@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YYPbPSu66tSNvJkawFiAx.md) - [plain]
 
 > Every week, discover the playlist of our Sonar show\. New releases and rarities selected by GRRIF radio\. www.grrif.ch RR GRRIF
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 1,013 songs - 2 day 13 hr 23 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 1,043 songs - 2 day 15 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1021,5 +1021,35 @@ pretty - [cumulative](/playlists/cumulative/2YYPbPSu66tSNvJkawFiAx.md) - [plain]
 | 1011 | [Run It Back](https://open.spotify.com/track/6v4HtVixt7Nq01U0QnbB50) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [SCORPIO](https://open.spotify.com/album/6K0m8DHHvFzyAPlCgI5FVq) | 3:06 |
 | 1012 | [Cristaux liquides](https://open.spotify.com/track/15I7sq4dBPuutWlD1WMenl) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Palais d'argile](https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi) | 5:07 |
 | 1013 | [Every Tree Needs A Friend](https://open.spotify.com/track/1mPqwj9QknX5icZmFcbACk) | [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [Buletten & Blumen](https://open.spotify.com/album/5x3WN8S89q0zfhqKd9ormh) | 4:24 |
+| 1014 | [Come Into My Life \- Single Version](https://open.spotify.com/track/0Gms0Ad9iBfwoInbDbSoLn) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 2:55 |
+| 1015 | [4U](https://open.spotify.com/track/3CctgCLFQDnSdM1wNNELkX) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now & Forever](https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0) | 2:49 |
+| 1016 | [Stockholmsvy](https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM) | 2:41 |
+| 1017 | [baby](https://open.spotify.com/track/3vhMPDsaBprFWQy5K306n5) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [gutta child](https://open.spotify.com/album/5bGEq0KEtEwQfgpnimNG7c) | 3:03 |
+| 1018 | [We Get What We Deserve](https://open.spotify.com/track/6ytb6xIH7KADNinpMqmlPm) | [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [We Get What We Deserve](https://open.spotify.com/album/1D46idGKQcFDZWJFTQIMco) | 4:22 |
+| 1019 | [Synthetic World](https://open.spotify.com/track/0lp9M2rZUsZDmdup9oc52h) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Best Of Jimmy Cliff](https://open.spotify.com/album/6Y39RwVpNbgahWevQ0KENh) | 3:38 |
+| 1020 | [House of Exile](https://open.spotify.com/track/1AWn7kAOVyHbcF3WjUYRiw) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [House of Exile](https://open.spotify.com/album/28ZJWGETWKrPgN8RZUD4Ek) | 4:33 |
+| 1021 | [Bongo Man](https://open.spotify.com/track/4NDt0POuq7rRff55MGUU8n) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Goodbye Yesterday](https://open.spotify.com/album/4pCihmj6KBWAPZe4MiGRt5) | 4:05 |
+| 1022 | [Run It Back!!](https://open.spotify.com/track/3YB9aijWreezTUgRzQhwrZ) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Cabin In The Sky](https://open.spotify.com/album/0yBlUg27MbywASeGd1uNIA) | 3:30 |
+| 1023 | [SORE LOSER](https://open.spotify.com/track/6paTU1UcsB6fLsygUYZpQ4) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [SORE LOSER](https://open.spotify.com/album/6Tu7is64Q8AV8UPKEUI72d) | 2:06 |
+| 1024 | [ICEY..](https://open.spotify.com/track/2LO8N3INjSnDrNm17QmgE4) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [ICEY..FEISTY](https://open.spotify.com/album/2IOBE6UthAQRwiUJOhQTpL) | 3:52 |
+| 1025 | [That Could Function As A Song](https://open.spotify.com/track/3OAemfRxRbSBVznSZAXwSu) | [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [Buletten & Blumen](https://open.spotify.com/album/5x3WN8S89q0zfhqKd9ormh) | 3:13 |
+| 1026 | [No Man Left Behind](https://open.spotify.com/track/2FQFJLKu4mXYvRddRSBzaU) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [No Man Left Behind](https://open.spotify.com/album/4u9K3RVk3DQhssA2GvRo2I) | 5:31 |
+| 1027 | [OVER MY HEAD](https://open.spotify.com/track/0JGDiC6btDN4qRdrb1VeoV) | [melting reeds](https://open.spotify.com/artist/4yOLXFtr2crwkV5v4QBQtO) | [OVER MY HEAD](https://open.spotify.com/album/2Fpkp6hmY4DaIGHOT74Q78) | 4:31 |
+| 1028 | [Under the Sun, Moon and Stars](https://open.spotify.com/track/3gKNtPzCO5XCuKnrlvxU7B) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Unlimited](https://open.spotify.com/album/6c4nsvQdAUNOWLDGCBNyzR) | 4:06 |
+| 1029 | [Come Into My Life \- Single Version](https://open.spotify.com/track/0Gms0Ad9iBfwoInbDbSoLn) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 2:55 |
+| 1030 | [4U](https://open.spotify.com/track/3CctgCLFQDnSdM1wNNELkX) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now & Forever](https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0) | 2:49 |
+| 1031 | [Stockholmsvy](https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM) | 2:41 |
+| 1032 | [baby](https://open.spotify.com/track/3vhMPDsaBprFWQy5K306n5) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [gutta child](https://open.spotify.com/album/5bGEq0KEtEwQfgpnimNG7c) | 3:03 |
+| 1033 | [We Get What We Deserve](https://open.spotify.com/track/6ytb6xIH7KADNinpMqmlPm) | [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [We Get What We Deserve](https://open.spotify.com/album/1D46idGKQcFDZWJFTQIMco) | 4:22 |
+| 1034 | [Synthetic World](https://open.spotify.com/track/0lp9M2rZUsZDmdup9oc52h) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Best Of Jimmy Cliff](https://open.spotify.com/album/6Y39RwVpNbgahWevQ0KENh) | 3:38 |
+| 1035 | [House of Exile](https://open.spotify.com/track/1AWn7kAOVyHbcF3WjUYRiw) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [House of Exile](https://open.spotify.com/album/28ZJWGETWKrPgN8RZUD4Ek) | 4:33 |
+| 1036 | [Bongo Man](https://open.spotify.com/track/4NDt0POuq7rRff55MGUU8n) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Goodbye Yesterday](https://open.spotify.com/album/4pCihmj6KBWAPZe4MiGRt5) | 4:05 |
+| 1037 | [Run It Back!!](https://open.spotify.com/track/3YB9aijWreezTUgRzQhwrZ) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Cabin In The Sky](https://open.spotify.com/album/0yBlUg27MbywASeGd1uNIA) | 3:30 |
+| 1038 | [SORE LOSER](https://open.spotify.com/track/6paTU1UcsB6fLsygUYZpQ4) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [SORE LOSER](https://open.spotify.com/album/6Tu7is64Q8AV8UPKEUI72d) | 2:06 |
+| 1039 | [ICEY..](https://open.spotify.com/track/2LO8N3INjSnDrNm17QmgE4) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [ICEY..FEISTY](https://open.spotify.com/album/2IOBE6UthAQRwiUJOhQTpL) | 3:52 |
+| 1040 | [That Could Function As A Song](https://open.spotify.com/track/3OAemfRxRbSBVznSZAXwSu) | [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [Buletten & Blumen](https://open.spotify.com/album/5x3WN8S89q0zfhqKd9ormh) | 3:13 |
+| 1041 | [No Man Left Behind](https://open.spotify.com/track/2FQFJLKu4mXYvRddRSBzaU) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [No Man Left Behind](https://open.spotify.com/album/4u9K3RVk3DQhssA2GvRo2I) | 5:31 |
+| 1042 | [OVER MY HEAD](https://open.spotify.com/track/0JGDiC6btDN4qRdrb1VeoV) | [melting reeds](https://open.spotify.com/artist/4yOLXFtr2crwkV5v4QBQtO) | [OVER MY HEAD](https://open.spotify.com/album/2Fpkp6hmY4DaIGHOT74Q78) | 4:31 |
+| 1043 | [Under the Sun, Moon and Stars](https://open.spotify.com/track/3gKNtPzCO5XCuKnrlvxU7B) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Unlimited](https://open.spotify.com/album/6c4nsvQdAUNOWLDGCBNyzR) | 4:06 |
 
-Snapshot ID: `AAAAeXo/WWTQo5dmprwIQvcfN7wsKOLn`
+Snapshot ID: `AAAAey5YDyXJATEuoFICW54LOA/uozt5`

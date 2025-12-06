@@ -879,6 +879,24 @@
     },
     {
       "album": {
+        "name": "A Girl Like You",
+        "url": "https://open.spotify.com/album/0z4vSFCbiO1qyo95wFrWM2"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116864,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/41fSfNB8ynt7fbpMzsXMAX"
+    },
+    {
+      "album": {
         "name": "Gorgeous George",
         "url": "https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir"
       },
@@ -29127,6 +29145,28 @@
     },
     {
       "album": {
+        "name": "Lloyd, I'm Ready To Be Heartbroken",
+        "url": "https://open.spotify.com/album/4tSKxhFn1iBgdQD6bAatwZ"
+      },
+      "artists": [
+        {
+          "name": "Ducks Ltd.",
+          "url": "https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG"
+        },
+        {
+          "name": "Lunar Vacation",
+          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226466,
+      "name": "Lloyd, I'm Ready To Be Heartbroken",
+      "url": "https://open.spotify.com/track/2BaHi9ymJzwXKAVU1O1X3O"
+    },
+    {
+      "album": {
         "name": "At Least For Now",
         "url": "https://open.spotify.com/album/0DX2KTWHgpTzVsZ3f7k6Yb"
       },
@@ -42331,6 +42371,24 @@
     },
     {
       "album": {
+        "name": "Tougher Than Love",
+        "url": "https://open.spotify.com/album/5lwkQjfbO515jO9jwfzs6b"
+      },
+      "artists": [
+        {
+          "name": "Diana King",
+          "url": "https://open.spotify.com/artist/221iMiF62DFPnVuCLJakP1"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258560,
+      "name": "Shy Guy",
+      "url": "https://open.spotify.com/track/3ldG6XCLDXxWg1N6XhrSKo"
+    },
+    {
+      "album": {
         "name": "Introducing The Hardline According To Sananda Maitreya",
         "url": "https://open.spotify.com/album/0nw38yniBfbluS93FdYcbE"
       },
@@ -42484,6 +42542,24 @@
       "duration_ms": 263000,
       "name": "Silver Bells",
       "url": "https://open.spotify.com/track/6HXkMYlcqQ55UW6YfrL0Uj"
+    },
+    {
+      "album": {
+        "name": "All Cylinders (Deluxe)",
+        "url": "https://open.spotify.com/album/6AZFNXylwVs9SWEJjO4WaZ"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138765,
+      "name": "Silver KG",
+      "url": "https://open.spotify.com/track/2MFf6CLGKk6IPjRp4IPnAC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,081 songs - 8 day 0 hr 37 min
+3,085 songs - 8 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [A Fragile Thing](https://open.spotify.com/track/4i5a73hGNtTXXmxEUW2esC) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 4:43 | 2025-05-12 |  |
 | [A Friend](https://open.spotify.com/track/4lrGECKwRTmaBuAeQwVXzf) | [Pillow Fite](https://open.spotify.com/artist/4qYYUWoet5mNRpDASCnGC8) | [Hard Feelings, Soft Promises](https://open.spotify.com/album/5A17o1NdZOcgNwW3gBJWmr) | 3:26 | 2025-05-14 |  |
 | [A Girl Like You](https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [A Girl Like You](https://open.spotify.com/album/21bl39xHspuIISAteKFXoq) | 1:56 | 2025-01-10 |  |
+| [A Girl Like You](https://open.spotify.com/track/41fSfNB8ynt7fbpMzsXMAX) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [A Girl Like You](https://open.spotify.com/album/0z4vSFCbiO1qyo95wFrWM2) | 1:56 | 2025-12-05 |  |
 | [A Girl Like You](https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3) | [Edwyn Collins](https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT) | [Gorgeous George](https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir) | 3:56 | 2025-02-21 |  |
 | [A Good Day](https://open.spotify.com/track/3rmPBxJwUC7w387Cz0kFLp) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [A Good Day](https://open.spotify.com/album/2aMrC5C8Le0xLjoQBlbH2d) | 3:48 | 2025-10-14 |  |
 | [A Good Night](https://open.spotify.com/track/7KimZb0jVm9Lz1zttxASku) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [LOONY](https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy) | 2:25 | 2024-12-09 |  |
@@ -1569,6 +1570,7 @@
 | [Live Forever](https://open.spotify.com/track/0nTdBTZwkT3kzqUjf43cOU) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Dream Destroyer](https://open.spotify.com/album/3GLefW3E8RIwaZRUgSK6w2) | 3:27 | 2025-07-24 |  |
 | [Living in the City](https://open.spotify.com/track/6NnAL3hpHKZWOqXUj2U9pc) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Navigator](https://open.spotify.com/album/5adjXoQAbZTTTFmifa3qCN) | 3:16 | 2025-04-02 |  |
 | [Living Proof](https://open.spotify.com/track/2PMz6PrSrExG4eKoxZwFE2) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:11 | 2024-12-30 |  |
+| [Lloyd, I'm Ready To Be Heartbroken](https://open.spotify.com/track/2BaHi9ymJzwXKAVU1O1X3O) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG), [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Lloyd, I'm Ready To Be Heartbroken](https://open.spotify.com/album/4tSKxhFn1iBgdQD6bAatwZ) | 3:46 | 2025-12-05 |  |
 | [London](https://open.spotify.com/track/6Nn1FQ50BtcFmGsUMptp0T) | [Benjamin Clementine](https://open.spotify.com/artist/7zHIrsSBL7A0gEJfzv1m7z) | [At Least For Now](https://open.spotify.com/album/0DX2KTWHgpTzVsZ3f7k6Yb) | 4:01 | 2025-02-25 |  |
 | [London Bridge](https://open.spotify.com/track/7jRoWfRlLnGYEIEn4t4kbq) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:01 | 2025-07-17 |  |
 | [Lone Ranger](https://open.spotify.com/track/40qb95F1GdotBLLJJ0NhXR) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [All Blue](https://open.spotify.com/album/4Gq8ZiBV9Q8GDoXenX2hSf) | 3:11 | 2024-12-02 |  |
@@ -2275,6 +2277,7 @@
 | [Showdown At Big Sky](https://open.spotify.com/track/024l9PlvWWPaCTfRO6LZ88) | [Robbie Robertson](https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf) | [Robbie Robertson](https://open.spotify.com/album/7uQeo4W4xhKTUtN8Tmo31J) | 4:47 | 2025-06-22 |  |
 | [SHUT UP \(feat\. Big Sean\)](https://open.spotify.com/track/3qfvE0wc0N6Rhu8pnW6Tss) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [SHUT UP \(feat\. Big Sean\)](https://open.spotify.com/album/0HJkeNGduh6GjotFc7JiVy) | 2:23 | 2025-03-31 |  |
 | [Shy Boy](https://open.spotify.com/track/7gHvzyX56J1qdS4oU8Zw9H) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loveliest Time](https://open.spotify.com/album/6BlR8cl4LDhSiKAeCR5y9l) | 3:29 | 2025-03-02 |  |
+| [Shy Guy](https://open.spotify.com/track/3ldG6XCLDXxWg1N6XhrSKo) | [Diana King](https://open.spotify.com/artist/221iMiF62DFPnVuCLJakP1) | [Tougher Than Love](https://open.spotify.com/album/5lwkQjfbO515jO9jwfzs6b) | 4:18 | 2025-12-05 |  |
 | [Sign Your Name](https://open.spotify.com/track/3lIpkjFnRxJ6Uvm8DgtgfV) | [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [Introducing The Hardline According To Sananda Maitreya](https://open.spotify.com/album/0nw38yniBfbluS93FdYcbE) | 4:36 | 2025-09-06 |  |
 | [Sign Your Name](https://open.spotify.com/track/7zrHcgv63pWVbFy5koC8Fe) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [100 Miles From Memphis](https://open.spotify.com/album/4JTpg4eRkkySuK7lf2O7Qo) | 5:36 | 2025-09-06 |  |
 | [Signal](https://open.spotify.com/track/4g6g00gTmC7GDrl2GKb16E) | [Quantum Tangle](https://open.spotify.com/artist/0cSZE2fT3uEf8MH8Pb1I7S), [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Signal](https://open.spotify.com/album/0uTQyWeoJCrVq1TsG22OMR) | 4:07 | 2025-02-12 |  |
@@ -2283,6 +2286,7 @@
 | [Silencio](https://open.spotify.com/track/5cBeYTPwgbGXw6cZtGzIc3) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Uh Oh](https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0) | 4:21 | 2025-11-17 |  |
 | [Silencio](https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Silencio](https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg) | 4:21 | 2025-03-18 |  |
 | [Silver Bells](https://open.spotify.com/track/6HXkMYlcqQ55UW6YfrL0Uj) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Wonderland](https://open.spotify.com/album/3RumoLPCjQPosp5mPiBl2V) | 4:23 | 2024-12-23 |  |
+| [Silver KG](https://open.spotify.com/track/2MFf6CLGKk6IPjRp4IPnAC) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders \(Deluxe\)](https://open.spotify.com/album/6AZFNXylwVs9SWEJjO4WaZ) | 2:18 | 2025-12-05 |  |
 | [SILVER LINING](https://open.spotify.com/track/2NXainInz93S8nQl5F0urZ) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DIARY FOR THE LONELY HEARTS](https://open.spotify.com/album/3Ezv3QTAvXYrD7x00UG97J) | 4:43 | 2025-04-19 |  |
 | [SILVER LINING](https://open.spotify.com/track/2R3kVpQXs8JDxPDTaxVCI0) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [SILVER LINING](https://open.spotify.com/album/1IanrkCilDUYp7SJoe0oW7) | 4:43 | 2024-11-21 |  |
 | [Silver Lining](https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [Under The Blacklight \(Standard Version\)](https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8) | 3:36 | 2025-03-07 |  |
