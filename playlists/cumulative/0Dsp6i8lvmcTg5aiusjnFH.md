@@ -4,7 +4,7 @@
 
 > 
 
-3,068 songs - 7 day 23 hr 38 min
+3,070 songs - 7 day 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -735,6 +735,7 @@
 | [Dreamscape](https://open.spotify.com/track/5fp6m6Zo4LetiWaMMrPjy5) | [009 Sound System](https://open.spotify.com/artist/0BjppA384A5QT9kRKCJOyb) | [009 Sound System](https://open.spotify.com/album/5W3etTwlyw2ykgwk5sW8K3) | 4:37 | 2017-09-04 |  |
 | [Drinkee](https://open.spotify.com/track/5TBsLU9TSxjDLzMpsEgJsv) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Drinkee](https://open.spotify.com/album/5vho6dyBSwkXPoZg67x3Co) | 4:59 | 2018-06-07 |  |
 | [Drinking from the Bottle \(feat\. Tinie Tempah\)](https://open.spotify.com/track/1oHxIPqJyvAYHy0PVrDU98) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 4:00 | 2017-10-22 |  |
+| [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 | 2025-12-07 |  |
 | [Drive](https://open.spotify.com/track/73fzhVcs7n1wZz84eoE2vs) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself \- Tour Edition](https://open.spotify.com/album/4nO7EUWCOzqHK3iGDXDzzU) | 3:52 | 2018-05-22 |  |
 | [Drive By](https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [California 37](https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1) | 3:15 | 2017-03-06 |  |
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-01-27 |  |
@@ -1226,7 +1227,7 @@
 | [I Got U](https://open.spotify.com/track/4r8hRPbidDIoDPphxi78aY) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [I Got U](https://open.spotify.com/album/5F47pY1Lmj3DXPg1mzLjkE) | 4:45 | 2017-09-09 |  |
 | [I Got You](https://open.spotify.com/track/1vpXogmIQSjEa4zDIBjTto) | [Shihad](https://open.spotify.com/artist/3HmMT81W29LjSKNjl1Iy1s) | [I Got You](https://open.spotify.com/album/6RVUJqWsijWixBw4BbYYUI) | 3:52 | 2020-12-06 |  |
 | [I Got You](https://open.spotify.com/track/6GDsiYn5LvddnJjkJ2H0p5) | [Split Enz](https://open.spotify.com/artist/0Upmz8QvuLAkKAfRlJYWTL) | [True Colours](https://open.spotify.com/album/4PV25yINyoxdyK8GIJNZoh) | 3:29 | 2017-09-19 |  |
-| [I Got You \(I Feel Good\)](https://open.spotify.com/track/3ASrlku9X40moDdtdoPDqb) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Get On Up \- The James Brown Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IRbJUSU6v0dJr8IZvX1IP) | 2:47 | 2017-03-12 |  |
+| [I Got You \(I Feel Good\)](https://open.spotify.com/track/3ASrlku9X40moDdtdoPDqb) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | [Get On Up \- The James Brown Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IRbJUSU6v0dJr8IZvX1IP) | 2:47 | 2017-03-12 |  |
 | [I Gotta Feeling](https://open.spotify.com/track/70cTMpcgWMcR18t9MRJFjB) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[International Version\]](https://open.spotify.com/album/5lNzygOpCmzRx4N301icBB) | 4:49 | 2017-02-19 |  |
 | [I Hate Everything About You](https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Three Days Grace](https://open.spotify.com/album/13topfW33NjnACjnRiZBX7) | 3:51 | 2021-08-22 |  |
 | [I Hate This Part](https://open.spotify.com/track/7GgUY1TK5etQrJqCVuYWMW) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Doll Domination](https://open.spotify.com/album/5Wt2zl05S5XoGDEBxWkFdo) | 3:38 | 2019-07-17 |  |
@@ -2442,6 +2443,7 @@
 | [Stolen Dance](https://open.spotify.com/track/57ef886Y0RQDGLm2jvmYEq) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/2pza66DUreALycIoqlieMo) | 5:13 | 2017-03-01 |  |
 | [Stop](https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 3:24 | 2021-12-31 |  |
 | [Stop And Stare](https://open.spotify.com/track/4vEUJR9W3IknzgbtBaZRUS) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud \(International Version\)](https://open.spotify.com/album/72c3ugX0yPaFCtEuHPDXaY) | 3:43 | 2017-03-14 |  |
+| [Stop Crying Your Heart Out \- Remastered](https://open.spotify.com/track/1nWvtkaxwFauHiNOHYF9d0) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Time Flies..\. 1994\-2009 \(Remastered\)](https://open.spotify.com/album/6nznHVahdEzZ7Qwv9TrOW4) | 5:03 | 2025-12-07 |  |
 | [Stop the Rock](https://open.spotify.com/track/37jrubWAb4F9TY2GgSRG56) | [Apollo 440](https://open.spotify.com/artist/37f9cjf8Ic4t7vYNRYAzI7) | [Gettin' High On Your Own Supply](https://open.spotify.com/album/0OiWmi1Jt8URgnt8SS4YtP) | 3:32 | 2017-03-26 |  |
 | [Story of My Life](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:05 | 2017-04-16 |  |
 | [Straight Lines](https://open.spotify.com/track/5HBDU0kn4f4hkZMjABsltT) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Young Modern](https://open.spotify.com/album/7yDs4Q4jhZEOTivpHbllda) | 4:17 | 2017-01-18 |  |

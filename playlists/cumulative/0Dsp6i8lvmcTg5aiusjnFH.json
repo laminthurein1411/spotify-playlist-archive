@@ -13955,6 +13955,24 @@
     },
     {
       "album": {
+        "name": "Make Yourself",
+        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232453,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
+    },
+    {
+      "album": {
         "name": "Make Yourself - Tour Edition",
         "url": "https://open.spotify.com/album/4nO7EUWCOzqHK3iGDXDzzU"
       },
@@ -23476,6 +23494,10 @@
         {
           "name": "James Brown",
           "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        },
+        {
+          "name": "James Brown & The Famous Flames",
+          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
         }
       ],
       "date_added": "2017-03-12",
@@ -46974,6 +46996,24 @@
       "duration_ms": 223853,
       "name": "Stop And Stare",
       "url": "https://open.spotify.com/track/4vEUJR9W3IknzgbtBaZRUS"
+    },
+    {
+      "album": {
+        "name": "Time Flies... 1994-2009 (Remastered)",
+        "url": "https://open.spotify.com/album/6nznHVahdEzZ7Qwv9TrOW4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303573,
+      "name": "Stop Crying Your Heart Out - Remastered",
+      "url": "https://open.spotify.com/track/1nWvtkaxwFauHiNOHYF9d0"
     },
     {
       "album": {
