@@ -3055,6 +3055,28 @@
     },
     {
       "album": {
+        "name": "Astum (ft. Leanne Betasamosake Simpson)",
+        "url": "https://open.spotify.com/album/0QPIJa5XerZCHjkaZV3p5t"
+      },
+      "artists": [
+        {
+          "name": "Zoon",
+          "url": "https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC"
+        },
+        {
+          "name": "Leanne Betasamosake Simpson",
+          "url": "https://open.spotify.com/artist/6REprvUcVwBr69s8NfEQj4"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "Astum (ft. Leanne Betasamosake Simpson)",
+      "url": "https://open.spotify.com/track/4nWeMvZzS0MDc2xOFOXtpU"
+    },
+    {
+      "album": {
         "name": "In The Crowd",
         "url": "https://open.spotify.com/album/1Hx50hQnzcOcZfUKKwI4pC"
       },
@@ -9456,6 +9478,24 @@
       "duration_ms": 206214,
       "name": "Coax Me",
       "url": "https://open.spotify.com/track/437SV7mi2oW8TOSLjbpeOs"
+    },
+    {
+      "album": {
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185152,
+      "name": "Cobra",
+      "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
     },
     {
       "album": {
@@ -18628,6 +18668,24 @@
       "duration_ms": 281986,
       "name": "Halfway Home",
       "url": "https://open.spotify.com/track/4nUT86Gudk78XZLjcScZ3M"
+    },
+    {
+      "album": {
+        "name": "Make Your Heart Home",
+        "url": "https://open.spotify.com/album/3y7327DRtHxtKaVT96SrwZ"
+      },
+      "artists": [
+        {
+          "name": "Silver Wolf Band",
+          "url": "https://open.spotify.com/artist/4A8OuU3MiOK1mqQ2vEoM8N"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207053,
+      "name": "Halloween Clothes",
+      "url": "https://open.spotify.com/track/4H8p0vJLhHGijt5n80ChOb"
     },
     {
       "album": {

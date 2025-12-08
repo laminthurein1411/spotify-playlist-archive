@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,089 songs - 8 day 1 hr 8 min
+3,092 songs - 8 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Astra](https://open.spotify.com/track/3mW56a3lOOIrq6EBolq3Ng) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Astra](https://open.spotify.com/album/6URu3zeYOlrVHeDmY1pPlf) | 3:37 | 2024-11-23 |  |
 | [Astral Ride \- Original Mix](https://open.spotify.com/track/6HSxboO2RnUoLp9mQVO3e5) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Astral Ride](https://open.spotify.com/album/4jXa0dhSmhSTmXzHrXU2PB) | 7:48 | 2024-11-22 |  |
 | [Astum \(ft\. Leanne Betasamosake Simpson\)](https://open.spotify.com/track/1dmuDCdB7jiuOKlUkxc5OS) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC), [Leanne Betasamosake Simpson](https://open.spotify.com/artist/6REprvUcVwBr69s8NfEQj4) | [Astum \(ft\. Leanne Betasamosake Simpson\)](https://open.spotify.com/album/7ykvzLEf3h2nxlzFAVOmYf) | 5:30 | 2025-01-26 |  |
+| [Astum \(ft\. Leanne Betasamosake Simpson\)](https://open.spotify.com/track/4nWeMvZzS0MDc2xOFOXtpU) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC), [Leanne Betasamosake Simpson](https://open.spotify.com/artist/6REprvUcVwBr69s8NfEQj4) | [Astum \(ft\. Leanne Betasamosake Simpson\)](https://open.spotify.com/album/0QPIJa5XerZCHjkaZV3p5t) | 5:30 | 2025-12-07 |  |
 | [At The Same Time](https://open.spotify.com/track/5J4z19TT86JBYzO73B7N3T) | [Absolute Losers](https://open.spotify.com/artist/536OFtmA73Nu7vOIXaGwON) | [In The Crowd](https://open.spotify.com/album/1Hx50hQnzcOcZfUKKwI4pC) | 2:54 | 2025-11-14 |  |
 | [At The Same Time](https://open.spotify.com/track/6simTsYsg2SyXcpv4kaIEb) | [Absolute Losers](https://open.spotify.com/artist/536OFtmA73Nu7vOIXaGwON) | [At The Same Time](https://open.spotify.com/album/1CJUWS7p3P88tNGEg7bOd9) | 2:54 | 2025-09-04 |  |
 | [Athena](https://open.spotify.com/track/1FzfXpRRwJCy6zCZgEiYIk) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Athena](https://open.spotify.com/album/1TYPqgLnfLQHY3bOrGCiZg) | 3:13 | 2025-05-22 |  |
@@ -515,6 +516,7 @@
 | [Cloudbusting](https://open.spotify.com/track/373vZ0g1dpWaUcrbh0WKhd) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 5:10 | 2025-03-09 |  |
 | [Coast](https://open.spotify.com/track/51qSkFx8D2dyWERxGQ44My) | [Snocaps](https://open.spotify.com/artist/6kYyxNv4xNafn6AMAt6qTE), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Allison Crutchfield](https://open.spotify.com/artist/1zIiCQLbCV0la5eLdT0FIj) | [Snocaps](https://open.spotify.com/album/1fevi1JMVt1PVIMh5Z80ad) | 2:23 | 2025-11-20 |  |
 | [Coax Me](https://open.spotify.com/track/437SV7mi2oW8TOSLjbpeOs) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Twice Removed](https://open.spotify.com/album/5hxtaQ8kpaFeG10B9GQvGB) | 3:26 | 2024-12-05 |  |
+| [Cobra](https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:05 | 2025-12-07 |  |
 | [Coincidence](https://open.spotify.com/track/5oIVNm56t6OIf9ZjdEG3ud) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:44 | 2025-04-15 |  |
 | [Cold As It Is](https://open.spotify.com/track/7H6QuSpWPbBtYSFAUg1CZw) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Then Came the Morning](https://open.spotify.com/album/5HU6Z7afYcN23XAegZ3EQA) | 2:55 | 2024-12-21 |  |
 | [Cold December](https://open.spotify.com/track/1y1qYzzzBuVM4lGggedAtF) | [Matt Costa](https://open.spotify.com/artist/0EghvcisxKybq4CVO7rB5t) | [Songs We Sing](https://open.spotify.com/album/5zrX4u4l5JId7PBI1kn1zV) | 4:15 | 2024-12-10 |  |
@@ -1007,6 +1009,7 @@
 | [Half\-Built Buildings](https://open.spotify.com/track/35tdVMfCQIAjBXgCPOxh7S) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Half\-Built Buildings](https://open.spotify.com/album/5c6EB9pqWchgiwUtN39Jl2) | 4:28 | 2024-12-16 |  |
 | [Halfway Broken](https://open.spotify.com/track/5U9WcuBcbcI4mIXvv175On) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Halfway Broken](https://open.spotify.com/album/6roIpbmKIBVXtsFHN4vrg0) | 3:14 | 2024-11-22 |  |
 | [Halfway Home](https://open.spotify.com/track/4nUT86Gudk78XZLjcScZ3M) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Hug Of Thunder](https://open.spotify.com/album/6oPAq3tPMGIvlpjoscQP4g) | 4:41 | 2024-12-08 |  |
+| [Halloween Clothes](https://open.spotify.com/track/4H8p0vJLhHGijt5n80ChOb) | [Silver Wolf Band](https://open.spotify.com/artist/4A8OuU3MiOK1mqQ2vEoM8N) | [Make Your Heart Home](https://open.spotify.com/album/3y7327DRtHxtKaVT96SrwZ) | 3:27 | 2025-12-07 |  |
 | [Halulu](https://open.spotify.com/track/5JTsAZnawxrRJRIvfSZUAy) | [Hayley Wallis](https://open.spotify.com/artist/3oz5416NViDyRVxarOd9Fz) | [Halulu](https://open.spotify.com/album/16WDVwNM1Sgcsnl2qsQ22z) | 3:25 | 2024-11-23 |  |
 | [Hand Kisser](https://open.spotify.com/track/4boMSlLLoDPr5DXGUAVeOG) | [Nico Paulo](https://open.spotify.com/artist/5qmzeW1wvVq0c2lFK1MieD) | [Nico Paulo](https://open.spotify.com/album/4hxJYEOKb1NGphLaJb0QuN) | 3:08 | 2025-02-15 |  |
 | [Hand Me Downs](https://open.spotify.com/track/1waxweY2V2YIuxiRXNAiTm) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Rally Cry](https://open.spotify.com/album/6v3juDghsQKIdD1jlLHtPR) | 4:15 | 2025-01-30 |  |

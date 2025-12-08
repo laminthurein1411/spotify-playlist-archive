@@ -4,7 +4,7 @@
 
 > 
 
-426 songs - 1 day 3 hr 47 min
+427 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [How You Remind Me](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Silver Side Up](https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u) | 3:43 | 2025-10-28 |  |
 | [Hurt \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1garkqJoxvHzQi1rmLtGNB) | [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS) | [Spotify Singles](https://open.spotify.com/album/4vibnRBWsLi12dV9kf5Jmy) | 4:27 | 2023-01-23 |  |
 | [I Believe](https://open.spotify.com/track/5eMEUe4B6dbQ55V2SVPSjO) | [Stephen Gately](https://open.spotify.com/artist/7eIPLl8GvZHAkTw101evsp) | [Billy Elliot](https://open.spotify.com/album/1Xa986HKp7Z39aHf1EKyCa) | 3:26 | 2022-06-08 |  |
+| [I Can't Handle Change](https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/0YjOnBY0FRufcmNBTzWTgX) | 3:18 | 2025-12-07 |  |
 | [I Couldn't Say It To Your Face](https://open.spotify.com/track/2UEKe8Fl9PCd22X0Qu5KB2) | [Arthur Russell](https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj) | [Love Is Overtaking Me](https://open.spotify.com/album/02WH3YQOSzeEwwZK1jQWjX) | 2:36 | 2023-10-28 |  |
 | [I Don't Want to Live Without You](https://open.spotify.com/track/19aYH2zhbnTNx4plfenrIk) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Inside Information](https://open.spotify.com/album/7w6HSgAb9MseMM4DDx3Ls2) | 3:57 | 2024-05-06 |  |
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2022-02-02 |  |
