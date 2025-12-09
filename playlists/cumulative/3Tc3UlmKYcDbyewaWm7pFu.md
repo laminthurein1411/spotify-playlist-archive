@@ -4,7 +4,7 @@
 
 > 
 
-1,140 songs - 2 day 19 hr 52 min
+1,141 songs - 2 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Dark Horse](https://open.spotify.com/track/5jrdCoLpJSvHHorevXBATy) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:35 | 2019-12-30 |  |
 | [Daydream](https://open.spotify.com/track/0F6pFZDlQSiQBWsjQZFbTH) | [Gunter Kallmann Choir](https://open.spotify.com/artist/4m9LpZ5l3CEdEhA8W9f29g) | [The Fantastic Sound Of](https://open.spotify.com/album/7MfKFpCQp7v26ZOHcXbmwE) | 3:19 | 2025-04-08 |  |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-07-18 |  |
+| [Days Go By](https://open.spotify.com/track/3ueU9Ne1e1EQQuXkg95OU7) | [Ferester](https://open.spotify.com/artist/6zLpTEeO256aVCCbrg6RpX) | [Days Go By](https://open.spotify.com/album/5HmLbNlAhnHqB4igaqzGcC) | 3:12 | 2025-12-08 |  |
 | [Dead Beat City](https://open.spotify.com/track/1VPWPBWtpRtLeB4kHkddZb) | [Kids That Fly](https://open.spotify.com/artist/1qChcfwij4nN6hsCLTKBJX) | [Dead Beat City](https://open.spotify.com/album/3zEsj1P1EJGu67rUKLVbWl) | 3:53 | 2025-04-15 |  |
 | [Dear Maria, Count Me In](https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:02 | 2022-07-06 |  |
 | [death bed \(coffee for your head\)](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc) | 2:53 | 2020-04-22 |  |

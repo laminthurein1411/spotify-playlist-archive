@@ -429,6 +429,24 @@
     },
     {
       "album": {
+        "name": "Above the Neck",
+        "url": "https://open.spotify.com/album/6BWdPb06mk9wATgUUaUDrf"
+      },
+      "artists": [
+        {
+          "name": "SOFIA ISELLA",
+          "url": "https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225657,
+      "name": "Above the Neck",
+      "url": "https://open.spotify.com/track/1QOjSg4LVUTFtLJba1SWha"
+    },
+    {
+      "album": {
         "name": "And Go Nowhere",
         "url": "https://open.spotify.com/album/6qwneoJu9dEYJPMTgtuIfA"
       },
@@ -1703,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166333,
+      "name": "Big Daddy",
+      "url": "https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4"
+    },
+    {
+      "album": {
         "name": "Big Shot",
         "url": "https://open.spotify.com/album/3baCw6gjkLHFw5a7JdXEH8"
       },
@@ -2094,6 +2130,24 @@
       "duration_ms": 212266,
       "name": "booboo",
       "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
+    },
+    {
+      "album": {
+        "name": "Booga",
+        "url": "https://open.spotify.com/album/0E1xU9Ab5UPMzHL7AehdBx"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112733,
+      "name": "Booga",
+      "url": "https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF"
     },
     {
       "album": {
@@ -3334,6 +3388,24 @@
       "duration_ms": 165688,
       "name": "daisyfields",
       "url": "https://open.spotify.com/track/2VLGEfXOL6KhZnKySdhnBa"
+    },
+    {
+      "album": {
+        "name": "Damaged Goods",
+        "url": "https://open.spotify.com/album/3yEgpFKYXoZmqN3iNnJznX"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278154,
+      "name": "Damaged Goods",
+      "url": "https://open.spotify.com/track/5j1APmJZ3ttRSlSB3H7Khk"
     },
     {
       "album": {
@@ -4877,6 +4949,24 @@
     },
     {
       "album": {
+        "name": "FKN EMBARRASSING",
+        "url": "https://open.spotify.com/album/5ly0e889q0VxQ0pzdn4rJv"
+      },
+      "artists": [
+        {
+          "name": "Charli Lucas",
+          "url": "https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198176,
+      "name": "FKN EMBARRASSING",
+      "url": "https://open.spotify.com/track/6ImHdLLd0kLFlsTyx7u4JU"
+    },
+    {
+      "album": {
         "name": "Focus (feat. CLOVES)",
         "url": "https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF"
       },
@@ -6109,6 +6199,28 @@
     },
     {
       "album": {
+        "name": "GHOST WORLD",
+        "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205693,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw"
+    },
+    {
+      "album": {
         "name": "Hello Miss Johnson",
         "url": "https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy"
       },
@@ -6330,6 +6442,32 @@
       "duration_ms": 190074,
       "name": "HIGHJACK",
       "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
+    },
+    {
+      "album": {
+        "name": "hit me where it hurts x",
+        "url": "https://open.spotify.com/album/1KggQ6cWyi3bTQ2dK5V352"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238500,
+      "name": "hit me where it hurts x",
+      "url": "https://open.spotify.com/track/1kWbPGEMBUHv2XMIqHZayL"
     },
     {
       "album": {
@@ -8177,6 +8315,24 @@
     },
     {
       "album": {
+        "name": "Home Is True",
+        "url": "https://open.spotify.com/album/5sCZV4unPO5Hme36JC0ZFH"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252393,
+      "name": "Let Me Say This",
+      "url": "https://open.spotify.com/track/19iQuyF5zc3zT1LdY3y5G7"
+    },
+    {
+      "album": {
         "name": "Let's Go Back",
         "url": "https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul"
       },
@@ -9863,6 +10019,24 @@
     },
     {
       "album": {
+        "name": "SO CLOSE TO WHAT??? (deluxe)",
+        "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168134,
+      "name": "NOBODY'S GIRL",
+      "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
+    },
+    {
+      "album": {
         "name": "Noid",
         "url": "https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl"
       },
@@ -11261,6 +11435,28 @@
     },
     {
       "album": {
+        "name": "Sex Ed",
+        "url": "https://open.spotify.com/album/3voAVqZoS1zMX0ZQ8wZqcm"
+      },
+      "artists": [
+        {
+          "name": "Playlunch",
+          "url": "https://open.spotify.com/artist/0KeXd4EkaUHseJoZQhNR4u"
+        },
+        {
+          "name": "Aunty Donna",
+          "url": "https://open.spotify.com/artist/590eeDBmZjoahBTswUJ3AM"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190497,
+      "name": "Real Estate Apps",
+      "url": "https://open.spotify.com/track/0Uwr1SkjUNCYgOs8FbXALt"
+    },
+    {
+      "album": {
         "name": "Motions",
         "url": "https://open.spotify.com/album/74llMjtisXlfWXgtW6pfGQ"
       },
@@ -11468,6 +11664,24 @@
       "duration_ms": 199163,
       "name": "Ruin A Good Thing",
       "url": "https://open.spotify.com/track/1WBCT1X3icl0ElsOXxxg25"
+    },
+    {
+      "album": {
+        "name": "Rule 31",
+        "url": "https://open.spotify.com/album/2SMWUV7fij4YwtmQqYiJjx"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254753,
+      "name": "Rule 31",
+      "url": "https://open.spotify.com/track/7pAfFtGxND5IaeRzOuPHcJ"
     },
     {
       "album": {
@@ -11984,6 +12198,24 @@
       "duration_ms": 142935,
       "name": "SLOW IT DOWN",
       "url": "https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od"
+    },
+    {
+      "album": {
+        "name": "Small Town Rockstar",
+        "url": "https://open.spotify.com/album/30P9jA994KCtu5iaWqq6dA"
+      },
+      "artists": [
+        {
+          "name": "Hannah Brewer",
+          "url": "https://open.spotify.com/artist/0MYPoaaBk0uz7ZrS2VHFWk"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197750,
+      "name": "Small Town Rockstar",
+      "url": "https://open.spotify.com/track/3s9Lpdkd3LTWhJaOCSZuC4"
     },
     {
       "album": {
@@ -14374,6 +14606,24 @@
       "duration_ms": 133790,
       "name": "Watch That Girl (She\u2019s Gonna Say It)",
       "url": "https://open.spotify.com/track/7ziZEnL58TthPTvrsWMSwG"
+    },
+    {
+      "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/23MJ6JeN2HjCHv3AxkOYrS"
+      },
+      "artists": [
+        {
+          "name": "South Summit",
+          "url": "https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "WE ARE",
+      "url": "https://open.spotify.com/track/3HF5KtnhDf1hfp2YYiQqPe"
     },
     {
       "album": {

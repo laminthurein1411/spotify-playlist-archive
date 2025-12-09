@@ -36343,6 +36343,24 @@
     },
     {
       "album": {
+        "name": "All is Love and Pain in the Mouse Parade",
+        "url": "https://open.spotify.com/album/3EFTmIZhmh99NqPm85vn8b"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220226,
+      "name": "Ordinary Creature",
+      "url": "https://open.spotify.com/track/4hIE3oiWIoevdtFMywJgOu"
+    },
+    {
+      "album": {
         "name": "Get Lifted",
         "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
       },

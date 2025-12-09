@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,092 songs - 8 day 1 hr 20 min
+3,093 songs - 8 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1955,6 +1955,7 @@
 | [Optimistic](https://open.spotify.com/track/1FoUsSi9BCTlNt2Vd7V8XA) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 5:15 | 2025-10-03 |  |
 | [Orange Crush \- Remastered 2013](https://open.spotify.com/track/7sNhXWrg9eW3qRqeuePaIC) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Green \(Remastered\)](https://open.spotify.com/album/7rfKAiPs9ToZP9zEJDBqBH) | 3:51 | 2024-12-14 |  |
 | [Ordinary Creature](https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Ordinary Creature](https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln) | 3:40 | 2025-09-03 |  |
+| [Ordinary Creature](https://open.spotify.com/track/4hIE3oiWIoevdtFMywJgOu) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [All is Love and Pain in the Mouse Parade](https://open.spotify.com/album/3EFTmIZhmh99NqPm85vn8b) | 3:40 | 2025-12-08 |  |
 | [Ordinary People](https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 4:41 | 2025-05-09 |  |
 | [Ordinary World](https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran](https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T) | 5:40 | 2025-01-22 |  |
 | [Otherside](https://open.spotify.com/track/4fkyHLoaE4mc7wzUzZLHzI) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT) | [Two](https://open.spotify.com/album/58eBrPuCSuuHXQ4lpjYcAA) | 2:54 | 2025-11-18 |  |
