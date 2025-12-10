@@ -9867,6 +9867,24 @@
     },
     {
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244506,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
+    },
+    {
+      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/7FqJvfHEUv3vbv9FZhpsgW"
       },
@@ -10178,6 +10196,28 @@
       "duration_ms": 267360,
       "name": "Courage (For Hugh MacLennan)",
       "url": "https://open.spotify.com/track/1ffzAzDFSOvEbWTbC7aPLw"
+    },
+    {
+      "album": {
+        "name": "Cowboy Dreams (feat. Cat Clyde)",
+        "url": "https://open.spotify.com/album/2pKdvcwUbe6dojapgCgw2f"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        },
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202980,
+      "name": "Cowboy Dreams (feat. Cat Clyde)",
+      "url": "https://open.spotify.com/track/26hA16YOoGwHsBd7NeX2Iu"
     },
     {
       "album": {
@@ -21141,6 +21181,24 @@
     },
     {
       "album": {
+        "name": "Hold You",
+        "url": "https://open.spotify.com/album/7spbRt9SqbU9ixAhhTGMyW"
+      },
+      "artists": [
+        {
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185660,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/0X5obnBCTtXdhJgTwuJ1L5"
+    },
+    {
+      "album": {
         "name": "Picture Book (Expanded Version)",
         "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
       },
@@ -31096,6 +31154,24 @@
       "duration_ms": 236048,
       "name": "Make way for waves",
       "url": "https://open.spotify.com/track/4FSTlcB7Cnym2YbYxPGnki"
+    },
+    {
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/5awrJZBt3rP9RO5hlYdZB0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/273QnyCvJB65rScHJ1nPZb"
     },
     {
       "album": {
@@ -50223,6 +50299,24 @@
     },
     {
       "album": {
+        "name": "Thinking 'Bout Love",
+        "url": "https://open.spotify.com/album/44WXUHQlOOzHsPz5BTuCsy"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199391,
+      "name": "Thinking 'Bout Love",
+      "url": "https://open.spotify.com/track/7rMvxY857vXy8ztbmXYTXz"
+    },
+    {
+      "album": {
         "name": "Thirteen",
         "url": "https://open.spotify.com/album/3HCE5qAO5hApaOGHldbaCb"
       },
@@ -55627,6 +55721,24 @@
     },
     {
       "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147026,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx"
+    },
+    {
+      "album": {
         "name": "Business As Usual",
         "url": "https://open.spotify.com/album/146RggLMNzNZL1ZVr8hbCw"
       },
@@ -55916,6 +56028,24 @@
       "duration_ms": 189586,
       "name": "Wind It Up",
       "url": "https://open.spotify.com/track/1GeECVH4Msg1zLm8DExkbH"
+    },
+    {
+      "album": {
+        "name": "Pentimento",
+        "url": "https://open.spotify.com/album/45orUhVRJzR9XdrHeZaomh"
+      },
+      "artists": [
+        {
+          "name": "Carson McHone",
+          "url": "https://open.spotify.com/artist/1IOeIjSSt8AcZXEriZXcvx"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269842,
+      "name": "Winter Breaking",
+      "url": "https://open.spotify.com/track/1BcOs1UGQyScLr89oNNUP8"
     },
     {
       "album": {

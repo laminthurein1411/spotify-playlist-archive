@@ -639,6 +639,28 @@
     },
     {
       "album": {
+        "name": "Sterben in Karl-Marx-Stadt",
+        "url": "https://open.spotify.com/album/2tne1K96u0liOIzEdDXY2Z"
+      },
+      "artists": [
+        {
+          "name": "Kraftklub",
+          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
+        },
+        {
+          "name": "Faber",
+          "url": "https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "All die sch\u00f6nen Worte feat. Faber",
+      "url": "https://open.spotify.com/track/3YqUyQWHCjQ4JSoiJsoBpe"
+    },
+    {
+      "album": {
         "name": "All die sch\u00f6nen Worte feat. Faber",
         "url": "https://open.spotify.com/album/3aEYufSNb9oRDRQXBxDNi3"
       },
@@ -3195,6 +3217,28 @@
     },
     {
       "album": {
+        "name": "clich\u00e9 (Jonas Brothers remix)",
+        "url": "https://open.spotify.com/album/22J6WrAyDz3ZsTqXiEGeqn"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176242,
+      "name": "clich\u00e9 - Jonas Brothers remix",
+      "url": "https://open.spotify.com/track/3sqySB5Pxon72vDIdduez4"
+    },
+    {
+      "album": {
         "name": "Closer To Me",
         "url": "https://open.spotify.com/album/6iwo9QpsRBRrjQFtFzL8VK"
       },
@@ -3368,6 +3412,28 @@
       "duration_ms": 180600,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/2yr7dj2exeNemsFnlD6Nz8"
+    },
+    {
+      "album": {
+        "name": "Crazy Crazy",
+        "url": "https://open.spotify.com/album/7fIUpOMSe3NB1tWYN6cQqQ"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Ren\u00e9 Miller",
+          "url": "https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159973,
+      "name": "Crazy Crazy",
+      "url": "https://open.spotify.com/track/1dKniAOvNaElbWgpVUI0Mx"
     },
     {
       "album": {
@@ -3757,6 +3823,28 @@
     },
     {
       "album": {
+        "name": "Gegenteil von Gl\u00fcck",
+        "url": "https://open.spotify.com/album/4PoyaGgQRQdEPALQgLAyuY"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        },
+        {
+          "name": "Berq",
+          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179760,
+      "name": "Dass Du mich brauchst",
+      "url": "https://open.spotify.com/track/6CF3EP3MX9uwykjpbZWyq4"
+    },
+    {
+      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/3MjBqn8Uym4G6MHga7NuB9"
       },
@@ -3811,6 +3899,28 @@
     },
     {
       "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288159,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI"
+    },
+    {
+      "album": {
         "name": "Dein Herz",
         "url": "https://open.spotify.com/album/0MXF8cWp5EBSvSVJ7I2lhc"
       },
@@ -3829,7 +3939,7 @@
     },
     {
       "album": {
-        "name": "Deja-Vu",
+        "name": "Deja Vu",
         "url": "https://open.spotify.com/album/6I8KoXhvSNkEdkJTiSaxiM"
       },
       "artists": [
@@ -3842,7 +3952,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191123,
-      "name": "Deja-Vu",
+      "name": "Deja Vu",
       "url": "https://open.spotify.com/track/0SqHkArDOl5lU4XmASnjBV"
     },
     {
@@ -4124,6 +4234,24 @@
       "duration_ms": 208176,
       "name": "Divine Feelings",
       "url": "https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi"
+    },
+    {
+      "album": {
+        "name": "DO IT",
+        "url": "https://open.spotify.com/album/4lkJ6i3LDK8HvcU2tPWX9k"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/1KuNhOubescxn3xD6WNI7Q"
     },
     {
       "album": {
@@ -8719,6 +8847,28 @@
     },
     {
       "album": {
+        "name": "Gegenteil von Gl\u00fcck",
+        "url": "https://open.spotify.com/album/4PoyaGgQRQdEPALQgLAyuY"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        },
+        {
+          "name": "Berq",
+          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252813,
+      "name": "Knopf",
+      "url": "https://open.spotify.com/track/38ZbazlMYsu5qWhaSTOHtO"
+    },
+    {
+      "album": {
         "name": "UNDERCOVER",
         "url": "https://open.spotify.com/album/3TOXe2pojwVLdeOScPoDSf"
       },
@@ -8895,6 +9045,24 @@
     },
     {
       "album": {
+        "name": "Labubu Freestyle",
+        "url": "https://open.spotify.com/album/4XNrW1y0mE9e1EeAISzsRt"
+      },
+      "artists": [
+        {
+          "name": "ZAH1DE",
+          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120026,
+      "name": "Labubu Freestyle",
+      "url": "https://open.spotify.com/track/7etvmixsXbfoFoX3mYDYx3"
+    },
+    {
+      "album": {
         "name": "Lady (Hear Me Tonight)",
         "url": "https://open.spotify.com/album/57SwKjLUnRzLs7jXcDsQCY"
       },
@@ -8910,6 +9078,24 @@
       "duration_ms": 153692,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/5GIG7Ktm9gZnV5yNqb0XZl"
+    },
+    {
+      "album": {
+        "name": "Lass dich nicht ficken",
+        "url": "https://open.spotify.com/album/5X3UjKtBVdOZ5wgRstrpmO"
+      },
+      "artists": [
+        {
+          "name": "Bosse",
+          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157243,
+      "name": "Lass dich nicht ficken",
+      "url": "https://open.spotify.com/track/3sqzMlW70MhS6sOi96VVHN"
     },
     {
       "album": {
@@ -8932,6 +9118,24 @@
       "duration_ms": 136342,
       "name": "lass es gehen (feat. Max Raabe)",
       "url": "https://open.spotify.com/track/177wfMc2GyarTDKEAkdlY8"
+    },
+    {
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
     },
     {
       "album": {
@@ -10434,6 +10638,24 @@
       "duration_ms": 189945,
       "name": "mein zimmer",
       "url": "https://open.spotify.com/track/1qlkKk4dEb9paErnBL4bAd"
+    },
+    {
+      "album": {
+        "name": "MEINS!",
+        "url": "https://open.spotify.com/album/6HRFbveHYKhehqzQgQYOzu"
+      },
+      "artists": [
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "MEINS!",
+      "url": "https://open.spotify.com/track/0UHcaOa957xK1sgVLoz7y6"
     },
     {
       "album": {
@@ -12971,6 +13193,24 @@
     },
     {
       "album": {
+        "name": "Red Eyes",
+        "url": "https://open.spotify.com/album/5hwLvoCc9yBVa8Arvv44kW"
+      },
+      "artists": [
+        {
+          "name": "Loi",
+          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153027,
+      "name": "Red Eyes",
+      "url": "https://open.spotify.com/track/2GAsClEKgfAlU3lyIdCrUK"
+    },
+    {
+      "album": {
         "name": "REDE",
         "url": "https://open.spotify.com/album/1HoueopEdCizCdy1VSe4BU"
       },
@@ -13472,6 +13712,24 @@
       "duration_ms": 159425,
       "name": "Samen Naar De Euroborg",
       "url": "https://open.spotify.com/track/6oK7Lfy6zZlufIQiFMCrrj"
+    },
+    {
+      "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/32gqZfrZ51UMunez3CZDJZ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "Santa Claus Is Comin' To Town",
+      "url": "https://open.spotify.com/track/5h1LioQgmLvWoRU7V4pjma"
     },
     {
       "album": {
@@ -14204,6 +14462,24 @@
       "duration_ms": 173316,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/58QPfkhEGLkZeqXwZkcNv5"
+    },
+    {
+      "album": {
+        "name": "Christmas Songs - Merry Christmas",
+        "url": "https://open.spotify.com/album/0m17rnRE4DbQgMS7xP2Yj4"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180275,
+      "name": "Snowman - Slowed Down",
+      "url": "https://open.spotify.com/track/0K9i9B0OVCAcM0iyuP8ZFP"
     },
     {
       "album": {
@@ -15605,6 +15881,24 @@
     },
     {
       "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/1XihsRNijZ4GXrAHmQQv6n"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175338,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/4WRb5qAPnvMbUIrnjLaggC"
+    },
+    {
+      "album": {
         "name": "The Contract",
         "url": "https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J"
       },
@@ -15918,6 +16212,24 @@
       "duration_ms": 252276,
       "name": "The Subway",
       "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
+    {
+      "album": {
+        "name": "People Watching (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Ov6kqbKq0PpmyWwMRgrcT"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202973,
+      "name": "The Treadmill",
+      "url": "https://open.spotify.com/track/3eQFc5BYiPyW36Rmx7w2Fc"
     },
     {
       "album": {
@@ -16849,6 +17161,28 @@
     },
     {
       "album": {
+        "name": "Vanille",
+        "url": "https://open.spotify.com/album/4xI7nGSjBBpBvAtf4tDdGa"
+      },
+      "artists": [
+        {
+          "name": "LINA",
+          "url": "https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8"
+        },
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130128,
+      "name": "Vanille",
+      "url": "https://open.spotify.com/track/4hpDueXN35tk4bxr4AAhK5"
+    },
+    {
+      "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
@@ -17440,6 +17774,28 @@
       "duration_ms": 165193,
       "name": "Weihnachtslied 2024",
       "url": "https://open.spotify.com/track/56ujP3oacjM5cQ8ndqFyma"
+    },
+    {
+      "album": {
+        "name": "Welt retten",
+        "url": "https://open.spotify.com/album/2YQIuGnZOHBb9wGbLYtYCJ"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160973,
+      "name": "Welt retten",
+      "url": "https://open.spotify.com/track/7ivlSMMxwPHgFg8ypAmswU"
     },
     {
       "album": {
