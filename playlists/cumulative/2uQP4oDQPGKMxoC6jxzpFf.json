@@ -7457,6 +7457,24 @@
     },
     {
       "album": {
+        "name": "Can we talk about Isaac?",
+        "url": "https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243203,
+      "name": "Can we talk about Isaac?",
+      "url": "https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r"
+    },
+    {
+      "album": {
         "name": "A Hard Day's Night (Remastered)",
         "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
       },
@@ -9774,6 +9792,24 @@
       "duration_ms": 169106,
       "name": "Comme des enfants",
       "url": "https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX"
+    },
+    {
+      "album": {
+        "name": "Almost a Full Moon",
+        "url": "https://open.spotify.com/album/0H7fzf5NsKsJQ4qlk9Y8ZG"
+      },
+      "artists": [
+        {
+          "name": "Hawksley Workman",
+          "url": "https://open.spotify.com/artist/6TXT0xgAes45U8vyHeCIZJ"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187413,
+      "name": "Common Cold",
+      "url": "https://open.spotify.com/track/5OdahTFQtT4D7O68fg6vcc"
     },
     {
       "album": {
@@ -13999,6 +14035,24 @@
     },
     {
       "album": {
+        "name": "Every Ribbon",
+        "url": "https://open.spotify.com/album/09Rm2tuITidVaeuIdTJu7F"
+      },
+      "artists": [
+        {
+          "name": "Tim Baker",
+          "url": "https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232021,
+      "name": "Every Ribbon",
+      "url": "https://open.spotify.com/track/6KENqX9oo89IrkZqKZMKnX"
+    },
+    {
+      "album": {
         "name": "Everybody Gets Down",
         "url": "https://open.spotify.com/album/2itGQCqttw47maPiLdncOM"
       },
@@ -15340,6 +15394,24 @@
       "duration_ms": 198146,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/3lHpyOxyejGeE73kYKZJLs"
+    },
+    {
+      "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176933,
+      "name": "First",
+      "url": "https://open.spotify.com/track/6Ijr2FALEGiepGbWdPp5Qh"
     },
     {
       "album": {
@@ -24631,6 +24703,24 @@
     },
     {
       "album": {
+        "name": "If You Were A Stranger",
+        "url": "https://open.spotify.com/album/2xDRKT4SEtOSZNJTxx330C"
+      },
+      "artists": [
+        {
+          "name": "summersets",
+          "url": "https://open.spotify.com/artist/56UCNajlvDjMgHedDlPr6v"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165728,
+      "name": "If You Were A Stranger",
+      "url": "https://open.spotify.com/track/7kgPiDtbvGYB2EZlAfTPCM"
+    },
+    {
+      "album": {
         "name": "Ikiaqqik (Levitating)",
         "url": "https://open.spotify.com/album/20Yf5y2inS6OZ57GAc9E5g"
       },
@@ -33180,7 +33270,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 281231,
-      "name": "My Sweet Lord (2014 Remaster)",
+      "name": "My Sweet Lord - 2014 Remaster",
       "url": "https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs"
     },
     {
@@ -44881,6 +44971,24 @@
     },
     {
       "album": {
+        "name": "spilled milk",
+        "url": "https://open.spotify.com/album/6b8tmVxO0sSqRGkNxCbfnz"
+      },
+      "artists": [
+        {
+          "name": "Mars Aspen",
+          "url": "https://open.spotify.com/artist/2SdiEnsOFODMZFT9F9o42Y"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178407,
+      "name": "spilled milk",
+      "url": "https://open.spotify.com/track/1gXFqjnIuhZieZEODcUiW4"
+    },
+    {
+      "album": {
         "name": "Spin The Block",
         "url": "https://open.spotify.com/album/7AjozjGfrhjIgdgWvd7pg2"
       },
@@ -48668,6 +48776,24 @@
       "duration_ms": 210435,
       "name": "The Grass Is Blue (Everywhere I Go)",
       "url": "https://open.spotify.com/track/4sICAWt879UeJa4UoFZZHk"
+    },
+    {
+      "album": {
+        "name": "The Best of Van McCoy",
+        "url": "https://open.spotify.com/album/6gHHaAyngLof6AtlJZ60Hp"
+      },
+      "artists": [
+        {
+          "name": "Van McCoy",
+          "url": "https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210249,
+      "name": "The Hustle",
+      "url": "https://open.spotify.com/track/65umEiTSnixsv1HzTy6bDP"
     },
     {
       "album": {
@@ -52910,6 +53036,24 @@
       "duration_ms": 219413,
       "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
       "url": "https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7"
+    },
+    {
+      "album": {
+        "name": "Welcome Interstate Managers",
+        "url": "https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT"
+      },
+      "artists": [
+        {
+          "name": "Fountains Of Wayne",
+          "url": "https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214960,
+      "name": "Valley Winter Song",
+      "url": "https://open.spotify.com/track/0g10ndCuaKKaDqUa7gKZMV"
     },
     {
       "album": {
