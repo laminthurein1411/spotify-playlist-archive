@@ -8,6 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ["Heroes" \- 2017 Remaster](https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | ["Heroes" \(2017 Remaster\)](https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk) | 6:11 | 2024-03-21 |  |
 | [\#9 Dream \- Remastered 2010](https://open.spotify.com/track/4ZVWvCUwsOnIGmJMj71RkG) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Walls And Bridges](https://open.spotify.com/album/3n1j9GslH8h0jIx7NRUIX4) | 4:46 | 2024-03-23 |  |
 | [\(Can't Live Without Your\) Love And Affection \- Remastered 2017](https://open.spotify.com/track/3JjY2L2bqql54j1SjnjQ23) | [Nelson](https://open.spotify.com/artist/5jJcbGPjjyEhAoU02ynHaA) | [After The Rain \(Remastered\)](https://open.spotify.com/album/3bF75h2NG3y918xMulJ2UI) | 3:56 | 2024-03-05 |  |
 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/1Eb90nmqTrxylKFhcUzW8P) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh) | 6:33 | 2024-03-10 |  |
@@ -857,7 +858,6 @@
 | [Here I Go Again \- 2018 Remaster](https://open.spotify.com/track/1qOU8KzFifXE9YrgjVwYvc) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(2018 Remaster\)](https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I) | 4:35 | 2024-03-01 |  |
 | [Here's Where the Story Ends](https://open.spotify.com/track/5gSHlT2SI0dtjeHrjj96A1) | [The Sundays](https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7) | [Reading Writing And Arithmetic](https://open.spotify.com/album/6CmJJCI3lOn5XVZ68hP9kY) | 3:50 | 2024-03-01 |  |
 | [Here, There And Everywhere \- Remastered 2009](https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:24 | 2024-03-30 |  |
-| [Heroes \- 2017 Remaster](https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | ["Heroes" \(2017 Remaster\)](https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk) | 6:11 | 2024-03-21 |  |
 | [Hey Boy Hey Girl](https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Surrender](https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3) | 4:50 | 2024-03-05 |  |
 | [Hey Jealousy](https://open.spotify.com/track/4o7ZPI2fmEi3piRe0Hrfpy) | [Gin Blossoms](https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj) | [New Miserable Experience](https://open.spotify.com/album/484pzryEPqn6KSMLtP2c4f) | 3:56 | 2024-03-05 |  |
 | [Hey Jude](https://open.spotify.com/track/1eT2CjXwFXNx6oY5ydvzKU) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Love](https://open.spotify.com/album/1Ye7yrA7vAlQnoooj8yDXb) | 3:58 | 2024-03-21 |  |

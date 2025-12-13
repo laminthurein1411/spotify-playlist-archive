@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "\"Heroes\" (2017 Remaster)",
+        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371413,
+      "name": "\"Heroes\" - 2017 Remaster",
+      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
+    },
+    {
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -2286,6 +2304,28 @@
       "duration_ms": 258133,
       "name": "Always Be My Baby",
       "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
+    },
+    {
+      "album": {
+        "name": "Duets Special",
+        "url": "https://open.spotify.com/album/61tsj2jxgySJ6mtG2Fp05C"
+      },
+      "artists": [
+        {
+          "name": "Chrissie Hynde",
+          "url": "https://open.spotify.com/artist/2ozLlEZTdSV3pjHgWwZMsi"
+        },
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202993,
+      "name": "Always On My Mind (feat. Rufus Wainwright)",
+      "url": "https://open.spotify.com/track/1SBAjvgFoehL6mntnN1E4j"
     },
     {
       "album": {
@@ -11871,6 +11911,32 @@
     },
     {
       "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Amanda Reifer",
+          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239026,
+      "name": "Die Hard",
+      "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN"
+    },
+    {
+      "album": {
         "name": "Silences",
         "url": "https://open.spotify.com/album/4nneOM4v04jUA5AROq5qr3"
       },
@@ -20537,24 +20603,6 @@
     },
     {
       "album": {
-        "name": "\"Heroes\" (2017 Remaster)",
-        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "date_added": "2025-11-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 371413,
-      "name": "Heroes - 2017 Remaster",
-      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
-    },
-    {
-      "album": {
         "name": "Heureux comme \u00e7a",
         "url": "https://open.spotify.com/album/4sI3aKZhpwWd8wLEPeASqm"
       },
@@ -24716,7 +24764,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 268546,
-      "name": "If You Leave - From \"Pretty In Pink\"",
+      "name": "If You Leave",
       "url": "https://open.spotify.com/track/05oFyvdztPdpwSwpoclD4c"
     },
     {
@@ -34977,6 +35025,24 @@
     },
     {
       "album": {
+        "name": "Nora",
+        "url": "https://open.spotify.com/album/7p3JXZA7bGUD1w66TRV5W1"
+      },
+      "artists": [
+        {
+          "name": "Rachel Cousins",
+          "url": "https://open.spotify.com/artist/7DpXoKZYGVplF7otoL4gnY"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235339,
+      "name": "Nora",
+      "url": "https://open.spotify.com/track/3vNJYnVg1Qo28QobqlJCQ0"
+    },
+    {
+      "album": {
         "name": "Northern Star",
         "url": "https://open.spotify.com/album/0mC3hcWWNre9ohxHvhUdln"
       },
@@ -39934,6 +40000,24 @@
       "duration_ms": 337066,
       "name": "Ribbon In The Sky",
       "url": "https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN"
+    },
+    {
+      "album": {
+        "name": "Scandalous",
+        "url": "https://open.spotify.com/album/2o1HYObYf8GEYznCsvSLfO"
+      },
+      "artists": [
+        {
+          "name": "Tedy",
+          "url": "https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143493,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/6E1m8BgdbbloMNpTj8kOqV"
     },
     {
       "album": {
@@ -45573,6 +45657,24 @@
     },
     {
       "album": {
+        "name": "Stay In This Moment",
+        "url": "https://open.spotify.com/album/5GGEodyHnNq435pEOyCdby"
+      },
+      "artists": [
+        {
+          "name": "Logan Richard",
+          "url": "https://open.spotify.com/artist/0clafcEW9Npsrqo76bL13o"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164001,
+      "name": "Stay In This Moment",
+      "url": "https://open.spotify.com/track/2cVNX2IjBZLrfZv3ccDVXe"
+    },
+    {
+      "album": {
         "name": "In The Lonely Hour",
         "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
@@ -46028,6 +46130,24 @@
       "duration_ms": 220373,
       "name": "Stop Me If I've Told You This Story",
       "url": "https://open.spotify.com/track/4lgKpZ1SXXBrfz9QuWHczt"
+    },
+    {
+      "album": {
+        "name": "Forever Your Girl",
+        "url": "https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu"
+      },
+      "artists": [
+        {
+          "name": "Paula Abdul",
+          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251466,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso"
     },
     {
       "album": {

@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Adriatic",
+        "url": "https://open.spotify.com/album/7gXJQFI5K3fmChcAR54Z6L"
+      },
+      "artists": [
+        {
+          "name": "Westerman",
+          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222390,
+      "name": "Adriatic",
+      "url": "https://open.spotify.com/track/0j6olnVHBLNQ68daZhwcFR"
+    },
+    {
+      "album": {
         "name": "Adventures on the Floating Island",
         "url": "https://open.spotify.com/album/3QTpSmAq5j7udfy080khsW"
       },
@@ -4539,6 +4557,24 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/40Ksd3AVHtWcZbExDuuxVL"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221405,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/5reWe6VIloY1CNYhzdApCl"
+    },
+    {
+      "album": {
         "name": "Cytoplasm",
         "url": "https://open.spotify.com/album/2qyceJzF8psx9rj8XarLZi"
       },
@@ -5029,6 +5065,24 @@
     },
     {
       "album": {
+        "name": "Rest Easy",
+        "url": "https://open.spotify.com/album/3AKzDK0hhKvBpIpKEZxT38"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "I Only Smoke When I Drink",
+      "url": "https://open.spotify.com/track/1SY5Y4iwcpIk3WJAVq5CE5"
+    },
+    {
+      "album": {
         "name": "Lost Highway",
         "url": "https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues"
       },
@@ -5428,6 +5482,42 @@
       "duration_ms": 105293,
       "name": "In The Night",
       "url": "https://open.spotify.com/track/0RxSfiEvfn6UCEPKJ7sW0T"
+    },
+    {
+      "album": {
+        "name": "Dance Called Memory",
+        "url": "https://open.spotify.com/album/2fNPTFiU2sCY9m6tv3Ucqa"
+      },
+      "artists": [
+        {
+          "name": "Nation of Language",
+          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296879,
+      "name": "In Your Head",
+      "url": "https://open.spotify.com/track/5kUddlrNl341wuDuBwCoRr"
+    },
+    {
+      "album": {
+        "name": "Live Laugh Love",
+        "url": "https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95497,
+      "name": "INFATUATION",
+      "url": "https://open.spotify.com/track/6qQggeOq8bqOAuXutY8nfN"
     },
     {
       "album": {
@@ -5840,6 +5930,32 @@
       "duration_ms": 194992,
       "name": "Just As Long As We're Together",
       "url": "https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6"
+    },
+    {
+      "album": {
+        "name": "Cabin In The Sky",
+        "url": "https://open.spotify.com/album/0yBlUg27MbywASeGd1uNIA"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "Jay Pharoah",
+          "url": "https://open.spotify.com/artist/4IlxosDD8SmIv7NlEPwjOP"
+        },
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269288,
+      "name": "Just How It Is (Sometimes)",
+      "url": "https://open.spotify.com/track/4c9r8FPNSbXaXI6vn0K5Dg"
     },
     {
       "album": {
@@ -7025,6 +7141,24 @@
     },
     {
       "album": {
+        "name": "Monkey (Gottlieb Club Mix)",
+        "url": "https://open.spotify.com/album/28Byp0aYnlvu0zORFDw4DH"
+      },
+      "artists": [
+        {
+          "name": "The Miserable Rich",
+          "url": "https://open.spotify.com/artist/6ASVzA153Iu1hul6Jw1rWG"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223826,
+      "name": "Monkey - Gottlieb Club Mix",
+      "url": "https://open.spotify.com/track/1uoDlrIENgTeYHubjZtaDt"
+    },
+    {
+      "album": {
         "name": "Lover, Other",
         "url": "https://open.spotify.com/album/5BUquHUocSbSGXlTjUcH75"
       },
@@ -7760,6 +7894,24 @@
       "duration_ms": 220096,
       "name": "OHAYO SARAV\u00c1",
       "url": "https://open.spotify.com/track/6vJJuVQxZVnw5EThdK4m4G"
+    },
+    {
+      "album": {
+        "name": "Buletten & Blumen",
+        "url": "https://open.spotify.com/album/5x3WN8S89q0zfhqKd9ormh"
+      },
+      "artists": [
+        {
+          "name": "Siriusmo",
+          "url": "https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99698,
+      "name": "Ok So",
+      "url": "https://open.spotify.com/track/0ZVn6bz3OO81qhL1sUnHFG"
     },
     {
       "album": {
@@ -9321,6 +9473,28 @@
     },
     {
       "album": {
+        "name": "Brownswood Electric 4",
+        "url": "https://open.spotify.com/album/5VpjCPLJXiV5dLyRLOd4hK"
+      },
+      "artists": [
+        {
+          "name": "Louis Futon",
+          "url": "https://open.spotify.com/artist/79ffq2PHS5TDmgnHhAyudW"
+        },
+        {
+          "name": "GANZ",
+          "url": "https://open.spotify.com/artist/6sUbCA1obWzdoJ1FM3I9Ks"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225320,
+      "name": "Shoulda Known - GANZ Remix",
+      "url": "https://open.spotify.com/track/21XycuULd4H8IVBzM27mUY"
+    },
+    {
+      "album": {
         "name": "Show Up",
         "url": "https://open.spotify.com/album/6lNSdFTw25ttL9uOwTk2zm"
       },
@@ -9598,6 +9772,24 @@
       "duration_ms": 181813,
       "name": "Someone to Love You",
       "url": "https://open.spotify.com/track/029DgHoyQFzA8gGvNOha3U"
+    },
+    {
+      "album": {
+        "name": "Somersaults",
+        "url": "https://open.spotify.com/album/5OhRJIS4bSB5xPWIS875HS"
+      },
+      "artists": [
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174338,
+      "name": "Somersaults",
+      "url": "https://open.spotify.com/track/2bAxlpGBYcn03ghPQ9xwwB"
     },
     {
       "album": {
@@ -10429,6 +10621,32 @@
     },
     {
       "album": {
+        "name": "Talk of the Town",
+        "url": "https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Reggie",
+          "url": "https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Talk of the Town",
+      "url": "https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF"
+    },
+    {
+      "album": {
         "name": "AIN'T NO DAMN WAY!",
         "url": "https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6"
       },
@@ -10444,6 +10662,24 @@
       "duration_ms": 142246,
       "name": "TARGET JOINT",
       "url": "https://open.spotify.com/track/2g3S9jyG9dAchzKCCvOXLw"
+    },
+    {
+      "album": {
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197661,
+      "name": "Taxes",
+      "url": "https://open.spotify.com/track/5cbDTZG8lBJqVVa2zqROPI"
     },
     {
       "album": {
@@ -11220,6 +11456,28 @@
       "duration_ms": 256156,
       "name": "Transmuted Matter",
       "url": "https://open.spotify.com/track/5uC8IfgKCq9RJucC3hNkOM"
+    },
+    {
+      "album": {
+        "name": "Velvet Seas",
+        "url": "https://open.spotify.com/album/0MZqGkVl2NJpjEkoPUD8cQ"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "IVAR",
+          "url": "https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233651,
+      "name": "Travel Light",
+      "url": "https://open.spotify.com/track/3JiXM0TDv97kVTXH0ZtCpk"
     },
     {
       "album": {
@@ -12014,6 +12272,32 @@
       "duration_ms": 157213,
       "name": "What's On Your Mind",
       "url": "https://open.spotify.com/track/1DEJKx9IYnTMiEe1mEj9H0"
+    },
+    {
+      "album": {
+        "name": "Wherever You Are",
+        "url": "https://open.spotify.com/album/2wCMaRA2p989dcXoFQftSh"
+      },
+      "artists": [
+        {
+          "name": "Travel Plans",
+          "url": "https://open.spotify.com/artist/23NifRyXOkUITXAPhftjnX"
+        },
+        {
+          "name": "Kendra Morris",
+          "url": "https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk"
+        },
+        {
+          "name": "Yvonne Ambr\u00e9e",
+          "url": "https://open.spotify.com/artist/5wdvfg6mXXZuPfaNX8d52X"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Wherever You Are",
+      "url": "https://open.spotify.com/track/6YA1zRs3ohJSTFZdpC7sgi"
     },
     {
       "album": {
