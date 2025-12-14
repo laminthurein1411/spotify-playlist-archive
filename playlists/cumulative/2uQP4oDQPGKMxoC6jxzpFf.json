@@ -2531,6 +2531,28 @@
     },
     {
       "album": {
+        "name": "Angel in the Snow (from \"Oh. What. Fun.\")",
+        "url": "https://open.spotify.com/album/7MPeLiCCYvdWWDaMlQBMwJ"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        },
+        {
+          "name": "Oh. What. Fun.",
+          "url": "https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164457,
+      "name": "Angel in the Snow (from \"Oh. What. Fun.\")",
+      "url": "https://open.spotify.com/track/4PCW2aCVCGcyYPVI0JLp05"
+    },
+    {
+      "album": {
         "name": "Ani Kuni",
         "url": "https://open.spotify.com/album/225g0HM8FJAep14tN7H7aA"
       },
@@ -23921,6 +23943,24 @@
     },
     {
       "album": {
+        "name": "Let It Be",
+        "url": "https://open.spotify.com/album/2sOLW5TSgXiLZBacdHxO6m"
+      },
+      "artists": [
+        {
+          "name": "The Replacements",
+          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198666,
+      "name": "I Will Dare",
+      "url": "https://open.spotify.com/track/77EwrXeCpbMMlWHqhdeFxJ"
+    },
+    {
+      "album": {
         "name": "Boy (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY"
       },
@@ -39481,6 +39521,28 @@
     },
     {
       "album": {
+        "name": "Home Front",
+        "url": "https://open.spotify.com/album/4blqqHdmSZJRL56US4mo8N"
+      },
+      "artists": [
+        {
+          "name": "Terra Lightfoot",
+          "url": "https://open.spotify.com/artist/2LnGGtWA0aGHKW0hRghrWq"
+        },
+        {
+          "name": "Bill Priddle",
+          "url": "https://open.spotify.com/artist/5ueP5LUFv7cPYCq3XVkArR"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203877,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/4BUx32XmjYCqhUrq4COnCZ"
+    },
+    {
+      "album": {
         "name": "Red",
         "url": "https://open.spotify.com/album/3KJTv25aLI2zAAUVPKoBjc"
       },
@@ -41264,6 +41326,24 @@
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    {
+      "album": {
+        "name": "At The Beach, In Every Life (Extended)",
+        "url": "https://open.spotify.com/album/4fULdU3VoqC0M1IHhVTAQ4"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222826,
+      "name": "Sailor Song (First Draft 4.29.24)",
+      "url": "https://open.spotify.com/track/1gJLJgKRWjtaFMxwdeyfVc"
     },
     {
       "album": {
@@ -43905,6 +43985,24 @@
     },
     {
       "album": {
+        "name": "Wintersongs",
+        "url": "https://open.spotify.com/album/5SQ24zdLys3D3WuLikpwX1"
+      },
+      "artists": [
+        {
+          "name": "Laila Biali",
+          "url": "https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237090,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/15oWIAx3qr62pbJTmPvovs"
+    },
+    {
+      "album": {
         "name": "Snowbird - The Songs of Gene Maclellan",
         "url": "https://open.spotify.com/album/5VK684X41mkQvQhdyaccX5"
       },
@@ -44858,6 +44956,24 @@
       "duration_ms": 185066,
       "name": "SOS (Overboard)",
       "url": "https://open.spotify.com/track/3fvZ8dEACqm3uIK0FYaI2I"
+    },
+    {
+      "album": {
+        "name": "Soul Men",
+        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
     },
     {
       "album": {

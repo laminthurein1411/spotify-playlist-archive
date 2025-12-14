@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,123 songs - 8 day 3 hr 8 min
+3,129 songs - 8 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 | 2025-01-01 |  |
 | [And She Was](https://open.spotify.com/track/5JwK7v6XhG0YgqDuCgzOy8) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz) | 3:39 | 2025-04-16 |  |
 | [Angel](https://open.spotify.com/track/4oKhxhw0bn3yzXosYHBFTF) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5TP5jFpfWavPWtrLIWADAJ) | 4:30 | 2025-09-06 |  |
+| [Angel in the Snow \(from "Oh\. What\. Fun."\)](https://open.spotify.com/track/4PCW2aCVCGcyYPVI0JLp05) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Oh\. What\. Fun.](https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S) | [Angel in the Snow \(from "Oh\. What\. Fun."\)](https://open.spotify.com/album/7MPeLiCCYvdWWDaMlQBMwJ) | 2:44 | 2025-12-13 |  |
 | [Ani Kuni](https://open.spotify.com/track/12QphPukpWDR9w1iimddfP) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Ani Kuni](https://open.spotify.com/album/225g0HM8FJAep14tN7H7aA) | 4:36 | 2024-11-26 |  |
 | [Animal Thing](https://open.spotify.com/track/47MXG15xW6YxMLvsfOkJ9F) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Believer](https://open.spotify.com/album/1KBkF61ISnjx8xoTWBQoEf) | 3:20 | 2025-10-01 |  |
 | [Ankles](https://open.spotify.com/track/1T53djSDubYgBOhvUBbqBo) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Talk](https://open.spotify.com/album/6kX0IaoVlOu3my3g9Zzi36) | 3:11 | 2025-03-15 | 2025-07-16 |
@@ -1290,6 +1291,7 @@
 | [I Was Neon](https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:02 | 2024-11-21 |  |
 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 | 2025-05-27 |  |
 | [I Will Dare](https://open.spotify.com/track/1MV5BzujqyRQ417qj0rXNS) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Let It Be \(Expanded\)](https://open.spotify.com/album/4LwFCUyV4wM6SEg84PaLuL) | 3:17 | 2025-02-25 |  |
+| [I Will Dare](https://open.spotify.com/track/77EwrXeCpbMMlWHqhdeFxJ) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Let It Be](https://open.spotify.com/album/2sOLW5TSgXiLZBacdHxO6m) | 3:18 | 2025-12-13 |  |
 | [I Will Follow \- Remastered 2008](https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Boy \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY) | 3:37 | 2025-11-05 |  |
 | [I Will Follow You Into the Dark](https://open.spotify.com/track/0czVLdSs7TSL6TRHjhvMoH) | [Amy Millan](https://open.spotify.com/artist/3lj7jldByrrpUgW5Je8o1p) | [Masters Of The Burial](https://open.spotify.com/album/56Dxg9kwirsngnjym2ipPl) | 3:22 | 2025-10-22 |  |
 | [I Will Remember You](https://open.spotify.com/track/4rSKsjxykn9GpEYnNvyR2u) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Rarities, B\-Sides & Other Stuff](https://open.spotify.com/album/28egMLSPhcYxn3edwzuAvo) | 4:55 | 2025-09-06 |  |
@@ -2122,6 +2124,7 @@
 | [Rebel Rebel](https://open.spotify.com/track/4PjYbAqHxAd5YPbIAbCA7i) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Rebel Rebel](https://open.spotify.com/album/1uCwhK7bUOrX7Yx9q8gJBH) | 3:21 | 2025-03-21 |  |
 | [Rebirth Of Slick \(Cool Like Dat\)](https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Reachin' \(A New Refutation Of Time And Space\)](https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP) | 4:21 | 2025-04-14 |  |
 | [Reckoner](https://open.spotify.com/track/02ppMPbg1OtEdHgoPqoqju) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 4:50 | 2025-10-04 |  |
+| [Red](https://open.spotify.com/track/4BUx32XmjYCqhUrq4COnCZ) | [Terra Lightfoot](https://open.spotify.com/artist/2LnGGtWA0aGHKW0hRghrWq), [Bill Priddle](https://open.spotify.com/artist/5ueP5LUFv7cPYCq3XVkArR) | [Home Front](https://open.spotify.com/album/4blqqHdmSZJRL56US4mo8N) | 3:23 | 2025-12-13 |  |
 | [Red](https://open.spotify.com/track/5S9dPgnMIKPCiPZpykzxxG) | [Terra Lightfoot](https://open.spotify.com/artist/2LnGGtWA0aGHKW0hRghrWq), [Bill Priddle](https://open.spotify.com/artist/5ueP5LUFv7cPYCq3XVkArR) | [Red](https://open.spotify.com/album/3KJTv25aLI2zAAUVPKoBjc) | 3:23 | 2025-09-17 |  |
 | [Red](https://open.spotify.com/track/4edSlLlGTbanPZUaKa3mXX) | [Treble Charger](https://open.spotify.com/artist/24DYOmDNLWoZxLh1SbNpSY) | [Maybe It's Me](https://open.spotify.com/album/7y23Xmk4INXgFVUZT3ZXo0) | 4:41 | 2025-11-08 |  |
 | [RED FUTURE \(feat\. Electric Fields\)](https://open.spotify.com/track/2p1UpmRJBVHek5DKL0tbQa) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [RED FUTURE](https://open.spotify.com/album/7445IRz5iyAR4DLwkZJD5a) | 3:08 | 2025-04-10 |  |
@@ -2217,6 +2220,7 @@
 | [Sailing](https://open.spotify.com/track/5BhlE0di2Qeey289ECk9IF) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Sailing](https://open.spotify.com/album/4JC0wgDAIou1Q0005eCXb4) | 3:25 | 2024-11-29 |  |
 | [Sailing Away](https://open.spotify.com/track/1OTXETLr5zsryxlrobOJoG) | [Jennifer Castle](https://open.spotify.com/artist/2RzmnX5DXwcryxwUyREPbK) | [Pink City](https://open.spotify.com/album/7BVMXHPcQwUdHSYKSwYTm8) | 2:43 | 2025-03-09 |  |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-11-21 |  |
+| [Sailor Song \(First Draft 4.29.24\)](https://open.spotify.com/track/1gJLJgKRWjtaFMxwdeyfVc) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life \(Extended\)](https://open.spotify.com/album/4fULdU3VoqC0M1IHhVTAQ4) | 3:42 | 2025-12-13 |  |
 | [Salvation](https://open.spotify.com/track/1B5CspmMKjLYFMmuglDXdr) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Rattlesnake](https://open.spotify.com/album/7dJ8c1GEW8kVARyq0yoexn) | 3:23 | 2025-01-05 |  |
 | [Same Place](https://open.spotify.com/track/7xlHumQxDOBkqzkpVSaiCT) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Same Place](https://open.spotify.com/album/3hHVbdv4nfdgabQrUBpPEa) | 2:39 | 2024-12-31 |  |
 | [Samurai](https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH) | 3:14 | 2024-11-21 |  |
@@ -2358,6 +2362,7 @@
 | [Smooth Sailin'](https://open.spotify.com/track/3jpeI1goQHPIwwCMxrLrwx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:07 | 2024-12-01 |  |
 | [Snakehold](https://open.spotify.com/track/2PxJHemFq1WTh2W8rGgkF2) | [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [Snakehold](https://open.spotify.com/album/3sDHr2DOEbSTgj3M0YBWpg) | 3:26 | 2025-01-10 |  |
 | [Snakehold \- Boogey the Beat Remix](https://open.spotify.com/track/2sl8aplQ2yJR3aRrCUx4S5) | [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za), [Boogey the Beat](https://open.spotify.com/artist/0Kc8I2nrf9po7TU4VH3lnK) | [Snakehold \(Boogey the Beat Remix\)](https://open.spotify.com/album/5o7I3FZg1BxbXwmY2BF1q4) | 5:16 | 2024-11-23 |  |
+| [Snow](https://open.spotify.com/track/15oWIAx3qr62pbJTmPvovs) | [Laila Biali](https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I) | [Wintersongs](https://open.spotify.com/album/5SQ24zdLys3D3WuLikpwX1) | 3:57 | 2025-12-13 |  |
 | [Snowbird](https://open.spotify.com/track/3SlU1OWZ4CpIGzwyQqQ0MS) | [Catherine MacLellan](https://open.spotify.com/artist/0EsKh62P5Wwr6GTFCpa7WC) | [Snowbird \- The Songs of Gene Maclellan](https://open.spotify.com/album/5VK684X41mkQvQhdyaccX5) | 4:26 | 2024-11-26 |  |
 | [So Alive](https://open.spotify.com/track/7pfP8Z9M9KRUtzTLcnjem5) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Love and Rockets](https://open.spotify.com/album/3lqy9ZOzLlwDTfXOkpubgU) | 4:17 | 2025-09-25 |  |
 | [So Amazing](https://open.spotify.com/track/2BABTeUx608FA8b47bDuLK) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 3:44 | 2025-05-24 |  |
@@ -2410,6 +2415,7 @@
 | [Song For Granny](https://open.spotify.com/track/6vZe7Qzk1c6maH3JtK0CAA) | [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [Song For Granny](https://open.spotify.com/album/2WlxQVhGHwXAWfMnAscDXE) | 2:44 | 2025-02-26 |  |
 | [Song on the Radio](https://open.spotify.com/track/1aIQwa4vK6YWUjXhaI3TcI) | [Amelia Curran](https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69) | [They Promised You Mercy](https://open.spotify.com/album/4PcYifVE41chkkzTZMzqdF) | 4:03 | 2025-01-05 |  |
 | [SOS \(Overboard\)](https://open.spotify.com/track/3fvZ8dEACqm3uIK0FYaI2I) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/7vFffWRCAH13VwwmlZTr8m) | 3:05 | 2024-11-30 |  |
+| [Soul Man](https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Soul Men](https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK) | 2:39 | 2025-12-13 |  |
 | [Soul Run](https://open.spotify.com/track/12el9ANVaEk7L33r7ITJFk) | [Tanika Charles](https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I) | [Soul Run](https://open.spotify.com/album/7dtFPPkpgAfHjJnnWLfMkF) | 3:28 | 2024-12-20 |  |
 | [Sound & Color](https://open.spotify.com/track/6huoxhxVtmHGMGmq90U6bE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/4S6WZWWOjzMQW7fnW5k9eh) | 3:02 | 2025-01-01 |  |
 | [Sour Girl](https://open.spotify.com/track/1twOTcefKYNxd2RuaGE7BO) | [Mo Kenney](https://open.spotify.com/artist/37bB4IgC1rMZekz2XvshyS) | [Covers](https://open.spotify.com/album/2nuKpGM2I27BdEOpU2RETM) | 2:57 | 2025-11-27 |  |
