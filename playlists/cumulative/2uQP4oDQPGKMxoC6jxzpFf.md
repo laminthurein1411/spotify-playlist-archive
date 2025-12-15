@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,129 songs - 8 day 3 hr 28 min
+3,132 songs - 8 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,6 +528,7 @@
 | [coloured concrete](https://open.spotify.com/track/2lmT9NiqohWoRf9yAxt4Ru) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [Verbathim](https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N) | 3:10 | 2024-11-24 |  |
 | [Colours of My Dreams](https://open.spotify.com/track/1E6aiVtzEFOXklnOzePAVI) | [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [Colours of My Dreams](https://open.spotify.com/album/236anNZD4NxxkXak7iFOrM) | 2:34 | 2025-06-17 |  |
 | [Colours of My Dreams](https://open.spotify.com/track/7JvyECsjcZNweB3uoMCy7Y) | [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [Friendship & Rock 'n' Roll](https://open.spotify.com/album/00CQc4RN8EzyEfCiMk0skF) | 2:34 | 2025-10-21 |  |
+| [Combien je t’aime](https://open.spotify.com/track/0iTJr8kXP52I5bwzGWsf0y) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Domino](https://open.spotify.com/album/2byAS1tMRGriUyCeXF8Y1D) | 2:50 | 2025-12-14 |  |
 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 | 2024-12-13 |  |
 | [Come as You Are](https://open.spotify.com/track/2eas9BFx6VBTAJlRCDLwGo) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Lemonade Stand](https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI) | 3:08 | 2025-01-14 |  |
 | [Come As You Are](https://open.spotify.com/track/2Zqhpc70C1E9rsZpK6b4q4) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Come As You Are](https://open.spotify.com/album/6XaNdyhuuqggoEE4umcfjk) | 3:31 | 2024-12-08 |  |
@@ -2173,6 +2174,7 @@
 | [Roadrunner](https://open.spotify.com/track/4ugtTQugNpg2NrwaPSFnIs) | [Jonathan Richman](https://open.spotify.com/artist/6hkch2KhRl0tywpeVK5xR5), [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [Roadrunner: The Beserkley Collection](https://open.spotify.com/album/5UzXqwbxAEnRpXLVo4X7Nn) | 4:04 | 2025-05-02 |  |
 | [Roadrunner \(Once\)](https://open.spotify.com/track/7wj3PmmPSDuPcpoxFXCea2) | [Jonathan Richman](https://open.spotify.com/artist/6hkch2KhRl0tywpeVK5xR5), [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [Jonathan Richman & The Modern Lovers \(Expanded Version\)](https://open.spotify.com/album/6Ll5mhBDRKoaiqxxXT1QRF) | 4:44 | 2025-02-22 |  |
 | [Robber](https://open.spotify.com/track/2Fpuw0tokeVbrsBLXyHiwZ) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3Yx2sk0fJmwE8zGJs2yOJ8) | 5:20 | 2025-04-06 |  |
+| [Robots](https://open.spotify.com/track/2qSasRgbic22KZRGhQaIS8) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Nice, Nice, Very Nice \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0QAT7mXfHrKqknyA7bWf86) | 4:04 | 2025-12-14 |  |
 | [Rock and Roll](https://open.spotify.com/track/3133Uct5LILQV4A9A1HY4S) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 4:54 | 2025-07-06 |  |
 | [Rock Me Gently](https://open.spotify.com/track/72CIDSU3ZQGuIC2t3gGW1u) | [Trans\-Canada Highwaymen](https://open.spotify.com/artist/5Aq588mj6kj9ua5OaYQrOT) | [Explosive Hits Vol.1](https://open.spotify.com/album/3QxGl20MKtCtO29jacZkNO) | 3:46 | 2025-10-23 |  |
 | [Rock Steady](https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Young, Gifted and Black](https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB) | 3:13 | 2025-10-08 |  |
@@ -2573,6 +2575,7 @@
 | [Takes One To Know One](https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Takes One To Know One](https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv) | 2:47 | 2025-04-13 |  |
 | [Takes One To Know One](https://open.spotify.com/track/1qJfSmDJqAEbYbYODdvuwv) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [No Hard Feelings](https://open.spotify.com/album/5eQYimKiQfEGaUGtnOlRUZ) | 2:48 | 2025-11-10 |  |
 | [Takin' It to the Streets](https://open.spotify.com/track/1WDgdCoNSN0fosaTaLGXKU) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Takin' It to the Streets](https://open.spotify.com/album/6yXfAEtkB6MUyhRkiGg5X2) | 3:51 | 2025-01-08 |  |
+| [Takin' Off](https://open.spotify.com/track/0eHEdR23OKd96SLaSTtuPR) | [Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Too Many Zooz](https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Takin' Off](https://open.spotify.com/album/0WrbJS0Cqt6YNFQpklUCT3) | 2:48 | 2025-12-14 |  |
 | [Takin' Off \(feat\. RoRo\)](https://open.spotify.com/track/47kQ19tSeRmmLKfPGL7Oaz) | [Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Too Many Zooz](https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Takin' Off \(feat\. RoRo\)](https://open.spotify.com/album/2ugSG9ohBXrQyfOl7VEm7S) | 2:48 | 2024-11-27 |  |
 | [Talk to Giants](https://open.spotify.com/track/3q8qxqhRjgCgJIdqMC6PQd) | [Caley Watts](https://open.spotify.com/artist/1UEaSQZqsJcuaDQfvz6mp2) | [Talk to Giants](https://open.spotify.com/album/01A0GEWENDb3pIQNPyjCh3) | 3:33 | 2025-09-04 |  |
 | [Talking to Them](https://open.spotify.com/track/5R3Ej64KP3MlYlEvKZKTMW) | [Sorrey](https://open.spotify.com/artist/4xvR45rRdaykHKQl3lTdj7) | [Talking to Them](https://open.spotify.com/album/4HfM9fDlZ2DPMHhUhVwRzH) | 3:25 | 2024-12-18 |  |

@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAEsYfWGBj7/Grto5a0h0ML0VWwiASQ",
+  "snapshot_id": "AAAEtj4sPVEZEgn97I+8+3bxJSh0ZyIP",
   "tracks": [
     {
       "added_at": "2019-12-20 13:17:42",
@@ -19151,6 +19151,98 @@
       "duration_ms": 192981,
       "name": "Days Go By",
       "url": "https://open.spotify.com/track/3ueU9Ne1e1EQQuXkg95OU7"
+    },
+    {
+      "added_at": "2025-12-14 17:21:00",
+      "album": {
+        "name": "All the Things She Said",
+        "url": "https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "duration_ms": 170891,
+      "name": "All the Things She Said",
+      "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
+    },
+    {
+      "added_at": "2025-12-14 17:24:53",
+      "album": {
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/4W2jsXW6tFmAtPzeEBWAlA"
+      },
+      "artists": [
+        {
+          "name": "JMSN",
+          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
+        }
+      ],
+      "duration_ms": 273010,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
+    },
+    {
+      "added_at": "2025-12-14 17:28:49",
+      "album": {
+        "name": "Get Weird (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 266925,
+      "name": "Secret Love Song, Pt. II",
+      "url": "https://open.spotify.com/track/0NyRSfiU6ri61vku1xiLoD"
+    },
+    {
+      "added_at": "2025-12-14 17:34:11",
+      "album": {
+        "name": "Between Us (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6XNrM2YkzSXyQ9hekFOgLN"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 266920,
+      "name": "Secret Love Song, Pt. II",
+      "url": "https://open.spotify.com/track/7K8pLbRt3kIPwQ11mtOhHT"
+    },
+    {
+      "added_at": "2025-12-14 17:38:47",
+      "album": {
+        "name": "Man Up",
+        "url": "https://open.spotify.com/album/6fSKi6TfeqQazb9QlpfRUy"
+      },
+      "artists": [
+        {
+          "name": "116",
+          "url": "https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72"
+        },
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 246964,
+      "name": "Envy",
+      "url": "https://open.spotify.com/track/7ueNRYw3qpzdxOQBNY1y01"
     }
   ],
   "unique_name": "Western Songs",

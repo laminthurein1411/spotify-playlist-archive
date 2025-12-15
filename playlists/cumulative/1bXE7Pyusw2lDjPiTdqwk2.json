@@ -2717,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/1IVnB4NCwbmnxJe9Mwyuc3"
+      },
+      "artists": [
+        {
+          "name": "Nenadid",
+          "url": "https://open.spotify.com/artist/4hMSuQW8T8cRhM2V8uBDoj"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244799,
+      "name": "Haunted - Slowed",
+      "url": "https://open.spotify.com/track/4b65gWoxOQwXoeWAj76M4j"
+    },
+    {
+      "album": {
         "name": "TAKE TIME",
         "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
       },
@@ -5850,6 +5868,24 @@
       "duration_ms": 189632,
       "name": "Sea, Swallow Me - 2024 Remaster",
       "url": "https://open.spotify.com/track/2kwKk1pkWM6ywaC4gQaByB"
+    },
+    {
+      "album": {
+        "name": "Between Us (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6XNrM2YkzSXyQ9hekFOgLN"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266920,
+      "name": "Secret Love Song, Pt. II",
+      "url": "https://open.spotify.com/track/7K8pLbRt3kIPwQ11mtOhHT"
     },
     {
       "album": {

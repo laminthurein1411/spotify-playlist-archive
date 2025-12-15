@@ -9705,6 +9705,24 @@
     },
     {
       "album": {
+        "name": "Domino",
+        "url": "https://open.spotify.com/album/2byAS1tMRGriUyCeXF8Y1D"
+      },
+      "artists": [
+        {
+          "name": "Clodelle",
+          "url": "https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170838,
+      "name": "Combien je t\u2019aime",
+      "url": "https://open.spotify.com/track/0iTJr8kXP52I5bwzGWsf0y"
+    },
+    {
+      "album": {
         "name": "Come and Get Your Love",
         "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
       },
@@ -40463,6 +40481,24 @@
     },
     {
       "album": {
+        "name": "Nice, Nice, Very Nice (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0QAT7mXfHrKqknyA7bWf86"
+      },
+      "artists": [
+        {
+          "name": "Dan Mangan",
+          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244506,
+      "name": "Robots",
+      "url": "https://open.spotify.com/track/2qSasRgbic22KZRGhQaIS8"
+    },
+    {
+      "album": {
         "name": "Revelation",
         "url": "https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51"
       },
@@ -47876,6 +47912,32 @@
       "duration_ms": 231600,
       "name": "Takin' It to the Streets",
       "url": "https://open.spotify.com/track/1WDgdCoNSN0fosaTaLGXKU"
+    },
+    {
+      "album": {
+        "name": "Takin' Off",
+        "url": "https://open.spotify.com/album/0WrbJS0Cqt6YNFQpklUCT3"
+      },
+      "artists": [
+        {
+          "name": "Shub",
+          "url": "https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A"
+        },
+        {
+          "name": "Too Many Zooz",
+          "url": "https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr"
+        },
+        {
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168321,
+      "name": "Takin' Off",
+      "url": "https://open.spotify.com/track/0eHEdR23OKd96SLaSTtuPR"
     },
     {
       "album": {
