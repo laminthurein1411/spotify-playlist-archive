@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,132 songs - 8 day 3 hr 38 min
+3,135 songs - 8 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1731,6 +1731,7 @@
 | [Message of Love](https://open.spotify.com/track/08xxP1zt8BaXwWr545EuHG) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [The Singles](https://open.spotify.com/album/7vv7JlQIcLfao2c5rZpk59) | 3:25 | 2025-01-07 |  |
 | [Message of Love \- 2018 Remaster](https://open.spotify.com/track/5DbaLLjxAmlGfgyfroxwOq) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders II \(Deluxe Edition\)](https://open.spotify.com/album/6eTHa4zNxrrykO2J3jFxpB) | 3:25 | 2025-08-06 |  |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-12-02 |  |
+| [MIA \(feat\. Drake\)](https://open.spotify.com/track/3Ueq2zboxwAbsvHrOjdEqz) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [MIA \(feat\. Drake\)](https://open.spotify.com/album/2xqopbc18kE4p2lIUzoO0G) | 3:30 | 2025-12-15 |  |
 | [Middle of Nowhere](https://open.spotify.com/track/07qJ3q0PCBU1uVI6sL4JWX) | [Hot Hot Heat](https://open.spotify.com/artist/5UVftEhSsIg0kkXlmfhB6M) | [Elevator](https://open.spotify.com/album/5zkTfnruMTl1BTiLi4l2WE) | 4:01 | 2025-01-21 |  |
 | [Middle of the Road \- 2007 Remaster](https://open.spotify.com/track/1YhyOTcVjHe73cm6tYrHkA) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 4:14 | 2025-04-05 |  |
 | [Midnight Island](https://open.spotify.com/track/7BC7w39Zt8CNwcrNz6LWgu) | [Harrison Brome](https://open.spotify.com/artist/7oJtghmTMHdQ49zN8uLSob) | [Fill Your Brains](https://open.spotify.com/album/55jih0C3lr2GaZKbUJXvBG) | 3:15 | 2025-01-26 |  |
@@ -3050,6 +3051,7 @@
 | [Witchy Woman \- 2013 Remaster](https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 4:10 | 2025-06-14 |  |
 | [With or Without You](https://open.spotify.com/track/3j399mUPVGAvC2QNy4pip9) | [Sony Kyef](https://open.spotify.com/artist/1DNuR3bbVeuze8UqgP3dV8) | [Stargazer](https://open.spotify.com/album/3hFdNo1yTFNfVc7yQCrlb6) | 3:45 | 2025-05-11 |  |
 | [With You](https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [With You](https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j) | 2:34 | 2024-12-11 |  |
+| [With You](https://open.spotify.com/track/1Nm53xoJRpAQ55QB9x28oa) | [Mo Kenney](https://open.spotify.com/artist/37bB4IgC1rMZekz2XvshyS) | [From Nowhere](https://open.spotify.com/album/09mXUKFhJsl02Sqe5Vj1ZT) | 2:21 | 2025-12-15 |  |
 | [Without A Leg To Stand On](https://open.spotify.com/track/31J0OSQnOjWtLBdrcD0rEm) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Without A Leg To Stand On](https://open.spotify.com/album/4hJ5xoH77zEDmqJONIxSGp) | 4:12 | 2025-01-09 |  |
 | [Without A Leg To Stand On](https://open.spotify.com/track/4CDF9sHXsSNSNUGOgvFI3f) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Cunningham Bird](https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB) | 4:12 | 2025-06-05 |  |
 | [Without Words](https://open.spotify.com/track/0EtjrrmpWOczvB0ToCPJxc) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [You're Beautiful \(Music from the Original TV Series\)](https://open.spotify.com/album/3FwD7Ki4LxnFRXyXPBer5e) | 4:03 | 2025-11-03 |  |
@@ -3070,6 +3072,7 @@
 | [Work Song](https://open.spotify.com/track/3iHKxpf4KDJHXAOKwMwpTF) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Work Song](https://open.spotify.com/album/7cyTW83kF7LJJHDdCkQSwO) | 2:19 | 2025-04-08 |  |
 | [Worthy](https://open.spotify.com/track/1krA127HmUwvlJXTqNiozw) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Nuela Charles](https://open.spotify.com/album/2dOsYwZCIRAk7DVGrsjceZ) | 3:05 | 2025-04-11 |  |
 | [Wouldn't It Be Nice](https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:33 | 2025-07-04 |  |
+| [Wreck](https://open.spotify.com/track/2N0e3WdwtkeDSAC8sqvP9a) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Neon Grey Midnight Green](https://open.spotify.com/album/6iTA9mrYpN3l5P3nJbq1BU) | 3:10 | 2025-12-15 |  |
 | [Wrong Love](https://open.spotify.com/track/1BjU7q2W4LDtE8lXFFrekt) | [Celeigh Cardinal](https://open.spotify.com/artist/7HAq3UBI3pb8ok9k7dkdGR) | [Wrong Love](https://open.spotify.com/album/5sHHFAchu64fs8ryzDCgEn) | 2:52 | 2024-11-29 |  |
 | [Wrong Planet](https://open.spotify.com/track/2zSvNyq5LUgOKHjDlXcH6V) | [Ribbon Skirt](https://open.spotify.com/artist/4Ymrgi3r6TZQwmBSp3jBca) | [Bite Down](https://open.spotify.com/album/2eFz77f8mY5Spt3cCH6ZNN) | 3:32 | 2025-09-17 |  |
 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 | 2025-05-04 |  |

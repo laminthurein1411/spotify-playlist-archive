@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "45",
+        "url": "https://open.spotify.com/album/1VDOnz8xGPqycmnzHaxkEE"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197324,
+      "name": "45",
+      "url": "https://open.spotify.com/track/1udG86M7sSyELAIlLeRdMM"
+    },
+    {
+      "album": {
         "name": "4EVA",
         "url": "https://open.spotify.com/album/7fCzDLlRg2H5gBV6L0vTd8"
       },
@@ -1098,6 +1116,24 @@
       "duration_ms": 194953,
       "name": "Are We Too Bored To Be Sorry?",
       "url": "https://open.spotify.com/track/6gOc8UcIk8B33Tc2HX39KB"
+    },
+    {
+      "album": {
+        "name": "Arjay",
+        "url": "https://open.spotify.com/album/6vpP5nt0duQaVsrLItVnXG"
+      },
+      "artists": [
+        {
+          "name": "VV-Ace",
+          "url": "https://open.spotify.com/artist/58oXnUjX5TvylYa3gGNxca"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Arjay",
+      "url": "https://open.spotify.com/track/0LucWOGREYuRYZ3EedhLcU"
     },
     {
       "album": {
@@ -3141,6 +3177,24 @@
     },
     {
       "album": {
+        "name": "From The Pyre",
+        "url": "https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238930,
+      "name": "Count The Ways",
+      "url": "https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs"
+    },
+    {
+      "album": {
         "name": "CPR",
         "url": "https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh"
       },
@@ -4751,6 +4805,24 @@
     },
     {
       "album": {
+        "name": "Archangel",
+        "url": "https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278500,
+      "name": "Fade Away (It's a Feeling)",
+      "url": "https://open.spotify.com/track/6gIwOjvo85GRt3CYvJzujn"
+    },
+    {
+      "album": {
         "name": "Falling out of Touch",
         "url": "https://open.spotify.com/album/7be7aajivvusaA65WdhpZQ"
       },
@@ -6290,6 +6362,24 @@
       "duration_ms": 311269,
       "name": "Henry, come on",
       "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
+    },
+    {
+      "album": {
+        "name": "Here We Go Again",
+        "url": "https://open.spotify.com/album/4THNExkJ80NtafCGJADvar"
+      },
+      "artists": [
+        {
+          "name": "Pacific Avenue",
+          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251718,
+      "name": "Here We Go Again",
+      "url": "https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz"
     },
     {
       "album": {
@@ -9801,6 +9891,24 @@
     },
     {
       "album": {
+        "name": "Never Give Up On Loving You",
+        "url": "https://open.spotify.com/album/6bAPrs5Jw78jM9G318v2Ba"
+      },
+      "artists": [
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216239,
+      "name": "Never Give Up On Loving You",
+      "url": "https://open.spotify.com/track/3cd2zbZkfxt4olZ7ajzqe7"
+    },
+    {
+      "album": {
         "name": "NEW AGE",
         "url": "https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03"
       },
@@ -12327,6 +12435,24 @@
     },
     {
       "album": {
+        "name": "\u2661",
+        "url": "https://open.spotify.com/album/2XeflvA0dNvjpX0vxukgiv"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246442,
+      "name": "So What?",
+      "url": "https://open.spotify.com/track/6NTCshSoJFNO35tFYZKiiY"
+    },
+    {
+      "album": {
         "name": "Social Cue",
         "url": "https://open.spotify.com/album/1cIElQvWjTV7dJPx3oFFnm"
       },
@@ -13031,6 +13157,24 @@
     },
     {
       "album": {
+        "name": "Suit Vibes",
+        "url": "https://open.spotify.com/album/5jZPjup9OlH2ZgZRBvlCze"
+      },
+      "artists": [
+        {
+          "name": "Dem Mob",
+          "url": "https://open.spotify.com/artist/4aciJpcM8WNsBXP4dQv9yM"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177070,
+      "name": "Suit Vibes",
+      "url": "https://open.spotify.com/track/2NbmuqVPV3HT5Ki7WgL7Xy"
+    },
+    {
+      "album": {
         "name": "wraith",
         "url": "https://open.spotify.com/album/1wG3pKqRfaOxRl70min6lC"
       },
@@ -13246,6 +13390,32 @@
       "duration_ms": 170093,
       "name": "Taken",
       "url": "https://open.spotify.com/track/0luRXW2hbGTMJ7QZgr5Tap"
+    },
+    {
+      "album": {
+        "name": "Talk of the Town",
+        "url": "https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Reggie",
+          "url": "https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Talk of the Town",
+      "url": "https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF"
     },
     {
       "album": {
@@ -13544,6 +13714,24 @@
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
+    },
+    {
+      "album": {
+        "name": "THE DEEP",
+        "url": "https://open.spotify.com/album/4ukZMvcU8hSNMVBbcTOaqu"
+      },
+      "artists": [
+        {
+          "name": "Telenova",
+          "url": "https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219706,
+      "name": "THE DEEP - Single Version",
+      "url": "https://open.spotify.com/track/27fABCnOF2h2I5BOrCx24G"
     },
     {
       "album": {
