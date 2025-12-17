@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Dsp6i8lvmcTg5aiusjnFH.md) - [plain]
 
 > 
 
-[Samuel Ilias](https://open.spotify.com/user/12120151714) - 136,569 likes - 3,070 songs - 7 day 23 hr 47 min
+[Samuel Ilias](https://open.spotify.com/user/12120151714) - 136,602 likes - 3,070 songs - 7 day 23 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1579,7 +1579,7 @@ pretty - [cumulative](/playlists/cumulative/0Dsp6i8lvmcTg5aiusjnFH.md) - [plain]
 | 1569 | [All Of The Lights](https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:59 |
 | 1570 | [POWER](https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:52 |
 | 1571 | [Pictures](https://open.spotify.com/track/2mNKIuM4xmeTNwe02NOem8) | [Sneaky Sound System](https://open.spotify.com/artist/6ieVhWXtOmK6DO6dmX7Eko) | [Sneaky Sound System](https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j) | 3:16 |
-| 1572 | [RUNNING IN THE 90'S](https://open.spotify.com/track/6DlPa2rrVK3BygXJ48WYo3) | [Max Coveri](https://open.spotify.com/artist/4aFf48VQYRT631OJGgVwUv) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:43 |
+| 1572 | [RUNNING IN THE 90'S](https://open.spotify.com/track/6DlPa2rrVK3BygXJ48WYo3) | [Max Coveri](https://open.spotify.com/artist/4aFf48VQYRT631OJGgVwUv) | [SUPEREUROBEATpresentsINITIALDDSELECTION](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:43 |
 | 1573 | [Promises \- Skrillex & Nero Remix](https://open.spotify.com/track/04ZBBOl3AoCBY1A3CTKZLn) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Promises](https://open.spotify.com/album/7AhxNWQ18DrNGjjzlBGKKh) | 4:28 |
 | 1574 | [Bonfire](https://open.spotify.com/track/0QIYINh2AwmOmdu8CRYvlw) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [Rage Valley](https://open.spotify.com/album/2KZKR8bLDZPUxOE6JhTh4X) | 4:32 |
 | 1575 | [You Don't Own Me \(feat\. G\-Eazy\)](https://open.spotify.com/track/2CpH1L4CUR47RARB3PgY1l) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [You Don't Own Me](https://open.spotify.com/album/1jwMRIAKCBeroo1jYV19tO) | 3:19 |

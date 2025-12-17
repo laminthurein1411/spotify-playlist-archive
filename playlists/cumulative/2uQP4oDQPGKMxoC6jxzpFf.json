@@ -2035,6 +2035,24 @@
     },
     {
       "album": {
+        "name": "Back To Front",
+        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260493,
+      "name": "All Night Long - Single Version",
+      "url": "https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP"
+    },
+    {
+      "album": {
         "name": "Love In The Future (Expanded Edition)",
         "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
       },
@@ -9723,6 +9741,24 @@
     },
     {
       "album": {
+        "name": "THE BPM",
+        "url": "https://open.spotify.com/album/6xuXmpSyh7WqIct3bvsSfg"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230800,
+      "name": "COME AND FIND YOU",
+      "url": "https://open.spotify.com/track/5VGRtavTAYIA4gWg0XHPls"
+    },
+    {
+      "album": {
         "name": "Come and Get Your Love",
         "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
       },
@@ -16595,6 +16631,28 @@
     },
     {
       "album": {
+        "name": "Genius of Love",
+        "url": "https://open.spotify.com/album/7ATVtKtlDE1cxauGVsZvSv"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Genius of Love",
+      "url": "https://open.spotify.com/track/0UMfconu33lpuioJ696nKv"
+    },
+    {
+      "album": {
         "name": "Get Back Again",
         "url": "https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9"
       },
@@ -21150,6 +21208,24 @@
       "duration_ms": 163133,
       "name": "Ho Hey",
       "url": "https://open.spotify.com/track/0DwClY2t9YAWHBROMIgrXb"
+    },
+    {
+      "album": {
+        "name": "Failer",
+        "url": "https://open.spotify.com/album/4lO1T7p13iNaYEWctmQmke"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Edwards",
+          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268706,
+      "name": "Hockey Skates",
+      "url": "https://open.spotify.com/track/0IZ5n3hF65LKYRmr7D6X4e"
     },
     {
       "album": {
@@ -27899,6 +27975,24 @@
     },
     {
       "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "album": {
         "name": "On The Radio: Greatest Hits Volumes I & II",
         "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
       },
@@ -33382,6 +33476,24 @@
       "duration_ms": 175791,
       "name": "My Mind At Ease",
       "url": "https://open.spotify.com/track/6s4MLHKqzLkSpdT5WpGaMO"
+    },
+    {
+      "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
     },
     {
       "album": {
@@ -40105,6 +40217,24 @@
     },
     {
       "album": {
+        "name": "Rich",
+        "url": "https://open.spotify.com/album/71V5c3JMOzLatchvR4ldmJ"
+      },
+      "artists": [
+        {
+          "name": "Tedy",
+          "url": "https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143493,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/5d1P1mec9QUKTWurAA1fvk"
+    },
+    {
+      "album": {
         "name": "Scandalous",
         "url": "https://open.spotify.com/album/2o1HYObYf8GEYznCsvSLfO"
       },
@@ -42730,6 +42860,24 @@
       "duration_ms": 174285,
       "name": "Shine",
       "url": "https://open.spotify.com/track/0PMCydav0StMlIb0HBRrwT"
+    },
+    {
+      "album": {
+        "name": "Little Sparrow",
+        "url": "https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311066,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4md4KRL6Z9ufa0je0Y3awL"
     },
     {
       "album": {
@@ -56662,6 +56810,24 @@
       "duration_ms": 189586,
       "name": "Wind It Up",
       "url": "https://open.spotify.com/track/1GeECVH4Msg1zLm8DExkbH"
+    },
+    {
+      "album": {
+        "name": "Summer Sun",
+        "url": "https://open.spotify.com/album/4NdINo3J9ncT8qeD7hfxJf"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203600,
+      "name": "Winter A-Go-Go",
+      "url": "https://open.spotify.com/track/3EtUztMfKS8b44cdTvDEuR"
     },
     {
       "album": {

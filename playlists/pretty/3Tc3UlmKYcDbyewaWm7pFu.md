@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,146 songs - 2 day 20 hr 16 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,148 songs - 2 day 20 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1154,5 +1154,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 | 1144 | [Secret Love Song, Pt\. II](https://open.spotify.com/track/0NyRSfiU6ri61vku1xiLoD) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 4:26 |
 | 1145 | [Secret Love Song, Pt\. II](https://open.spotify.com/track/7K8pLbRt3kIPwQ11mtOhHT) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(Deluxe Version\)](https://open.spotify.com/album/6XNrM2YkzSXyQ9hekFOgLN) | 4:26 |
 | 1146 | [Envy](https://open.spotify.com/track/7ueNRYw3qpzdxOQBNY1y01) | [116](https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72), [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [Man Up](https://open.spotify.com/album/6fSKi6TfeqQazb9QlpfRUy) | 4:06 |
+| 1147 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 |
+| 1148 | [My Moon My Man](https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:48 |
 
-Snapshot ID: `AAAEtj4sPVEZEgn97I+8+3bxJSh0ZyIP`
+Snapshot ID: `AAAEuI9sSpvrsXRLsvif6+Nfrsm+MWYl`

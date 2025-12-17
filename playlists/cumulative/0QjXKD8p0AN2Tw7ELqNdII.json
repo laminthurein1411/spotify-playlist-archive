@@ -1905,6 +1905,24 @@
     },
     {
       "album": {
+        "name": "before we say goodbye",
+        "url": "https://open.spotify.com/album/0N39VN2rAn2wPJrrC7Pudn"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147424,
+      "name": "before we say goodbye",
+      "url": "https://open.spotify.com/track/4VbA5rRWGRYnK7QLeE3aAe"
+    },
+    {
+      "album": {
         "name": "Gesegnet",
         "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
       },
@@ -2016,6 +2034,28 @@
       "duration_ms": 170317,
       "name": "Best Day of My Life (BUNT. Version) (feat. Tom Odell)",
       "url": "https://open.spotify.com/track/7A1QLN9c3uKeQdhp05o0jp"
+    },
+    {
+      "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/2caXHXFas9el6HwbkaNCPX"
+      },
+      "artists": [
+        {
+          "name": "MALUGI",
+          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
+        },
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150456,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/2FMuB8xCnic6o0aYQiThLh"
     },
     {
       "album": {
@@ -2855,6 +2895,28 @@
     },
     {
       "album": {
+        "name": "Can't Deny It",
+        "url": "https://open.spotify.com/album/2tYGrcqUZ1OASP2vMwDfBJ"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "Spriitzz",
+          "url": "https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172727,
+      "name": "Can't Deny It",
+      "url": "https://open.spotify.com/track/21tV1aVocgAot1YekbvJRZ"
+    },
+    {
+      "album": {
         "name": "Canyons",
         "url": "https://open.spotify.com/album/596XX3XLLaWDVcsLJFjoVV"
       },
@@ -3178,6 +3240,24 @@
       "duration_ms": 204031,
       "name": "Christmas Magic",
       "url": "https://open.spotify.com/track/0w8ZIZZKew8iWefjNlTfnF"
+    },
+    {
+      "album": {
+        "name": "THAT'S SHOWBIZ BABY! THE ENCORE",
+        "url": "https://open.spotify.com/album/4MR10rSYnclQoPXq6O9sw0"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220400,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/3Cz46bYvuuvDsUXDwrNFxn"
     },
     {
       "album": {
@@ -4567,6 +4647,32 @@
     },
     {
       "album": {
+        "name": "Du Liebst Mich Nicht",
+        "url": "https://open.spotify.com/album/5nKUhIT2ZCHEsHCQuQQQx3"
+      },
+      "artists": [
+        {
+          "name": "bac",
+          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
+        },
+        {
+          "name": "Max Grimm",
+          "url": "https://open.spotify.com/artist/0iVhzCx1AWbJgsVkeQorDl"
+        },
+        {
+          "name": "Ella Stern",
+          "url": "https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195426,
+      "name": "Du Liebst Mich Nicht",
+      "url": "https://open.spotify.com/track/3WyWAbaqZjG6VbGknb9KzQ"
+    },
+    {
+      "album": {
         "name": "Duftkerzen",
         "url": "https://open.spotify.com/album/1TXnb2mZNQKnlwIhPSQJ8J"
       },
@@ -4944,6 +5050,28 @@
       "duration_ms": 189553,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+    },
+    {
+      "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203474,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy"
     },
     {
       "album": {
@@ -6259,6 +6387,24 @@
     },
     {
       "album": {
+        "name": "Give Me Something (for Arknights Endfield)",
+        "url": "https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162789,
+      "name": "Give Me Something (for Arknights Endfield)",
+      "url": "https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0"
+    },
+    {
+      "album": {
         "name": "Glide",
         "url": "https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx"
       },
@@ -6618,6 +6764,24 @@
       "duration_ms": 149000,
       "name": "H.A.P.P.Y",
       "url": "https://open.spotify.com/track/7B9WqxPfy53Xo8VVezEJpj"
+    },
+    {
+      "album": {
+        "name": "Hablamos Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/0WZ1WllMllTkMjmOV14ew3"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171293,
+      "name": "Hablamos Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/3MbIRGRe13R7kl66aSQ3yI"
     },
     {
       "album": {
@@ -8719,6 +8883,24 @@
     },
     {
       "album": {
+        "name": "Keine Tr\u00e4nen",
+        "url": "https://open.spotify.com/album/5jvbJiaiczzbdwYIZDyAHC"
+      },
+      "artists": [
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138663,
+      "name": "Keine Tr\u00e4nen",
+      "url": "https://open.spotify.com/track/5kfwWEbkxUR6HtmZJi09SH"
+    },
+    {
+      "album": {
         "name": "Keiner wei\u00df",
         "url": "https://open.spotify.com/album/4WD7NqPkS0lVnQ3kjbwkRi"
       },
@@ -9078,6 +9260,24 @@
       "duration_ms": 153692,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/5GIG7Ktm9gZnV5yNqb0XZl"
+    },
+    {
+      "album": {
+        "name": "Landline",
+        "url": "https://open.spotify.com/album/1aQLV1BGKv2ON3PhvKNnCR"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184174,
+      "name": "Landline",
+      "url": "https://open.spotify.com/track/6ZYd325kD9ACM0gUyZnbvL"
     },
     {
       "album": {
@@ -11065,6 +11265,24 @@
     },
     {
       "album": {
+        "name": "Moonlit Floor (Kiss Me) (Santa Baby Remix)",
+        "url": "https://open.spotify.com/album/0WyGUQxsookdLIQnRy6MOl"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155757,
+      "name": "Moonlit Floor (Kiss Me) - Santa Baby Remix",
+      "url": "https://open.spotify.com/track/2Dtev1Evm1XyyTRhb6UaD8"
+    },
+    {
+      "album": {
         "name": "More to Lose",
         "url": "https://open.spotify.com/album/00YhOpwh4N9I5ItJP8C6pc"
       },
@@ -12955,6 +13173,24 @@
     },
     {
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209733,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
+    },
+    {
+      "album": {
         "name": "TYLA +",
         "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
       },
@@ -13675,6 +13911,24 @@
     },
     {
       "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218660,
+      "name": "Sally, When The Wine Runs Out",
+      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
+    },
+    {
+      "album": {
         "name": "Same Thing",
         "url": "https://open.spotify.com/album/0YXGVn9prM1CoWIiZNGfyL"
       },
@@ -13868,6 +14122,24 @@
       "duration_ms": 168000,
       "name": "Say My Name - Remix",
       "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
+    },
+    {
+      "album": {
+        "name": "say something",
+        "url": "https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144544,
+      "name": "say something",
+      "url": "https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7"
     },
     {
       "album": {
@@ -14068,6 +14340,24 @@
       "duration_ms": 271007,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/56UAYL2z5DZoj6qJXGrQsA"
+    },
+    {
+      "album": {
+        "name": "SEHNSUCHT",
+        "url": "https://open.spotify.com/album/258vc0HyhI0VhrJ3uNEeCE"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211612,
+      "name": "SEHNSUCHT",
+      "url": "https://open.spotify.com/track/23nvSc6l82ANajc3BVpHt4"
     },
     {
       "album": {
@@ -14586,6 +14876,28 @@
       "duration_ms": 246000,
       "name": "Soleil Bleu",
       "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
+    },
+    {
+      "album": {
+        "name": "solo",
+        "url": "https://open.spotify.com/album/1FdXEZw2E4Z7HBsmhkV5E7"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292071,
+      "name": "solo",
+      "url": "https://open.spotify.com/track/6U5h4WhbYufaRGXQhnileY"
     },
     {
       "album": {
@@ -16373,6 +16685,28 @@
     },
     {
       "album": {
+        "name": "Thinking About You (feat. Arkey)",
+        "url": "https://open.spotify.com/album/0wucRfhZNVV29wCeusc9gr"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Arkey",
+          "url": "https://open.spotify.com/artist/1fJWJg5SkXjmFhnT4wf5QH"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196080,
+      "name": "Thinking About You (feat. Arkey)",
+      "url": "https://open.spotify.com/track/1DwY5BtXvfysoSv37frTER"
+    },
+    {
+      "album": {
         "name": "This Feeling",
         "url": "https://open.spotify.com/album/6l3TmVZpcZBBLz4x9Z81fy"
       },
@@ -17777,6 +18111,24 @@
     },
     {
       "album": {
+        "name": "Weihnachtslied 2025",
+        "url": "https://open.spotify.com/album/5m5IV1KRZdXeJTj0HCLUyT"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158542,
+      "name": "Weihnachtslied 2025",
+      "url": "https://open.spotify.com/track/0g2jqBLV5y7VYXrE2NeKxF"
+    },
+    {
+      "album": {
         "name": "Welt retten",
         "url": "https://open.spotify.com/album/2YQIuGnZOHBb9wGbLYtYCJ"
       },
@@ -18390,6 +18742,24 @@
       "duration_ms": 193416,
       "name": "Wolken",
       "url": "https://open.spotify.com/track/13AzsOOlv5lwEeKsI1pAUt"
+    },
+    {
+      "album": {
+        "name": "Ready To Fly",
+        "url": "https://open.spotify.com/album/2cI7OSBaPrcOm9ppZipeJ3"
+      },
+      "artists": [
+        {
+          "name": "Melanie Thornton",
+          "url": "https://open.spotify.com/artist/2apYMRrg5FxN4go0pfsCvf"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231933,
+      "name": "Wonderful Dream (Holidays Are Coming) - Radio Version",
+      "url": "https://open.spotify.com/track/0SvD6EdetxVtXei2JhkV4B"
     },
     {
       "album": {

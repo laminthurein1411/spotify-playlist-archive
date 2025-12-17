@@ -4,7 +4,7 @@
 
 > playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-3,331 songs - 9 day 12 hr 52 min
+3,332 songs - 9 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -765,6 +765,7 @@
 | [Ebony And Ivory \- 2022 Remaster](https://open.spotify.com/track/6rbDUAZ8TsI0SXLx7w9Uoa) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The 7” Singles](https://open.spotify.com/album/24Ry7fTxUg3Aty8BGqZcvt) | 3:45 | 2025-12-15 |  |
 | [Eclipse](https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 2:06 | 2024-03-02 |  |
 | [Edge Of A Broken Heart](https://open.spotify.com/track/2mEk0VdrbDJ11DBC6Y92mh) | [Vixen](https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY) | [Vixen](https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK) | 4:25 | 2024-03-20 |  |
+| [Edge of Seventeen \- 2016 Remaster](https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 5:29 | 2025-12-16 |  |
 | [El Condor Pasa \(If I Could\)](https://open.spotify.com/track/1eN42Q7IWRzRBq8eW2Y2TE) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 3:08 | 2024-03-02 |  |
 | [Eleanor Rigby \- Remastered 2009](https://open.spotify.com/track/5GjPQ0eI7AgmOnADn1EO6Q) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:06 | 2024-03-16 |  |
 | [Election Day \- 2010 Remaster](https://open.spotify.com/track/638poNnWFgzt7UJBQ5SWtM) | [Arcadia](https://open.spotify.com/artist/2HMuzFmTtwL4ur1zJNCU7f) | [So Red The Rose](https://open.spotify.com/album/45CkfLvmv7Aub6mFc7QwI8) | 5:29 | 2025-12-15 |  |
@@ -1544,7 +1545,7 @@
 | [Joey](https://open.spotify.com/track/04UWtAIMwi67MG8uHwYqgK) | [Concrete Blonde](https://open.spotify.com/artist/2ICSjfBpos9PxMhGhX25N2) | [Bloodletting](https://open.spotify.com/album/0Qny7PmxUlBMrw4xdeiHaU) | 4:08 | 2024-03-12 |  |
 | [Joey \- Remastered 2010](https://open.spotify.com/track/2i4dLjzHo6xsyHMZ6JGoTL) | [Concrete Blonde](https://open.spotify.com/artist/2ICSjfBpos9PxMhGhX25N2) | [Bloodletting \- 20th Anniversary Edition \(Remastered 2010\)](https://open.spotify.com/album/0lg6bgtAuwJDfPnGYrf5Do) | 4:08 | 2024-03-12 |  |
 | [Johnny B\. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:41 | 2024-02-29 |  |
-| [Johnny B\. Goode \- From “Back To The Future” Soundtrack](https://open.spotify.com/track/0OkoFxzb616mT2znU5aENH) | [Marty McFly](https://open.spotify.com/artist/5T8mnUF3cgWsUZd2SWRlxB), [The Starlighters](https://open.spotify.com/artist/7utfFuuNSKLWEy5ew3RcfP) | [Back To The Future \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0jz1nb6dEh9PvRZr9bs387) | 3:05 | 2025-12-15 |  |
+| [Johnny B\. Goode \- From “Back To The Future” Soundtrack](https://open.spotify.com/track/0OkoFxzb616mT2znU5aENH) | [Marty McFly](https://open.spotify.com/artist/5T8mnUF3cgWsUZd2SWRlxB), [The Starlighters](https://open.spotify.com/artist/7utfFuuNSKLWEy5ew3RcfP) | [Back To The Future \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0jz1nb6dEh9PvRZr9bs387) | 3:05 | 2025-12-15 | 2025-12-17 |
 | [Journer Closer : Don't Stop Believing, Be good to yourself](https://open.spotify.com/track/7aUNfn6F8cpRl29g1oPkVL) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt), [ASU Sun Devil Marching Band](https://open.spotify.com/artist/3nHI6kjpax0KHFUz32409Y) | [Arizona State University Marching Band \- Do You Remember 2009](https://open.spotify.com/album/4ClqoPvxecDUhf2qoYmYdc) | 2:09 | 2024-03-01 |  |
 | [Joyride](https://open.spotify.com/track/1ILbD4eWKWvg8ub5qJyBTP) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride \(Extended Version\)](https://open.spotify.com/album/5WVNP6IBwMSULc0wehXW8N) | 4:23 | 2024-03-01 |  |
 | [Joyride](https://open.spotify.com/track/4wj8ppW6nJ5hYlgfeJNBn2) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride](https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY) | 4:23 | 2024-03-01 |  |

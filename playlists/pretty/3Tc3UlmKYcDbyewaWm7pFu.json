@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAEtj4sPVEZEgn97I+8+3bxJSh0ZyIP",
+  "snapshot_id": "AAAEuI9sSpvrsXRLsvif6+Nfrsm+MWYl",
   "tracks": [
     {
       "added_at": "2019-12-20 13:17:42",
@@ -19243,6 +19243,38 @@
       "duration_ms": 246964,
       "name": "Envy",
       "url": "https://open.spotify.com/track/7ueNRYw3qpzdxOQBNY1y01"
+    },
+    {
+      "added_at": "2025-12-16 12:29:34",
+      "album": {
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 204475,
+      "name": "mangetout",
+      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
+    },
+    {
+      "added_at": "2025-12-16 12:30:41",
+      "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
     }
   ],
   "unique_name": "Western Songs",

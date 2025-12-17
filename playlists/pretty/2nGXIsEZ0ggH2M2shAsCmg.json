@@ -6,7 +6,7 @@
     "name": "ramiro",
     "url": "https://open.spotify.com/user/rgarzaa"
   },
-  "snapshot_id": "AAACRKgitOHsI9xEl94g20eZMBTExIc7",
+  "snapshot_id": "AAACRm9utlE54G1WxwrKbONsfJjDtSXT",
   "tracks": [
     {
       "added_at": "2024-02-28 02:33:08",
@@ -49443,26 +49443,6 @@
     {
       "added_at": "2025-12-15 12:09:51",
       "album": {
-        "name": "Back To The Future (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0jz1nb6dEh9PvRZr9bs387"
-      },
-      "artists": [
-        {
-          "name": "Marty McFly",
-          "url": "https://open.spotify.com/artist/5T8mnUF3cgWsUZd2SWRlxB"
-        },
-        {
-          "name": "The Starlighters",
-          "url": "https://open.spotify.com/artist/7utfFuuNSKLWEy5ew3RcfP"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Johnny B. Goode - From \u201cBack To The Future\u201d Soundtrack",
-      "url": "https://open.spotify.com/track/0OkoFxzb616mT2znU5aENH"
-    },
-    {
-      "added_at": "2025-12-15 12:09:51",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
       },
@@ -54283,6 +54263,22 @@
       "duration_ms": 252493,
       "name": "Streets of Philadelphia",
       "url": "https://open.spotify.com/track/5Nj8kBJdpJJ4I9wxQyp8JH"
+    },
+    {
+      "added_at": "2025-12-16 13:26:54",
+      "album": {
+        "name": "Bella Donna (2016 Remastered)",
+        "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 329413,
+      "name": "Edge of Seventeen - 2016 Remaster",
+      "url": "https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z"
     }
   ],
   "unique_name": "classic 106.9 fm (sin anuncios)",
