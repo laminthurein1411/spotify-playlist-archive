@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,144 songs - 8 day 4 hr 22 min
+3,148 songs - 8 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1682,6 +1682,7 @@
 | [Magnetic](https://open.spotify.com/track/3ffpAgPusYqOoQJmKWtnbW) | [Tunde Adebimpe](https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9) | [Thee Black Boltz](https://open.spotify.com/album/0MuAR8zcmZyGAwJcnkCpV1) | 2:30 | 2025-08-17 |  |
 | [Magnetic](https://open.spotify.com/track/46BIkntVmeG382rIo93J3d) | [Tunde Adebimpe](https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9) | [Magnetic](https://open.spotify.com/album/3P52UbRhg3RKPUHYzi1kFG) | 2:30 | 2024-12-10 |  |
 | [Magnets](https://open.spotify.com/track/0wdGkvP9ebAKRXHc7MUS9V) | [Ponder](https://open.spotify.com/artist/0GB6IrvGV6WhIAyFy4P4ah) | [Mark Collection, Vol\. 2](https://open.spotify.com/album/6ykFBG2QWVx7BOwVr3YYVD) | 2:27 | 2024-11-24 |  |
+| [Magpie](https://open.spotify.com/track/0svqVl7FSyjewup47iNOGz) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY) | 4:01 | 2025-12-17 |  |
 | [Magpie](https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/4EHdBVY6WlYTQHWqP9BubZ) | 4:01 | 2024-11-23 |  |
 | [Mahaha: Tickling Demon](https://open.spotify.com/track/6jQRA0d6XsUs7a8TXJC33S) | [Piqsiq](https://open.spotify.com/artist/22sYXaxfo8wisgHn4pvCTZ) | [Legends](https://open.spotify.com/album/4Rum8FfxNOpXwqi3trcyjf) | 3:49 | 2025-10-01 |  |
 | [Main Character](https://open.spotify.com/track/3pD4FhJgCvX4GAFHvc0vuC) | [Wolf Saga](https://open.spotify.com/artist/0Lwn2PjwIw7QaoN7gHyqCA) | [ODAYIN, Pt\. 1](https://open.spotify.com/album/6ZKwauYXaMVezFcXV0iv5g) | 3:06 | 2024-12-17 |  |
@@ -1960,6 +1961,7 @@
 | [One Love](https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [One Love](https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ) | 2:39 | 2024-11-29 |  |
 | [One More Colour](https://open.spotify.com/track/30QRj37Vd7AwPXrEexMDB3) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [The Speckless Sky](https://open.spotify.com/album/1tzklaPURk1AQeHCMBw7VW) | 4:41 | 2025-09-07 |  |
 | [One More Dance Around The Sun](https://open.spotify.com/track/0wlIJpKDJN3DvOSSKtSj74) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [One More Dance Around The Sun](https://open.spotify.com/album/2zfsEsAIMyUPZ7OGLZA5FS) | 4:46 | 2025-07-23 |  |
+| [One More Dance Around The Sun](https://open.spotify.com/track/2tg5cN7HZeXicOGBWE5GcE) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Caught Light](https://open.spotify.com/album/0JnBkAx6y0lyBcJ8WSSzOI) | 4:46 | 2025-12-17 |  |
 | [One More Night](https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 3:53 | 2025-05-05 |  |
 | [One More Time \- Romanthony's Unplugged](https://open.spotify.com/track/6ju6DQ7uIuo74eh8iKUQu5) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Romanthony](https://open.spotify.com/artist/1xKryNto8SDKl2E6lBs23J) | [Daft Club](https://open.spotify.com/album/1O5WUh9KsgHT2QaUCJeVPG) | 3:40 | 2024-12-13 |  |
 | [ONE OF THE BEST \(feat\. Lakeeysha Marie\)](https://open.spotify.com/track/3HHaPOZYp8vx0LWCIoiXtn) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5), [Lakeeysha Marie](https://open.spotify.com/artist/5Xprd5iBUke9cD13jrv8H2) | [RED FUTURE](https://open.spotify.com/album/7445IRz5iyAR4DLwkZJD5a) | 5:01 | 2024-11-25 |  |
@@ -2110,6 +2112,7 @@
 | [R U 4 Me?](https://open.spotify.com/track/7qILvuqTMfDRRL69cHbI4t) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We’re The Greatest](https://open.spotify.com/album/5dK1qxuVTRmckVMtThjoGu) | 2:49 | 2024-12-19 |  |
 | [R.E.D.](https://open.spotify.com/track/0E2ydjbrsOYbWFZzexOyYd) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH), [NARCY](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg), [Black Bear](https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7) | [We Are the Halluci Nation](https://open.spotify.com/album/2iQBWB6FgiNl1mrzNX7ei4) | 3:29 | 2025-06-21 |  |
 | [Rabbit Hole](https://open.spotify.com/track/57jJgUYf4HsjWL0wMDnSdv) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [If It Comes Down To It](https://open.spotify.com/album/0XOOpplduQwdpw2uMGCvJE) | 3:33 | 2024-12-16 |  |
+| [Radio Free Europe](https://open.spotify.com/track/46dGFTD918NMz1IP1rPJXO) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Murmur](https://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q) | 4:05 | 2025-12-17 |  |
 | [Radio Ga Ga \- Remastered 2011](https://open.spotify.com/track/1HmzAZUvhQLhLo2z3ocpZI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 5:48 | 2025-01-23 |  |
 | [Ragged Wood](https://open.spotify.com/track/2qvToeBdYliw6n0nEsKJQa) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 5:07 | 2025-03-21 |  |
 | [Raindrops](https://open.spotify.com/track/4uFKfIWqFNeJUIUuxMTcDe) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Gabrielle Shonk](https://open.spotify.com/album/0pNGsGr8OQu7ohqCv6KLco) | 3:28 | 2024-12-22 |  |
@@ -2298,6 +2301,7 @@
 | [She Cleans Up](https://open.spotify.com/track/5nEkWBNfUA87RY6ZSx2aR3) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Mahashmashana](https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw) | 4:26 | 2025-07-21 |  |
 | [She Waits For Me to Come Back Down](https://open.spotify.com/track/22g2U0EvlbWUbvoobItp64) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Without People](https://open.spotify.com/album/4r9vIyMQT7a5iPBcHN9RNU) | 3:20 | 2025-09-03 |  |
 | [She Works Hard For The Money](https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [She Works Hard For The Money](https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2) | 5:20 | 2024-12-19 |  |
+| [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/2R0zbd80CqwoB0ORDCqDoK) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Carl Carlton \(Expanded Edition\)](https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes) | 3:55 | 2025-12-17 |  |
 | [She's Gone](https://open.spotify.com/track/64pV9pR1xKDo8geaB3DVRe) | [Emm Gryner](https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM) | [She's Gone](https://open.spotify.com/album/6QVgw5cHQq2QPrLvZ26Js1) | 3:20 | 2025-01-06 |  |
 | [She's Not There](https://open.spotify.com/track/79adTwHHzLSJc1hmPpM1xt) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [True Blood \(Music From The HBO® Original Series, Vol\. 3\) \[Deluxe Edition\]](https://open.spotify.com/album/4EO3EEcVGX80NbLHkBOAvX) | 2:29 | 2025-11-01 |  |
 | [SHELL \( OF A MAN \)](https://open.spotify.com/track/79ckbJiCdKrGYPTmpFlc7u) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:39 | 2025-07-13 |  |
