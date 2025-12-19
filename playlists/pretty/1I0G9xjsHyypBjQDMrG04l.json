@@ -1,13 +1,29 @@
 {
   "description": "Automatically updated playlist of songs played on the WILD 94.9 radio station: Top 40, New Hit Music radio station in San Francisco Bay Area. (no duplicates)",
-  "num_followers": 1952,
+  "num_followers": 1954,
   "original_name": "WILD 94.9 Radio Station",
   "owner": {
     "name": "scfi",
     "url": "https://open.spotify.com/user/stephenip10"
   },
-  "snapshot_id": "AAAGE7exw3dRn/QipiVpU1NET5529zqW",
+  "snapshot_id": "AAAGFWd+IZIMsy7c7uCbHV11i9MUdPjg",
   "tracks": [
+    {
+      "added_at": "2025-12-18 13:30:17",
+      "album": {
+        "name": "IRIS OUT",
+        "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "IRIS OUT",
+      "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
+    },
     {
       "added_at": "2025-12-12 09:00:17",
       "album": {
@@ -3559,22 +3575,6 @@
       "duration_ms": 237666,
       "name": "Tell Me When to Go (feat. Keak da Sneak)",
       "url": "https://open.spotify.com/track/7eJ5kRpMNPAk7ccCDKywjH"
-    },
-    {
-      "added_at": "2024-10-12 11:00:21",
-      "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 198498,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj"
     },
     {
       "added_at": "2024-09-08 03:30:20",

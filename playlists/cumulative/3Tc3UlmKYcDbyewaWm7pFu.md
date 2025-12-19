@@ -4,7 +4,7 @@
 
 > 
 
-1,148 songs - 2 day 20 hr 23 min
+1,151 songs - 2 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2021-06-05 |  |
 | [Good For You](https://open.spotify.com/track/5XfywqPX6XBOdYQNbOaQvy) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Good For You](https://open.spotify.com/album/7FbUyvtDTsoGMhTlGOtv5q) | 3:41 | 2020-03-07 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-06-10 |  |
+| [Good Ol' Days](https://open.spotify.com/track/0X1Bz7NKvIh90nIptl5tlG) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b) | 3:23 | 2025-12-18 |  |
 | [Good Things](https://open.spotify.com/track/6kTk6AOcnPguvs1nQ4vUWZ) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:28 | 2021-12-12 |  |
 | [Goodbye Yellow Brick Road \- Remastered 2014](https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 3:12 | 2023-12-07 |  |
 | [Graveyard Dance](https://open.spotify.com/track/6r18lfTNsElqENq4xEcsC9) | [NILUM](https://open.spotify.com/artist/0fGJBiUwuNB0HTmxkRGl1l) | [Graveyard Dance](https://open.spotify.com/album/7iKKLAXI8CAqerWknIYbMu) | 2:13 | 2023-10-12 |  |
@@ -421,6 +422,7 @@
 | [hopeless](https://open.spotify.com/track/2EUw11FnLwkVUyJ1rfM4kW) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [hopeless](https://open.spotify.com/album/7iIcBI8bsaKKkN9QR3tOZU) | 3:19 | 2022-01-01 |  |
 | [Horns](https://open.spotify.com/track/5oyCruHORvRI8UEh9xVyam) | [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Heaven on Hold](https://open.spotify.com/album/4Ldmb0AgDupMkstZDIPzZk) | 3:37 | 2021-02-22 |  |
 | [Horns \(Arc North Remix\)](https://open.spotify.com/track/2vujPL9jOWisAKM4yCrTPL) | [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH), [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Horns \(Arc North Remix\)](https://open.spotify.com/album/4uyw9pVH8bDCwaRQWGHE5C) | 3:45 | 2021-02-22 |  |
+| [House featuring John Cale](https://open.spotify.com/track/6lYUgmE829m06SMC6tG3qD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [House featuring John Cale](https://open.spotify.com/album/6bUbneSMvxPLFuOEeyHgJo) | 3:17 | 2025-12-18 |  |
 | [House Of The Rising Sun](https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Animals](https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa) | 4:31 | 2023-03-09 |  |
 | [How Are You Mine?](https://open.spotify.com/track/6EOkV3r43EIs6l0FNjGUeg) | [Slowly Slowly](https://open.spotify.com/artist/2NNeERUBxmB2UrLFfL1Q8e) | [Forgiving Spree](https://open.spotify.com/album/4K6yiQ5TlZyqXU4TTHqWgl) | 3:25 | 2025-02-14 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/3ZP18us6p6LHOZMG1LLUjF) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 4:01 | 2022-05-02 |  |
@@ -1011,6 +1013,7 @@
 | [Two Princes](https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite \(Anniversary Edition\)](https://open.spotify.com/album/3jx5C8Z66FwdjNkqsSDBQh) | 4:16 | 2024-11-13 |  |
 | [Umbrella](https://open.spotify.com/track/2yPoXCs7BSIUrucMdK5PzV) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 4:35 | 2020-03-10 |  |
 | [Umbrella \(Rihanna cover\)](https://open.spotify.com/track/4aV8Y1ChBjchBmqeXkRpIN) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Punk Goes Crunk](https://open.spotify.com/album/59WZtvvNY7DE9FnCnWMmi4) | 3:49 | 2025-09-08 |  |
+| [Un\-Break My Heart](https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:30 | 2025-12-18 |  |
 | [Unbearable](https://open.spotify.com/track/0QfBSrfoRjgDrIJ31RcI3p) | [Tyler James Bellinger](https://open.spotify.com/artist/6ZuXJQZ4dNselMcRMUvUYs) | [Unbearable](https://open.spotify.com/album/0ZPISwe0psBl8dbN8gnnQO) | 3:04 | 2021-12-12 |  |
 | [Unchained Melody](https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Just Once In My Life](https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm) | 3:38 | 2020-11-04 |  |
 | [Unconditionally](https://open.spotify.com/track/4fwbGKNExPtPHbor1TBSY4) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:48 | 2020-02-14 |  |
