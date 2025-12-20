@@ -4,7 +4,7 @@
 
 > 
 
-154 songs - 8 hr 19 min
+157 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Hier encore](https://open.spotify.com/track/4ciRwt5dGHKKm8Et8r1xJ0) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Que c'est triste Venise \(Remastered 2014\)](https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK) | 2:23 | 2025-07-31 |  |
 | [Hier encore](https://open.spotify.com/track/66TDFKCZpMRfLcgJpa15xq) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Que c'est triste Venise](https://open.spotify.com/album/3kZ8kQRYbgqgD5HVEsAzv1) | 2:23 | 2025-11-17 |  |
 | [Hoch](https://open.spotify.com/track/7gqefhSJfWyN1qQ2huvEze) | [Tim Bendzko](https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl) | [FILTER](https://open.spotify.com/album/3UZVvbtFNygVU4Pr7oTU5l) | 2:48 | 2022-12-28 |  |
+| [Ich bin ein Gummibär](https://open.spotify.com/track/3cOgaMgzMqdJMupJ2JpOh6) | [Gummibär](https://open.spotify.com/artist/6NJb7ZCMVLu2ZXwWJa2O3G) | [Kinder\-Party\-Hits](https://open.spotify.com/album/3f1uZi3tyVftRncZLOpPzi) | 3:11 | 2025-12-19 |  |
 | [Il est cinq heures, Paris s'éveille](https://open.spotify.com/track/1Gw2viJ4XE9hylW4ujtNef) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:53 | 2023-12-09 |  |
 | [Il venait d'avoir 18 ans](https://open.spotify.com/track/4ci1FpTYDsWGEww9cHm9sN) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 2:59 | 2023-12-09 |  |
 | [J'aime les filles](https://open.spotify.com/track/196fYCjVMKAQb8uwOWxpUo) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:57 | 2023-12-09 |  |
@@ -131,6 +132,7 @@
 | [Santé](https://open.spotify.com/track/3Mcxi78U3lCjt8DMKa6YY4) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:11 | 2022-05-07 |  |
 | [Sen Trope](https://open.spotify.com/track/11ELEGzmuK6ENekjKFai3e) | [Azis](https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1) | [Azis 2014](https://open.spotify.com/album/4eob5WbssPxs5RqRQ61zau) | 3:32 | 2025-11-29 |  |
 | [Soarele si Luna](https://open.spotify.com/track/6SO3p9lb1qiPMN1e7iHAjv) | [Pasha Parfeni](https://open.spotify.com/artist/1J9gxGgm6LhmCwTCdekIXb) | [Soarele si Luna](https://open.spotify.com/album/49qCedDRPg3yBRXtVmBYqJ) | 2:58 | 2023-05-27 |  |
+| [Sonne](https://open.spotify.com/track/4w3R0GZ2rScJMKlgPJzHRq) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7) | 4:32 | 2025-12-19 |  |
 | [Taxi](https://open.spotify.com/track/1dvlLMVlu14AP9psmzfZuH) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/0pcRdTAIkItbFdyRA4CVZM) | 4:18 | 2023-05-05 |  |
 | [Tempête](https://open.spotify.com/track/4zeo96p50qBwUysP5tcbM9) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/0pcRdTAIkItbFdyRA4CVZM) | 3:40 | 2023-05-05 |  |
 | [Tempête](https://open.spotify.com/track/6RtveeNPS71dwyD6L7ZLdm) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq La Suite](https://open.spotify.com/album/1O6LqsYQ8uIdo3utTawVCl) | 3:40 | 2023-04-24 |  |
@@ -157,6 +159,7 @@
 | [В последний раз](https://open.spotify.com/track/3AQaEqdtm7DVQlBZBw6ZQh) | [Ансамбль Весёлые ребята](https://open.spotify.com/artist/7x91sJkli6lEJbMEdHnYf8) | [Музыкальный Глобус](https://open.spotify.com/album/0ggc96WgrOAIWsvQbRG8zl) | 3:10 | 2025-07-29 |  |
 | [И я](https://open.spotify.com/track/3eYySzaaWFz0E91CtqllEv) | [ANAZED](https://open.spotify.com/artist/3Uk305Q7Tf5kEm1HUtQy5Q) | [И я](https://open.spotify.com/album/2YdxcYRXKE5oWjWOykfr4q) | 2:21 | 2025-07-19 |  |
 | [Колыбельная](https://open.spotify.com/track/47RyOrXqLydmsPrsVU7nTw) | [Rauf & Faik](https://open.spotify.com/artist/0a3zDmrvmZcORfPeONPvfL) | [Колыбельная](https://open.spotify.com/album/25egsfoMlUTUKa6HVCS962) | 3:53 | 2023-10-12 |  |
+| [Кошка](https://open.spotify.com/track/65e5VdJT8DIuVR8jxJWqLJ) | [Рычаги Машин](https://open.spotify.com/artist/1Vg3SQ1TaIjVT2svpmq05q), [Ольга Артуровна](https://open.spotify.com/artist/0emMziAHNFA4pJu9ogWvgq) | [Полетаем](https://open.spotify.com/album/4lZdRHVPTJvuWNsOxpWogT) | 3:57 | 2025-12-19 |  |
 | [права](https://open.spotify.com/track/6E2ec1JmPOXyh7k37tYhYU) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:26 | 2025-10-23 |  |
 | [Спящая красавица](https://open.spotify.com/track/64Uiv4X755MZm6N597IT0M) | [polnalyubvi](https://open.spotify.com/artist/3cmfyZ8hRHaN2CO9Qo4j35) | [Сказки лесной нимфы](https://open.spotify.com/album/3LFGKPdcr1UsYAY1ln1VPh) | 2:16 | 2025-07-19 |  |
 | [Судно \(Борис Рижий\)](https://open.spotify.com/track/6DONTnamNDOJdO6DzCu71p) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1vPytXXwF0VXnof89Z91Pm) | 2:21 | 2025-10-14 |  |

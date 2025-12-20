@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Wrongderful",
+        "url": "https://open.spotify.com/album/1Y5NEjcjgL23WR3mCFCY0o"
+      },
+      "artists": [
+        {
+          "name": "Mcbaise",
+          "url": "https://open.spotify.com/artist/1bHp6iVI7Jit4RCKtic0YO"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320640,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/7y9k6hMYX1wAMRsmGowWvz"
+    },
+    {
+      "album": {
         "name": "ALL 2 U",
         "url": "https://open.spotify.com/album/33taQZFQEoXg4mUbg8Jbhw"
       },
@@ -1249,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "Bernard's Boogie",
+        "url": "https://open.spotify.com/album/5RRaRYGMzIKmxSzy4hLoT2"
+      },
+      "artists": [
+        {
+          "name": "Donny Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344116,
+      "name": "Bernard's Boogie",
+      "url": "https://open.spotify.com/track/51TMpQYzmqzJPrXru6McPT"
+    },
+    {
+      "album": {
         "name": "Best For Us",
         "url": "https://open.spotify.com/album/0VkuiyMbYzeSKuRmyWvRzk"
       },
@@ -1318,6 +1354,28 @@
       "duration_ms": 175080,
       "name": "Bettadaze",
       "url": "https://open.spotify.com/track/6IdxFn9YRBZLZuySXUqRjP"
+    },
+    {
+      "album": {
+        "name": "Rest Easy",
+        "url": "https://open.spotify.com/album/3AKzDK0hhKvBpIpKEZxT38"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        },
+        {
+          "name": "Manta",
+          "url": "https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238320,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/5b3fHyuFXLoUMjVtXdJo4g"
     },
     {
       "album": {
@@ -1860,6 +1918,28 @@
       "duration_ms": 210220,
       "name": "Change in Weather [Feat. MIA GLADSTONE]",
       "url": "https://open.spotify.com/track/0N496JaQOKmheVB9T3mJWP"
+    },
+    {
+      "album": {
+        "name": "Chasing Shadows",
+        "url": "https://open.spotify.com/album/5LL2gV74c4Sm1ti5Ue1TIg"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274680,
+      "name": "Chasing Shadows",
+      "url": "https://open.spotify.com/track/7ubvJ2uA8J03MzGyeRtIpB"
     },
     {
       "album": {
@@ -2722,12 +2802,12 @@
           "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
         },
         {
-          "name": "ELIZA",
-          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
-        },
-        {
           "name": "FKJ",
           "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "ELIZA",
+          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
         }
       ],
       "date_added": "2025-09-19",
@@ -3256,6 +3336,24 @@
       "duration_ms": 171093,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/3hM1x8CJ6a8wT81J6z5d2T"
+    },
+    {
+      "album": {
+        "name": "Live Laugh Love",
+        "url": "https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149463,
+      "name": "exhaust",
+      "url": "https://open.spotify.com/track/6OMq061PfK52o7zvJBwNHP"
     },
     {
       "album": {
@@ -4735,6 +4833,24 @@
     },
     {
       "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/3RdSQr19FJvnoJqK8G8vrI"
+      },
+      "artists": [
+        {
+          "name": "Meryem Aboulouafa",
+          "url": "https://open.spotify.com/artist/5h7TI4XI3fjCiG5MHJMyO0"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243626,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/5ugSG3Q6pxm4VqlxO54zXq"
+    },
+    {
+      "album": {
         "name": "HOTBOX",
         "url": "https://open.spotify.com/album/3dXTiG15LrfpSmQUP0au5g"
       },
@@ -5388,6 +5504,28 @@
       "duration_ms": 286153,
       "name": "Imaginary Friend",
       "url": "https://open.spotify.com/track/7CbVZ2Yzl0TtcCERaJDZSR"
+    },
+    {
+      "album": {
+        "name": "Duplicity",
+        "url": "https://open.spotify.com/album/7aRtGCd2xiZhyaGICBpOhq"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197956,
+      "name": "Imposter Syndrome",
+      "url": "https://open.spotify.com/track/7koaF8UD8iMWB4zkIH6N80"
     },
     {
       "album": {
@@ -6724,6 +6862,28 @@
       "duration_ms": 181498,
       "name": "Maia Maia",
       "url": "https://open.spotify.com/track/2DCAWhnusZQoxC7BffLjGY"
+    },
+    {
+      "album": {
+        "name": "VICE IS BROKE Original Score",
+        "url": "https://open.spotify.com/album/60NNDILzQAxUQcvg6oteHC"
+      },
+      "artists": [
+        {
+          "name": "Chrome Canyon",
+          "url": "https://open.spotify.com/artist/4AqiYN2GsRkmrQ7nAYrx1T"
+        },
+        {
+          "name": "Jordan Chini",
+          "url": "https://open.spotify.com/artist/40SNV0dvOYsJhis1fgXyHI"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338591,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/79ek57VNeab8btqQWksnDE"
     },
     {
       "album": {
@@ -9277,6 +9437,28 @@
     },
     {
       "album": {
+        "name": "Satisfaction Skank",
+        "url": "https://open.spotify.com/album/5Q7F1yP5Wx4RbVYXqOE6DW"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199488,
+      "name": "Satisfaction Skank",
+      "url": "https://open.spotify.com/track/1euu4whq0Na9HiccGK1Dlz"
+    },
+    {
+      "album": {
         "name": "Weirdo",
         "url": "https://open.spotify.com/album/1VMIAyfBq7OQN5XTgkV1p8"
       },
@@ -9648,6 +9830,32 @@
       "duration_ms": 75389,
       "name": "Snoobie (Knxwledge RMX)",
       "url": "https://open.spotify.com/track/3DMkptmuD9al0Zd4MSHoMZ"
+    },
+    {
+      "album": {
+        "name": "Let God Sort Em Out",
+        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194866,
+      "name": "So Be It",
+      "url": "https://open.spotify.com/track/0xaQ86cGRgcF8wwP1SkXsb"
     },
     {
       "album": {
@@ -10979,6 +11187,24 @@
     },
     {
       "album": {
+        "name": "Unclouded",
+        "url": "https://open.spotify.com/album/271W5ka3JqhnoXXP2XOVSG"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143985,
+      "name": "The House That Doesn\u2019t Exist",
+      "url": "https://open.spotify.com/track/0BxcLVV1TfIyEYMbIJwS2Q"
+    },
+    {
+      "album": {
         "name": "The Influence",
         "url": "https://open.spotify.com/album/3dVizlvTNZbegli0Ihv15a"
       },
@@ -12257,6 +12483,24 @@
     },
     {
       "album": {
+        "name": "what will they say",
+        "url": "https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157591,
+      "name": "what will they say",
+      "url": "https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd"
+    },
+    {
+      "album": {
         "name": "What's On Your Mind",
         "url": "https://open.spotify.com/album/1e03yQdw0r4dKmmZ49owsh"
       },
@@ -12272,6 +12516,24 @@
       "duration_ms": 157213,
       "name": "What's On Your Mind",
       "url": "https://open.spotify.com/track/1DEJKx9IYnTMiEe1mEj9H0"
+    },
+    {
+      "album": {
+        "name": "Skate Story: Vol. I",
+        "url": "https://open.spotify.com/album/3T3hC14iSrsNd3fd5UD3wH"
+      },
+      "artists": [
+        {
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Where The City Can't See",
+      "url": "https://open.spotify.com/track/45hNb2Uha7uFTSpTWVDGt4"
     },
     {
       "album": {
@@ -12446,6 +12708,24 @@
       "duration_ms": 201028,
       "name": "With You",
       "url": "https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/7tOdRdTVq98pxO0zCQKzWd"
+      },
+      "artists": [
+        {
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202317,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6vdv4CsNaeG7Fpytqw93No"
     },
     {
       "album": {

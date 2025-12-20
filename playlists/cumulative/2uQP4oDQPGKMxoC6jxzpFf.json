@@ -2387,6 +2387,24 @@
     },
     {
       "album": {
+        "name": "Naked Eyes",
+        "url": "https://open.spotify.com/album/7yxf90I32wPEXr7hLp3CKR"
+      },
+      "artists": [
+        {
+          "name": "Naked Eyes",
+          "url": "https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219373,
+      "name": "Always Something There to Remind Me - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3yWAyRHfclztY1TzF2gAUD"
+    },
+    {
+      "album": {
         "name": "Amaro",
         "url": "https://open.spotify.com/album/3lkzJlZGyPUmLeirGwKuVR"
       },
@@ -15629,6 +15647,24 @@
     },
     {
       "album": {
+        "name": "Almost a Full Moon",
+        "url": "https://open.spotify.com/album/0H7fzf5NsKsJQ4qlk9Y8ZG"
+      },
+      "artists": [
+        {
+          "name": "Hawksley Workman",
+          "url": "https://open.spotify.com/artist/6TXT0xgAes45U8vyHeCIZJ"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189867,
+      "name": "First Snow of the Year",
+      "url": "https://open.spotify.com/track/1bXmuQgk6V3ML2qxZB40yb"
+    },
+    {
+      "album": {
         "name": "LOONY",
         "url": "https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy"
       },
@@ -22605,6 +22641,24 @@
     },
     {
       "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199452,
+      "name": "Hungry Heart",
+      "url": "https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT"
+    },
+    {
+      "album": {
         "name": "Rio (Collector's Edition)",
         "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
       },
@@ -28752,6 +28806,28 @@
       "duration_ms": 298170,
       "name": "Let Me Roll It",
       "url": "https://open.spotify.com/track/1tp76zGSNFeiVwhH9dmtZM"
+    },
+    {
+      "album": {
+        "name": "Band On The Run",
+        "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289813,
+      "name": "Let Me Roll It - 2010 Remaster",
+      "url": "https://open.spotify.com/track/0mRQp2HsSqX1MZuMvonAPN"
     },
     {
       "album": {
@@ -51756,6 +51832,28 @@
       "duration_ms": 176826,
       "name": "Tie you down",
       "url": "https://open.spotify.com/track/2EJpfJvSPRpy7dE15cV6L6"
+    },
+    {
+      "album": {
+        "name": "I quit (deluxe)",
+        "url": "https://open.spotify.com/album/0UcALdLFt3jVDg7N21BzeN"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176826,
+      "name": "Tie you down",
+      "url": "https://open.spotify.com/track/5L7q7GU2NXfthES8H7mttv"
     },
     {
       "album": {

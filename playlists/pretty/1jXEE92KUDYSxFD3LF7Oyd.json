@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAAYrk+noKUE7Li9UUlmohlgrirJgca",
+  "snapshot_id": "AAAAZQhJic1T5PKOYL2pzPjt6TIwkZXR",
   "tracks": [
     {
       "added_at": "2022-05-07 13:03:51",
@@ -2519,6 +2519,58 @@
       "duration_ms": 214440,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
+    },
+    {
+      "added_at": "2025-12-19 03:12:57",
+      "album": {
+        "name": "Kinder-Party-Hits",
+        "url": "https://open.spotify.com/album/3f1uZi3tyVftRncZLOpPzi"
+      },
+      "artists": [
+        {
+          "name": "Gummib\u00e4r",
+          "url": "https://open.spotify.com/artist/6NJb7ZCMVLu2ZXwWJa2O3G"
+        }
+      ],
+      "duration_ms": 191506,
+      "name": "Ich bin ein Gummib\u00e4r",
+      "url": "https://open.spotify.com/track/3cOgaMgzMqdJMupJ2JpOh6"
+    },
+    {
+      "added_at": "2025-12-19 03:15:29",
+      "album": {
+        "name": "Mutter",
+        "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 272440,
+      "name": "Sonne",
+      "url": "https://open.spotify.com/track/4w3R0GZ2rScJMKlgPJzHRq"
+    },
+    {
+      "added_at": "2025-12-19 07:33:10",
+      "album": {
+        "name": "\u041f\u043e\u043b\u0435\u0442\u0430\u0435\u043c",
+        "url": "https://open.spotify.com/album/4lZdRHVPTJvuWNsOxpWogT"
+      },
+      "artists": [
+        {
+          "name": "\u0420\u044b\u0447\u0430\u0433\u0438 \u041c\u0430\u0448\u0438\u043d",
+          "url": "https://open.spotify.com/artist/1Vg3SQ1TaIjVT2svpmq05q"
+        },
+        {
+          "name": "\u041e\u043b\u044c\u0433\u0430 \u0410\u0440\u0442\u0443\u0440\u043e\u0432\u043d\u0430",
+          "url": "https://open.spotify.com/artist/0emMziAHNFA4pJu9ogWvgq"
+        }
+      ],
+      "duration_ms": 237557,
+      "name": "\u041a\u043e\u0448\u043a\u0430",
+      "url": "https://open.spotify.com/track/65e5VdJT8DIuVR8jxJWqLJ"
     }
   ],
   "unique_name": "European \ud83c\udfe4",

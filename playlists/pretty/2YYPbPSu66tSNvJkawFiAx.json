@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAAfYZx0tl2Er85CNdtweNzV1V1HJ+g",
+  "snapshot_id": "AAAAf9yhmGyYOo15z4VqMfKD84aTTil0",
   "tracks": [
     {
       "added_at": "2024-11-22 15:21:30",
@@ -12300,12 +12300,12 @@
           "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
         },
         {
-          "name": "ELIZA",
-          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
-        },
-        {
           "name": "FKJ",
           "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "ELIZA",
+          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
         }
       ],
       "duration_ms": 231034,
@@ -12596,12 +12596,12 @@
           "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
         },
         {
-          "name": "ELIZA",
-          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
-        },
-        {
           "name": "FKJ",
           "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "ELIZA",
+          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
         }
       ],
       "duration_ms": 231034,
@@ -19079,6 +19079,510 @@
       "duration_ms": 221405,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/5reWe6VIloY1CNYhzdApCl"
+    },
+    {
+      "added_at": "2025-12-19 06:51:54",
+      "album": {
+        "name": "Satisfaction Skank",
+        "url": "https://open.spotify.com/album/5Q7F1yP5Wx4RbVYXqOE6DW"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 199488,
+      "name": "Satisfaction Skank",
+      "url": "https://open.spotify.com/track/1euu4whq0Na9HiccGK1Dlz"
+    },
+    {
+      "added_at": "2025-12-19 06:51:54",
+      "album": {
+        "name": "Unclouded",
+        "url": "https://open.spotify.com/album/271W5ka3JqhnoXXP2XOVSG"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 143985,
+      "name": "The House That Doesn\u2019t Exist",
+      "url": "https://open.spotify.com/track/0BxcLVV1TfIyEYMbIJwS2Q"
+    },
+    {
+      "added_at": "2025-12-19 06:51:54",
+      "album": {
+        "name": "Bernard's Boogie",
+        "url": "https://open.spotify.com/album/5RRaRYGMzIKmxSzy4hLoT2"
+      },
+      "artists": [
+        {
+          "name": "Donny Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN"
+        }
+      ],
+      "duration_ms": 344116,
+      "name": "Bernard's Boogie",
+      "url": "https://open.spotify.com/track/51TMpQYzmqzJPrXru6McPT"
+    },
+    {
+      "added_at": "2025-12-19 06:51:54",
+      "album": {
+        "name": "what will they say",
+        "url": "https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 157591,
+      "name": "what will they say",
+      "url": "https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd"
+    },
+    {
+      "added_at": "2025-12-19 06:51:54",
+      "album": {
+        "name": "Duplicity",
+        "url": "https://open.spotify.com/album/7aRtGCd2xiZhyaGICBpOhq"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 197956,
+      "name": "Imposter Syndrome",
+      "url": "https://open.spotify.com/track/7koaF8UD8iMWB4zkIH6N80"
+    },
+    {
+      "added_at": "2025-12-19 06:51:54",
+      "album": {
+        "name": "Chasing Shadows",
+        "url": "https://open.spotify.com/album/5LL2gV74c4Sm1ti5Ue1TIg"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "duration_ms": 274680,
+      "name": "Chasing Shadows",
+      "url": "https://open.spotify.com/track/7ubvJ2uA8J03MzGyeRtIpB"
+    },
+    {
+      "added_at": "2025-12-19 06:51:54",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/3RdSQr19FJvnoJqK8G8vrI"
+      },
+      "artists": [
+        {
+          "name": "Meryem Aboulouafa",
+          "url": "https://open.spotify.com/artist/5h7TI4XI3fjCiG5MHJMyO0"
+        }
+      ],
+      "duration_ms": 243626,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/5ugSG3Q6pxm4VqlxO54zXq"
+    },
+    {
+      "added_at": "2025-12-19 06:51:54",
+      "album": {
+        "name": "Live Laugh Love",
+        "url": "https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 149463,
+      "name": "exhaust",
+      "url": "https://open.spotify.com/track/6OMq061PfK52o7zvJBwNHP"
+    },
+    {
+      "added_at": "2025-12-19 06:51:54",
+      "album": {
+        "name": "Let God Sort Em Out",
+        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "So Be It",
+      "url": "https://open.spotify.com/track/0xaQ86cGRgcF8wwP1SkXsb"
+    },
+    {
+      "added_at": "2025-12-19 06:51:54",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/7tOdRdTVq98pxO0zCQKzWd"
+      },
+      "artists": [
+        {
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+        }
+      ],
+      "duration_ms": 202317,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6vdv4CsNaeG7Fpytqw93No"
+    },
+    {
+      "added_at": "2025-12-19 06:51:54",
+      "album": {
+        "name": "Skate Story: Vol. I",
+        "url": "https://open.spotify.com/album/3T3hC14iSrsNd3fd5UD3wH"
+      },
+      "artists": [
+        {
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Where The City Can't See",
+      "url": "https://open.spotify.com/track/45hNb2Uha7uFTSpTWVDGt4"
+    },
+    {
+      "added_at": "2025-12-19 06:51:54",
+      "album": {
+        "name": "Rest Easy",
+        "url": "https://open.spotify.com/album/3AKzDK0hhKvBpIpKEZxT38"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        },
+        {
+          "name": "Manta",
+          "url": "https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ"
+        }
+      ],
+      "duration_ms": 238320,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/5b3fHyuFXLoUMjVtXdJo4g"
+    },
+    {
+      "added_at": "2025-12-19 06:51:54",
+      "album": {
+        "name": "Wrongderful",
+        "url": "https://open.spotify.com/album/1Y5NEjcjgL23WR3mCFCY0o"
+      },
+      "artists": [
+        {
+          "name": "Mcbaise",
+          "url": "https://open.spotify.com/artist/1bHp6iVI7Jit4RCKtic0YO"
+        }
+      ],
+      "duration_ms": 320640,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/7y9k6hMYX1wAMRsmGowWvz"
+    },
+    {
+      "added_at": "2025-12-19 06:51:54",
+      "album": {
+        "name": "VICE IS BROKE Original Score",
+        "url": "https://open.spotify.com/album/60NNDILzQAxUQcvg6oteHC"
+      },
+      "artists": [
+        {
+          "name": "Chrome Canyon",
+          "url": "https://open.spotify.com/artist/4AqiYN2GsRkmrQ7nAYrx1T"
+        },
+        {
+          "name": "Jordan Chini",
+          "url": "https://open.spotify.com/artist/40SNV0dvOYsJhis1fgXyHI"
+        }
+      ],
+      "duration_ms": 338591,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/79ek57VNeab8btqQWksnDE"
+    },
+    {
+      "added_at": "2025-12-19 06:52:00",
+      "album": {
+        "name": "Satisfaction Skank",
+        "url": "https://open.spotify.com/album/5Q7F1yP5Wx4RbVYXqOE6DW"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 199488,
+      "name": "Satisfaction Skank",
+      "url": "https://open.spotify.com/track/1euu4whq0Na9HiccGK1Dlz"
+    },
+    {
+      "added_at": "2025-12-19 06:52:00",
+      "album": {
+        "name": "Unclouded",
+        "url": "https://open.spotify.com/album/271W5ka3JqhnoXXP2XOVSG"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 143985,
+      "name": "The House That Doesn\u2019t Exist",
+      "url": "https://open.spotify.com/track/0BxcLVV1TfIyEYMbIJwS2Q"
+    },
+    {
+      "added_at": "2025-12-19 06:52:00",
+      "album": {
+        "name": "Bernard's Boogie",
+        "url": "https://open.spotify.com/album/5RRaRYGMzIKmxSzy4hLoT2"
+      },
+      "artists": [
+        {
+          "name": "Donny Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN"
+        }
+      ],
+      "duration_ms": 344116,
+      "name": "Bernard's Boogie",
+      "url": "https://open.spotify.com/track/51TMpQYzmqzJPrXru6McPT"
+    },
+    {
+      "added_at": "2025-12-19 06:52:00",
+      "album": {
+        "name": "what will they say",
+        "url": "https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 157591,
+      "name": "what will they say",
+      "url": "https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd"
+    },
+    {
+      "added_at": "2025-12-19 06:52:00",
+      "album": {
+        "name": "Duplicity",
+        "url": "https://open.spotify.com/album/7aRtGCd2xiZhyaGICBpOhq"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 197956,
+      "name": "Imposter Syndrome",
+      "url": "https://open.spotify.com/track/7koaF8UD8iMWB4zkIH6N80"
+    },
+    {
+      "added_at": "2025-12-19 06:52:00",
+      "album": {
+        "name": "Chasing Shadows",
+        "url": "https://open.spotify.com/album/5LL2gV74c4Sm1ti5Ue1TIg"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "duration_ms": 274680,
+      "name": "Chasing Shadows",
+      "url": "https://open.spotify.com/track/7ubvJ2uA8J03MzGyeRtIpB"
+    },
+    {
+      "added_at": "2025-12-19 06:52:00",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/3RdSQr19FJvnoJqK8G8vrI"
+      },
+      "artists": [
+        {
+          "name": "Meryem Aboulouafa",
+          "url": "https://open.spotify.com/artist/5h7TI4XI3fjCiG5MHJMyO0"
+        }
+      ],
+      "duration_ms": 243626,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/5ugSG3Q6pxm4VqlxO54zXq"
+    },
+    {
+      "added_at": "2025-12-19 06:52:00",
+      "album": {
+        "name": "Live Laugh Love",
+        "url": "https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 149463,
+      "name": "exhaust",
+      "url": "https://open.spotify.com/track/6OMq061PfK52o7zvJBwNHP"
+    },
+    {
+      "added_at": "2025-12-19 06:52:00",
+      "album": {
+        "name": "Let God Sort Em Out",
+        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "So Be It",
+      "url": "https://open.spotify.com/track/0xaQ86cGRgcF8wwP1SkXsb"
+    },
+    {
+      "added_at": "2025-12-19 06:52:00",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/7tOdRdTVq98pxO0zCQKzWd"
+      },
+      "artists": [
+        {
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+        }
+      ],
+      "duration_ms": 202317,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6vdv4CsNaeG7Fpytqw93No"
+    },
+    {
+      "added_at": "2025-12-19 06:52:00",
+      "album": {
+        "name": "Skate Story: Vol. I",
+        "url": "https://open.spotify.com/album/3T3hC14iSrsNd3fd5UD3wH"
+      },
+      "artists": [
+        {
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Where The City Can't See",
+      "url": "https://open.spotify.com/track/45hNb2Uha7uFTSpTWVDGt4"
+    },
+    {
+      "added_at": "2025-12-19 06:52:00",
+      "album": {
+        "name": "Rest Easy",
+        "url": "https://open.spotify.com/album/3AKzDK0hhKvBpIpKEZxT38"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        },
+        {
+          "name": "Manta",
+          "url": "https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ"
+        }
+      ],
+      "duration_ms": 238320,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/5b3fHyuFXLoUMjVtXdJo4g"
+    },
+    {
+      "added_at": "2025-12-19 06:52:00",
+      "album": {
+        "name": "Wrongderful",
+        "url": "https://open.spotify.com/album/1Y5NEjcjgL23WR3mCFCY0o"
+      },
+      "artists": [
+        {
+          "name": "Mcbaise",
+          "url": "https://open.spotify.com/artist/1bHp6iVI7Jit4RCKtic0YO"
+        }
+      ],
+      "duration_ms": 320640,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/7y9k6hMYX1wAMRsmGowWvz"
+    },
+    {
+      "added_at": "2025-12-19 06:52:00",
+      "album": {
+        "name": "VICE IS BROKE Original Score",
+        "url": "https://open.spotify.com/album/60NNDILzQAxUQcvg6oteHC"
+      },
+      "artists": [
+        {
+          "name": "Chrome Canyon",
+          "url": "https://open.spotify.com/artist/4AqiYN2GsRkmrQ7nAYrx1T"
+        },
+        {
+          "name": "Jordan Chini",
+          "url": "https://open.spotify.com/artist/40SNV0dvOYsJhis1fgXyHI"
+        }
+      ],
+      "duration_ms": 338591,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/79ek57VNeab8btqQWksnDE"
     }
   ],
   "unique_name": "GRRIF radio sonar",

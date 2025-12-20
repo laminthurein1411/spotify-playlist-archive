@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 154 songs - 8 hr 18 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 157 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,5 +162,8 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 152 | [Les rois du monde \(Thème de "Roméo et Juliette, de la haine à l'amour" \- La comédie musicale\)](https://open.spotify.com/track/6nJyEWfTU0qWxBA3bJuJYc) | [Stars en scène](https://open.spotify.com/artist/5jWrGVHPMo5jdOQNMbcafu) | [Les plus grandes comédies musicales, Vol\. 2](https://open.spotify.com/album/4Yf7trzH83p3XAafB03yqA) | 3:16 |
 | 153 | [Sen Trope](https://open.spotify.com/track/11ELEGzmuK6ENekjKFai3e) | [Azis](https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1) | [Azis 2014](https://open.spotify.com/album/4eob5WbssPxs5RqRQ61zau) | 3:32 |
 | 154 | [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 |
+| 155 | [Ich bin ein Gummibär](https://open.spotify.com/track/3cOgaMgzMqdJMupJ2JpOh6) | [Gummibär](https://open.spotify.com/artist/6NJb7ZCMVLu2ZXwWJa2O3G) | [Kinder\-Party\-Hits](https://open.spotify.com/album/3f1uZi3tyVftRncZLOpPzi) | 3:11 |
+| 156 | [Sonne](https://open.spotify.com/track/4w3R0GZ2rScJMKlgPJzHRq) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7) | 4:32 |
+| 157 | [Кошка](https://open.spotify.com/track/65e5VdJT8DIuVR8jxJWqLJ) | [Рычаги Машин](https://open.spotify.com/artist/1Vg3SQ1TaIjVT2svpmq05q), [Ольга Артуровна](https://open.spotify.com/artist/0emMziAHNFA4pJu9ogWvgq) | [Полетаем](https://open.spotify.com/album/4lZdRHVPTJvuWNsOxpWogT) | 3:57 |
 
-Snapshot ID: `AAAAYrk+noKUE7Li9UUlmohlgrirJgca`
+Snapshot ID: `AAAAZQhJic1T5PKOYL2pzPjt6TIwkZXR`
