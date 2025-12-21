@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,160 songs - 8 day 5 hr 21 min
+3,162 songs - 8 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,6 +515,7 @@
 | [Clean Eyes](https://open.spotify.com/track/09Sd5T2iHgJFLGtLXv6KgO) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:04 | 2025-08-02 |  |
 | [Cleopatra](https://open.spotify.com/track/2AXY5WABx7NjWw1zb4qCdc) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/26HAAGfOhnc0CqqcHoaQGD) | 3:21 | 2025-04-07 |  |
 | [Clocks](https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:07 | 2024-12-05 |  |
+| [Close to Me \- 2006 Remaster](https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door](https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw) | 3:23 | 2025-12-20 |  |
 | [Closer](https://open.spotify.com/track/67tTXPmuxANqpiMXxseQey) | [Kyle Neal](https://open.spotify.com/artist/4nh9GkXBPVXbjmrUx0fj4r) | [Closer](https://open.spotify.com/album/5GSQHjGN7gMsIMZ7aOIPFK) | 4:26 | 2025-06-08 |  |
 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:30 | 2025-07-02 |  |
 | [Closer to Fine](https://open.spotify.com/track/7rKyITVLEwldhdXIy7P6Vw) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Indigo Girls \(Expanded Edition\)](https://open.spotify.com/album/1rkuKm5mDoauq9XKjRV94x) | 4:01 | 2025-02-07 |  |
@@ -2483,6 +2484,7 @@
 | [Stay High](https://open.spotify.com/track/0TLRvd18iI3KXrSCrWQGt6) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/5Ut4UnPCzdFIksOf2XtL6M) | 3:11 | 2025-01-27 |  |
 | [Stay Home with You](https://open.spotify.com/track/2Vc8gvA0yYJob6CSqF3hNk) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [The Hammer & The Rose](https://open.spotify.com/album/3sNQGKttAZMeq5ugAim4MI) | 3:59 | 2025-05-07 |  |
 | [Stay In This Moment](https://open.spotify.com/track/2cVNX2IjBZLrfZv3ccDVXe) | [Logan Richard](https://open.spotify.com/artist/0clafcEW9Npsrqo76bL13o) | [Stay In This Moment](https://open.spotify.com/album/5GGEodyHnNq435pEOyCdby) | 2:44 | 2025-12-12 |  |
+| [stay with me](https://open.spotify.com/track/5bAWcx3JLwpNXvUcnrlX9F) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [stay with me](https://open.spotify.com/album/1sK7oMScJ9bzgQGZTXozqM) | 3:49 | 2025-12-20 |  |
 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 | 2025-07-27 |  |
 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 | 2025-08-03 |  |
 | [Steal My Sunshine](https://open.spotify.com/track/5iekFM9ofP94Ue8oDyXRvd) | [Lenka](https://open.spotify.com/artist/5g3uG8zZZANGT6YOssgjfC) | [Recover](https://open.spotify.com/album/5lrEK5teqluvpVefLxHbf7) | 3:22 | 2025-06-17 |  |

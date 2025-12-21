@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAAFwCuBGq/4Hm+v6EPGVabfzqGWYJy",
+  "snapshot_id": "AAAAGYmsGHsQ6hcH3YmJzoxjFWoM4m7k",
   "tracks": [
     {
       "added_at": "2025-02-23 09:49:29",
@@ -583,6 +583,38 @@
       "duration_ms": 140906,
       "name": "Carmen Suite No. 1 (Arr. E. Guiraud): VI. Les tor\u00e9adors",
       "url": "https://open.spotify.com/track/00ZlsVT9DEE8vh3eBk3PTv"
+    },
+    {
+      "added_at": "2025-12-20 04:22:48",
+      "album": {
+        "name": "Moonlight Sonata - Single",
+        "url": "https://open.spotify.com/album/6lYMdGFShVneIDstynwcfW"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        }
+      ],
+      "duration_ms": 447186,
+      "name": "Moonlight Sonata",
+      "url": "https://open.spotify.com/track/1j2M5ekufbxpzGYzuorgKt"
+    },
+    {
+      "added_at": "2025-12-20 04:23:13",
+      "album": {
+        "name": "Beethoven (Moonlight Sonata)",
+        "url": "https://open.spotify.com/album/5k7yfJtRKAGmZV62JE5s1P"
+      },
+      "artists": [
+        {
+          "name": "Andrea Romano",
+          "url": "https://open.spotify.com/artist/7M3B1uWMKIm8llrQZTBWQ8"
+        }
+      ],
+      "duration_ms": 900101,
+      "name": "Beethoven (Moonlight Sonata)",
+      "url": "https://open.spotify.com/track/2BoS0DQLuGS9u7iDBOhlsU"
     }
   ],
   "unique_name": "Classical",

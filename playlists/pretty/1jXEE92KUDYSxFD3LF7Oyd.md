@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 157 songs - 8 hr 30 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 158 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,5 +165,6 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 155 | [Ich bin ein Gummibär](https://open.spotify.com/track/3cOgaMgzMqdJMupJ2JpOh6) | [Gummibär](https://open.spotify.com/artist/6NJb7ZCMVLu2ZXwWJa2O3G) | [Kinder\-Party\-Hits](https://open.spotify.com/album/3f1uZi3tyVftRncZLOpPzi) | 3:11 |
 | 156 | [Sonne](https://open.spotify.com/track/4w3R0GZ2rScJMKlgPJzHRq) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7) | 4:32 |
 | 157 | [Кошка](https://open.spotify.com/track/65e5VdJT8DIuVR8jxJWqLJ) | [Рычаги Машин](https://open.spotify.com/artist/1Vg3SQ1TaIjVT2svpmq05q), [Ольга Артуровна](https://open.spotify.com/artist/0emMziAHNFA4pJu9ogWvgq) | [Полетаем](https://open.spotify.com/album/4lZdRHVPTJvuWNsOxpWogT) | 3:57 |
+| 158 | [Про красивую жизнь](https://open.spotify.com/track/2e35bSBvm3RVyHWTwWeFbO) | [Band'Eros](https://open.spotify.com/artist/2OgohSfhZqyIauFLZHvXLU) | [Коламбия Пикчерз не представляет \(Новое издание\)](https://open.spotify.com/album/7irkpcZLog7GJk8Awj9SRB) | 3:41 |
 
-Snapshot ID: `AAAAZQhJic1T5PKOYL2pzPjt6TIwkZXR`
+Snapshot ID: `AAAAZulXeZsv0tuGVkxY+c8qHwK8Dq1l`

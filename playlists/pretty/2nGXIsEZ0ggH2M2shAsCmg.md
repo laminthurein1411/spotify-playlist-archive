@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 3,586 songs - 10 day 6 hr 8 min
+[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 3,592 songs - 10 day 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3594,5 +3594,11 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 3584 | [Don't Go Away Mad \(Just Go Away\)](https://open.spotify.com/track/59Ci48o1SpUmczLpVsxIWD) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood](https://open.spotify.com/album/4MDYr65P5RQb6VHt80T3o8) | 4:39 |
 | 3585 | [Angie \- Remastered 2009](https://open.spotify.com/track/3623hKmNT8p27m8wjhluiJ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Forty Licks](https://open.spotify.com/album/2WvMWgLvHvBHT2IknyXiMi) | 4:32 |
 | 3586 | [The Twist](https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [The Best Of Chubby Checker 1959\-1963](https://open.spotify.com/album/4I4NKz4jIy7hYke8jvCpPA) | 2:33 |
+| 3587 | [Sailing \- 2019 Remaster](https://open.spotify.com/track/19y78oLOXf8JRyoy3DUVHg) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross \(2019 Remaster\)](https://open.spotify.com/album/3bP1LQWb3dpjYLVI7UkxdC) | 4:16 |
+| 3588 | [Never Be the Same \- 2019 Remaster](https://open.spotify.com/track/0vs01nMLHlqhl0QPPqBJAV) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross \(2019 Remaster\)](https://open.spotify.com/album/3bP1LQWb3dpjYLVI7UkxdC) | 4:41 |
+| 3589 | [All Right \- 2019 Remaster](https://open.spotify.com/track/30xT8qEYYeWum5e8lP8wkQ) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Another Page \(2019 Remaster\)](https://open.spotify.com/album/0sHnYAQwwHPxFUPEF60ACF) | 4:18 |
+| 3590 | [Thank U](https://open.spotify.com/track/3CVDronuSnhguSUguPoseM) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Supposed Former Infatuation Junkie](https://open.spotify.com/album/2QXT4rGSfqjqfgpZ059yKp) | 4:18 |
+| 3591 | [Linger](https://open.spotify.com/track/3HHehSGzW9dhs2V7Sod4jX) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Stars: The Best Of The Cranberries 1992\-2002](https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl) | 4:34 |
+| 3592 | [More Than Words](https://open.spotify.com/track/58c8pMaXi3xdpBIVfG6WGC) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II: Pornograffitti \(Deluxe\)](https://open.spotify.com/album/4bQ3DhbAEU6zhWFRhDNF3r) | 5:34 |
 
-Snapshot ID: `AAACV96clheWiQiSvHOnYat+jTJBEti3`
+Snapshot ID: `AAACWLY8WCx6yh1tNRPQuhwkqDngrsBO`

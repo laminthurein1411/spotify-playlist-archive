@@ -4,7 +4,7 @@
 
 > 
 
-157 songs - 8 hr 30 min
+158 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Колыбельная](https://open.spotify.com/track/47RyOrXqLydmsPrsVU7nTw) | [Rauf & Faik](https://open.spotify.com/artist/0a3zDmrvmZcORfPeONPvfL) | [Колыбельная](https://open.spotify.com/album/25egsfoMlUTUKa6HVCS962) | 3:53 | 2023-10-12 |  |
 | [Кошка](https://open.spotify.com/track/65e5VdJT8DIuVR8jxJWqLJ) | [Рычаги Машин](https://open.spotify.com/artist/1Vg3SQ1TaIjVT2svpmq05q), [Ольга Артуровна](https://open.spotify.com/artist/0emMziAHNFA4pJu9ogWvgq) | [Полетаем](https://open.spotify.com/album/4lZdRHVPTJvuWNsOxpWogT) | 3:57 | 2025-12-19 |  |
 | [права](https://open.spotify.com/track/6E2ec1JmPOXyh7k37tYhYU) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:26 | 2025-10-23 |  |
+| [Про красивую жизнь](https://open.spotify.com/track/2e35bSBvm3RVyHWTwWeFbO) | [Band'Eros](https://open.spotify.com/artist/2OgohSfhZqyIauFLZHvXLU) | [Коламбия Пикчерз не представляет \(Новое издание\)](https://open.spotify.com/album/7irkpcZLog7GJk8Awj9SRB) | 3:41 | 2025-12-20 |  |
 | [Спящая красавица](https://open.spotify.com/track/64Uiv4X755MZm6N597IT0M) | [polnalyubvi](https://open.spotify.com/artist/3cmfyZ8hRHaN2CO9Qo4j35) | [Сказки лесной нимфы](https://open.spotify.com/album/3LFGKPdcr1UsYAY1ln1VPh) | 2:16 | 2025-07-19 |  |
 | [Судно \(Борис Рижий\)](https://open.spotify.com/track/6DONTnamNDOJdO6DzCu71p) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1vPytXXwF0VXnof89Z91Pm) | 2:21 | 2025-10-14 |  |
 | [Судно \(Борис Рыжий\)](https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 2:21 | 2025-10-23 |  |

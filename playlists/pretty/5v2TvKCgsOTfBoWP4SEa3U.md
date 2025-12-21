@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5v2TvKCgsOTfBoWP4SEa3U.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 22 songs - 1 hr 41 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 24 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,5 +30,7 @@ pretty - [cumulative](/playlists/cumulative/5v2TvKCgsOTfBoWP4SEa3U.md) - [plain]
 | 20 | [Symphony No\. 5 in B\-flat Major, WAB 105: I\. Introduktion: Adagio, Allegro \- 2024 Remastered, Ottobeuren 1964](https://open.spotify.com/track/2jBoiQdG7XaN7jfVowb0fP) | [Anton Bruckner](https://open.spotify.com/artist/2bM3j1JQWBkmzuoZKu4zj2), [Eugen Jochum](https://open.spotify.com/artist/6XVxGOzn7c2rLi1GpXxm5v), [Royal Concertgebouw Orchestra](https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ) | [Bruckner: Symphony No\. 5 by Eugen Jochum \(2024 Remastered, Ottobeuren 1964\)](https://open.spotify.com/album/3cKHRYHg668f3TXMNfBVkz) | 21:03 |
 | 21 | [Carmen Suite No\. 1 \(Arr\. E\. Guiraud\): II\. Aragonaise](https://open.spotify.com/track/1pLps4GXn3n4JcfCNAFwdh) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Orquestra Simfònica de Barcelona i Nacional de Catalunya](https://open.spotify.com/artist/3JMtC2Qi46h2vcbJfVYlgy), [Pablo González](https://open.spotify.com/artist/5cbPW0TtDXFDVlFHlUMPjD) | [Bizet: Carmen & L'arlésienne Suites](https://open.spotify.com/album/72DJCNYKojIpdLeRtX4iYi) | 2:18 |
 | 22 | [Carmen Suite No\. 1 \(Arr\. E\. Guiraud\): VI\. Les toréadors](https://open.spotify.com/track/00ZlsVT9DEE8vh3eBk3PTv) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Orquestra Simfònica de Barcelona i Nacional de Catalunya](https://open.spotify.com/artist/3JMtC2Qi46h2vcbJfVYlgy), [Pablo González](https://open.spotify.com/artist/5cbPW0TtDXFDVlFHlUMPjD) | [Bizet: Carmen & L'arlésienne Suites](https://open.spotify.com/album/72DJCNYKojIpdLeRtX4iYi) | 2:20 |
+| 23 | [Moonlight Sonata](https://open.spotify.com/track/1j2M5ekufbxpzGYzuorgKt) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) | [Moonlight Sonata \- Single](https://open.spotify.com/album/6lYMdGFShVneIDstynwcfW) | 7:27 |
+| 24 | [Beethoven \(Moonlight Sonata\)](https://open.spotify.com/track/2BoS0DQLuGS9u7iDBOhlsU) | [Andrea Romano](https://open.spotify.com/artist/7M3B1uWMKIm8llrQZTBWQ8) | [Beethoven \(Moonlight Sonata\)](https://open.spotify.com/album/5k7yfJtRKAGmZV62JE5s1P) | 15:00 |
 
-Snapshot ID: `AAAAFwCuBGq/4Hm+v6EPGVabfzqGWYJy`
+Snapshot ID: `AAAAGYmsGHsQ6hcH3YmJzoxjFWoM4m7k`
