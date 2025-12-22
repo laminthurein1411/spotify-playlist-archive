@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,162 songs - 8 day 5 hr 28 min
+3,167 songs - 8 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Adore You](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:27 | 2025-02-15 |  |
 | [Adore You](https://open.spotify.com/track/5AnCLGg35ziFOloEnXK4uu) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 4:38 | 2025-02-15 |  |
 | [Adorn](https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD) | 3:13 | 2025-07-15 |  |
+| [Aerial Troubles](https://open.spotify.com/track/4Qnub0myMdKdCdymx5cS3d) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Instant Holograms On Metal Film](https://open.spotify.com/album/5nS7jRCPubnZF0OsXEM0D7) | 3:20 | 2025-12-21 |  |
 | [Aerial Troubles](https://open.spotify.com/track/6mfJi0SkVeIjyMz0edElJZ) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Aerial Troubles](https://open.spotify.com/album/0Gq07t8eOOOcEymI7xWhvR) | 3:20 | 2025-05-26 |  |
 | [Afraid of Heights](https://open.spotify.com/track/0SK4eSlC1oyOkY7jG7EmmG) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:41 | 2025-05-18 |  |
 | [Afro Blue](https://open.spotify.com/track/7e0j6jReCfN5KJkDNLHyHQ) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Black Radio](https://open.spotify.com/album/1yqUCdbw73DpnHBVDwNa3X) | 5:07 | 2025-02-02 |  |
@@ -340,6 +341,7 @@
 | [Boom Boom Back](https://open.spotify.com/track/06xvZS1bsWS421A1Jz88vU) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [VIVA HINDS](https://open.spotify.com/album/4XQwD29zcKWF5TUKjYACaN) | 3:24 | 2024-12-22 |  |
 | [Boots of Spanish Leather](https://open.spotify.com/track/0M1gVBeKNKIFd8rVwUcoHy) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Boots of Spanish Leather](https://open.spotify.com/album/07gQfrv4mzCy041MEKHSQI) | 5:20 | 2025-03-06 |  |
 | [Bored](https://open.spotify.com/track/0gYo87SYqysIJJ5ZIRYnY3) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 2:55 | 2024-11-26 |  |
+| [Bored](https://open.spotify.com/track/2Pwsiv27MMfw3KKiRqHykF) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/5O9TGAJ6Opoya7KCBKKQUA) | 2:55 | 2025-12-21 |  |
 | [Born A Rebel](https://open.spotify.com/track/7nHJjsuCcbS9GLILWKCWeO) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/3iE2EtiK9bWxYqhkzCgea0) | 3:03 | 2025-10-21 |  |
 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 | 2025-11-25 |  |
 | [Born to Be Wild](https://open.spotify.com/track/2U3J6weDBx3HdjQo7BbI47) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [Hey Jude](https://open.spotify.com/album/3i8EJ0Ypi3qptjM2Q3DLIL) | 2:46 | 2025-08-19 |  |
@@ -1637,6 +1639,7 @@
 | [Lost Together](https://open.spotify.com/track/2yzGWQGBdTASJLbWcx50QN) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Rhino Hi\-Five: Blue Rodeo](https://open.spotify.com/album/0RfjTIFRBW4oom19HKoiCD) | 5:14 | 2025-05-05 | 2025-07-16 |
 | [Lost Together](https://open.spotify.com/track/3QMx2xsw0XPrAtCqKcpHPt) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Greatest Hits Vol\. 1](https://open.spotify.com/album/7KTn9mcZqIiELn31JHxpbi) | 5:14 | 2024-11-27 |  |
 | [Lotta Love](https://open.spotify.com/track/2n9y3UtCDmRUD94jlPTJCz) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Lotta Love](https://open.spotify.com/album/0oVhAs8HZP3UE1G3ptBBa0) | 2:49 | 2025-04-01 |  |
+| [Lotta Love \- 2016 Remaster](https://open.spotify.com/track/4IKcJzyzaZtprZhNQnIQKE) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Comes a Time](https://open.spotify.com/album/3AjQ1rVWJOv20FBggHnD6R) | 2:37 | 2025-12-21 |  |
 | [Loud Love](https://open.spotify.com/track/2w5JPh8Igiqv66IQortgf4) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Notes to Self](https://open.spotify.com/album/2o5FFFcOIkbVSNTAdaU9JT) | 2:47 | 2024-11-22 |  |
 | [Loud Love](https://open.spotify.com/track/32ePuMfuLUqKQmKKwbbPNm) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Misadventures](https://open.spotify.com/album/6jLzwtmukIHmcKM2iR7wTt) | 2:47 | 2025-05-04 |  |
 | [Love Ain't Enough](https://open.spotify.com/track/73AP2Vw9LIjsFAGE9CHv8t) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/4MuxUjtXYz7K0XwN9VO2a0) | 4:50 | 2024-11-29 |  |
@@ -2040,6 +2043,7 @@
 | [Past In Present](https://open.spotify.com/track/1KbjG0UxgzqPsA66mSzUD0) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/5aRmeQVSfJ0R1gjTbGq6mX) | 2:54 | 2025-05-22 |  |
 | [Pay Your Way In Pain](https://open.spotify.com/track/1nLaoWVhNRZ38irY0LZjL6) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:03 | 2024-12-03 |  |
 | [Peace](https://open.spotify.com/track/0HJuwBpU9bpH3Zt5r1PtNS) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Peace](https://open.spotify.com/album/06nx9W0SidRp29RNFPwMQX) | 4:25 | 2025-09-07 |  |
+| [Peace](https://open.spotify.com/track/4S6I7ei8IunQ51phVsQHBW) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Interior Live Oak](https://open.spotify.com/album/2GMrzMBDK4rpOLXtTMECl2) | 4:25 | 2025-12-21 |  |
 | [Peacekeeper](https://open.spotify.com/track/3diQLXt6yw7bH4FPacw1d2) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Peacekeeper](https://open.spotify.com/album/5uyvBJrxWpCumCEFL52sGh) | 3:18 | 2024-12-04 |  |
 | [Peacekeeper](https://open.spotify.com/track/7aCNIAv5uD6fLCzIJnr3YV) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Peacekeeper](https://open.spotify.com/album/6FebTeeOsDo4VMaeZfEL2w) | 3:18 | 2025-07-19 |  |
 | [People Are People](https://open.spotify.com/track/4WoKuMjwJXuy9IqX6AH5JE) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(Deluxe\)](https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A) | 3:51 | 2024-12-04 |  |
@@ -2913,6 +2917,7 @@
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2025-07-12 |  |
 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 | 2025-04-03 |  |
 | [Voodoo](https://open.spotify.com/track/58uTw3T5gfAMvvQuNhJPJH) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Dangerous \(Deluxe\)](https://open.spotify.com/album/69nKR9FuDEnEw9b528RH1l) | 3:16 | 2025-01-02 |  |
+| [Waiting](https://open.spotify.com/track/018dEtcx2ZtN5AUJNWE9zl) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Heartache in Room 14](https://open.spotify.com/album/1hBqsruFc0pPhPZeWK4Zf9) | 3:06 | 2025-12-21 |  |
 | [Waiting For The Sun](https://open.spotify.com/track/4SzvlUfcualqndA5MyOcDe) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Hollywood Town Hall](https://open.spotify.com/album/5LepQubkRXKCki1YoEhCxH) | 4:20 | 2024-12-04 |  |
 | [Waiting for You](https://open.spotify.com/track/3DzuTsACGmTZSq4nlZvN2Y) | [Good Lovelies](https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S) | [Burn The Plan](https://open.spotify.com/album/1LN4RUHZuqpp7w5OPGrJkw) | 3:34 | 2025-08-08 |  |
 | [Waiting In Line](https://open.spotify.com/track/2E2Orb8cIRKGmAGu8wj5OU) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Cooler Returns](https://open.spotify.com/album/3fyN7oZcsihhEcsjE1ovwg) | 3:29 | 2025-01-14 |  |
