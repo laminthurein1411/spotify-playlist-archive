@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 159 songs - 8 hr 38 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 160 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,5 +167,6 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 157 | [Кошка](https://open.spotify.com/track/65e5VdJT8DIuVR8jxJWqLJ) | [Рычаги Машин](https://open.spotify.com/artist/1Vg3SQ1TaIjVT2svpmq05q), [Ольга Артуровна](https://open.spotify.com/artist/0emMziAHNFA4pJu9ogWvgq) | [Полетаем](https://open.spotify.com/album/4lZdRHVPTJvuWNsOxpWogT) | 3:57 |
 | 158 | [Про красивую жизнь](https://open.spotify.com/track/2e35bSBvm3RVyHWTwWeFbO) | [Band'Eros](https://open.spotify.com/artist/2OgohSfhZqyIauFLZHvXLU) | [Коламбия Пикчерз не представляет \(Новое издание\)](https://open.spotify.com/album/7irkpcZLog7GJk8Awj9SRB) | 3:41 |
 | 159 | [Ты меня не ищи](https://open.spotify.com/track/3uQrU4of1t0SRtXuZGB8uY) | [Вирус](https://open.spotify.com/artist/5RyG4MXMI2xdYVeVAS5t0r) | [Ты меня не ищи](https://open.spotify.com/album/3qvwRyzLRVqljl0y2pIYUI) | 3:53 |
+| 160 | [Коламбия Пикчерз не представляет](https://open.spotify.com/track/2zSiBfllKHXlFX27Uhw5RM) | [Band'Eros](https://open.spotify.com/artist/2OgohSfhZqyIauFLZHvXLU) | [Коламбия Пикчерз не представляет \(Новое издание\)](https://open.spotify.com/album/7irkpcZLog7GJk8Awj9SRB) | 4:26 |
 
-Snapshot ID: `AAAAZxBdlsQCbBOTnlK6tyKP32OuDL8j`
+Snapshot ID: `AAAAaK129LLeYpUg+X/CLwTcUbmpZhW5`

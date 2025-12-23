@@ -6599,6 +6599,24 @@
     },
     {
       "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456026,
+      "name": "Sun Bleached Flies",
+      "url": "https://open.spotify.com/track/6fKIyDJHZ9m84jRhSmpuwS"
+    },
+    {
+      "album": {
         "name": "SUPERMAN",
         "url": "https://open.spotify.com/album/2Hgv3eRA7Nv4NQpsFxH0sc"
       },
