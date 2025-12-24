@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,192 songs - 8 day 7 hr 8 min
+3,197 songs - 8 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Auld Lang Syne \- The New Year's Anthem](https://open.spotify.com/track/2Ev1OlcyNEsKyrijT5Tnwp) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas II You](https://open.spotify.com/album/4q88opkbXkvvL0iIvbs0pv) | 3:47 | 2025-01-01 |  |
 | [Auppalialirmat](https://open.spotify.com/track/087AQn2WpwomG2owv7osYV) | [Juurini](https://open.spotify.com/artist/4hJndL9GhSQZ3rymH5P5cx) | [Aqqutinni](https://open.spotify.com/album/5BqCJhWXj4qacCa3ZbFzkd) | 3:48 | 2024-11-21 |  |
 | [Austin](https://open.spotify.com/track/1ltvCt3c0a42HpTfG8ZoF2) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:09 | 2025-05-05 |  |
+| [Automatic](https://open.spotify.com/track/3H3kzlDWxN9KEFuUtv39p2) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 2:58 | 2025-12-23 |  |
 | [AUTOMATIC](https://open.spotify.com/track/053cg5mZoGpOYGWGn0AsCR) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [AUTOMATIC](https://open.spotify.com/album/6wvpuEEYLmt3C53eC3gEsb) | 4:52 | 2025-06-26 |  |
 | [AUTOMATIC](https://open.spotify.com/track/6c2o3AnQoZaNCG2hasVTc5) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [LIVE\-ACTION](https://open.spotify.com/album/6KpA380vLBVA6d6lYebIk3) | 4:52 | 2025-09-23 |  |
 | [Autumn Sweater](https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 5:18 | 2025-09-03 |  |
@@ -1287,6 +1288,7 @@
 | [I Left My Wallet in El Segundo](https://open.spotify.com/track/15Xdlu0QaiEy3YFTf4xpUA) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck) | 4:06 | 2025-02-21 |  |
 | [I Love the Sound of Breaking Glass](https://open.spotify.com/track/2FqZ3hYaRor8Dc8W3xiWTT) | [Nick Lowe](https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7) | [Jesus of Cool](https://open.spotify.com/album/0LSWSMW0LVJX3fmSgDnk2A) | 3:14 | 2025-01-02 |  |
 | [I Love This Town](https://open.spotify.com/track/4OtJU2DLiJcneeXnKLjdMm) | [Joel Plaskett](https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC) | [La De Da](https://open.spotify.com/album/5xAoCYVctfaml9amhUrVzQ) | 3:30 | 2025-06-28 |  |
+| [I Love You Always Forever](https://open.spotify.com/track/1p6rk9R8SCum97WnvGNt6O) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [I Love You Always Forever](https://open.spotify.com/album/3hB9OJw377uPbysIRkNjfF) | 3:42 | 2025-12-23 |  |
 | [I Love You I Don't Love You I Don't Know](https://open.spotify.com/track/3VYTQPLzAh24WKMBkM2KQ4) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Why You Wanna Leave, Runaway Queen?](https://open.spotify.com/album/0oTTQnhihdD5IDQeW2xoVL) | 3:47 | 2024-12-19 |  |
 | [I Love You, I Don’t Love You, I Don’t Know](https://open.spotify.com/track/3HEmmZ9uCsaCCuv2jhJbX5) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Why You Wanna Leave, Runaway Queen?](https://open.spotify.com/album/1KCKZT0JfjVXGrTyYrqEMb) | 3:47 | 2025-08-05 |  |
 | [I Melt with You](https://open.spotify.com/track/3xzRBn3ywzobJrc1efC7Sb) | [Modern English](https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF) | [After the Snow](https://open.spotify.com/album/6Pz5ErA6rBH5ErKP3i06qM) | 4:11 | 2025-01-07 |  |
@@ -2973,6 +2975,7 @@
 | [Wasted](https://open.spotify.com/track/7cRbXOoZIUa1Gsh9SPCy37) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Reliever](https://open.spotify.com/album/2jBD9PXFlLAMqitGuwOkbE) | 2:44 | 2024-12-20 |  |
 | [Wasted Love](https://open.spotify.com/track/5h3y6rYM91WTdcRo6DnWJl) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [If I Should Go Before You](https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud) | 2:58 | 2025-02-25 |  |
 | [Wasted On You](https://open.spotify.com/track/2OGw75rYNESHt0NOyPw5U6) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/2HidofYjB9RfgR9YckTY0e) | 3:36 | 2024-11-24 |  |
+| [Waterfallin'](https://open.spotify.com/track/5NOLRb8GDVt0kBmA4tdbCj) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Pearl](https://open.spotify.com/album/6VO0kbsASYzqsleTf3pKN5) | 3:44 | 2025-12-23 |  |
 | [Waterfalls](https://open.spotify.com/track/4RuYZFABDinD9tFTNBFfFF) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Ventriloquism](https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG) | 4:34 | 2024-12-01 |  |
 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 | 2025-03-30 |  |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:53 | 2024-12-16 |  |
@@ -3081,6 +3084,7 @@
 | [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 | 2025-12-09 |  |
 | [Who Can It Be Now?](https://open.spotify.com/track/5BCykgPXc7zEBg2oU0klvy) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/146RggLMNzNZL1ZVr8hbCw) | 3:25 | 2025-04-18 |  |
 | [Who Taught You to Live Like That?](https://open.spotify.com/track/3E3ZEUuuEkzaQzOjYahjVU) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Never Hear the End of It](https://open.spotify.com/album/0VE9Zs4eCqsbaEJ48hH3PP) | 3:02 | 2025-01-20 |  |
+| [Who Took The Merry Out Of Christmas \- Single Version](https://open.spotify.com/track/41U86awdgg7CKQUA4twR68) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 2:29 | 2025-12-23 |  |
 | [Who's Gonna](https://open.spotify.com/track/1jDtugS5TBPnLUT7c9EFl4) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [No Tears On This Ride](https://open.spotify.com/album/3vNG82Nj8itqtUjNM9g3HG) | 2:58 | 2025-05-30 |  |
 | [Who's Gonna](https://open.spotify.com/track/2X3xur7x1K5PYiWrzJfM1O) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Who's Gonna](https://open.spotify.com/album/4PJdPJ45GyTzBrKYgJIheH) | 2:58 | 2024-11-28 |  |
 | [Whose Bed Have Your Boots Been Under?](https://open.spotify.com/track/0vtvjbeDqVSDl9rdpaQK6N) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:24 | 2025-10-15 |  |
@@ -3113,6 +3117,7 @@
 | [Without Words](https://open.spotify.com/track/0EtjrrmpWOczvB0ToCPJxc) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [You're Beautiful \(Music from the Original TV Series\)](https://open.spotify.com/album/3FwD7Ki4LxnFRXyXPBer5e) | 4:03 | 2025-11-03 |  |
 | [Witness](https://open.spotify.com/track/4hGZicKdXKDEDAAY6C1CrI) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Witness](https://open.spotify.com/album/4QKKyKrDle0aV2JortEuT1) | 2:57 | 2025-02-27 |  |
 | [Wolf](https://open.spotify.com/track/1hIOttZmQV6aAi9Al7NYoU) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Wolf](https://open.spotify.com/album/0lUSsaAheHP7BXnktrZNlZ) | 3:08 | 2025-03-04 |  |
+| [Wolf Like Me](https://open.spotify.com/track/5iVIRlwFf1UBnhEXOamuV6) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG), [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp), [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Wolf Like Me](https://open.spotify.com/album/7DvzKrqtZpRamt8xMpiIW7) | 4:31 | 2025-12-23 |  |
 | [Wonder](https://open.spotify.com/track/5uTK6cOfvHjOPV6e2XWltx) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN), [Ian Janes](https://open.spotify.com/artist/6P4BsECLsxl8Xxdd9TMOjB) | [Wonder](https://open.spotify.com/album/0U8ZxJRdNXUGFwpJFqQm9D) | 3:27 | 2024-11-24 |  |
 | [Wonder](https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB) | 2:52 | 2025-06-24 |  |
 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 | 2025-05-02 |  |

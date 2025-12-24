@@ -4,7 +4,7 @@
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-3,802 songs - 10 day 20 hr 8 min
+3,805 songs - 10 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2313,6 +2313,7 @@
 | [Not Alone Any More](https://open.spotify.com/track/4TKjQ87mCaNhuhxhgu4U3h) | [Traveling Wilburys](https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK) | [The Traveling Wilburys, Vol\. 1](https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi) | 3:24 | 2025-12-19 |  |
 | [Not Enough Time](https://open.spotify.com/track/6iE2BB5tjcPx4uFqrqHDLK) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Welcome To Wherever You Are \(Remastered\)](https://open.spotify.com/album/6BucEUL1TVDW6WQ59RS3WV) | 4:10 | 2024-03-19 |  |
 | [Nothing But a Good Time \- Live](https://open.spotify.com/track/0JJxViVuciowe4Hyazxufd) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Live Raw & Uncut](https://open.spotify.com/album/6WEHSPX2dO7Y6RiY15zAIR) | 5:00 | 2024-03-06 |  |
+| [Nothing Compares 2 U](https://open.spotify.com/track/2SqPYpeJXNOxyFi6XI6u65) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [So Far: The Best of Sinéad O'Connor](https://open.spotify.com/album/5vonsv14EYnB77YMVlUxWJ) | 4:40 | 2025-12-23 |  |
 | [Nothing Compares 2 U](https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:40 | 2025-12-15 |  |
 | [Nothing Compares 2 U](https://open.spotify.com/track/5FvP24EBD0vlsIS2joHFSl) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Missing You II](https://open.spotify.com/album/1oo3RuzNHvvqbZQuPeqxfY) | 5:03 | 2024-03-06 |  |
 | [Nothing Else Matters](https://open.spotify.com/track/0nLiqZ6A27jJri2VCalIUs) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 6:28 | 2024-03-02 |  |
@@ -2783,6 +2784,7 @@
 | [She's A Star](https://open.spotify.com/track/04b0B7xYiBljBRCG6bgllt) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Whiplash](https://open.spotify.com/album/4E4vSSVnJPqvgtfHiXTnHl) | 3:39 | 2025-12-15 |  |
 | [She's A Woman \- Remastered 2009](https://open.spotify.com/track/6vsb1bU8oW7iqtjH2GeEaS) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Past Masters \(Vols\. 1 & 2 / Remastered\)](https://open.spotify.com/album/3GmCXW10kLxmZrEY0JpRlw) | 3:02 | 2024-03-25 |  |
 | [She's Always a Woman](https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:21 | 2024-03-08 |  |
+| [She's Always a Woman](https://open.spotify.com/track/3ILLSvTYvFjjEdbxvQumOb) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) | 3:22 | 2025-12-23 |  |
 | [She's Gone](https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Abandoned Luncheonette](https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu) | 5:13 | 2025-12-15 |  |
 | [She's Gone](https://open.spotify.com/track/2Ap6ZjicxxcWvit5ZRYQxk) | [STEELHEART](https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD) | [Steelheart](https://open.spotify.com/album/5w6EjgZMLmZm7Z0EJJZ7PZ) | 6:32 | 2024-03-08 |  |
 | [She's Like the Wind \(feat\. Wendy Fraser\) \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/7BdXRaSlGAzhySfuW3y8h5) | [Patrick Swayze](https://open.spotify.com/artist/6dH5I8Q7HhXu74cBXkP0LD), [Wendy Fraser](https://open.spotify.com/artist/2oSO8nxMHKOJKj7v8l0zWh) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 3:52 | 2024-03-15 |  |
@@ -3575,6 +3577,7 @@
 | [What It Takes](https://open.spotify.com/track/2fAYTT9kcUm8tnUrhD80sC) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 5:10 | 2024-03-05 |  |
 | [What Kind of Man Would I Be?](https://open.spotify.com/track/024t97fsjL7a2cxUlVsStn) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 19 \(Expanded Edition\)](https://open.spotify.com/album/1Z9Rlkd9LAYTZcU2TU7BZY) | 4:12 | 2024-03-23 |  |
 | [What You Need](https://open.spotify.com/track/5jC0WEuk3NQlWoh91CDwOS) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Listen Like Thieves \(Remastered\)](https://open.spotify.com/album/2A5QVgoJt1FZl7GmM4REzr) | 3:36 | 2024-03-02 |  |
+| [What's Love Got to Do with It](https://open.spotify.com/track/0PlxkfQrCeE0XMqcjGlzsi) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Tina!](https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj) | 3:46 | 2025-12-23 |  |
 | [What's Love Got to Do with It](https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 3:46 | 2024-02-28 |  |
 | [What's Love Got to Do with It \- 2015 Remaster](https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 3:50 | 2025-12-17 |  |
 | [What's My Age Again?](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:28 | 2025-12-15 |  |

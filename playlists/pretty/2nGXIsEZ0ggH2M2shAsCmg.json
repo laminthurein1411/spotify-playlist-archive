@@ -6,7 +6,7 @@
     "name": "ramiro",
     "url": "https://open.spotify.com/user/rgarzaa"
   },
-  "snapshot_id": "AAACW2GoTsxQfbSNXOrWJe24yXNhvftF",
+  "snapshot_id": "AAACXEI/vpXimL2wa2/r9x4FFMt8VINf",
   "tracks": [
     {
       "added_at": "2024-02-28 02:33:08",
@@ -61923,6 +61923,54 @@
       "duration_ms": 155333,
       "name": "Jailhouse Rock",
       "url": "https://open.spotify.com/track/6pyex9B1kBoRIuabBAc4m8"
+    },
+    {
+      "added_at": "2025-12-23 05:49:05",
+      "album": {
+        "name": "The Stranger",
+        "url": "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 202267,
+      "name": "She's Always a Woman",
+      "url": "https://open.spotify.com/track/3ILLSvTYvFjjEdbxvQumOb"
+    },
+    {
+      "added_at": "2025-12-23 05:49:05",
+      "album": {
+        "name": "So Far: The Best of Sin\u00e9ad O'Connor",
+        "url": "https://open.spotify.com/album/5vonsv14EYnB77YMVlUxWJ"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 280040,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/2SqPYpeJXNOxyFi6XI6u65"
+    },
+    {
+      "added_at": "2025-12-23 05:49:05",
+      "album": {
+        "name": "Tina!",
+        "url": "https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 226880,
+      "name": "What's Love Got to Do with It",
+      "url": "https://open.spotify.com/track/0PlxkfQrCeE0XMqcjGlzsi"
     }
   ],
   "unique_name": "Classic 106.9",

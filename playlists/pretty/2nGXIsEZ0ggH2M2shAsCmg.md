@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 3,810 songs - 10 day 20 hr 45 min
+[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 3,813 songs - 10 day 20 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3818,5 +3818,8 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 3808 | [Billie Jean](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:53 |
 | 3809 | [Be Good Johnny](https://open.spotify.com/track/6BzaFxMEDZLEYlpBXYKmJ5) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Super Hits](https://open.spotify.com/album/03RdxRparvZ2qgWFf1vGeD) | 3:34 |
 | 3810 | [Jailhouse Rock](https://open.spotify.com/track/6pyex9B1kBoRIuabBAc4m8) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:35 |
+| 3811 | [She's Always a Woman](https://open.spotify.com/track/3ILLSvTYvFjjEdbxvQumOb) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) | 3:22 |
+| 3812 | [Nothing Compares 2 U](https://open.spotify.com/track/2SqPYpeJXNOxyFi6XI6u65) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [So Far: The Best of Sinéad O'Connor](https://open.spotify.com/album/5vonsv14EYnB77YMVlUxWJ) | 4:40 |
+| 3813 | [What's Love Got to Do with It](https://open.spotify.com/track/0PlxkfQrCeE0XMqcjGlzsi) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Tina!](https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj) | 3:46 |
 
-Snapshot ID: `AAACW2GoTsxQfbSNXOrWJe24yXNhvftF`
+Snapshot ID: `AAACXEI/vpXimL2wa2/r9x4FFMt8VINf`
