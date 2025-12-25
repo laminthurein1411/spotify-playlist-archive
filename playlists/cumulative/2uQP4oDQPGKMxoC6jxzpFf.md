@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,197 songs - 8 day 7 hr 26 min
+3,201 songs - 8 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -552,6 +552,7 @@
 | [Come as You Are](https://open.spotify.com/track/2eas9BFx6VBTAJlRCDLwGo) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Lemonade Stand](https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI) | 3:08 | 2025-01-14 |  |
 | [Come As You Are](https://open.spotify.com/track/2Zqhpc70C1E9rsZpK6b4q4) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Come As You Are](https://open.spotify.com/album/6XaNdyhuuqggoEE4umcfjk) | 3:31 | 2024-12-08 |  |
 | [Come For A Ride](https://open.spotify.com/track/3z40QCjAKu91YCmCCBPK4b) | [By Divine Right](https://open.spotify.com/artist/3L7txC8S6o0X0mNOtLwew6) | [Bless This Mess](https://open.spotify.com/album/7HnYKqUfIS9LusnFfRHNMB) | 3:42 | 2025-10-21 |  |
+| [Come On! Let's Boogey to the Elf Dance!](https://open.spotify.com/track/7FLtTiXXsd7vEPP5wcgvaQ) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [All Will Be Well](https://open.spotify.com/album/2cF3MxeFNuQBYIByO8ZI4g) | 3:14 | 2025-12-24 |  |
 | [Come Together](https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Come Together](https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC) | 3:13 | 2025-03-04 |  |
 | [Come With Me](https://open.spotify.com/track/26xDpdbYyHQtL1VigJRkhD) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Come With Me](https://open.spotify.com/album/1H9pgl0ykNBD3NeZsk6Eve) | 3:33 | 2024-11-26 |  |
 | [Coming of Age](https://open.spotify.com/track/1yzbqrSF0vuaO7nuKYSd6f) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Supermodel](https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0) | 4:39 | 2024-11-28 |  |
@@ -1607,6 +1608,7 @@
 | [Lime](https://open.spotify.com/track/7szmTCzR3p6fPZSVfIhWbJ) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 2:55 | 2025-02-20 |  |
 | [Limit To Your Love](https://open.spotify.com/track/33BnSMHgX0AsbKSIbkuMwh) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:36 | 2025-05-15 |  |
 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 | 2025-02-16 |  |
+| [Linus And Lucy](https://open.spotify.com/track/5N96qwzTDhbf2y6FWAVz4c) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 3:05 | 2025-12-24 |  |
 | [Lion](https://open.spotify.com/track/2JnMEz1aD9m6bZAXUXFliU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 2:57 | 2025-07-16 |  |
 | [Lips Like Sugar](https://open.spotify.com/track/5uyK1WM8qe14n70kvh3IUM) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Echo & The Bunnymen \(Expanded; 2008 Remaster\)](https://open.spotify.com/album/3ENyxanpxXbZdf5LGlm8OQ) | 4:51 | 2024-12-14 |  |
 | [Listen to the Music](https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Toulouse Street](https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm) | 3:47 | 2024-11-27 |  |
@@ -2213,6 +2215,7 @@
 | [River](https://open.spotify.com/track/4Ap6iKHnyE5dSLNZlQ7stS) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Watin](https://open.spotify.com/album/42rAIuXgRtLB5Qe6Lur5AN) | 4:16 | 2025-04-21 |  |
 | [River](https://open.spotify.com/track/5unkQ9cDANtBQ96D0chmZk) | [Jadea Kelly](https://open.spotify.com/artist/3ro4f3VnPO6PiAah0POgwD) | [River](https://open.spotify.com/album/1l0bqew0Bfk4DOJVktkHAm) | 3:33 | 2025-12-22 |  |
 | [River](https://open.spotify.com/track/0DAmSYQW9kq9gQNDI002KP) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:05 | 2024-12-20 |  |
+| [River](https://open.spotify.com/track/5pY2BdICq1aFh8kpW6NmTy) | [The O'Pears](https://open.spotify.com/artist/0I6JNZ4skNbfm0fpycI7zT) | [Stay Warm](https://open.spotify.com/album/1XvNyVaJnHTZPpD5oWPXgn) | 3:47 | 2025-12-24 |  |
 | [River of Tears](https://open.spotify.com/track/2GLkz5Z49Y0nkYNNKaUQNn) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j), [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [River of Tears](https://open.spotify.com/album/3ktr2vipK7vsd0BUUB6QIx) | 3:03 | 2024-12-02 |  |
 | [Road to Nowhere](https://open.spotify.com/track/5gS8whHdcpbkdz0qonQZF8) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz) | 4:19 | 2025-04-19 |  |
 | [Roadrunner](https://open.spotify.com/track/4ugtTQugNpg2NrwaPSFnIs) | [Jonathan Richman](https://open.spotify.com/artist/6hkch2KhRl0tywpeVK5xR5), [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [Roadrunner: The Beserkley Collection](https://open.spotify.com/album/5UzXqwbxAEnRpXLVo4X7Nn) | 4:04 | 2025-05-02 |  |
@@ -3102,6 +3105,7 @@
 | [Winter A\-Go\-Go](https://open.spotify.com/track/3EtUztMfKS8b44cdTvDEuR) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Summer Sun](https://open.spotify.com/album/4NdINo3J9ncT8qeD7hfxJf) | 3:23 | 2025-12-16 |  |
 | [Winter Breaking](https://open.spotify.com/track/1BcOs1UGQyScLr89oNNUP8) | [Carson McHone](https://open.spotify.com/artist/1IOeIjSSt8AcZXEriZXcvx) | [Pentimento](https://open.spotify.com/album/45orUhVRJzR9XdrHeZaomh) | 4:29 | 2025-12-09 |  |
 | [Winter Breaking](https://open.spotify.com/track/2joOFaJDiYxSGw5BCsyOTQ) | [Carson McHone](https://open.spotify.com/artist/1IOeIjSSt8AcZXEriZXcvx) | [Downhill](https://open.spotify.com/album/6QR9NO8Cx92dMaqNjIHbF2) | 4:29 | 2025-07-17 |  |
+| [Winter Wonderland](https://open.spotify.com/track/5ksOQ1pVTjicLOrTo80pUh) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB) | [A Very Special Christmas](https://open.spotify.com/album/06H9y3oBVGgYQ0McDsCYX4) | 3:34 | 2025-12-24 |  |
 | [Winterlong](https://open.spotify.com/track/5ec3iKWV5QJiNsAnWZbfJa) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [The Road to Massey Hall](https://open.spotify.com/album/6wMWaaYbmwcixbCyUdzlAF) | 3:17 | 2025-11-12 |  |
 | [Wire walks](https://open.spotify.com/track/6nNnim0OaC5gRlPsKow1re) | [Amy Millan](https://open.spotify.com/artist/3lj7jldByrrpUgW5Je8o1p) | [Wire walks](https://open.spotify.com/album/2nCp1AnCFVPkXe1JAJn2R4) | 4:22 | 2025-02-21 |  |
 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 | 2025-03-06 |  |

@@ -10153,6 +10153,24 @@
     },
     {
       "album": {
+        "name": "All Will Be Well",
+        "url": "https://open.spotify.com/album/2cF3MxeFNuQBYIByO8ZI4g"
+      },
+      "artists": [
+        {
+          "name": "Fortunate Ones",
+          "url": "https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194522,
+      "name": "Come On! Let's Boogey to the Elf Dance!",
+      "url": "https://open.spotify.com/track/7FLtTiXXsd7vEPP5wcgvaQ"
+    },
+    {
+      "album": {
         "name": "Come Together",
         "url": "https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC"
       },
@@ -29839,6 +29857,24 @@
     },
     {
       "album": {
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185453,
+      "name": "Linus And Lucy",
+      "url": "https://open.spotify.com/track/5N96qwzTDhbf2y6FWAVz4c"
+    },
+    {
+      "album": {
         "name": "Lotus",
         "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
       },
@@ -41192,6 +41228,24 @@
       "duration_ms": 245040,
       "name": "River",
       "url": "https://open.spotify.com/track/0DAmSYQW9kq9gQNDI002KP"
+    },
+    {
+      "album": {
+        "name": "Stay Warm",
+        "url": "https://open.spotify.com/album/1XvNyVaJnHTZPpD5oWPXgn"
+      },
+      "artists": [
+        {
+          "name": "The O'Pears",
+          "url": "https://open.spotify.com/artist/0I6JNZ4skNbfm0fpycI7zT"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227852,
+      "name": "River",
+      "url": "https://open.spotify.com/track/5pY2BdICq1aFh8kpW6NmTy"
     },
     {
       "album": {
@@ -57810,6 +57864,24 @@
       "duration_ms": 269842,
       "name": "Winter Breaking",
       "url": "https://open.spotify.com/track/2joOFaJDiYxSGw5BCsyOTQ"
+    },
+    {
+      "album": {
+        "name": "A Very Special Christmas",
+        "url": "https://open.spotify.com/album/06H9y3oBVGgYQ0McDsCYX4"
+      },
+      "artists": [
+        {
+          "name": "Eurythmics",
+          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214386,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/5ksOQ1pVTjicLOrTo80pUh"
     },
     {
       "album": {

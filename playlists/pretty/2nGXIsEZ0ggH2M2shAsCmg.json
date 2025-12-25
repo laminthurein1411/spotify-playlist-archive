@@ -6,7 +6,7 @@
     "name": "ramiro",
     "url": "https://open.spotify.com/user/rgarzaa"
   },
-  "snapshot_id": "AAACXEI/vpXimL2wa2/r9x4FFMt8VINf",
+  "snapshot_id": "AAACXTvKeu0AGHKskC47PvKAWtbvtI4/",
   "tracks": [
     {
       "added_at": "2024-02-28 02:33:08",
@@ -47653,7 +47653,7 @@
       "artists": [
         {
           "name": "Dio",
-          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+          "url": "https://open.spotify.com/artist/3UyoMrj8FAQDE8DrNbTju6"
         }
       ],
       "duration_ms": 254000,
@@ -54917,7 +54917,7 @@
       "artists": [
         {
           "name": "Dio",
-          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+          "url": "https://open.spotify.com/artist/3UyoMrj8FAQDE8DrNbTju6"
         }
       ],
       "duration_ms": 350600,
@@ -61971,6 +61971,1062 @@
       "duration_ms": 226880,
       "name": "What's Love Got to Do with It",
       "url": "https://open.spotify.com/track/0PlxkfQrCeE0XMqcjGlzsi"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 521866,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Top de Baladas en Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/219qOFwXI4w0SVtasq6roU"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 318800,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/4suw3OT401DTjPHgBENrDl"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Live As It Gets",
+        "url": "https://open.spotify.com/album/6jIIggnjrGQaf3UtGhGYzg"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 432893,
+      "name": "Papa Was A Rolling Stone",
+      "url": "https://open.spotify.com/track/5Lno0hPhvo7BzXVLQzDIS3"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Nothing But The Best (2008 Remastered)",
+        "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "Theme From New York, New York - 2008 Remastered",
+      "url": "https://open.spotify.com/track/0K2WjMLZYr09LKwurGRYRE"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Across The Universe",
+        "url": "https://open.spotify.com/album/0wk2LEg0xFuuRq35UuLoNz"
+      },
+      "artists": [
+        {
+          "name": "Jim Sturgess",
+          "url": "https://open.spotify.com/artist/15cfE4nzURJUvrUyqsrMuF"
+        }
+      ],
+      "duration_ms": 110080,
+      "name": "I've Just Seen A Face - From \"Across The Universe\" Soundtrack",
+      "url": "https://open.spotify.com/track/0ltQMOTEuVOaaxs7JwJ1ru"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Across The Universe",
+        "url": "https://open.spotify.com/album/0wk2LEg0xFuuRq35UuLoNz"
+      },
+      "artists": [
+        {
+          "name": "Evan Rachel Wood",
+          "url": "https://open.spotify.com/artist/3MyB0MyKec3Jq0AH2llk7v"
+        }
+      ],
+      "duration_ms": 136760,
+      "name": "It Won't Be Long - From \"Across The Universe\" Soundtrack",
+      "url": "https://open.spotify.com/track/3ybJLLPsp20eBUxAShJPah"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Innuendo (2011 Remaster)",
+        "url": "https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 255040,
+      "name": "These Are The Days Of Our Lives - 2011 Remaster",
+      "url": "https://open.spotify.com/track/5js1JJOAkR5KwlifBpvHMN"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Bon Jovi Greatest Hits - The Ultimate Collection (Deluxe)",
+        "url": "https://open.spotify.com/album/1m48hdS1VeCbPI7rWlxPL1"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 395520,
+      "name": "Bed Of Roses",
+      "url": "https://open.spotify.com/track/2zf0MOOCd9qp6piRwroPjG"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/7K4Nk5fHkCuzNm5A6mdo2U"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 252240,
+      "name": "Wheel in the Sky",
+      "url": "https://open.spotify.com/track/215wUTQQUo2PElJFEFoB0d"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "The Singles 86-98",
+        "url": "https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "Personal Jesus - Single Version",
+      "url": "https://open.spotify.com/track/4UCTgh5jvtqoaMX6MAhUNn"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "It's Only Rock 'N' Roll (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/4jCpSNa8dV40aMrHOshRdv"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 307440,
+      "name": "It's Only Rock'n'Roll (But I Like It) - Remastered 2009",
+      "url": "https://open.spotify.com/track/668YgsnvdNBHfRscNIBS31"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Hunting High and Low (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7LLf0Oc2dNJ3MsJ3TfUIz4"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 306986,
+      "name": "The Sun Always Shines on T.V. - 2015 Remaster",
+      "url": "https://open.spotify.com/track/10ixI4bAxZWxqsBunhREPm"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Cochise",
+      "url": "https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Whitesnake (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6ujO2Xzt247YCYIpAmcb4r"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "duration_ms": 399693,
+      "name": "Still of the Night - 2017 Remaster",
+      "url": "https://open.spotify.com/track/27ioynOLr7DC7vrpInpn5G"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Iron Maiden (2015 Remaster)",
+        "url": "https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 253053,
+      "name": "Charlotte the Harlot - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4C984NFYMwDm3idaxAPZb0"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Breaking the Heart of the City: The Best of Alcatrazz",
+        "url": "https://open.spotify.com/album/0Hpq7xMj4npY5sneTpwBCL"
+      },
+      "artists": [
+        {
+          "name": "Alcatrazz",
+          "url": "https://open.spotify.com/artist/1LLiPRA3oThhxVf7W7gXQZ"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "Island in the Sun",
+      "url": "https://open.spotify.com/track/44ulE94nlUE7aIpYYEfJsz"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Down To Earth (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4G234rY4lzrdG5JcygrPUw"
+      },
+      "artists": [
+        {
+          "name": "Rainbow",
+          "url": "https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Since You Been Gone",
+      "url": "https://open.spotify.com/track/4LRhDmXUbc8ir102rSaB3V"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Pure... Alternative 80s",
+        "url": "https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX"
+      },
+      "artists": [
+        {
+          "name": "The Hooters",
+          "url": "https://open.spotify.com/artist/7uhvDINTTiD0XBrP9fquN1"
+        }
+      ],
+      "duration_ms": 223026,
+      "name": "And We Danced",
+      "url": "https://open.spotify.com/track/4WF74vSRKhfJNs7tnJd9u4"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Songs From The Big Chair (Deluxe)",
+        "url": "https://open.spotify.com/album/06J93pgtDCUw6bsAQINhCs"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 251488,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/4yFNG0S4As4vZllmPj22d9"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Bringing Down The Horse",
+        "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
+      },
+      "artists": [
+        {
+          "name": "The Wallflowers",
+          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
+        }
+      ],
+      "duration_ms": 230160,
+      "name": "The Difference",
+      "url": "https://open.spotify.com/track/68fU62xt4ppqqihSBQO43H"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "The Best of Nickelback, Vol. 1",
+        "url": "https://open.spotify.com/album/40AdpVZhtBTyvSn0MuGclz"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 224173,
+      "name": "How You Remind Me",
+      "url": "https://open.spotify.com/track/0vur7myNcfUymUt6mHhNZe"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Lata 80",
+        "url": "https://open.spotify.com/album/1mrsInwOcfRvIh1E7liMuV"
+      },
+      "artists": [
+        {
+          "name": "Dexys Midnight Runners",
+          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+        }
+      ],
+      "duration_ms": 285357,
+      "name": "Come On Eileen",
+      "url": "https://open.spotify.com/track/092wfYzPmDJS7hrIENYiyx"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Signature Box",
+        "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        },
+        {
+          "name": "Yoko Ono",
+          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
+        }
+      ],
+      "duration_ms": 214333,
+      "name": "Happy Xmas (War Is Over) - Remastered 2010",
+      "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Exitos de gloria estefan",
+        "url": "https://open.spotify.com/album/2YJ81wckAY1scqgIsFNVBW"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Miami Sound Machine",
+          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
+        }
+      ],
+      "duration_ms": 255106,
+      "name": "Conga",
+      "url": "https://open.spotify.com/track/4aMT5LHe8A2uIc11H8Cx2m"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Supernatural (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1n12Kl9IoHSk65OcZDutSH"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
+        }
+      ],
+      "duration_ms": 294986,
+      "name": "Smooth (feat. Rob Thomas)",
+      "url": "https://open.spotify.com/track/2pX4FpOgwItRVPPUFdRcxA"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Rattle And Hum",
+        "url": "https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 179360,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/4D01oA1mGouaAT7fubvKRT"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Elegantly Wasted (Remastered)",
+        "url": "https://open.spotify.com/album/6aq8CRwcaGJe16bpJaLrw0"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 272506,
+      "name": "Elegantly Wasted",
+      "url": "https://open.spotify.com/track/1RHMpZW3K13jPLk5gKPBa9"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Nochevieja M\u00fasica de Fiesta",
+        "url": "https://open.spotify.com/album/0c8TSvLc6M7yjPaxZYOHPu"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "...Baby One More Time",
+      "url": "https://open.spotify.com/track/4CkdfvQ6z8aXYBocY93EE0"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "The Best Of The 80's",
+        "url": "https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr"
+      },
+      "artists": [
+        {
+          "name": "Fairground Attraction",
+          "url": "https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa"
+        }
+      ],
+      "duration_ms": 214200,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/4AFBHrMN93QKtyQP5Pmz1t"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Playing the Angel (Deluxe)",
+        "url": "https://open.spotify.com/album/57o8ROknLhGAxhiLKTOwSt"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 250160,
+      "name": "Precious",
+      "url": "https://open.spotify.com/track/1cBxAm8a0fENn2ix3Dfm3u"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "cl\u00e1sicos de los 70s, 80s y 90s en ingl\u00e9s",
+        "url": "https://open.spotify.com/album/1Cn5O15sJAXFjHRhevbUV9"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "Girls and Boys",
+      "url": "https://open.spotify.com/track/1lqdcnvg73nagflp63sZwX"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "The Greatest 00's Ballads",
+        "url": "https://open.spotify.com/album/4bjRZznj73pA6wDUUlJkFQ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Powter",
+          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
+        }
+      ],
+      "duration_ms": 235160,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/00IBsxt0i2uxQErCSknIF0"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Acoustic Hits",
+        "url": "https://open.spotify.com/album/3DiXK4zT5Oc6te9kQRi5sk"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 181013,
+      "name": "In Between Days - Acoustic Version",
+      "url": "https://open.spotify.com/track/21kGn1KmvQmHzmLFIoI9YB"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1wNDlgfrrLKInAgz5W4b2n"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Don't Stand So Close To Me",
+      "url": "https://open.spotify.com/track/7IiiKt4J4PkY3MlO0YEwv7"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Rudolph The Red-Nosed Reindeer",
+        "url": "https://open.spotify.com/album/1LAGbpQJIl1vUhpGmmnSUd"
+      },
+      "artists": [
+        {
+          "name": "Burl Ives",
+          "url": "https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN"
+        }
+      ],
+      "duration_ms": 82800,
+      "name": "A Holly Jolly Christmas - From \"Rudolph The Red-Nosed Reindeer\" Soundtrack",
+      "url": "https://open.spotify.com/track/7MOBQpfxrtjPu5hYT21yaG"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Vitalogy",
+        "url": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 268602,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/2B98ljvzqpCVgt5reTHq28"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Christopher Cross (2019 Remaster)",
+        "url": "https://open.spotify.com/album/3bP1LQWb3dpjYLVI7UkxdC"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 270120,
+      "name": "Ride Like the Wind - 2019 Remaster",
+      "url": "https://open.spotify.com/track/3ULsOmY9SicXdQGkrIUJjf"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "70s Rock",
+        "url": "https://open.spotify.com/album/6XXeuda2TubGnTWzdEoMj4"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "duration_ms": 177586,
+      "name": "Southern Nights",
+      "url": "https://open.spotify.com/track/39lCP5wTDuUfiJXF1Yy9pL"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Diamonds (Deluxe)",
+        "url": "https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Rocket Man (I Think It's Going To Be A Long Long Time) - Remastered",
+      "url": "https://open.spotify.com/track/05qss0DVKZr7QneuqX4PLc"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Las mejores canciones de los 80 en ingles",
+        "url": "https://open.spotify.com/album/0OBtcoocbImr0GZScwFKNF"
+      },
+      "artists": [
+        {
+          "name": "Echo & the Bunnymen",
+          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+        }
+      ],
+      "duration_ms": 291866,
+      "name": "Lips Like Sugar",
+      "url": "https://open.spotify.com/track/2wHUaMKhg3chVh8qkAg5hg"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Best of Bruce Springsteen (Expanded Edition)",
+        "url": "https://open.spotify.com/album/16Ng1RWBMnNeaf4Bbckyk4"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 254421,
+      "name": "Streets of Philadelphia",
+      "url": "https://open.spotify.com/track/6jX84DZBIBRRUnZ4kju4Mt"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Everybody Loves\u2026 The 90'S Vol. II",
+        "url": "https://open.spotify.com/album/1LEcwfRt9adoDDyvhXY9gP"
+      },
+      "artists": [
+        {
+          "name": "Divinyls",
+          "url": "https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC"
+        }
+      ],
+      "duration_ms": 228664,
+      "name": "I Touch Myself",
+      "url": "https://open.spotify.com/track/5hMBtsjEktsY0tGnYwqTVl"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Some Guys Have All the Luck",
+        "url": "https://open.spotify.com/album/7Iz89r0GanEDFeAxByW9wI"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        },
+        {
+          "name": "John Guess",
+          "url": "https://open.spotify.com/artist/3j2mQFdMfe3QMGohsX5nAB"
+        }
+      ],
+      "duration_ms": 273093,
+      "name": "Some Guys Have All the Luck - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7GyWH52KJ04P4pMwwgiKpz"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "The Epic Archive, Vol. 3 (1984-1992)",
+        "url": "https://open.spotify.com/album/34d2gDwIXT3LjVZpGxWLM6"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "duration_ms": 231080,
+      "name": "Mighty Wings - From \"Top Gun\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/4rETMmjiQ7NL0KFCIZa5oV"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Berry Christmas",
+        "url": "https://open.spotify.com/album/6O6GTgE8aHOdomlggVZhus"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 162897,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/7kvNJ7gprYUP1Z5T5pmuLF"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Kick (Remastered 2011)",
+        "url": "https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "Guns In The Sky",
+      "url": "https://open.spotify.com/track/5sUmNduSaYbbgq3AHIRRYn"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Stranger Things (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0CTCk1eshEadFqZ4NBfe9N"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 186093,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/6SjbzGo7arjfM5cXpXhc5B"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Forever Your Girl",
+        "url": "https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu"
+      },
+      "artists": [
+        {
+          "name": "Paula Abdul",
+          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
+        }
+      ],
+      "duration_ms": 251466,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Climbing!",
+        "url": "https://open.spotify.com/album/2tWvZmP9EVRYqmWyJPLzjP"
+      },
+      "artists": [
+        {
+          "name": "Mountain",
+          "url": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
+        }
+      ],
+      "duration_ms": 151293,
+      "name": "Mississippi Queen",
+      "url": "https://open.spotify.com/track/4vO9dmzNRqDhFY3jD1a3P7"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/5BOX6g9aOGf0yh7OEkzen3"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 221186,
+      "name": "Beautiful Life",
+      "url": "https://open.spotify.com/track/74jTexO94dFGyXGyeu8krd"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "New Jersey (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 376720,
+      "name": "Blood On Blood",
+      "url": "https://open.spotify.com/track/3e8Tr6rsHLNeoUwYCLZgvy"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Powerslave (2015 Remaster)",
+        "url": "https://open.spotify.com/album/309KOMEivisMmBuzk09635"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 271906,
+      "name": "Aces High - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3wFGRek61NIF330UwJCI52"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Retrospective: The Best Of The Knack",
+        "url": "https://open.spotify.com/album/6kfZR1cIwdTyxLzwlYNpI3"
+      },
+      "artists": [
+        {
+          "name": "The Knack",
+          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
+        }
+      ],
+      "duration_ms": 293066,
+      "name": "My Sharona",
+      "url": "https://open.spotify.com/track/6PfbvOfduY3C18gajRkJ9P"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 273733,
+      "name": "Bringin' On The Heartbreak",
+      "url": "https://open.spotify.com/track/7iEVmnzJr1V7duYKPWplzp"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Who Made Who",
+        "url": "https://open.spotify.com/album/07EFoHHspqSwsmkbnWaB4A"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 207085,
+      "name": "Who Made Who",
+      "url": "https://open.spotify.com/track/6rvldt6EoZwzogApECUCwd"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "BrainRot",
+        "url": "https://open.spotify.com/album/2MYP7mbuDR7VqxrSijRd3A"
+      },
+      "artists": [
+        {
+          "name": "Tommy James",
+          "url": "https://open.spotify.com/artist/068mW7Y5taw0vVh4E1sg9u"
+        }
+      ],
+      "duration_ms": 150569,
+      "name": "Money Murder Marijuana",
+      "url": "https://open.spotify.com/track/7xl0dsRduPfJfQfVDkopyu"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "70s 100 Hits",
+        "url": "https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 176906,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/5QlxJMuPUxn2J2rcudSK9Z"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "The Very Best of Daryl Hall / John Oates",
+        "url": "https://open.spotify.com/album/4tUyNf5dGXwY4TaMaxwhqF"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 249573,
+      "name": "Out of Touch",
+      "url": "https://open.spotify.com/track/7o67roCVsFiCt7Cf0ZLOJq"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Rock",
+        "url": "https://open.spotify.com/album/5ZNIZY6Dg9sC04xsJEBx0o"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "duration_ms": 267426,
+      "name": "Owner of a Lonely Heart - 2008 Remaster",
+      "url": "https://open.spotify.com/track/3cVEg1qEFZJFFlh3qXN65H"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Masters Series - 80's Club Party",
+        "url": "https://open.spotify.com/album/7kdkBTwF6BbQAu7gOAUosM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 289440,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/03QcXHbLEcQEuZmnA8RBLR"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Tr\u00e9sors 60's",
+        "url": "https://open.spotify.com/album/406ITkSun3uzXzUwqLKneX"
+      },
+      "artists": [
+        {
+          "name": "The Tokens",
+          "url": "https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy"
+        }
+      ],
+      "duration_ms": 159320,
+      "name": "The Lion Sleeps Tonight (Wimoweh)",
+      "url": "https://open.spotify.com/track/0bC7jX2Q8BZeRAEsemEVSi"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "The Supremes: Box Set",
+        "url": "https://open.spotify.com/album/2uQEsS5D7NsPwt4sqeWIDl"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/2BNP0fIRCHM2uDznRe6S7u"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "Little Bit O' Soul (Action Mix)",
+        "url": "https://open.spotify.com/album/5zIY9q4jsz46IrrEaHwJGs"
+      },
+      "artists": [
+        {
+          "name": "Music Explosion",
+          "url": "https://open.spotify.com/artist/1DVs21DjifVH0pgsjPlokN"
+        }
+      ],
+      "duration_ms": 141826,
+      "name": "Little Bit O' Soul - Action Mix",
+      "url": "https://open.spotify.com/track/5bTyXvNG4cQBYr2iIdK1mO"
+    },
+    {
+      "added_at": "2025-12-24 05:50:14",
+      "album": {
+        "name": "More of The Monkees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 136026,
+      "name": "Look Out (Here Comes Tomorrow) - Original Stereo Version; 2006 Remaster",
+      "url": "https://open.spotify.com/track/3uw4Sl3rYjC5Mp286hIeUC"
     }
   ],
   "unique_name": "Classic 106.9",

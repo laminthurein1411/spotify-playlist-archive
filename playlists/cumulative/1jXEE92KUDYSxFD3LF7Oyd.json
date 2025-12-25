@@ -2483,6 +2483,24 @@
     },
     {
       "album": {
+        "name": "Made In Italy",
+        "url": "https://open.spotify.com/album/4ZH6HND1xhUn9IMbIb8tIu"
+      },
+      "artists": [
+        {
+          "name": "Renato Carosone",
+          "url": "https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208614,
+      "name": "Tu Vuo Fa 'L'Americano - From \"The American\" Soundtrack",
+      "url": "https://open.spotify.com/track/79LnSU3iFdQTVnmK8BX50Y"
+    },
+    {
+      "album": {
         "name": "Meilleure vie",
         "url": "https://open.spotify.com/album/2KAitQgR9RBW0Ew8f3Kzre"
       },
@@ -2736,6 +2754,24 @@
       "duration_ms": 190213,
       "name": "\u0412 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0440\u0430\u0437",
       "url": "https://open.spotify.com/track/3AQaEqdtm7DVQlBZBw6ZQh"
+    },
+    {
+      "album": {
+        "name": "\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0433\u0435\u0440\u043e\u0439",
+        "url": "https://open.spotify.com/album/6J5nW8fstQkcN9LwqrUmU9"
+      },
+      "artists": [
+        {
+          "name": "Kino",
+          "url": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235107,
+      "name": "\u0413\u0440\u0443\u043f\u043f\u0430 \u043a\u0440\u043e\u0432\u0438",
+      "url": "https://open.spotify.com/track/5dyBwktTuzBHg1xJRHzRsW"
     },
     {
       "album": {

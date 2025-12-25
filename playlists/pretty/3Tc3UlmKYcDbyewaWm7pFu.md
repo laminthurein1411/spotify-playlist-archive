@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,153 songs - 2 day 20 hr 40 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,154 songs - 2 day 20 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1161,5 +1161,6 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 | 1151 | [Good Ol' Days](https://open.spotify.com/track/0X1Bz7NKvIh90nIptl5tlG) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b) | 3:23 |
 | 1152 | [I'll Believe in Anything](https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm) | [Apologies to the Queen Mary](https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ) | 4:36 |
 | 1153 | [Blue](https://open.spotify.com/track/41GkAPMJM9pHyzTUket4W0) | [Nuno Freitas](https://open.spotify.com/artist/6VrXMP8axmz3yZDyfg6Wx3) | [Blue](https://open.spotify.com/album/15RwtcOkmnf7QXK6QLAy9S) | 1:51 |
+| 1154 | [Fall For You](https://open.spotify.com/track/0bJ7Fs6uqdILGFy8O7Stz7) | [Secondhand Serenade](https://open.spotify.com/artist/6eouuqqGggqDlYRV63cgPo) | [A Twist In My Story](https://open.spotify.com/album/5gZWshCxaxuim3bSyRIc6n) | 3:03 |
 
-Snapshot ID: `AAAEvSorzLxxSz7IHFx20TT2kVNRFH+R`
+Snapshot ID: `AAAEvmJ/yyi8AlRHzeO5NirmsToeDm5b`

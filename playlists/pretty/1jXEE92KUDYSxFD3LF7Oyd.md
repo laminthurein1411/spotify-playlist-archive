@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 160 songs - 8 hr 42 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 162 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,5 +168,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 158 | [Про красивую жизнь](https://open.spotify.com/track/2e35bSBvm3RVyHWTwWeFbO) | [Band'Eros](https://open.spotify.com/artist/2OgohSfhZqyIauFLZHvXLU) | [Коламбия Пикчерз не представляет \(Новое издание\)](https://open.spotify.com/album/7irkpcZLog7GJk8Awj9SRB) | 3:41 |
 | 159 | [Ты меня не ищи](https://open.spotify.com/track/3uQrU4of1t0SRtXuZGB8uY) | [Вирус](https://open.spotify.com/artist/5RyG4MXMI2xdYVeVAS5t0r) | [Ты меня не ищи](https://open.spotify.com/album/3qvwRyzLRVqljl0y2pIYUI) | 3:53 |
 | 160 | [Коламбия Пикчерз не представляет](https://open.spotify.com/track/2zSiBfllKHXlFX27Uhw5RM) | [Band'Eros](https://open.spotify.com/artist/2OgohSfhZqyIauFLZHvXLU) | [Коламбия Пикчерз не представляет \(Новое издание\)](https://open.spotify.com/album/7irkpcZLog7GJk8Awj9SRB) | 4:26 |
+| 161 | [Группа крови](https://open.spotify.com/track/5dyBwktTuzBHg1xJRHzRsW) | [Kino](https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42) | [Последний герой](https://open.spotify.com/album/6J5nW8fstQkcN9LwqrUmU9) | 3:55 |
+| 162 | [Tu Vuo Fa 'L'Americano \- From "The American" Soundtrack](https://open.spotify.com/track/79LnSU3iFdQTVnmK8BX50Y) | [Renato Carosone](https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF) | [Made In Italy](https://open.spotify.com/album/4ZH6HND1xhUn9IMbIb8tIu) | 3:28 |
 
-Snapshot ID: `AAAAaK129LLeYpUg+X/CLwTcUbmpZhW5`
+Snapshot ID: `AAAAaj2WbvN+TdGadwUPtyadxSve9UZw`

@@ -4479,6 +4479,24 @@
     },
     {
       "album": {
+        "name": "Get Born (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6svS1vGX5qyK9mhz8ijzxs"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230893,
+      "name": "Look What You've Done",
+      "url": "https://open.spotify.com/track/1vZOMg44tCErIWtunDnorD"
+    },
+    {
+      "album": {
         "name": "Looks Like Me",
         "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
       },
