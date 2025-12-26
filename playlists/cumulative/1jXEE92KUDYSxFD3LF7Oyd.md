@@ -4,7 +4,7 @@
 
 > 
 
-162 songs - 8 hr 50 min
+166 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,12 +157,14 @@
 | [À bicyclette](https://open.spotify.com/track/5px3ShFMjwhidOFVVc0Z4R) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [La Bicyclette](https://open.spotify.com/album/2DS4hsoeFgvqhzsCJ0tmbj) | 2:42 | 2023-12-09 |  |
 | [Écoute Chérie](https://open.spotify.com/track/1zyUz3eZ3sytdaR9lfW17q) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:44 | 2025-05-21 |  |
 | [Бесконечное лето](https://open.spotify.com/track/3yV6aXteZm4wg8Y5JP0f7J) | [Перемотка](https://open.spotify.com/artist/3AwNBhYb8tZmJ5m0VIKHp2) | [Зелёный луч](https://open.spotify.com/album/2n89zVsPU9me8ZWvZVyc0Z) | 3:03 | 2025-10-23 |  |
+| [Бесприданница](https://open.spotify.com/track/0yPQB0dC23cqu9isXsIV1l) | [DEAD BLONDE](https://open.spotify.com/artist/4k0dbhJImJWSJf9PsH7H3z) | [Княжна из хрущёвки](https://open.spotify.com/album/1c3MSMxSQg2NO71ohjrJps) | 3:00 | 2025-12-25 |  |
 | [В последний раз](https://open.spotify.com/track/3AQaEqdtm7DVQlBZBw6ZQh) | [Ансамбль Весёлые ребята](https://open.spotify.com/artist/7x91sJkli6lEJbMEdHnYf8) | [Музыкальный Глобус](https://open.spotify.com/album/0ggc96WgrOAIWsvQbRG8zl) | 3:10 | 2025-07-29 |  |
 | [Группа крови](https://open.spotify.com/track/5dyBwktTuzBHg1xJRHzRsW) | [Kino](https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42) | [Последний герой](https://open.spotify.com/album/6J5nW8fstQkcN9LwqrUmU9) | 3:55 | 2025-12-24 |  |
 | [И я](https://open.spotify.com/track/3eYySzaaWFz0E91CtqllEv) | [ANAZED](https://open.spotify.com/artist/3Uk305Q7Tf5kEm1HUtQy5Q) | [И я](https://open.spotify.com/album/2YdxcYRXKE5oWjWOykfr4q) | 2:21 | 2025-07-19 |  |
 | [Коламбия Пикчерз не представляет](https://open.spotify.com/track/2zSiBfllKHXlFX27Uhw5RM) | [Band'Eros](https://open.spotify.com/artist/2OgohSfhZqyIauFLZHvXLU) | [Коламбия Пикчерз не представляет \(Новое издание\)](https://open.spotify.com/album/7irkpcZLog7GJk8Awj9SRB) | 4:26 | 2025-12-22 |  |
 | [Колыбельная](https://open.spotify.com/track/47RyOrXqLydmsPrsVU7nTw) | [Rauf & Faik](https://open.spotify.com/artist/0a3zDmrvmZcORfPeONPvfL) | [Колыбельная](https://open.spotify.com/album/25egsfoMlUTUKa6HVCS962) | 3:53 | 2023-10-12 |  |
 | [Кошка](https://open.spotify.com/track/65e5VdJT8DIuVR8jxJWqLJ) | [Рычаги Машин](https://open.spotify.com/artist/1Vg3SQ1TaIjVT2svpmq05q), [Ольга Артуровна](https://open.spotify.com/artist/0emMziAHNFA4pJu9ogWvgq) | [Полетаем](https://open.spotify.com/album/4lZdRHVPTJvuWNsOxpWogT) | 3:57 | 2025-12-19 |  |
+| [Моно](https://open.spotify.com/track/458NBiLmZSIFnCUFa10u8i) | [Lena Katina](https://open.spotify.com/artist/5RfS9o5FOLPdO77H58h3oA) | [Моно](https://open.spotify.com/album/7HSLkUnGYC73TPTGR0qgKL) | 3:15 | 2025-12-25 |  |
 | [права](https://open.spotify.com/track/6E2ec1JmPOXyh7k37tYhYU) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:26 | 2025-10-23 |  |
 | [Про красивую жизнь](https://open.spotify.com/track/2e35bSBvm3RVyHWTwWeFbO) | [Band'Eros](https://open.spotify.com/artist/2OgohSfhZqyIauFLZHvXLU) | [Коламбия Пикчерз не представляет \(Новое издание\)](https://open.spotify.com/album/7irkpcZLog7GJk8Awj9SRB) | 3:41 | 2025-12-20 |  |
 | [Спящая красавица](https://open.spotify.com/track/64Uiv4X755MZm6N597IT0M) | [polnalyubvi](https://open.spotify.com/artist/3cmfyZ8hRHaN2CO9Qo4j35) | [Сказки лесной нимфы](https://open.spotify.com/album/3LFGKPdcr1UsYAY1ln1VPh) | 2:16 | 2025-07-19 |  |
@@ -170,5 +172,7 @@
 | [Судно \(Борис Рыжий\)](https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 2:21 | 2025-10-23 |  |
 | [Ты меня не ищи](https://open.spotify.com/track/3uQrU4of1t0SRtXuZGB8uY) | [Вирус](https://open.spotify.com/artist/5RyG4MXMI2xdYVeVAS5t0r) | [Ты меня не ищи](https://open.spotify.com/album/3qvwRyzLRVqljl0y2pIYUI) | 3:53 | 2025-12-21 |  |
 | [это ли счастье?](https://open.spotify.com/track/4KGq63QyNHWz44M5S6PWGo) | [Rauf & Faik](https://open.spotify.com/artist/0a3zDmrvmZcORfPeONPvfL) | [это ли счастье?](https://open.spotify.com/album/6RIr3dE6hBSv7Y0l2e1gCZ) | 3:24 | 2023-10-12 |  |
+| [Я сошла с ума](https://open.spotify.com/track/00fEaKXDScWhQDjzSXfSqm) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 По встречной](https://open.spotify.com/album/1Sh5wXsKdvWxovnLp57jXw) | 3:29 | 2025-12-25 |  |
+| [Я убегаю](https://open.spotify.com/track/5qrEPC0mO1WtyBfzPqUzZB) | [Akula](https://open.spotify.com/artist/28YqmJDCsushOdmesc84MQ) | [Кислотный DJ](https://open.spotify.com/album/5C0lD4dW7L5NbpfD0UJF0d) | 3:42 | 2025-12-25 |  |
 
 \*This playlist was first scraped on 2025-05-18. Prior content cannot be recovered.

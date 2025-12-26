@@ -2739,6 +2739,24 @@
     },
     {
       "album": {
+        "name": "\u041a\u043d\u044f\u0436\u043d\u0430 \u0438\u0437 \u0445\u0440\u0443\u0449\u0451\u0432\u043a\u0438",
+        "url": "https://open.spotify.com/album/1c3MSMxSQg2NO71ohjrJps"
+      },
+      "artists": [
+        {
+          "name": "DEAD BLONDE",
+          "url": "https://open.spotify.com/artist/4k0dbhJImJWSJf9PsH7H3z"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "\u0411\u0435\u0441\u043f\u0440\u0438\u0434\u0430\u043d\u043d\u0438\u0446\u0430",
+      "url": "https://open.spotify.com/track/0yPQB0dC23cqu9isXsIV1l"
+    },
+    {
+      "album": {
         "name": "\u041c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u0413\u043b\u043e\u0431\u0443\u0441",
         "url": "https://open.spotify.com/album/0ggc96WgrOAIWsvQbRG8zl"
       },
@@ -2848,6 +2866,24 @@
       "duration_ms": 237557,
       "name": "\u041a\u043e\u0448\u043a\u0430",
       "url": "https://open.spotify.com/track/65e5VdJT8DIuVR8jxJWqLJ"
+    },
+    {
+      "album": {
+        "name": "\u041c\u043e\u043d\u043e",
+        "url": "https://open.spotify.com/album/7HSLkUnGYC73TPTGR0qgKL"
+      },
+      "artists": [
+        {
+          "name": "Lena Katina",
+          "url": "https://open.spotify.com/artist/5RfS9o5FOLPdO77H58h3oA"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195789,
+      "name": "\u041c\u043e\u043d\u043e",
+      "url": "https://open.spotify.com/track/458NBiLmZSIFnCUFa10u8i"
     },
     {
       "album": {
@@ -2974,6 +3010,42 @@
       "duration_ms": 204489,
       "name": "\u044d\u0442\u043e \u043b\u0438 \u0441\u0447\u0430\u0441\u0442\u044c\u0435?",
       "url": "https://open.spotify.com/track/4KGq63QyNHWz44M5S6PWGo"
+    },
+    {
+      "album": {
+        "name": "200 \u041f\u043e \u0432\u0441\u0442\u0440\u0435\u0447\u043d\u043e\u0439",
+        "url": "https://open.spotify.com/album/1Sh5wXsKdvWxovnLp57jXw"
+      },
+      "artists": [
+        {
+          "name": "t.A.T.u.",
+          "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209013,
+      "name": "\u042f \u0441\u043e\u0448\u043b\u0430 \u0441 \u0443\u043c\u0430",
+      "url": "https://open.spotify.com/track/00fEaKXDScWhQDjzSXfSqm"
+    },
+    {
+      "album": {
+        "name": "\u041a\u0438\u0441\u043b\u043e\u0442\u043d\u044b\u0439 DJ",
+        "url": "https://open.spotify.com/album/5C0lD4dW7L5NbpfD0UJF0d"
+      },
+      "artists": [
+        {
+          "name": "Akula",
+          "url": "https://open.spotify.com/artist/28YqmJDCsushOdmesc84MQ"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222680,
+      "name": "\u042f \u0443\u0431\u0435\u0433\u0430\u044e",
+      "url": "https://open.spotify.com/track/5qrEPC0mO1WtyBfzPqUzZB"
     }
   ],
   "url": "https://open.spotify.com/playlist/1jXEE92KUDYSxFD3LF7Oyd"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 3,878 songs - 11 day 1 hr 17 min
+[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 3,880 songs - 11 day 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3886,5 +3886,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 3876 | [You Can't Hurry Love](https://open.spotify.com/track/2BNP0fIRCHM2uDznRe6S7u) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes: Box Set](https://open.spotify.com/album/2uQEsS5D7NsPwt4sqeWIDl) | 2:44 |
 | 3877 | [Little Bit O' Soul \- Action Mix](https://open.spotify.com/track/5bTyXvNG4cQBYr2iIdK1mO) | [Music Explosion](https://open.spotify.com/artist/1DVs21DjifVH0pgsjPlokN) | [Little Bit O' Soul \(Action Mix\)](https://open.spotify.com/album/5zIY9q4jsz46IrrEaHwJGs) | 2:21 |
 | 3878 | [Look Out \(Here Comes Tomorrow\) \- Original Stereo Version; 2006 Remaster](https://open.spotify.com/track/3uw4Sl3rYjC5Mp286hIeUC) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:16 |
+| 3879 | [Every Breath You Take \- Remastered 2003](https://open.spotify.com/track/0wF2zKJmgzjPTfircPJ2jg) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Every Breath You Take The Classics](https://open.spotify.com/album/3s9o7LSofJfIZafUgkDe9O) | 4:14 |
+| 3880 | [Gimme Little Sign \- Single Version](https://open.spotify.com/track/6tk4jlS7rE01xCslIVymxe) | [Danielle Brisebois](https://open.spotify.com/artist/3Qh9ZjCt1IA0WOV52su769) | [Arrive All Over You](https://open.spotify.com/album/4Bv5daamMgIRk42QaDXilv) | 3:02 |
 
-Snapshot ID: `AAACXTvKeu0AGHKskC47PvKAWtbvtI4/`
+Snapshot ID: `AAACXqBjH2yzoexm06pdlao6NoPGCsmu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 162 songs - 8 hr 50 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 166 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,5 +170,9 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 160 | [Коламбия Пикчерз не представляет](https://open.spotify.com/track/2zSiBfllKHXlFX27Uhw5RM) | [Band'Eros](https://open.spotify.com/artist/2OgohSfhZqyIauFLZHvXLU) | [Коламбия Пикчерз не представляет \(Новое издание\)](https://open.spotify.com/album/7irkpcZLog7GJk8Awj9SRB) | 4:26 |
 | 161 | [Группа крови](https://open.spotify.com/track/5dyBwktTuzBHg1xJRHzRsW) | [Kino](https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42) | [Последний герой](https://open.spotify.com/album/6J5nW8fstQkcN9LwqrUmU9) | 3:55 |
 | 162 | [Tu Vuo Fa 'L'Americano \- From "The American" Soundtrack](https://open.spotify.com/track/79LnSU3iFdQTVnmK8BX50Y) | [Renato Carosone](https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF) | [Made In Italy](https://open.spotify.com/album/4ZH6HND1xhUn9IMbIb8tIu) | 3:28 |
+| 163 | [Бесприданница](https://open.spotify.com/track/0yPQB0dC23cqu9isXsIV1l) | [DEAD BLONDE](https://open.spotify.com/artist/4k0dbhJImJWSJf9PsH7H3z) | [Княжна из хрущёвки](https://open.spotify.com/album/1c3MSMxSQg2NO71ohjrJps) | 3:00 |
+| 164 | [Я убегаю](https://open.spotify.com/track/5qrEPC0mO1WtyBfzPqUzZB) | [Akula](https://open.spotify.com/artist/28YqmJDCsushOdmesc84MQ) | [Кислотный DJ](https://open.spotify.com/album/5C0lD4dW7L5NbpfD0UJF0d) | 3:42 |
+| 165 | [Моно](https://open.spotify.com/track/458NBiLmZSIFnCUFa10u8i) | [Lena Katina](https://open.spotify.com/artist/5RfS9o5FOLPdO77H58h3oA) | [Моно](https://open.spotify.com/album/7HSLkUnGYC73TPTGR0qgKL) | 3:15 |
+| 166 | [Я сошла с ума](https://open.spotify.com/track/00fEaKXDScWhQDjzSXfSqm) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 По встречной](https://open.spotify.com/album/1Sh5wXsKdvWxovnLp57jXw) | 3:29 |
 
-Snapshot ID: `AAAAaj2WbvN+TdGadwUPtyadxSve9UZw`
+Snapshot ID: `AAAAbkQBgx3pSLbx2bmYY6BLCIUXn8UK`

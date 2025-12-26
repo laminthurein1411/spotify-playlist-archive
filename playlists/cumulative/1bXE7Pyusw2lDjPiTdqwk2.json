@@ -7439,6 +7439,24 @@
     },
     {
       "album": {
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237026,
+      "name": "Unintended",
+      "url": "https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw"
+    },
+    {
+      "album": {
         "name": "Unloving You",
         "url": "https://open.spotify.com/album/0eljMEeLbmyj77sh2fzo4j"
       },

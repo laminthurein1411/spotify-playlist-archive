@@ -6,7 +6,7 @@
     "name": "ramiro",
     "url": "https://open.spotify.com/user/rgarzaa"
   },
-  "snapshot_id": "AAACXTvKeu0AGHKskC47PvKAWtbvtI4/",
+  "snapshot_id": "AAACXqBjH2yzoexm06pdlao6NoPGCsmu",
   "tracks": [
     {
       "added_at": "2024-02-28 02:33:08",
@@ -63027,6 +63027,38 @@
       "duration_ms": 136026,
       "name": "Look Out (Here Comes Tomorrow) - Original Stereo Version; 2006 Remaster",
       "url": "https://open.spotify.com/track/3uw4Sl3rYjC5Mp286hIeUC"
+    },
+    {
+      "added_at": "2025-12-25 05:49:02",
+      "album": {
+        "name": "Every Breath You Take The Classics",
+        "url": "https://open.spotify.com/album/3s9o7LSofJfIZafUgkDe9O"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 254333,
+      "name": "Every Breath You Take - Remastered 2003",
+      "url": "https://open.spotify.com/track/0wF2zKJmgzjPTfircPJ2jg"
+    },
+    {
+      "added_at": "2025-12-25 05:49:02",
+      "album": {
+        "name": "Arrive All Over You",
+        "url": "https://open.spotify.com/album/4Bv5daamMgIRk42QaDXilv"
+      },
+      "artists": [
+        {
+          "name": "Danielle Brisebois",
+          "url": "https://open.spotify.com/artist/3Qh9ZjCt1IA0WOV52su769"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Gimme Little Sign - Single Version",
+      "url": "https://open.spotify.com/track/6tk4jlS7rE01xCslIVymxe"
     }
   ],
   "unique_name": "Classic 106.9",

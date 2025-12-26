@@ -4,7 +4,7 @@
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-3,870 songs - 11 day 0 hr 40 min
+3,872 songs - 11 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -951,6 +951,7 @@
 | [Every 1's a Winner \- Single Version](https://open.spotify.com/track/5MXXbGYNmRHR7ULMvZYo5R) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Every 1's a Winner](https://open.spotify.com/album/2MdCe2CS9EcdJ9V20TKzxo) | 4:49 | 2025-12-15 |  |
 | [Every Breath You Take](https://open.spotify.com/track/4U3Ggqyv2XgnS1u82HOGQX) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [The Very Best Of Sting And The Police](https://open.spotify.com/album/0psHZUD4dKFmxEfEmGRCLB) | 4:11 | 2025-12-19 |  |
 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2024-02-28 |  |
+| [Every Breath You Take \- Remastered 2003](https://open.spotify.com/track/0wF2zKJmgzjPTfircPJ2jg) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Every Breath You Take The Classics](https://open.spotify.com/album/3s9o7LSofJfIZafUgkDe9O) | 4:14 | 2025-12-25 |  |
 | [Every Little Thing She Does Is Magic](https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 4:20 | 2024-02-28 |  |
 | [Every Morning](https://open.spotify.com/track/3PamjZAj5rb9z6QyhXeupt) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Rhino Hi\-Five: Sugar Ray](https://open.spotify.com/album/05s2UfuwvhwVzGkpydPDK0) | 3:39 | 2025-12-15 |  |
 | [Every Morning](https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [14:59](https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi) | 3:39 | 2024-03-18 |  |
@@ -1135,6 +1136,7 @@
 | [Ghostbusters \- from the "Ghostbusters" Original Motion Picture Soundtrack](https://open.spotify.com/track/0phGofl3ppS5Itk1zM9eKa) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Ghostbusters \(Original Motion Picture Soundtrack\) \[1984\]](https://open.spotify.com/album/61n9hzk4CiJRrCmrEfBXRJ) | 4:04 | 2025-12-22 |  |
 | [Gimme All Your Lovin'](https://open.spotify.com/track/0OBwxFLu6Yj61s2OagYbgY) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:01 | 2025-12-15 |  |
 | [Gimme Little Sign](https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Oogum Boogum](https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf) | 2:21 | 2024-02-28 |  |
+| [Gimme Little Sign \- Single Version](https://open.spotify.com/track/6tk4jlS7rE01xCslIVymxe) | [Danielle Brisebois](https://open.spotify.com/artist/3Qh9ZjCt1IA0WOV52su769) | [Arrive All Over You](https://open.spotify.com/album/4Bv5daamMgIRk42QaDXilv) | 3:02 | 2025-12-25 |  |
 | [Gimme Shelter](https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:30 | 2024-03-25 |  |
 | [Gimme Shelter](https://open.spotify.com/track/0t7ttzoe3dV0mah4lBI2kx) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks 1964\-1971](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 4:30 | 2025-12-19 |  |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 | 2024-02-28 |  |
