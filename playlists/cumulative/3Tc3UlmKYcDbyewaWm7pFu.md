@@ -4,7 +4,7 @@
 
 > 
 
-1,154 songs - 2 day 20 hr 44 min
+1,155 songs - 2 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Broken](https://open.spotify.com/track/2FkbeqpCrjjDdVH1SZgDo6) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Yours](https://open.spotify.com/album/3t31ldCb4oXOYSKXyGfaUA) | 3:36 | 2021-11-28 |  |
 | [broken \- acoustic](https://open.spotify.com/track/4euXJuErBCqH2LEApfxI6i) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [broken \(acoustic\)](https://open.spotify.com/album/0BZ9f0pDywBiIHobwdplvh) | 3:22 | 2021-12-11 |  |
 | [brokenhearted](https://open.spotify.com/track/6I5BbFFYDe8TmEk0VtW7Cl) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [brokenhearted](https://open.spotify.com/album/4LO5fNpbCHVEDb6TIOs5l1) | 3:32 | 2022-01-16 |  |
+| [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 | 2025-12-26 |  |
 | [Butchered Tongue](https://open.spotify.com/track/38U4hYYzUbydvJ4J5YZEy6) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 2:29 | 2023-10-12 |  |
 | [Buttercup](https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:28 | 2020-02-19 |  |
 | [BUTTERFLIES](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [BUTTERFLIES](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 | 2021-12-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1sfAOTB18X1CRV6pWdiUJJ.md) - [plain]
 
 > 
 
-[miniwheatsmcqueen](https://open.spotify.com/user/miniwheatsmcqueen) - 530 likes - 735 songs - 2 day 1 hr 14 min
+[miniwheatsmcqueen](https://open.spotify.com/user/miniwheatsmcqueen) - 530 likes - 736 songs - 2 day 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -743,5 +743,6 @@ pretty - [cumulative](/playlists/cumulative/1sfAOTB18X1CRV6pWdiUJJ.md) - [plain]
 | 733 | [jupiter](https://open.spotify.com/track/4BiiGfe1QtSpsiZDvA4Pmd) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [DIVE](https://open.spotify.com/album/0jfgGNDWmjcBLPKMyIMLYP) | 3:02 |
 | 734 | [keep it in the dark](https://open.spotify.com/track/3ZvizGdIjQuTdt8sChAPWL) | [Capital Soiree](https://open.spotify.com/artist/1sd5vbMAYXlLoJNTQfY0HV) | [keep it in the dark](https://open.spotify.com/album/4aVEUWZSLjcOpfeO9lkGRC) | 3:13 |
 | 735 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
+| 736 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 |
 
-Snapshot ID: `AAAEbZXqnHWBDaPv4joAHe1etH11ESQw`
+Snapshot ID: `AAAEbrTg0K0nUhJ+68X8iJl+2IOUFGZ3`

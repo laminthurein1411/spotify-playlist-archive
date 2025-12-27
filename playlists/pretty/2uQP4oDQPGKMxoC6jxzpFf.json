@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAB1TkMEw/LL5WFJ7r6mQ3gbVf1MT5+",
+  "snapshot_id": "AAAB1g9b9kAYlBgoSOYSPwZ+HsiP83eI",
   "tracks": [
     {
       "added_at": "2024-11-21 09:45:38",
@@ -153310,6 +153310,762 @@
     },
     {
       "added_at": "2025-12-25 06:52:37",
+      "album": {
+        "name": "Stay Warm",
+        "url": "https://open.spotify.com/album/1XvNyVaJnHTZPpD5oWPXgn"
+      },
+      "artists": [
+        {
+          "name": "The O'Pears",
+          "url": "https://open.spotify.com/artist/0I6JNZ4skNbfm0fpycI7zT"
+        }
+      ],
+      "duration_ms": 227852,
+      "name": "River",
+      "url": "https://open.spotify.com/track/5pY2BdICq1aFh8kpW6NmTy"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "In The Crowd",
+        "url": "https://open.spotify.com/album/1Hx50hQnzcOcZfUKKwI4pC"
+      },
+      "artists": [
+        {
+          "name": "Absolute Losers",
+          "url": "https://open.spotify.com/artist/536OFtmA73Nu7vOIXaGwON"
+        }
+      ],
+      "duration_ms": 174373,
+      "name": "At The Same Time",
+      "url": "https://open.spotify.com/track/5J4z19TT86JBYzO73B7N3T"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/1GhqblHdJTtbfipwdvB5vD"
+      },
+      "artists": [
+        {
+          "name": "Clever Hopes",
+          "url": "https://open.spotify.com/artist/3KGz7mRSlChvSwCI8bUit7"
+        }
+      ],
+      "duration_ms": 221330,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/5z5RhvbwIzaGqcu9i4YbF7"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "carry me through",
+        "url": "https://open.spotify.com/album/5Im9EAXp77n11mdr3bUTxj"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "carry me through",
+      "url": "https://open.spotify.com/track/3WDoIP9z8IXS1F3ol9lmVr"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Gordon",
+        "url": "https://open.spotify.com/album/42U1vGhrWUN6TeM5mwN691"
+      },
+      "artists": [
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        }
+      ],
+      "duration_ms": 287773,
+      "name": "Brian Wilson",
+      "url": "https://open.spotify.com/track/2Eky0Rjbrv0YmNy3wrMtSM"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/4qbYq52lkvywptymI7Y7dR"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "duration_ms": 193351,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/13zT15nPCP5A5XeP9vffnk"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Strange Medicine",
+        "url": "https://open.spotify.com/album/6czHcOisaTwxJ5ocsNX1yn"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 213837,
+      "name": "In Montreal",
+      "url": "https://open.spotify.com/track/0MjzPLLmrlfHBt8HOix6FW"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "The Spirit of Christmas",
+        "url": "https://open.spotify.com/album/3RFINdIhUkIRpJpJqsvXX9"
+      },
+      "artists": [
+        {
+          "name": "Chuck Brown",
+          "url": "https://open.spotify.com/artist/2ssIfCr0vMmCuesIw9U4eg"
+        }
+      ],
+      "duration_ms": 295933,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/1uMrImIU1EzbjCY9j1atc9"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Airport & Only the Truth",
+        "url": "https://open.spotify.com/album/1fdgTSKopXNYrLKMWeUX8r"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 212430,
+      "name": "Airport",
+      "url": "https://open.spotify.com/track/3vKmQHFEAo4lOHePyq03eQ"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
+      },
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+        }
+      ],
+      "duration_ms": 275733,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/0y5CnV2idm2KkQEudDjfDT"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Caught Up On You",
+        "url": "https://open.spotify.com/album/6ICcS5WGbZr33DESzK9Xiq"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 206840,
+      "name": "Caught Up On You",
+      "url": "https://open.spotify.com/track/3QjAG3LVB0P5x251vwinVm"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Formed",
+        "url": "https://open.spotify.com/album/1uAIDvZLghq5Glpcu5HSzc"
+      },
+      "artists": [
+        {
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        }
+      ],
+      "duration_ms": 169874,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/5N03z87p4gnxIp3UTSHhpt"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 176933,
+      "name": "First",
+      "url": "https://open.spotify.com/track/6Ijr2FALEGiepGbWdPp5Qh"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Stay In This Moment",
+        "url": "https://open.spotify.com/album/5GGEodyHnNq435pEOyCdby"
+      },
+      "artists": [
+        {
+          "name": "Logan Richard",
+          "url": "https://open.spotify.com/artist/0clafcEW9Npsrqo76bL13o"
+        }
+      ],
+      "duration_ms": 164001,
+      "name": "Stay In This Moment",
+      "url": "https://open.spotify.com/track/2cVNX2IjBZLrfZv3ccDVXe"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Non-Stop Erotic Cabaret",
+        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
+      },
+      "artists": [
+        {
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "West End Girl",
+        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Tennis",
+      "url": "https://open.spotify.com/track/6WQsY2YMdIQWoOm9MyZMWR"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "My Method Actor",
+        "url": "https://open.spotify.com/album/4BBVZgRsWeNVgGmub6LY3p"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 177475,
+      "name": "Like I Say (I runaway)",
+      "url": "https://open.spotify.com/track/7f57Tz3uydJkSuVsQ7sj4l"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "I Got A Feeling",
+        "url": "https://open.spotify.com/album/5Ugv4hMfk4FhunHNEwOGbN"
+      },
+      "artists": [
+        {
+          "name": "Wintersleep",
+          "url": "https://open.spotify.com/artist/1VrpL9mx2a6WRolLh7mHrE"
+        }
+      ],
+      "duration_ms": 207551,
+      "name": "I Got A Feeling",
+      "url": "https://open.spotify.com/track/7gtLfYGpnBDYbthn5d4O5J"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "How to Sing for Money",
+        "url": "https://open.spotify.com/album/3z6inZH9eQk8JgfwSgQXCM"
+      },
+      "artists": [
+        {
+          "name": "Maggie Andrew",
+          "url": "https://open.spotify.com/artist/4PJuPTnsXBp1QY667NS0Oo"
+        }
+      ],
+      "duration_ms": 209117,
+      "name": "How to Sing for Money",
+      "url": "https://open.spotify.com/track/2hk2miVnaS7ycQCYZrCPad"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "All Will Be Well",
+        "url": "https://open.spotify.com/album/2cF3MxeFNuQBYIByO8ZI4g"
+      },
+      "artists": [
+        {
+          "name": "Fortunate Ones",
+          "url": "https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L"
+        }
+      ],
+      "duration_ms": 194522,
+      "name": "Come On! Let's Boogey to the Elf Dance!",
+      "url": "https://open.spotify.com/track/7FLtTiXXsd7vEPP5wcgvaQ"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "I Can Change Your Mind",
+        "url": "https://open.spotify.com/album/6yiwJDKR9WEysm1UaHS7r6"
+      },
+      "artists": [
+        {
+          "name": "Maddie Jay",
+          "url": "https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h"
+        }
+      ],
+      "duration_ms": 220373,
+      "name": "Stop Me If I've Told You This Story",
+      "url": "https://open.spotify.com/track/4lgKpZ1SXXBrfz9QuWHczt"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/6GVN9nEFPZM6I4gsXr1k0Y"
+      },
+      "artists": [
+        {
+          "name": "Julianna Riolino",
+          "url": "https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b"
+        },
+        {
+          "name": "Adrian Underhill",
+          "url": "https://open.spotify.com/artist/4cxNlCYxlWWtkYRkNk04CN"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "Against The Grain",
+      "url": "https://open.spotify.com/track/0aC6vbkbcZwfeDW0TjWZq7"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "I quit (deluxe)",
+        "url": "https://open.spotify.com/album/0UcALdLFt3jVDg7N21BzeN"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 176826,
+      "name": "Tie you down",
+      "url": "https://open.spotify.com/track/5L7q7GU2NXfthES8H7mttv"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 292875,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Show Love",
+        "url": "https://open.spotify.com/album/3Z8nBUrUGuIyWXus5u1PJI"
+      },
+      "artists": [
+        {
+          "name": "Kellylee Evans",
+          "url": "https://open.spotify.com/artist/2ujofFVAz72xGjjpohH5Cn"
+        }
+      ],
+      "duration_ms": 219100,
+      "name": "Show Love",
+      "url": "https://open.spotify.com/track/3bkemhNjAeZfpXYexyJPFw"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "KOFFEE",
+        "url": "https://open.spotify.com/album/5L4jCtM0ZxghguzR7pQ81S"
+      },
+      "artists": [
+        {
+          "name": "Original Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 147330,
+      "name": "KOFFEE",
+      "url": "https://open.spotify.com/track/0dWKOf4DweFGtwUvSmbdbj"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Good Buddy",
+        "url": "https://open.spotify.com/album/2iIkOsqJ9gRP8oEM2NRvfQ"
+      },
+      "artists": [
+        {
+          "name": "FONTINE",
+          "url": "https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Body Double",
+      "url": "https://open.spotify.com/track/5EewQq5LmalL8a9NiWXIGh"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Pretty Together",
+        "url": "https://open.spotify.com/album/7c3oGpFEheVdCqaMjnECoE"
+      },
+      "artists": [
+        {
+          "name": "Sloan",
+          "url": "https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP"
+        }
+      ],
+      "duration_ms": 232337,
+      "name": "The Other Man",
+      "url": "https://open.spotify.com/track/5wtifIEA8OilqQAJN5Nj6V"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Linus And Lucy",
+      "url": "https://open.spotify.com/track/5N96qwzTDhbf2y6FWAVz4c"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Joyful Rebellion",
+        "url": "https://open.spotify.com/album/63C0QvRL5jv9sth1wwDxBs"
+      },
+      "artists": [
+        {
+          "name": "K-OS",
+          "url": "https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "Crucial",
+      "url": "https://open.spotify.com/track/5JspZe4YKVWTIYTPT6Bm1v"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Snocaps",
+        "url": "https://open.spotify.com/album/1fevi1JMVt1PVIMh5Z80ad"
+      },
+      "artists": [
+        {
+          "name": "Snocaps",
+          "url": "https://open.spotify.com/artist/6kYyxNv4xNafn6AMAt6qTE"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
+        {
+          "name": "Allison Crutchfield",
+          "url": "https://open.spotify.com/artist/1zIiCQLbCV0la5eLdT0FIj"
+        }
+      ],
+      "duration_ms": 143415,
+      "name": "Coast",
+      "url": "https://open.spotify.com/track/51qSkFx8D2dyWERxGQ44My"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Transitions",
+        "url": "https://open.spotify.com/album/1rYfPuZOP2ZKeLSh4cxH3y"
+      },
+      "artists": [
+        {
+          "name": "Kellie Loder",
+          "url": "https://open.spotify.com/artist/4NhBhwipQcDsV9mqqOltay"
+        }
+      ],
+      "duration_ms": 186789,
+      "name": "When It Comes to You",
+      "url": "https://open.spotify.com/track/03mAeaoAjOKeJ6KaU4K1Sf"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Laundromats",
+        "url": "https://open.spotify.com/album/1CzWPlVKIxfhLkazSnaS4p"
+      },
+      "artists": [
+        {
+          "name": "Pillow Fite",
+          "url": "https://open.spotify.com/artist/4qYYUWoet5mNRpDASCnGC8"
+        }
+      ],
+      "duration_ms": 310360,
+      "name": "Laundromats",
+      "url": "https://open.spotify.com/track/0263L9TUbSwjntSF6Y9lkJ"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D"
+      },
+      "artists": [
+        {
+          "name": "Eddie Benjamin",
+          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
+        },
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 159527,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Sage My Soul",
+        "url": "https://open.spotify.com/album/403Imnd6NTzDTbwxVAR2ZU"
+      },
+      "artists": [
+        {
+          "name": "Tia Wood",
+          "url": "https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC"
+        }
+      ],
+      "duration_ms": 178550,
+      "name": "Sage My Soul",
+      "url": "https://open.spotify.com/track/1xKHTdrOlDwXVfe6mG8apM"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Dance, No One's Watching",
+        "url": "https://open.spotify.com/album/2BwKd9lWotQIhROHSWQ78h"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
+      "url": "https://open.spotify.com/track/2mxQ3VWWk47YCo9RB2fkOk"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "A Very Kacey Christmas",
+        "url": "https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "The Quebe Sisters",
+          "url": "https://open.spotify.com/artist/6A12UtHHfMyax9RMZLQR7y"
+        }
+      ],
+      "duration_ms": 142106,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/3a1uDc6lJLifXKjYDX3nzH"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/093RBGEAg4aKxxuAMrTAmz"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/03GqWbDts733KUnWy5fu7A"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Rearrange My World / There\u2019s a Field (That's Only Yours)",
+        "url": "https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 124577,
+      "name": "There\u2019s a Field (That\u2019s Only Yours)",
+      "url": "https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Get Lifted",
+        "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 281466,
+      "name": "Ordinary People",
+      "url": "https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "Little Love",
+        "url": "https://open.spotify.com/album/4tBG52OwwTIhMkiDCc5NXm"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "duration_ms": 136626,
+      "name": "Little Love",
+      "url": "https://open.spotify.com/track/6nr0skb9iuYOpBPrpJvWOQ"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "It\u2019s Not That Deep",
+        "url": "https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 183247,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
+      "album": {
+        "name": "A Very Special Christmas",
+        "url": "https://open.spotify.com/album/06H9y3oBVGgYQ0McDsCYX4"
+      },
+      "artists": [
+        {
+          "name": "Eurythmics",
+          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
+        }
+      ],
+      "duration_ms": 214386,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/5ksOQ1pVTjicLOrTo80pUh"
+    },
+    {
+      "added_at": "2025-12-26 06:52:26",
       "album": {
         "name": "Stay Warm",
         "url": "https://open.spotify.com/album/1XvNyVaJnHTZPpD5oWPXgn"
