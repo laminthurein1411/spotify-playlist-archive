@@ -13297,6 +13297,24 @@
     },
     {
       "album": {
+        "name": "Don't Touch!",
+        "url": "https://open.spotify.com/album/5SQTz1po86w7yd86CeciGR"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Don't Touch!",
+      "url": "https://open.spotify.com/track/5Ra9YCYlPeW050TLtkkOZF"
+    },
+    {
+      "album": {
         "name": "Don't Trip",
         "url": "https://open.spotify.com/album/5VzOrCKdBBmMwguy8bNbIz"
       },
@@ -32461,6 +32479,24 @@
     },
     {
       "album": {
+        "name": "Vivid Dreams & Intuitions.",
+        "url": "https://open.spotify.com/album/1JP3igcKwxOHBSgnLv6MfX"
+      },
+      "artists": [
+        {
+          "name": "Sajaa.",
+          "url": "https://open.spotify.com/artist/3RHBPqbFICf6I20SEYa2DQ"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250051,
+      "name": "Martini.",
+      "url": "https://open.spotify.com/track/6zpbUQiK8IHcO5CuGgOW0C"
+    },
+    {
+      "album": {
         "name": "Martini.",
         "url": "https://open.spotify.com/album/0orAwByMcTkgzx1VUPcahZ"
       },
@@ -40316,6 +40352,24 @@
       "duration_ms": 205146,
       "name": "Real Thing",
       "url": "https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh"
+    },
+    {
+      "album": {
+        "name": "Continue as a Guest",
+        "url": "https://open.spotify.com/album/6HKvAW8WkPfXYtUWudoLZm"
+      },
+      "artists": [
+        {
+          "name": "The New Pornographers",
+          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201373,
+      "name": "Really Really Light",
+      "url": "https://open.spotify.com/track/6c41viIUyOpPe3xJHxM2K1"
     },
     {
       "album": {

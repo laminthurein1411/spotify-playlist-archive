@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,207 songs - 8 day 7 hr 59 min
+3,210 songs - 8 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -722,6 +722,7 @@
 | [Don't Stop \- 2004 Remaster](https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:13 | 2025-11-19 |  |
 | [Don't Take It Personal \(Just One of Dem Days\)](https://open.spotify.com/track/0JCAezTC5IlK1a9o0YBEsD) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Miss Thang](https://open.spotify.com/album/71mPApAzW9HkbUGdYzMQHb) | 4:18 | 2025-01-09 |  |
 | [Don't Touch!](https://open.spotify.com/track/3WbuRvjn2aiJjG1LIm4J8U) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [The Flower That Knew](https://open.spotify.com/album/6uxo9ZMU9iqsFAJ84ldEbC) | 2:52 | 2025-02-06 |  |
+| [Don't Touch!](https://open.spotify.com/track/5Ra9YCYlPeW050TLtkkOZF) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Don't Touch!](https://open.spotify.com/album/5SQTz1po86w7yd86CeciGR) | 2:22 | 2025-12-28 |  |
 | [Don't Trip](https://open.spotify.com/track/7pSrnhWczBkVLNPeS8Whvo) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus) | [Don't Trip](https://open.spotify.com/album/5VzOrCKdBBmMwguy8bNbIz) | 3:00 | 2024-12-08 |  |
 | [Don't Walk Away Eileen](https://open.spotify.com/track/7y5nuOgwKmgof6472dvwa9) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [We Were Born In A Flame](https://open.spotify.com/album/3AoWVHZuuu68ZVOy1R55l9) | 3:12 | 2024-12-17 |  |
 | [Don't Wanna](https://open.spotify.com/track/5hMffqN6nHPltws5nhjTpR) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:21 | 2025-01-24 |  |
@@ -1748,6 +1749,7 @@
 | [MANIC PIXIE PACIFIST](https://open.spotify.com/track/4OKDuA6Jzoihyw0RjJdVWc) | [Haleluya Hailu](https://open.spotify.com/artist/7CSaduBt5yKoOLzznHpijS) | [MANIC PIXIE PACIFIST](https://open.spotify.com/album/6hKC0Z40oIV3Ub5DJyF2jQ) | 2:53 | 2024-12-10 |  |
 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 | 2025-01-11 |  |
 | [Maritime Moonshine](https://open.spotify.com/track/1Yrp7lcQXwhYyvzH3Z59aa) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Maritime Moonshine](https://open.spotify.com/album/6VLxgyGykw8lhOBri3Az1N) | 3:25 | 2025-04-18 |  |
+| [Martini.](https://open.spotify.com/track/6zpbUQiK8IHcO5CuGgOW0C) | [Sajaa.](https://open.spotify.com/artist/3RHBPqbFICf6I20SEYa2DQ) | [Vivid Dreams & Intuitions.](https://open.spotify.com/album/1JP3igcKwxOHBSgnLv6MfX) | 4:10 | 2025-12-28 |  |
 | [Martini.](https://open.spotify.com/track/7ARsq0batl7n1v2qQysiH2) | [Sajaa.](https://open.spotify.com/artist/3RHBPqbFICf6I20SEYa2DQ) | [Martini.](https://open.spotify.com/album/0orAwByMcTkgzx1VUPcahZ) | 4:10 | 2025-08-08 |  |
 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 | 2025-09-13 |  |
 | [Mary Jane's Last Dance](https://open.spotify.com/track/3dmqIB2Qxe2XZobw9gXxJ6) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Greatest Hits](https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y) | 4:33 | 2025-04-04 |  |
@@ -2167,6 +2169,7 @@
 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 | 2025-06-23 |  |
 | [Real Love Baby](https://open.spotify.com/track/3f2Q9ymA09iTBOk9qGNQZ3) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life And Life Only \(Expanded Edition\)](https://open.spotify.com/album/1SGhGR9S5y7N6nMO6FJCPC) | 3:03 | 2025-06-18 |  |
 | [Real Thing](https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Real Thing](https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv) | 3:25 | 2025-07-06 |  |
+| [Really Really Light](https://open.spotify.com/track/6c41viIUyOpPe3xJHxM2K1) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Continue as a Guest](https://open.spotify.com/album/6HKvAW8WkPfXYtUWudoLZm) | 3:21 | 2025-12-28 |  |
 | [Really Really Light](https://open.spotify.com/track/76Gx8ULHTaOMju0Sv3dkSk) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Continue as a Guest](https://open.spotify.com/album/4W7yoLgWewZv3rdhGjLB3B) | 3:21 | 2024-11-25 |  |
 | [Really Wanna Be With You](https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 4:31 | 2025-09-07 |  |
 | [Reasons I Drink](https://open.spotify.com/track/3YizZrPzNxTpH3OSJASvB7) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Such Pretty Forks in the Road](https://open.spotify.com/album/2eOvsabOLLh9ibyANQiFFM) | 3:36 | 2024-12-01 |  |
