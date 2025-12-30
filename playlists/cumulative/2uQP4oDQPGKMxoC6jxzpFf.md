@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,210 songs - 8 day 8 hr 9 min
+3,214 songs - 8 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [Can't Hide It](https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 3:19 | 2024-11-23 |  |
 | [Can't Hold Us \[Feat\. Mwanjé\]](https://open.spotify.com/track/4m7GhyLPmnQvZybjuxeYlP) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Can't Hold Us \[Feat\. Mwanjé\]](https://open.spotify.com/album/4rX3FZJVX0PSnhnlYs19qu) | 2:46 | 2025-12-03 |  |
 | [Can't Let Go](https://open.spotify.com/track/1KI016Hog5kWTGaKN3nZJS) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x) | 3:28 | 2025-03-19 |  |
+| [Can't Let Go](https://open.spotify.com/track/0kyM6MaS573Gt9Yna1rsqd) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 3:28 | 2025-12-29 |  |
 | [Can't Stop](https://open.spotify.com/track/5PbEiFCl62s4tKT7GwA96F) | [jacksoul](https://open.spotify.com/artist/3xEW8BqMGXWkxTZbQhtnLE) | [Sleepless](https://open.spotify.com/album/127pTtnPhVNMiY1XvgZNy3) | 3:59 | 2024-12-10 |  |
 | [Can't Take My Eyes Off of You \- \(I Love You Baby\)](https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 3:41 | 2025-02-15 |  |
 | [Can't Wait Till Christmas](https://open.spotify.com/track/5EFDul5zvAw4yI3SV38cbP) | [jacksoul](https://open.spotify.com/artist/3xEW8BqMGXWkxTZbQhtnLE) | [Can't Wait Till Christmas](https://open.spotify.com/album/2P5W3sdpuzWJ7C9dvHjiQA) | 3:41 | 2024-12-23 |  |
@@ -847,6 +848,7 @@
 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 | 2025-04-05 |  |
 | [Feeling Good](https://open.spotify.com/track/3yaVaGWwM9wEiz5jfUCnjP) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Feeling Good](https://open.spotify.com/album/4deoNiifgzXETLgp0G0DYP) | 3:51 | 2025-01-29 |  |
 | [Feeling Good](https://open.spotify.com/track/7u6HRyEoWlUkoEsbQxX7sa) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Feeling Good: Her Greatest Hits And Remixes](https://open.spotify.com/album/2sYpGtr8LUH2qXeY0lBQc5) | 2:55 | 2024-11-29 |  |
+| [Fell In Love With A Boy](https://open.spotify.com/track/6BOHQeYRHWUVy0Gcgj5iBJ) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [The Soul Sessions](https://open.spotify.com/album/188TILSlxecPremJwHDkk7) | 3:38 | 2025-12-29 |  |
 | [Felt This Way](https://open.spotify.com/track/2OyyV7E8D0iL3pVi44Yfok) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated Side B](https://open.spotify.com/album/449tCkuH49Wlto9x3r4XfW) | 3:37 | 2025-01-23 |  |
 | [Ferris Wheel](https://open.spotify.com/track/0yiJNNm39cp1T7RnXOMVLX) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Free Love](https://open.spotify.com/album/2KAPJ40On8JY1Yt64JJgTk) | 2:57 | 2025-03-20 |  |
 | [Fiddlers Green](https://open.spotify.com/track/73Fb9RsDgAYIszbMEpLNzn) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Performance And Cocktails \(Deluxe Edition\)](https://open.spotify.com/album/0QA22Bo9p1xhEOJ8rFol6o) | 4:01 | 2025-08-10 |  |
@@ -2291,6 +2293,7 @@
 | [Santa Man](https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Santa Man / Hot Christmas](https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN) | 2:06 | 2024-12-23 |  |
 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2024-12-23 |  |
 | [Santa's Watching You](https://open.spotify.com/track/49eVWIqxyhjLn08BPOsJkl) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [A Joyful Sound](https://open.spotify.com/album/67B3XA5n35k731nWWuC7dx) | 2:42 | 2025-12-22 |  |
+| [Sarah](https://open.spotify.com/track/6CdrLP2O7qqNptldZZfVQm) | [Sarah Slean](https://open.spotify.com/artist/5Iajdo2RauARzonA7d4XtW) | [Metaphysics](https://open.spotify.com/album/5XQ8tqk9o9lDWFenZA3Nvb) | 3:31 | 2025-12-29 |  |
 | [Satellite of Love](https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:42 | 2025-01-17 |  |
 | [Saturdays \(feat\. HAIM\)](https://open.spotify.com/track/5ClqcvP4dYDDX6Zv3jPQD1) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Caer](https://open.spotify.com/album/5eIgu8uJ3H18h8vVqJYggZ) | 3:25 | 2024-11-23 |  |
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-12-03 |  |
@@ -3179,6 +3182,7 @@
 | [You Don't Think About Me](https://open.spotify.com/track/5ghXw7Mj8KD2C9qW1d32n7) | [Madeleine Roger](https://open.spotify.com/artist/4ByHOwI0KSWMjrb4Wz5zvw) | [Nerve](https://open.spotify.com/album/2Y67rdLKbuzgt8UbQEqhTj) | 3:18 | 2025-07-19 |  |
 | [You Don't Think About Me](https://open.spotify.com/track/5sZa3q41NODJAoNL2blHqy) | [Madeleine Roger](https://open.spotify.com/artist/4ByHOwI0KSWMjrb4Wz5zvw) | [You Don't Think About Me](https://open.spotify.com/album/6fzRUFqaWYMAkEoytWtcXV) | 3:18 | 2024-11-25 |  |
 | [You Found Your Flower](https://open.spotify.com/track/2ZqT2h6xary2r5riw7l9Gx) | [John Southworth](https://open.spotify.com/artist/1JCRZCy8KmTjLIhk5xKblh) | [You Found Your Flower](https://open.spotify.com/album/5kF8RWaF7Bwdb4E9vBnTdW) | 3:49 | 2025-11-29 |  |
+| [You Gave Me the Key](https://open.spotify.com/track/0L0KG4TDG6uYhvSG7IP8W6) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT) | [I Thought of You](https://open.spotify.com/album/6m2Sj2ihB3lIKW7qsutQ76) | 2:47 | 2025-12-29 |  |
 | [You Get What You Give](https://open.spotify.com/track/5THybCnLJJ6yELeignV078) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [You Get What You Give](https://open.spotify.com/album/2OU1KMDkZAXhWs1FUHcFm6) | 3:37 | 2025-05-13 |  |
 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 | 2025-06-21 |  |
 | [You Got It \(The Right Stuff\)](https://open.spotify.com/track/4buDeg67vos7KP1yHrS9wl) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Hangin' Tough](https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK) | 4:09 | 2025-07-24 |  |
