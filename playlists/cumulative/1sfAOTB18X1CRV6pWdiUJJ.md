@@ -4,7 +4,7 @@
 
 > 
 
-737 songs - 2 day 1 hr 22 min
+739 songs - 2 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Dream On \- 2006 Remaster](https://open.spotify.com/track/6vfUBIWNOEZcjt5ZZrsXQV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Best of Depeche Mode, Volume 1](https://open.spotify.com/album/3PIszA6UT9iI99izK60AdV) | 3:39 | 2023-01-24 |  |
 | [Dreams](https://open.spotify.com/track/1lbXEepatjRVjoG8pZMtdp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:14 | 2023-04-18 |  |
 | [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 | 2022-05-12 |  |
+| [Drive](https://open.spotify.com/track/3geRffSf6eAruhg23RkpKV) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 4:31 | 2025-12-30 |  |
 | [Dumb](https://open.spotify.com/track/5gRcv46AMTrosmTOqrOV3Q) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 2:31 | 2022-12-10 |  |
 | [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-05-15 |  |
 | [Dust in the Wind](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Point Of Know Return \(Expanded Edition\)](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) | 3:26 | 2022-12-30 |  |
@@ -330,6 +331,7 @@
 | [It's Not Over](https://open.spotify.com/track/0wIhWLNLIOmzQ89B3rtTd3) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Daughtry](https://open.spotify.com/album/7MEQdKzqoG2QJYcT2XEKsW) | 3:35 | 2023-09-13 |  |
 | [It's Only Life](https://open.spotify.com/track/4UXSYJDEgOlMX3MXVkaiyH) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Port Of Morrow](https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi) | 4:01 | 2024-02-20 |  |
 | [It's The End Of The World As We Know It \(And I Feel Fine\)](https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 4:06 | 2023-01-13 |  |
+| [Jeremy](https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:18 | 2025-12-30 |  |
 | [Jesus Christ](https://open.spotify.com/track/72ccSGl5YcEWm0vhtVpi25) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [The Devil And God Are Raging Inside Me](https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy) | 5:18 | 2023-11-10 |  |
 | [Jodi Foster](https://open.spotify.com/track/2UCF3lyv2GpJkmPv344xKh) | [Pinehurst Kids](https://open.spotify.com/artist/0aCeh5bmtIE8JTGlGi1PZv) | [Minnesota Hotel](https://open.spotify.com/album/0tBYrBkIbx7Erkf5TNWQZj) | 2:57 | 2023-02-17 |  |
 | [Join Hands](https://open.spotify.com/track/7iEreLPOyowj8ITCdTH9bp) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 3:58 | 2023-01-27 |  |
