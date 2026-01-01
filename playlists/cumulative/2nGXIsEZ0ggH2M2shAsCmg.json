@@ -1567,6 +1567,24 @@
     },
     {
       "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1taiwc7i9KsE0GklRJ42HS"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177360,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/2VCUcIPY3i6pv9Nu9Vg6k3"
+    },
+    {
+      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/0afS7TjKOoq8LzTx9CgOnu"
       },
@@ -2729,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "Fire And Water (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0KP81rh3lxcY3KsFeQ8W4V"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332906,
+      "name": "All Right Now",
+      "url": "https://open.spotify.com/track/2i029PLP9lCpL6UEGFltAO"
+    },
+    {
+      "album": {
         "name": "Building The Perfect Beast",
         "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
       },
@@ -3684,6 +3720,24 @@
       "duration_ms": 516893,
       "name": "American Pie",
       "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
+    },
+    {
+      "album": {
+        "name": "The Next Best Thing (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3VMwwLeNAMWBdVIgbF6m2v"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273533,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/1vo6TY0FyLRBTXohxvflhJ"
     },
     {
       "album": {
@@ -7561,6 +7615,24 @@
     },
     {
       "album": {
+        "name": "Deep Purple in Rock (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5bQ0pj0jKb19Ab9AEVoU6C"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287560,
+      "name": "Black Night - Unedited Roger Glover remix",
+      "url": "https://open.spotify.com/track/3HUl1lURTNwGedt5nNUhAp"
+    },
+    {
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
       },
@@ -7774,6 +7846,24 @@
       "duration_ms": 376720,
       "name": "Blood On Blood",
       "url": "https://open.spotify.com/track/3e8Tr6rsHLNeoUwYCLZgvy"
+    },
+    {
+      "album": {
+        "name": "George Harrison",
+        "url": "https://open.spotify.com/album/49ZkNYNNscP7wzn5iFsfKV"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240680,
+      "name": "Blow Away",
+      "url": "https://open.spotify.com/track/2qUnskePLza0G1bD4LDrxK"
     },
     {
       "album": {
@@ -8710,6 +8800,24 @@
       "duration_ms": 227281,
       "name": "Boys Do Fall In Love",
       "url": "https://open.spotify.com/track/3kkWD4jESZLL9eXrzJypGH"
+    },
+    {
+      "album": {
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/1jkKKIpXPmCFr7m815t8th"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154866,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/0Ky1rnbxYY41g4H9plxK6Q"
     },
     {
       "album": {
@@ -11501,6 +11609,24 @@
     },
     {
       "album": {
+        "name": "Best of The Doobies",
+        "url": "https://open.spotify.com/album/32xyhzHlGGsDvs1E7qihRA"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194973,
+      "name": "China Grove - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3xTx1hQmlVN0tT9Al3GW4k"
+    },
+    {
+      "album": {
         "name": "Bridge Of Spies (Expanded Edition)",
         "url": "https://open.spotify.com/album/42pqPuCrcNziNDC2t6piNU"
       },
@@ -13281,6 +13407,24 @@
     },
     {
       "album": {
+        "name": "Flowers - the Hits Collection",
+        "url": "https://open.spotify.com/album/6n58xEuzzCQJZ68dady1x0"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Paige",
+          "url": "https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200293,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/0wlU3AK6gdsJUcf6pvyaTp"
+    },
+    {
+      "album": {
         "name": "The Hotlanta Soul of Loleatta Holloway",
         "url": "https://open.spotify.com/album/2MGscly7cCTqykmyu7Z27R"
       },
@@ -13876,6 +14020,28 @@
       "duration_ms": 359733,
       "name": "Dancing With Myself",
       "url": "https://open.spotify.com/track/1BY1Vd2Bt6JPOhMvsIwtVv"
+    },
+    {
+      "album": {
+        "name": "Dancing With Myself",
+        "url": "https://open.spotify.com/album/3wilvaRy208SfXz2oZsYiX"
+      },
+      "artists": [
+        {
+          "name": "Generation X",
+          "url": "https://open.spotify.com/artist/1inWec2E2UgfzMAhwjgTXe"
+        },
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359734,
+      "name": "Dancing With Myself - Uptown Mix",
+      "url": "https://open.spotify.com/track/5nh1Z4SVGBgHbsbmAyeIPd"
     },
     {
       "album": {
@@ -15260,6 +15426,24 @@
       "duration_ms": 262173,
       "name": "Do You Really Want To Hurt Me",
       "url": "https://open.spotify.com/track/1I6q6nwNjNgik1Qe8Oi0Y7"
+    },
+    {
+      "album": {
+        "name": "Culture Club (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1x5yxAvStMBrG5vxdKMdhY"
+      },
+      "artists": [
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263493,
+      "name": "Do You Really Want To Hurt Me - Remastered 2002",
+      "url": "https://open.spotify.com/track/3kNIXrf4wOLxBh40tA5NtN"
     },
     {
       "album": {
@@ -16665,6 +16849,24 @@
     },
     {
       "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/4Mu7aaT2AUrNVL2WQ29kAk"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/2L2Ng8HqZ9WcV9Sa89wXLG"
+    },
+    {
+      "album": {
         "name": "Dare/Fascination! (2012 - Remaster)",
         "url": "https://open.spotify.com/album/410corLJsB6WHRWedbo4wg"
       },
@@ -16921,6 +17123,24 @@
     },
     {
       "album": {
+        "name": "Yacht Rock Hits",
+        "url": "https://open.spotify.com/album/0ZIgJnxnTovScw5XYjA7xn"
+      },
+      "artists": [
+        {
+          "name": "Gary Wright",
+          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255746,
+      "name": "Dream Weaver",
+      "url": "https://open.spotify.com/track/5FLHdw0EpeEkQnjnguf2yB"
+    },
+    {
+      "album": {
         "name": "Soft Rock Hits 100 Best Songs from the 70s 80s 90s",
         "url": "https://open.spotify.com/album/2LBdsQfP7FHebnNldBLSog"
       },
@@ -17155,6 +17375,24 @@
     },
     {
       "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY"
+    },
+    {
+      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -17386,6 +17624,24 @@
       "duration_ms": 194666,
       "name": "Drivin' My Life Away",
       "url": "https://open.spotify.com/track/3PJ9yQv8IUmLx24KFvaVEI"
+    },
+    {
+      "album": {
+        "name": "Top 100 80s",
+        "url": "https://open.spotify.com/album/5Oyqflkptj0439nD1WkPxm"
+      },
+      "artists": [
+        {
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Drivin' My Life Away",
+      "url": "https://open.spotify.com/track/402ubic1ZcDlORfQSNva9f"
     },
     {
       "album": {
@@ -18687,6 +18943,24 @@
     },
     {
       "album": {
+        "name": "Top de Baladas en Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/219qOFwXI4w0SVtasq6roU"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260933,
+      "name": "Every Little Thing She Does Is Magic - Remastered 2003",
+      "url": "https://open.spotify.com/track/2EEfS2132BFgZzq8BP1afh"
+    },
+    {
+      "album": {
         "name": "Rhino Hi-Five: Sugar Ray",
         "url": "https://open.spotify.com/album/05s2UfuwvhwVzGkpydPDK0"
       },
@@ -19596,6 +19870,24 @@
       "duration_ms": 276280,
       "name": "Eye In The Sky",
       "url": "https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv"
+    },
+    {
+      "album": {
+        "name": "The Best of The Alan Parsons Project",
+        "url": "https://open.spotify.com/album/29202B7yl1kTbGirfOV6ls"
+      },
+      "artists": [
+        {
+          "name": "The Alan Parsons Project",
+          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276400,
+      "name": "Eye In The Sky",
+      "url": "https://open.spotify.com/track/2dRYgQfqlPJdQg3oh3iq0n"
     },
     {
       "album": {
@@ -22101,6 +22393,32 @@
     },
     {
       "album": {
+        "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+        "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247632,
+      "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+      "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
+    },
+    {
+      "album": {
         "name": "Get Off",
         "url": "https://open.spotify.com/album/5DsNE1hMkRX54uH0gJGTzK"
       },
@@ -24072,6 +24390,24 @@
       "duration_ms": 153333,
       "name": "Great Balls Of Fire",
       "url": "https://open.spotify.com/track/5jw1zzcYFivmuJK52JrnMK"
+    },
+    {
+      "album": {
+        "name": "The Golden Rock Hits Of Jerry Lee Lewis",
+        "url": "https://open.spotify.com/album/18MP7PeHp7MysDCRP2TNpt"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109706,
+      "name": "Great Balls Of Fire - 1964 Version",
+      "url": "https://open.spotify.com/track/5UvE5QlINnvEc7aFO14DVL"
     },
     {
       "album": {
@@ -26981,6 +27317,24 @@
     },
     {
       "album": {
+        "name": "The Crimson Idol",
+        "url": "https://open.spotify.com/album/1qIXNs2KIv1DfO01lwoUfz"
+      },
+      "artists": [
+        {
+          "name": "W.A.S.P.",
+          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262440,
+      "name": "Hold On To My Heart",
+      "url": "https://open.spotify.com/track/2dDg0gwg8y8ADIG8FLfGPt"
+    },
+    {
+      "album": {
         "name": "Toto",
         "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
       },
@@ -27840,6 +28194,24 @@
       "duration_ms": 280800,
       "name": "How Much Love",
       "url": "https://open.spotify.com/track/4CSFgPEx1PDP3PHDatvxsz"
+    },
+    {
+      "album": {
+        "name": "The Sound of the Smiths (Deluxe; 2008 Remaster)",
+        "url": "https://open.spotify.com/album/59gl3QDzCgH4GXzXLEwe55"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406986,
+      "name": "How Soon Is Now? - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5gXlabehojXdqcfFN8ncey"
     },
     {
       "album": {
@@ -29817,6 +30189,24 @@
     },
     {
       "album": {
+        "name": "Oto\u00f1o 2024",
+        "url": "https://open.spotify.com/album/59jqq15gARGV784R69WMKw"
+      },
+      "artists": [
+        {
+          "name": "Donna Lewis",
+          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239960,
+      "name": "I Love You Always Forever",
+      "url": "https://open.spotify.com/track/1U0mobmu4Kn3F09wX7dVx3"
+    },
+    {
+      "album": {
         "name": "New Sensations",
         "url": "https://open.spotify.com/album/0H1QdJdBc1roGFZ6g2U9Dx"
       },
@@ -31393,6 +31783,24 @@
     },
     {
       "album": {
+        "name": "Double Dose: Ultimate Hits",
+        "url": "https://open.spotify.com/album/1AyHmo89P5cOTi7kHkqzJF"
+      },
+      "artists": [
+        {
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215173,
+      "name": "I Won't Forget You - 2003 Remaster",
+      "url": "https://open.spotify.com/track/3ClIYSWHyhSYauFiWeOEIe"
+    },
+    {
+      "album": {
         "name": "Toto IV",
         "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
       },
@@ -31992,6 +32400,24 @@
       "duration_ms": 165613,
       "name": "I'm a Believer",
       "url": "https://open.spotify.com/track/1CSLeVCXmetBh8IkTPMFdL"
+    },
+    {
+      "album": {
+        "name": "More of The Monkees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167373,
+      "name": "I'm a Believer - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
     },
     {
       "album": {
@@ -34281,6 +34707,24 @@
     },
     {
       "album": {
+        "name": "The Very Best Of - It Never Rains In Southern California",
+        "url": "https://open.spotify.com/album/4Wgdypj8BX0HONZv1bkcDz"
+      },
+      "artists": [
+        {
+          "name": "Albert Hammond",
+          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230680,
+      "name": "It Never Rains in Southern California",
+      "url": "https://open.spotify.com/track/7L90r3lNr4EhK5KOGTpi1b"
+    },
+    {
+      "album": {
         "name": "It Never Rains In Southern California",
         "url": "https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM"
       },
@@ -36149,6 +36593,24 @@
     },
     {
       "album": {
+        "name": "Forever Fan",
+        "url": "https://open.spotify.com/album/3ry3lBNIuuTFMwHLLRm57z"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246520,
+      "name": "Just Like Jesse James - 2024 Remaster",
+      "url": "https://open.spotify.com/track/3stzcfyZOCfXI97MYBtPZ1"
+    },
+    {
+      "album": {
         "name": "Skyscraper",
         "url": "https://open.spotify.com/album/2mYFKWSxCYhLHSXsjLDmp4"
       },
@@ -37579,6 +38041,24 @@
     },
     {
       "album": {
+        "name": "Fresh As A Daisy - The Singles",
+        "url": "https://open.spotify.com/album/7e7fzFvve38Tcof8wcMiFM"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157293,
+      "name": "Laid",
+      "url": "https://open.spotify.com/track/4C66dgEp5fpsS0l99z6YPb"
+    },
+    {
+      "album": {
         "name": "Lake Shore Drive",
         "url": "https://open.spotify.com/album/24NY6n4z0tDzpt8QCiWEGV"
       },
@@ -37648,6 +38128,24 @@
       "duration_ms": 243000,
       "name": "Land of dreaming",
       "url": "https://open.spotify.com/track/1YfKXkN0iFofWBVq2i7dwd"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230546,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs"
     },
     {
       "album": {
@@ -37813,6 +38311,24 @@
     },
     {
       "album": {
+        "name": "Slowhand 35th Anniversary",
+        "url": "https://open.spotify.com/album/2c0bqDdHYpcyd8eQp55tbO"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236093,
+      "name": "Lay Down Sally",
+      "url": "https://open.spotify.com/track/7KvIISis7A5QHzXrlylnJD"
+    },
+    {
+      "album": {
         "name": "New Jersey (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
       },
@@ -37972,6 +38488,24 @@
       "duration_ms": 242840,
       "name": "Leave (Get Out)",
       "url": "https://open.spotify.com/track/3DOxMCaNBNvnjSzpHUSjE3"
+    },
+    {
+      "album": {
+        "name": "Runaway Horses",
+        "url": "https://open.spotify.com/album/42OFMJwFs9Yoc15ms3FL1w"
+      },
+      "artists": [
+        {
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278360,
+      "name": "Leave a Light On",
+      "url": "https://open.spotify.com/track/0CtduAlrLZclZOELOAOkjV"
     },
     {
       "album": {
@@ -38354,6 +38888,24 @@
     {
       "album": {
         "name": "Let's All Chant",
+        "url": "https://open.spotify.com/album/2xpV9DXIMjXsVPs5Mz0Nez"
+      },
+      "artists": [
+        {
+          "name": "The Michael Zager Band",
+          "url": "https://open.spotify.com/artist/1oX1l8zC13ovzEoGm2CAsd"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184453,
+      "name": "Let's All Chant",
+      "url": "https://open.spotify.com/track/2xGMzDlPnmPHD8HUYOy4Lw"
+    },
+    {
+      "album": {
+        "name": "Let's All Chant",
         "url": "https://open.spotify.com/album/316y8F5B5DXyuaSfCsWHhv"
       },
       "artists": [
@@ -38551,6 +39103,24 @@
     },
     {
       "album": {
+        "name": "Smashes Thrashes & Hits",
+        "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230620,
+      "name": "Let's Put The X In Sex",
+      "url": "https://open.spotify.com/track/1wVslVHkU5N8b8JIzFbpb0"
+    },
+    {
+      "album": {
         "name": "Between The Buttons",
         "url": "https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5"
       },
@@ -38620,6 +39190,24 @@
       "duration_ms": 137360,
       "name": "Let's Twist Again",
       "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
+    },
+    {
+      "album": {
+        "name": "Smashes Thrashes & Hits",
+        "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234573,
+      "name": "Lick It Up",
+      "url": "https://open.spotify.com/track/2yl0M4cgQuZ3WftBvqnm3n"
     },
     {
       "album": {
@@ -38962,6 +39550,24 @@
       "duration_ms": 274773,
       "name": "Linger",
       "url": "https://open.spotify.com/track/3HHehSGzW9dhs2V7Sod4jX"
+    },
+    {
+      "album": {
+        "name": "Original Album Series",
+        "url": "https://open.spotify.com/album/5jI4OnGdurMCi9G32qdfNk"
+      },
+      "artists": [
+        {
+          "name": "Echo & the Bunnymen",
+          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291866,
+      "name": "Lips Like Sugar",
+      "url": "https://open.spotify.com/track/024YZbVWhLXS5Pi3nUXFoy"
     },
     {
       "album": {
@@ -42645,6 +43251,24 @@
     },
     {
       "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/2hx6pazNQ4tMM5T47pIDBT"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249666,
+      "name": "Maria - Radio Edit",
+      "url": "https://open.spotify.com/track/4yHHx0rMvgCOoYoDWNdcR3"
+    },
+    {
+      "album": {
         "name": "18 Greatest Hits",
         "url": "https://open.spotify.com/album/5R4nunnQpi3Kh2t5UeMxYS"
       },
@@ -44354,6 +44978,24 @@
       "duration_ms": 200826,
       "name": "Morning Train (Nine to Five) - Edit",
       "url": "https://open.spotify.com/track/1qvDt6W8oaTO9Q4pFNMFEm"
+    },
+    {
+      "album": {
+        "name": "Danzig",
+        "url": "https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW"
+      },
+      "artists": [
+        {
+          "name": "Danzig",
+          "url": "https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204866,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp"
     },
     {
       "album": {
@@ -46216,6 +46858,24 @@
       "duration_ms": 176800,
       "name": "No Milk Today",
       "url": "https://open.spotify.com/track/26rqwzpocGyyW0Zn0Tb704"
+    },
+    {
+      "album": {
+        "name": "Into Something Good (The Mickie Most Years 1964-1972)",
+        "url": "https://open.spotify.com/album/0o3pjzJ5XZGm0BZieBsTcV"
+      },
+      "artists": [
+        {
+          "name": "Herman's Hermits",
+          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173573,
+      "name": "No Milk Today - 2003 Remaster",
+      "url": "https://open.spotify.com/track/4lomnPLbDXM91ReFt0kc60"
     },
     {
       "album": {
@@ -48949,6 +49609,24 @@
     },
     {
       "album": {
+        "name": "Foolish Behaviour",
+        "url": "https://open.spotify.com/album/27JkLpdO8Mh29l6k3hpQNF"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333200,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/0vZCwj0Mq5uS8GwSIYo6Y7"
+    },
+    {
+      "album": {
         "name": "Welela",
         "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
       },
@@ -50160,6 +50838,24 @@
       "duration_ms": 267306,
       "name": "Pour Some Sugar On Me",
       "url": "https://open.spotify.com/track/1aZLIbKEdsyqxyD6iNcrbA"
+    },
+    {
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267306,
+      "name": "Pour Some Sugar On Me - Remastered 2017",
+      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
     },
     {
       "album": {
@@ -52489,6 +53185,24 @@
     },
     {
       "album": {
+        "name": "Rio (Collector's Edition)",
+        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337333,
+      "name": "Rio - 2009 Remaster",
+      "url": "https://open.spotify.com/track/43eBgYRTmu5BJnCJDBU5Hb"
+    },
+    {
+      "album": {
         "name": "Hot In The Shade",
         "url": "https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM"
       },
@@ -54221,6 +54935,24 @@
     },
     {
       "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182746,
+      "name": "Santeria",
+      "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
+    },
+    {
+      "album": {
         "name": "Sublime (10th Anniversary Edition / Deluxe Edition)",
         "url": "https://open.spotify.com/album/4kq4T5cWLlP8NJkMA3S6AN"
       },
@@ -54726,6 +55458,24 @@
       "duration_ms": 241373,
       "name": "Say You, Say Me",
       "url": "https://open.spotify.com/track/0ouQk4M3Lq2jIsuHQn2LTt"
+    },
+    {
+      "album": {
+        "name": "Rom\u00e1nticas en ingl\u00e9s 70 80 y 90",
+        "url": "https://open.spotify.com/album/3YgaXRHdjYJQO4gteOxMnU"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243360,
+      "name": "Say You, Say Me",
+      "url": "https://open.spotify.com/track/1TeLCT8Y1XpvRkeSroTdti"
     },
     {
       "album": {
@@ -59317,6 +60067,24 @@
     },
     {
       "album": {
+        "name": "Soft Rock Hits 100 Best Songs from the 70s 80s 90s",
+        "url": "https://open.spotify.com/album/2LBdsQfP7FHebnNldBLSog"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Orr",
+          "url": "https://open.spotify.com/artist/6FV7vG3YdZqITxCEbUK98Y"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262413,
+      "name": "Stay the Night",
+      "url": "https://open.spotify.com/track/0guzFP3FeTxM0Jwk03th9y"
+    },
+    {
+      "album": {
         "name": "The Lace",
         "url": "https://open.spotify.com/album/2Vgc12BURqO2dyjW144zEr"
       },
@@ -59952,6 +60720,24 @@
       "duration_ms": 247320,
       "name": "Strawberry Fields Forever - Remastered 2009",
       "url": "https://open.spotify.com/track/3Am0IbOxmvlSXro7N5iSfZ"
+    },
+    {
+      "album": {
+        "name": "Beggars Banquet (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195146,
+      "name": "Street Fighting Man - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/7EXgO1bRnEArE58rtrgMWB"
     },
     {
       "album": {
@@ -63225,6 +64011,24 @@
     },
     {
       "album": {
+        "name": "Seventh Son of a Seventh Son (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1rG6IgNdwE1IGFuIKuYosz"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267293,
+      "name": "The Clairvoyant - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1NVvYEAv61lWHmptNEBUHf"
+    },
+    {
+      "album": {
         "name": "At Worst...The Best Of Boy George And Culture Club",
         "url": "https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3"
       },
@@ -63240,6 +64044,24 @@
       "duration_ms": 202840,
       "name": "The Crying Game",
       "url": "https://open.spotify.com/track/3txSqHwGING6J7waJXN8RJ"
+    },
+    {
+      "album": {
+        "name": "Classic Masters",
+        "url": "https://open.spotify.com/album/4cNb74MqKen06AdO6EUvT6"
+      },
+      "artists": [
+        {
+          "name": "Boy George",
+          "url": "https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202973,
+      "name": "The Crying Game",
+      "url": "https://open.spotify.com/track/1FdUklYyUeOtahVc2WjLkt"
     },
     {
       "album": {
@@ -64224,6 +65046,24 @@
       "duration_ms": 237320,
       "name": "The Look",
       "url": "https://open.spotify.com/track/2oWMI54r0qT4N8Xb4C76vq"
+    },
+    {
+      "album": {
+        "name": "Lo mejor de los 80s y 90s 100 cl\u00e1sicos en ingl\u00e9s",
+        "url": "https://open.spotify.com/album/12shc0OaIzdgbBRz1M6c8a"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237320,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/32C6PYYaJKae7lpWuV4aY7"
     },
     {
       "album": {
@@ -65597,6 +66437,24 @@
     },
     {
       "album": {
+        "name": "Greatest Radio Hits",
+        "url": "https://open.spotify.com/album/4J4dF4JJGsKan5YaykIVcA"
+      },
+      "artists": [
+        {
+          "name": "Bruce Hornsby and the Range",
+          "url": "https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297920,
+      "name": "The Way It Is - Remastered",
+      "url": "https://open.spotify.com/track/3tmeua6TKrQAEyniklh9D9"
+    },
+    {
+      "album": {
         "name": "The Way We Were",
         "url": "https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS"
       },
@@ -66719,6 +67577,28 @@
     },
     {
       "album": {
+        "name": "Hold Your Fire",
+        "url": "https://open.spotify.com/album/3OSQvwW2BElGZfjhsHJEru"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        },
+        {
+          "name": "Aimee Mann",
+          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308866,
+      "name": "Time Stand Still",
+      "url": "https://open.spotify.com/track/1uqGSvSc207Zlgi4sGr9RQ"
+    },
+    {
+      "album": {
         "name": "One By One (Expanded Edition)",
         "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
       },
@@ -67387,6 +68267,42 @@
     },
     {
       "album": {
+        "name": "Beast from the East (Live)",
+        "url": "https://open.spotify.com/album/4YYe4GjRCbRGOOpAYarC4Q"
+      },
+      "artists": [
+        {
+          "name": "Dokken",
+          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205573,
+      "name": "Tooth and Nail - Live in Japan, 1988",
+      "url": "https://open.spotify.com/track/1ZpBJ0Ep3YFqUahDUg6NnJ"
+    },
+    {
+      "album": {
+        "name": "For Unlawful Carnal Knowledge",
+        "url": "https://open.spotify.com/album/7lWC6ElWsMOxPqhHzte3Ag"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232866,
+      "name": "Top of the World",
+      "url": "https://open.spotify.com/track/30IBbNzTzqPyYU2VxFtHRs"
+    },
+    {
+      "album": {
         "name": "Left Of The Middle",
         "url": "https://open.spotify.com/album/6HOvWskl058duikMCVOLcW"
       },
@@ -67474,6 +68390,24 @@
       "duration_ms": 190253,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW"
+    },
+    {
+      "album": {
+        "name": "Move To This (Polydor Expanded Edition)",
+        "url": "https://open.spotify.com/album/13wiPIgApSTk5vkBn6gF2c"
+      },
+      "artists": [
+        {
+          "name": "Cathy Dennis",
+          "url": "https://open.spotify.com/artist/2zVsfeSyFbCey7rq7PasHp"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249520,
+      "name": "Touch Me (All Night Long)",
+      "url": "https://open.spotify.com/track/45DR2Hxjm4xKlfvTROttrh"
     },
     {
       "album": {
@@ -69617,6 +70551,24 @@
     },
     {
       "album": {
+        "name": "Driving Songs",
+        "url": "https://open.spotify.com/album/0PZ6p6h37zPRCskVNqBRbw"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229360,
+      "name": "Virtual Insanity - Remastered 2006",
+      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v"
+    },
+    {
+      "album": {
         "name": "Travelling Without Moving (Remastered)",
         "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
       },
@@ -70179,6 +71131,28 @@
     },
     {
       "album": {
+        "name": "Walk This Way",
+        "url": "https://open.spotify.com/album/7GtJbUlzblbVdpFqubgglx"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        },
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218133,
+      "name": "Walk This Way (feat. Aerosmith) - 7\" Single Version",
+      "url": "https://open.spotify.com/track/2SelIoNf0P0QrHMQnSEX8q"
+    },
+    {
+      "album": {
         "name": "Information Society",
         "url": "https://open.spotify.com/album/1pQhBQI8Oxo4p2wh61rGfg"
       },
@@ -70493,6 +71467,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202306,
+      "name": "Want You Bad",
+      "url": "https://open.spotify.com/track/2DxHp4fYbOLQlyBOP19L1A"
+    },
+    {
+      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -70544,6 +71536,24 @@
       "duration_ms": 171080,
       "name": "Wasted on the Way - 2005 Remaster",
       "url": "https://open.spotify.com/track/3LMe4h7CrPLJrViTVzfDot"
+    },
+    {
+      "album": {
+        "name": "Slave to the Grind",
+        "url": "https://open.spotify.com/album/48BCVjId3c06exwZ5jc4zm"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348760,
+      "name": "Wasted Time",
+      "url": "https://open.spotify.com/track/0MifhDugHOql4oMAea1Ont"
     },
     {
       "album": {
@@ -70634,6 +71644,24 @@
       "duration_ms": 239933,
       "name": "Watching The Wheels - Remastered 2010",
       "url": "https://open.spotify.com/track/26Kw6zBo3Uy98q5LTlFfVJ"
+    },
+    {
+      "album": {
+        "name": "Double Fantasy: Stripped Down",
+        "url": "https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239933,
+      "name": "Watching The Wheels - Remastered 2010",
+      "url": "https://open.spotify.com/track/4fKhRRYn7F5shZItjJkPJU"
     },
     {
       "album": {
@@ -71102,6 +72130,24 @@
       "duration_ms": 153133,
       "name": "We Got The Beat",
       "url": "https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF"
+    },
+    {
+      "album": {
+        "name": "The Greatest Hits Collection",
+        "url": "https://open.spotify.com/album/1mOwW2z2alFWJUEExm3ErB"
+      },
+      "artists": [
+        {
+          "name": "Vengaboys",
+          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222458,
+      "name": "We Like To Party! (The Vengabus)",
+      "url": "https://open.spotify.com/track/3JW9s9upXEIYUQwd430m1L"
     },
     {
       "album": {
@@ -71999,6 +73045,24 @@
     },
     {
       "album": {
+        "name": "Lady Boss Anthems",
+        "url": "https://open.spotify.com/album/64jec0cjLZRVHAMMmBwryd"
+      },
+      "artists": [
+        {
+          "name": "4 Non Blondes",
+          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292162,
+      "name": "What's Up?",
+      "url": "https://open.spotify.com/track/2lwKVTNAPhNIWpVS4iUime"
+    },
+    {
+      "album": {
         "name": "Bigger, Better, Faster, More !",
         "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
       },
@@ -72086,6 +73150,24 @@
       "duration_ms": 358698,
       "name": "Wheels of Steel - 2009 Remastered Version",
       "url": "https://open.spotify.com/track/4ie42LCUKcp68EnZOMw9PG"
+    },
+    {
+      "album": {
+        "name": "Time, Love & Tenderness",
+        "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231066,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/3ascnOSOR5MX901ylGuhcl"
     },
     {
       "album": {
@@ -73759,6 +74841,24 @@
     },
     {
       "album": {
+        "name": "Left Of The Middle",
+        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232560,
+      "name": "Wishing I Was There",
+      "url": "https://open.spotify.com/track/7zrWPRYubwn8k8Id80LDCv"
+    },
+    {
+      "album": {
         "name": "Pop Music: The Modern Era 1976-1999",
         "url": "https://open.spotify.com/album/0Jh7XIEQrNQAXm7a6hbJ1h"
       },
@@ -74263,6 +75363,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153866,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/6VojZJpMyuKClbwyilWlQj"
+    },
+    {
+      "album": {
         "name": "The Beach Boys Love Songs",
         "url": "https://open.spotify.com/album/4NnBDxnxiiXiMlssBi9Bsq"
       },
@@ -74296,6 +75414,24 @@
       "duration_ms": 279733,
       "name": "Wuthering Heights",
       "url": "https://open.spotify.com/track/14ILPmvz8SimpiISsCB58J"
+    },
+    {
+      "album": {
+        "name": "Xanadu - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/325AF2IWtxrY0jcoW25N45"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208240,
+      "name": "Xanadu",
+      "url": "https://open.spotify.com/track/0cXFXgFns7sIMmTpqyGRmD"
     },
     {
       "album": {
@@ -76197,6 +77333,24 @@
     },
     {
       "album": {
+        "name": "80s Love",
+        "url": "https://open.spotify.com/album/32lmUaLZd5G6yoXvMNLVUI"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229240,
+      "name": "You're the Inspiration - 2006 Remaster",
+      "url": "https://open.spotify.com/track/5TR5xEL5zYtHDJ1GO2JSzk"
+    },
+    {
+      "album": {
         "name": "Now More Than Ever: The History of Chicago (Remaster)",
         "url": "https://open.spotify.com/album/0vDTIpQP3H8mH6xlBRlSVC"
       },
@@ -76375,6 +77529,24 @@
     },
     {
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J4iMx3rWJ0lFmSPdI14Io"
+      },
+      "artists": [
+        {
+          "name": "Gary Puckett & The Union Gap",
+          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191266,
+      "name": "Young Girl",
+      "url": "https://open.spotify.com/track/28E3Hw3po6GAA83aB9vHSz"
+    },
+    {
+      "album": {
         "name": "Young Girl: The Best Of Gary Puckett & The Union Gap",
         "url": "https://open.spotify.com/album/15Oqj9h8TSkGsoOKDKjsqA"
       },
@@ -76466,6 +77638,24 @@
       "duration_ms": 302413,
       "name": "Young Turks - 2008 Remaster",
       "url": "https://open.spotify.com/track/5n1amEDwVKucAGMqePk9yN"
+    },
+    {
+      "album": {
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249626,
+      "name": "Your Body Is a Wonderland",
+      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
     },
     {
       "album": {

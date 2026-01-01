@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1sfAOTB18X1CRV6pWdiUJJ.md) - [plain]
 
 > 
 
-[miniwheatsmcqueen](https://open.spotify.com/user/miniwheatsmcqueen) - 530 likes - 738 songs - 2 day 1 hr 28 min
+[miniwheatsmcqueen](https://open.spotify.com/user/miniwheatsmcqueen) - 529 likes - 738 songs - 2 day 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
