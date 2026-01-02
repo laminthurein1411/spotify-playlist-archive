@@ -6,7 +6,7 @@
     "name": "ramiro",
     "url": "https://open.spotify.com/user/rgarzaa"
   },
-  "snapshot_id": "AAACZP6AvlU0FjQuCoarx4jFm1y1JciZ",
+  "snapshot_id": "AAACZbY5M/Zh35kBoQsk58hupAjmKm0c",
   "tracks": [
     {
       "added_at": "2024-02-28 02:33:08",
@@ -69599,6 +69599,54 @@
       "duration_ms": 173573,
       "name": "No Milk Today - 2003 Remaster",
       "url": "https://open.spotify.com/track/4lomnPLbDXM91ReFt0kc60"
+    },
+    {
+      "added_at": "2026-01-01 05:50:46",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/0ltMvVSghaSqTjZrzkotsM"
+      },
+      "artists": [
+        {
+          "name": "Shalamar",
+          "url": "https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "A Night to Remember (Single Version)",
+      "url": "https://open.spotify.com/track/3zLKIwcBSnh2i4TN65iPgB"
+    },
+    {
+      "added_at": "2026-01-01 05:50:46",
+      "album": {
+        "name": "I'll Keep Holding On",
+        "url": "https://open.spotify.com/album/45GDIkXZqYCr9daktQyOFo"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "Holding Back the Years",
+      "url": "https://open.spotify.com/track/4UYHgbn0G05jJj3iIGmiIe"
+    },
+    {
+      "added_at": "2026-01-01 05:50:46",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 297426,
+      "name": "Eyes Without A Face - Remastered 1999",
+      "url": "https://open.spotify.com/track/3HCah9Waf9Jby9gLIWN4MI"
     }
   ],
   "unique_name": "Classic 106.9",

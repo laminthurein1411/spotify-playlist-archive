@@ -4,7 +4,7 @@
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-4,274 songs - 12 day 3 hr 47 min
+4,277 songs - 12 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [A Man Without Love](https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [A Man Without Love](https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE) | 3:23 | 2024-02-28 |  |
 | [A Matter of Trust](https://open.spotify.com/track/6J212smZzpeOCYQ9DITMSC) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Bridge](https://open.spotify.com/album/2fRxSC6FtiAkhEDVZr2seH) | 4:12 | 2024-03-01 |  |
 | [A Night to Remember](https://open.spotify.com/track/6G3YUhoNnxbR9XGRUbfm0C) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Nights to Remember](https://open.spotify.com/album/1O1WM0KlBCLmuUWdAJRtoK) | 3:34 | 2025-12-15 |  |
+| [A Night to Remember \(Single Version\)](https://open.spotify.com/track/3zLKIwcBSnh2i4TN65iPgB) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Friends](https://open.spotify.com/album/0ltMvVSghaSqTjZrzkotsM) | 3:32 | 2026-01-01 |  |
 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 | 2024-03-03 |  |
 | [A View to a Kill](https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 3:37 | 2024-03-01 |  |
 | [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [Hits'n'Flips](https://open.spotify.com/album/03yc1eq0YoS5Bgt6KSY9Wg) | 4:08 | 2025-12-15 |  |
@@ -1101,6 +1102,7 @@
 | [Eye of the Tiger](https://open.spotify.com/track/0jSRZBsn3RqAhBDzAefHAD) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:47 | 2025-12-29 |  |
 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 | 2024-03-05 |  |
 | [Eyes Without A Face](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:59 | 2024-03-09 |  |
+| [Eyes Without A Face \- Remastered 1999](https://open.spotify.com/track/3HCah9Waf9Jby9gLIWN4MI) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Greatest Hits](https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA) | 4:57 | 2026-01-01 |  |
 | [Face The Face](https://open.spotify.com/track/2PFOLIT19EDg8J5GSVeVjT) | [Pete Townshend](https://open.spotify.com/artist/24Wa5wIZIo1sPkzVGP0B5p) | [White City: A Novel](https://open.spotify.com/album/0hBargVjE5PfagjeyESGmI) | 5:54 | 2024-03-03 |  |
 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 | 2025-12-15 |  |
 | [Fade To Grey](https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu) | [Visage](https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B) | [Visage](https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf) | 3:59 | 2025-12-15 |  |
@@ -1508,6 +1510,7 @@
 | [Hold the Line](https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 3:55 | 2024-03-02 |  |
 | [Hold the Line](https://open.spotify.com/track/17arUdDWEinOOVrrVUkEM7) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [The Essential Toto](https://open.spotify.com/album/5QB4Ykf95muHSKHmc4oOL3) | 3:56 | 2025-12-19 |  |
 | [Holding Back The Years](https://open.spotify.com/track/0igkj25XiL8Ic1ZD1slUe2) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Songs Of Love](https://open.spotify.com/album/6hppPfWvEeVnOS1TBxG3lP) | 4:12 | 2024-03-18 |  |
+| [Holding Back the Years](https://open.spotify.com/track/4UYHgbn0G05jJj3iIGmiIe) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [I'll Keep Holding On](https://open.spotify.com/album/45GDIkXZqYCr9daktQyOFo) | 4:29 | 2026-01-01 |  |
 | [Holding Back the Years \- 2008 Remaster](https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Picture Book \(Expanded Version\)](https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT) | 4:29 | 2024-03-28 |  |
 | [Holding On](https://open.spotify.com/track/0OZnkFEWbTjp4oyT9bIpqe) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [To Hell With The Devil](https://open.spotify.com/album/4LAVjeUmJl3h3U44sMRrfm) | 4:13 | 2024-03-12 |  |
 | [Holding Out for a Hero \- From "Footloose" Soundtrack](https://open.spotify.com/track/5Hyr47BBGpvOfcykSCcaw9) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Secret Dreams and Forbidden Fire](https://open.spotify.com/album/4doea7KA9jw7nkm3IOs0PR) | 5:48 | 2025-12-15 |  |

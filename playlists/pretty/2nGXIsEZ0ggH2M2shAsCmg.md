@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,283 songs - 12 day 4 hr 27 min
+[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,286 songs - 12 day 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4291,5 +4291,8 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 4281 | [Leave a Light On](https://open.spotify.com/track/0CtduAlrLZclZOELOAOkjV) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Runaway Horses](https://open.spotify.com/album/42OFMJwFs9Yoc15ms3FL1w) | 4:38 |
 | 4282 | [Great Balls Of Fire \- 1964 Version](https://open.spotify.com/track/5UvE5QlINnvEc7aFO14DVL) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Golden Rock Hits Of Jerry Lee Lewis](https://open.spotify.com/album/18MP7PeHp7MysDCRP2TNpt) | 1:49 |
 | 4283 | [No Milk Today \- 2003 Remaster](https://open.spotify.com/track/4lomnPLbDXM91ReFt0kc60) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Into Something Good \(The Mickie Most Years 1964\-1972\)](https://open.spotify.com/album/0o3pjzJ5XZGm0BZieBsTcV) | 2:53 |
+| 4284 | [A Night to Remember \(Single Version\)](https://open.spotify.com/track/3zLKIwcBSnh2i4TN65iPgB) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Friends](https://open.spotify.com/album/0ltMvVSghaSqTjZrzkotsM) | 3:32 |
+| 4285 | [Holding Back the Years](https://open.spotify.com/track/4UYHgbn0G05jJj3iIGmiIe) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [I'll Keep Holding On](https://open.spotify.com/album/45GDIkXZqYCr9daktQyOFo) | 4:29 |
+| 4286 | [Eyes Without A Face \- Remastered 1999](https://open.spotify.com/track/3HCah9Waf9Jby9gLIWN4MI) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Greatest Hits](https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA) | 4:57 |
 
-Snapshot ID: `AAACZP6AvlU0FjQuCoarx4jFm1y1JciZ`
+Snapshot ID: `AAACZbY5M/Zh35kBoQsk58hupAjmKm0c`
