@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAAbkQBgx3pSLbx2bmYY6BLCIUXn8UK",
+  "snapshot_id": "AAAAb1iMrKBkAf4PK41S4PXpCBaEIkQ/",
   "tracks": [
     {
       "added_at": "2022-05-07 13:03:51",
@@ -2715,6 +2715,22 @@
       "duration_ms": 209013,
       "name": "\u042f \u0441\u043e\u0448\u043b\u0430 \u0441 \u0443\u043c\u0430",
       "url": "https://open.spotify.com/track/00fEaKXDScWhQDjzSXfSqm"
+    },
+    {
+      "added_at": "2026-01-03 05:14:56",
+      "album": {
+        "name": "\u0421\u043b\u0430\u0434\u043a\u0430\u044f \u0436\u0438\u0437\u043d\u044c",
+        "url": "https://open.spotify.com/album/6VjA2JeGzCvI9KVDAoksWB"
+      },
+      "artists": [
+        {
+          "name": "IC3PEAK",
+          "url": "https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8"
+        }
+      ],
+      "duration_ms": 199663,
+      "name": "\u0413\u0440\u0443\u0441\u0442\u043d\u0430\u044f \u0441\u0443\u043a\u0430",
+      "url": "https://open.spotify.com/track/7k6HFZe3WtGpbNUYY6Hndi"
     }
   ],
   "unique_name": "European \ud83c\udfe4",

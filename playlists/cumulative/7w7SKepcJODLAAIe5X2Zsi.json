@@ -4053,6 +4053,24 @@
     },
     {
       "album": {
+        "name": "Just Thinking...",
+        "url": "https://open.spotify.com/album/3Lju0Ii1dSAWX262yAYdX7"
+      },
+      "artists": [
+        {
+          "name": "Pause maybe?",
+          "url": "https://open.spotify.com/artist/39qg15Rtb00BmU98HN4TFZ"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272719,
+      "name": "The Way He Looks at Her",
+      "url": "https://open.spotify.com/track/0B3WiZX4n0aAr0lexbElfv"
+    },
+    {
+      "album": {
         "name": "The Best Tv Themes Playlist",
         "url": "https://open.spotify.com/album/5Ini1OKtHIn8faMmpq7uel"
       },

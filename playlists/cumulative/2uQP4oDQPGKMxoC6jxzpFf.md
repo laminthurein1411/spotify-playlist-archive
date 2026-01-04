@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,232 songs - 8 day 9 hr 32 min
+3,233 songs - 8 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2310,6 +2310,7 @@
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-12-03 |  |
 | [Saturn Return](https://open.spotify.com/track/05Z0dV3UVSYHn7KFGnSwRn) | [Hanorah](https://open.spotify.com/artist/3RxOQic8AVfAfIb17hVKUo) | [For the Good Guys and the Bad Guys](https://open.spotify.com/album/2qSZ57aUUXJbwuNrU6APxh) | 3:17 | 2025-01-13 |  |
 | [Save It For Later](https://open.spotify.com/track/5rBOBI3INEw0u0rwNNGib5) | [The English Beat](https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N) | [Special Beat Service \(Remastered\)](https://open.spotify.com/album/4Y1DZv5OK6rg4ljw2Oj6wP) | 3:33 | 2025-02-06 |  |
+| [Save Tonight](https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) | 3:59 | 2026-01-03 |  |
 | [Saving All My Love for You](https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:57 | 2025-02-14 |  |
 | [Say Goodbye, Tell No One](https://open.spotify.com/track/0ugLLqzg2FExprt0i6eUhk) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Save Your Soul / Say Goodbye, Tell No One](https://open.spotify.com/album/33AmcfGNqeKBZvoUVkXsMJ) | 6:12 | 2025-07-15 |  |
 | [Say Goodbye, Tell No One](https://open.spotify.com/track/4ruCWi3LnPgOlIpOsB32Ek) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Billionaire](https://open.spotify.com/album/169kyZ2zKTeB78mE2wPTmS) | 6:12 | 2025-11-03 |  |

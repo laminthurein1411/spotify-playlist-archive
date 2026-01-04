@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAAZZm6LSeitVGkd4W+IVy0DP8qCLvx",
+  "snapshot_id": "AAAAZrh2o7fw2ZzZyx4xEBslliRXENf8",
   "tracks": [
     {
       "added_at": "2020-01-16 15:46:47",
@@ -4203,6 +4203,22 @@
       "duration_ms": 204948,
       "name": "Qalbi Fil Madinah",
       "url": "https://open.spotify.com/track/0wlrVtFDcIBzZQoTdVcIkg"
+    },
+    {
+      "added_at": "2026-01-03 07:45:35",
+      "album": {
+        "name": "Just Thinking...",
+        "url": "https://open.spotify.com/album/3Lju0Ii1dSAWX262yAYdX7"
+      },
+      "artists": [
+        {
+          "name": "Pause maybe?",
+          "url": "https://open.spotify.com/artist/39qg15Rtb00BmU98HN4TFZ"
+        }
+      ],
+      "duration_ms": 272719,
+      "name": "The Way He Looks at Her",
+      "url": "https://open.spotify.com/track/0B3WiZX4n0aAr0lexbElfv"
     }
   ],
   "unique_name": "Various Song",

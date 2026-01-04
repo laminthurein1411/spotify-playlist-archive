@@ -4,7 +4,7 @@
 
 > 
 
-166 songs - 9 hr 3 min
+167 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Бесприданница](https://open.spotify.com/track/0yPQB0dC23cqu9isXsIV1l) | [DEAD BLONDE](https://open.spotify.com/artist/4k0dbhJImJWSJf9PsH7H3z) | [Княжна из хрущёвки](https://open.spotify.com/album/1c3MSMxSQg2NO71ohjrJps) | 3:00 | 2025-12-25 |  |
 | [В последний раз](https://open.spotify.com/track/3AQaEqdtm7DVQlBZBw6ZQh) | [Ансамбль Весёлые ребята](https://open.spotify.com/artist/7x91sJkli6lEJbMEdHnYf8) | [Музыкальный Глобус](https://open.spotify.com/album/0ggc96WgrOAIWsvQbRG8zl) | 3:10 | 2025-07-29 |  |
 | [Группа крови](https://open.spotify.com/track/5dyBwktTuzBHg1xJRHzRsW) | [Kino](https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42) | [Последний герой](https://open.spotify.com/album/6J5nW8fstQkcN9LwqrUmU9) | 3:55 | 2025-12-24 |  |
+| [Грустная сука](https://open.spotify.com/track/7k6HFZe3WtGpbNUYY6Hndi) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [Сладкая жизнь](https://open.spotify.com/album/6VjA2JeGzCvI9KVDAoksWB) | 3:19 | 2026-01-03 |  |
 | [И я](https://open.spotify.com/track/3eYySzaaWFz0E91CtqllEv) | [ANAZED](https://open.spotify.com/artist/3Uk305Q7Tf5kEm1HUtQy5Q) | [И я](https://open.spotify.com/album/2YdxcYRXKE5oWjWOykfr4q) | 2:21 | 2025-07-19 |  |
 | [Коламбия Пикчерз не представляет](https://open.spotify.com/track/2zSiBfllKHXlFX27Uhw5RM) | [Band'Eros](https://open.spotify.com/artist/2OgohSfhZqyIauFLZHvXLU) | [Коламбия Пикчерз не представляет \(Новое издание\)](https://open.spotify.com/album/7irkpcZLog7GJk8Awj9SRB) | 4:26 | 2025-12-22 |  |
 | [Колыбельная](https://open.spotify.com/track/47RyOrXqLydmsPrsVU7nTw) | [Rauf & Faik](https://open.spotify.com/artist/0a3zDmrvmZcORfPeONPvfL) | [Колыбельная](https://open.spotify.com/album/25egsfoMlUTUKa6HVCS962) | 3:53 | 2023-10-12 |  |

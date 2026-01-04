@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "3D Country",
+        "url": "https://open.spotify.com/album/4RT2pNX9ZXCB0LtqfI2sdJ"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313577,
+      "name": "3D Country",
+      "url": "https://open.spotify.com/track/1h0TAXegSmZzATP3MhqGbH"
+    },
+    {
+      "album": {
         "name": "Favourite Worst Nightmare (Standard Version)",
         "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
       },

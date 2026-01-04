@@ -4,7 +4,7 @@
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-4,305 songs - 12 day 5 hr 54 min
+4,306 songs - 12 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3733,6 +3733,7 @@
 | [Tie a Yellow Ribbon Round the Ole Oak Tree \(feat\. Tony Orlando\)](https://open.spotify.com/track/2EnzSQ4CcxxpBrTGvS85Wz) | [Tony Orlando & Dawn](https://open.spotify.com/artist/72NXpYBIaTfEeAAsxXLs0P), [Tony Orlando](https://open.spotify.com/artist/6PNZ6ZfwWLiUA2BrranFl3) | [Legends](https://open.spotify.com/album/7btNqW091WoKaxpzSvWBvc) | 3:27 | 2025-12-15 |  |
 | [Til I Hear It From You](https://open.spotify.com/track/5TKuf1mxDlHdXcvdIDViUR) | [Gin Blossoms](https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj) | [Til I Hear It From You](https://open.spotify.com/album/1Hb3wpvKy2PytjaBAZNAut) | 3:52 | 2024-03-05 |  |
 | [Till There Was You \- Remastered 2009](https://open.spotify.com/track/0ESIjVxnDnCDaTPo6sStHm) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 2:13 | 2024-03-30 |  |
+| [Time](https://open.spotify.com/track/5JG2UkenJbKghnQiX4b22m) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [The Turn Of A Friendly Card](https://open.spotify.com/album/1yPaTI4UxwbhZYbRkyZrFR) | 5:04 | 2026-01-03 |  |
 | [Time](https://open.spotify.com/track/48yJZwYYDZX5GKFND7wDfC) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [The Turn Of A Friendly Card \(Expanded Edition\)](https://open.spotify.com/album/00jalpLLeWNB3mdvN4DipA) | 5:14 | 2024-03-19 |  |
 | [Time After Time](https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 4:05 | 2024-03-01 |  |
 | [Time Is Ticking Out](https://open.spotify.com/track/1MWvL0p2ubNDp57bi7vqqH) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Wake Up And Smell The Coffee](https://open.spotify.com/album/592j1syleeHJWGP5a4kYPm) | 2:59 | 2024-03-05 |  |

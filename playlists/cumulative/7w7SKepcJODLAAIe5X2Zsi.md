@@ -4,7 +4,7 @@
 
 > 
 
-197 songs - 14 hr 7 min
+198 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [The Phantom of the Opera: Overture](https://open.spotify.com/track/7mZFYTDSIvDPBY8w0EJMUc) | [Prague Cello Quartet](https://open.spotify.com/artist/5GeMh4YY04Q71E55hL6D9A) | [Broadway](https://open.spotify.com/album/5WjFyMbVOxXY8cHOfFOqdF) | 3:17 | 2022-05-01 |  |
 | [The Truman Show: Truman Sleeps \- Short Version](https://open.spotify.com/track/29S6PLRccSCyKozzwIik0J) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Valentina Lisitsa](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) | [Valentina Lisitsa Plays Philip Glass](https://open.spotify.com/album/1DJldMHQQA7Fglm9dhMg8t) | 2:40 | 2022-05-01 |  |
 | [The Umbrella Academy](https://open.spotify.com/track/4YHVRJgWyh9NmbSWlf4oPG) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [The Umbrella Academy \(Deluxe Edition\) \(Original Series Soundtrack\)](https://open.spotify.com/album/6OU8qDVO4XqqhnQSEloJyj) | 5:17 | 2020-08-10 |  |
+| [The Way He Looks at Her](https://open.spotify.com/track/0B3WiZX4n0aAr0lexbElfv) | [Pause maybe?](https://open.spotify.com/artist/39qg15Rtb00BmU98HN4TFZ) | [Just Thinking...](https://open.spotify.com/album/3Lju0Ii1dSAWX262yAYdX7) | 4:32 | 2026-01-03 |  |
 | [Theme from "American Horror Story"](https://open.spotify.com/track/5pnkgXeXiDdgcepQAVbZUM) | [The Best of TV Series](https://open.spotify.com/artist/1IS4BZxAoQaDHqqrZao619) | [The Best Tv Themes Playlist](https://open.spotify.com/album/5Ini1OKtHIn8faMmpq7uel) | 3:05 | 2020-03-07 |  |
 | [Tili Tili Bom](https://open.spotify.com/track/0mEJsXPyIP9NEtO5NmRd4n) | [James Smith](https://open.spotify.com/artist/2E1XBQ5DauwgbvXww0hFtI) | [Tili Tili Bom](https://open.spotify.com/album/4r0jkeTCTUod8bsZfvTRe1) | 2:05 | 2020-04-04 |  |
 | [Today and it’s gone \(Munich Session\)](https://open.spotify.com/track/2wlUU8uTvjeCetz0EyeF5M) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Today and it’s gone \(Munich Session\)](https://open.spotify.com/album/1rOnSUZnWw9cR0CBikcRRT) | 4:18 | 2022-05-01 |  |

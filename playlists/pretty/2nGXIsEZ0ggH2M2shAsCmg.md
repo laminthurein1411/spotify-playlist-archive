@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,314 songs - 12 day 6 hr 34 min
+[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,315 songs - 12 day 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4322,5 +4322,6 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 4312 | [Wanna be starting something](https://open.spotify.com/track/2SPJSouZErticxocJpNXgN) | [Made famous by Michael Jackson](https://open.spotify.com/artist/686iPnPyM9JQa2lXdF1fxS) | [Karaoke Michael Jackson](https://open.spotify.com/album/3XUv3zPauJSyIWi2y3wXUy) | 6:01 |
 | 4313 | [A Horse with No Name](https://open.spotify.com/track/5ykrhva9DDcTVVIzSHSJ1Z) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [50th Anniversary: The Collection](https://open.spotify.com/album/1dFdKXFhg5NzP8seepz1CL) | 4:12 |
 | 4314 | [Sad Eyes](https://open.spotify.com/track/6zUctG2bXsdkF5oQbdPpuk) | [Robert John](https://open.spotify.com/artist/3pbKylceBTiUa0fZk4J4sJ) | [Robert John](https://open.spotify.com/album/6g2o4Nls7nTx2cjMbioDZ0) | 4:11 |
+| 4315 | [Time](https://open.spotify.com/track/5JG2UkenJbKghnQiX4b22m) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [The Turn Of A Friendly Card](https://open.spotify.com/album/1yPaTI4UxwbhZYbRkyZrFR) | 5:04 |
 
-Snapshot ID: `AAACZr2gaTYtvBAuybMLSDSDUW3qpUG1`
+Snapshot ID: `AAACZxYSBE46UoncB+f5UUkhE4H3lE3p`
