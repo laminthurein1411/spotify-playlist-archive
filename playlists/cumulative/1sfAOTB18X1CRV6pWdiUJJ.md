@@ -4,7 +4,7 @@
 
 > 
 
-739 songs - 2 day 1 hr 32 min
+740 songs - 2 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,6 +561,7 @@
 | [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 | 2022-05-21 |  |
 | [Soul Meets Body](https://open.spotify.com/track/5yc59J3MR3tVDPTOgwgRI5) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:49 | 2022-10-03 |  |
 | [Soul to Squeeze](https://open.spotify.com/track/3arKRnq9OUd7yq6LRwVW8I) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Greatest Hits](https://open.spotify.com/album/53tvjWbVNZKd3CvpENkzOC) | 4:49 | 2023-01-29 |  |
+| [Soup](https://open.spotify.com/track/2Hme8keBDSOXFCMkZvQHkp) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Nico](https://open.spotify.com/album/7ikXCPzEM6uTEugCzqG4cT) | 3:09 | 2026-01-04 |  |
 | [Speak Up](https://open.spotify.com/track/3WPVBSy8gle6w4Fd0NVXS7) | [POP ETC](https://open.spotify.com/artist/6gUiIIPmV6OXjHcvv1KCuL) | [The Twilight Saga: Breaking Dawn \- Part 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6lJrqUXdCpEINx1fi5EqMa) | 4:40 | 2023-08-04 |  |
 | [Spiderwebs](https://open.spotify.com/track/4ZD6SiaJi75smnel0d7jl3) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:26 | 2023-03-04 |  |
 | [Spotlight](https://open.spotify.com/track/4AM7vsDNovx39wvuXFz7KH) | [Mutemath](https://open.spotify.com/artist/1J9Z9bhqkgyqseEi85cbyx) | [Spotlight EP](https://open.spotify.com/album/1GKbjyJ0MCTFv1OqxQFmW6) | 3:20 | 2023-02-01 |  |

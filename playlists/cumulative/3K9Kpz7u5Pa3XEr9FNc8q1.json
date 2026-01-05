@@ -1353,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "\u0421\u043b\u0430\u0434\u043a\u0430\u044f \u0436\u0438\u0437\u043d\u044c",
+        "url": "https://open.spotify.com/album/6VjA2JeGzCvI9KVDAoksWB"
+      },
+      "artists": [
+        {
+          "name": "IC3PEAK",
+          "url": "https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199663,
+      "name": "\u0413\u0440\u0443\u0441\u0442\u043d\u0430\u044f \u0441\u0443\u043a\u0430",
+      "url": "https://open.spotify.com/track/7k6HFZe3WtGpbNUYY6Hndi"
+    },
+    {
+      "album": {
         "name": "\u0631\u0627\u064a\u062d\u064a\u0646 \u0646\u0633\u0647\u0631 - \u0628\u0627\u0645 \u0628\u0627\u0645",
         "url": "https://open.spotify.com/album/7zG7vNSjzxjXNY9UHPL3X0"
       },

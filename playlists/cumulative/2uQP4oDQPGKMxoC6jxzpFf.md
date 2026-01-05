@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,233 songs - 8 day 9 hr 36 min
+3,237 songs - 8 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -806,6 +806,7 @@
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 | 2025-02-21 |  |
 | [Everybody's Going Home for Christmas](https://open.spotify.com/track/44arVe0PcJ27spBf97QwZS) | [Hawksley Workman](https://open.spotify.com/artist/6TXT0xgAes45U8vyHeCIZJ) | [Everybody's Going Home For Christmas](https://open.spotify.com/album/0eNEcHPXxQYmjVu0Y97c0A) | 4:16 | 2024-12-23 |  |
 | [Everyday \(Rudebwoy\)](https://open.spotify.com/track/3rIbZ1ElW0ZFF646ZQrYTj) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Ray Robinson](https://open.spotify.com/artist/4w0YXf91PUV9T1zlTK6yPr) | [Everyday \(Rudebwoy\)](https://open.spotify.com/album/2ZDasdZAS2qpAyqr3Vetk3) | 4:17 | 2025-05-30 |  |
+| [Everyday \(Rudebwoy\) \- Explicit; Feat\. Ray Robinson](https://open.spotify.com/track/6mS7j2ppkc5rfL1cv6cEsQ) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Ray Robinson](https://open.spotify.com/artist/4w0YXf91PUV9T1zlTK6yPr) | [Fire & Glory](https://open.spotify.com/album/6q35kzIkEaEpJhH419dDe1) | 5:06 | 2026-01-04 |  |
 | [Everyday I Write The Book](https://open.spotify.com/track/1P9523tBg56NRc78lX2i4l) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Punch The Clock](https://open.spotify.com/album/0jo7K3IkLusU2dbYLvQIOs) | 3:54 | 2024-12-07 |  |
 | [Everyday Is A Winding Road](https://open.spotify.com/track/0t6DAi9KEiaWOtgTTXGhD2) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb) | 4:16 | 2025-03-11 |  |
 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 | 2025-06-28 |  |
@@ -1868,6 +1869,7 @@
 | [Naked as We Came](https://open.spotify.com/track/4FuBIkfhZMoRgrDiHL6TYG) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/2diNeeePw7kIT2K4DYCdJx) | 2:32 | 2024-12-14 |  |
 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 | 2025-09-18 |  |
 | [Naked Eye](https://open.spotify.com/track/6YtkOhiHmf46w1noltVnF2) | [Luscious Jackson](https://open.spotify.com/artist/1EcRE2Nnqg2spdn2otakhg) | [Fever In Fever Out](https://open.spotify.com/album/0GDMOxPfDWThpQJaGpJjqh) | 4:40 | 2025-02-20 |  |
+| [Name For You](https://open.spotify.com/track/6qnaCx4wQQBqFd9XdQyWjC) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Heartworms](https://open.spotify.com/album/51q9Mkz5BVwTRYsMlLASVZ) | 3:09 | 2026-01-04 |  |
 | [Name of God](https://open.spotify.com/track/3eqY61qcLkjspAxSVcp4rf) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Name of God](https://open.spotify.com/album/4dsJRxMPd5u4JUoHPUtpiJ) | 3:28 | 2024-11-22 |  |
 | [Name of God](https://open.spotify.com/track/71zgehvCv0MpqOk3jj0f55) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/45XoaObdMwc02uZjsuOfgq) | 3:29 | 2025-05-07 |  |
 | [Namu](https://open.spotify.com/track/3cMuNKA8WHL4T32ElmtjWc) | [Aasiva](https://open.spotify.com/artist/4TFa8JVulowS8qiI82mnWN), [FxckMr](https://open.spotify.com/artist/6koGapKHCllibfQSqj5uVr) | [Niriunniq](https://open.spotify.com/album/0pcNVsqSX1dC4tRWlBmBc8) | 2:39 | 2025-06-23 |  |
@@ -1994,6 +1996,7 @@
 | [On a Bluebird's Wing](https://open.spotify.com/track/2Pha4Ny8PyIq0GkaEnYWYl) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [On A Bluebird's Wing](https://open.spotify.com/album/6dOVgmu5erhWM0l4wOjqEx) | 2:29 | 2025-10-24 |  |
 | [On My Mind](https://open.spotify.com/track/0ohAtRF9SX1XTCQIYvOReA) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Bend The Rules \(Deluxe\)](https://open.spotify.com/album/4F1ch3sZPK5ghZi67RLzET) | 2:46 | 2025-05-16 |  |
 | [On Rolls the Wheel](https://open.spotify.com/track/0QA8zWdU1bEWFYq0s0t6Qv) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [On Rolls the Wheel](https://open.spotify.com/album/06yirzfYrQC1bQaicU9n7L) | 3:52 | 2025-07-25 |  |
+| [On Rolls the Wheel](https://open.spotify.com/track/2Mnj5pVYWnqrtZsqySFKwU) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Further From the Country](https://open.spotify.com/album/4hLnzIN6eYqCmitWi6TIPO) | 3:52 | 2026-01-04 |  |
 | [On s'aimera toujours](https://open.spotify.com/track/2RcrBSsrLtBVPKqEyYCqpy) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Impossible à aimer](https://open.spotify.com/album/1k6lh8sWWBUuJQDqqW10XX) | 3:28 | 2024-11-21 |  |
 | [On Your Way \(Felix Song\)](https://open.spotify.com/track/6tgatLFmwva7iQK2Y7eUCZ) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell](https://open.spotify.com/album/2XVyQw7WE4hAozLKcUTuHD) | 2:53 | 2025-01-06 |  |
 | [Once Around the Block](https://open.spotify.com/track/2TnNFFgZhaBzEEobxDy5uV) | [Badly Drawn Boy](https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO) | [Once Around the Block](https://open.spotify.com/album/7cpwgE4OyxbMoHIqQv5EDQ) | 4:04 | 2025-05-26 |  |
@@ -2290,6 +2293,7 @@
 | [Sage My Soul](https://open.spotify.com/track/1xKHTdrOlDwXVfe6mG8apM) | [Tia Wood](https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC) | [Sage My Soul](https://open.spotify.com/album/403Imnd6NTzDTbwxVAR2ZU) | 2:58 | 2025-10-24 |  |
 | [Sailing](https://open.spotify.com/track/5BhlE0di2Qeey289ECk9IF) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Sailing](https://open.spotify.com/album/4JC0wgDAIou1Q0005eCXb4) | 3:25 | 2024-11-29 |  |
 | [Sailing Away](https://open.spotify.com/track/1OTXETLr5zsryxlrobOJoG) | [Jennifer Castle](https://open.spotify.com/artist/2RzmnX5DXwcryxwUyREPbK) | [Pink City](https://open.spotify.com/album/7BVMXHPcQwUdHSYKSwYTm8) | 2:43 | 2025-03-09 |  |
+| [Sailor Song](https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:31 | 2026-01-04 |  |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-11-21 |  |
 | [Sailor Song \(First Draft 4.29.24\)](https://open.spotify.com/track/1gJLJgKRWjtaFMxwdeyfVc) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life \(Extended\)](https://open.spotify.com/album/4fULdU3VoqC0M1IHhVTAQ4) | 3:42 | 2025-12-13 |  |
 | [Salvation](https://open.spotify.com/track/1B5CspmMKjLYFMmuglDXdr) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Rattlesnake](https://open.spotify.com/album/7dJ8c1GEW8kVARyq0yoexn) | 3:23 | 2025-01-05 |  |

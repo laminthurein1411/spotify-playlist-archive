@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1sfAOTB18X1CRV6pWdiUJJ.md) - [plain]
 
 > 
 
-[miniwheatsmcqueen](https://open.spotify.com/user/miniwheatsmcqueen) - 528 likes - 738 songs - 2 day 1 hr 28 min
+[miniwheatsmcqueen](https://open.spotify.com/user/miniwheatsmcqueen) - 528 likes - 739 songs - 2 day 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -746,5 +746,6 @@ pretty - [cumulative](/playlists/cumulative/1sfAOTB18X1CRV6pWdiUJJ.md) - [plain]
 | 736 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 |
 | 737 | [Drive](https://open.spotify.com/track/3geRffSf6eAruhg23RkpKV) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 4:31 |
 | 738 | [Jeremy](https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:18 |
+| 739 | [Soup](https://open.spotify.com/track/2Hme8keBDSOXFCMkZvQHkp) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Nico](https://open.spotify.com/album/7ikXCPzEM6uTEugCzqG4cT) | 3:09 |
 
-Snapshot ID: `AAAEcAMMuout4f0M6g/aODDv9BPOpd+g`
+Snapshot ID: `AAAEcZS1BQpk2cj7kcBRENL7DPWjDoLJ`

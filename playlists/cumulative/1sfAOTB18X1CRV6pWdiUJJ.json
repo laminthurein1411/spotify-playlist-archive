@@ -10027,6 +10027,24 @@
     },
     {
       "album": {
+        "name": "Nico",
+        "url": "https://open.spotify.com/album/7ikXCPzEM6uTEugCzqG4cT"
+      },
+      "artists": [
+        {
+          "name": "Blind Melon",
+          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189346,
+      "name": "Soup",
+      "url": "https://open.spotify.com/track/2Hme8keBDSOXFCMkZvQHkp"
+    },
+    {
+      "album": {
         "name": "The Twilight Saga: Breaking Dawn - Part 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6lJrqUXdCpEINx1fi5EqMa"
       },
