@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,237 songs - 8 day 9 hr 51 min
+3,241 songs - 8 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -925,6 +925,7 @@
 | [Funkmobile](https://open.spotify.com/track/0UvBw3Yz0Izo19F9cWBB8d) | [Bass Is Base](https://open.spotify.com/artist/2vOGmXVmVKQatLILSM7JCj) | [Memories Of The Soulshack Survivor](https://open.spotify.com/album/7ssxDxrgEvkqAeWfIhzUhI) | 4:24 | 2025-07-02 |  |
 | [Funky Little Drummer Boy](https://open.spotify.com/track/0g84cpPuXCGczlhgPyVrUA) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [It's a Holiday Soul Party](https://open.spotify.com/album/206CtiH7Yc0YfOtW2UtP7T) | 3:18 | 2024-12-24 |  |
 | [Funny Business](https://open.spotify.com/track/5xjcpkBe01qsnlLa7y7dsO) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Mint](https://open.spotify.com/album/1qkkzTb8MXZrWlgcpElk4T) | 3:05 | 2025-05-10 |  |
+| [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 | 2026-01-05 |  |
 | [Games Without Frontiers](https://open.spotify.com/track/1SXSLvVq87U2DctZDXU5Id) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 3: Melt \(Remastered\)](https://open.spotify.com/album/0KLyPao7XpXHSAMmbkxCoz) | 4:06 | 2025-01-30 |  |
 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2025-06-05 |  |
 | [Gaslighter](https://open.spotify.com/track/4UN6sBmFTt2IqxN3IRqJT3) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:23 | 2024-12-03 |  |
@@ -1217,6 +1218,7 @@
 | [Hot & Heavy](https://open.spotify.com/track/6SIooImkHGKCIwgUZ3WDvD) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:10 | 2025-09-15 |  |
 | [Hot Fun in the Summertime \- Mono Single Master](https://open.spotify.com/track/4t6NQkpUmvpvLDCkl3XuwA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 2:39 | 2025-06-28 |  |
 | [Hot Tears](https://open.spotify.com/track/4iYYYiWBVhJn1Z1V9TkyBo) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Ways](https://open.spotify.com/album/6w2zgLO1su8mKicWFZBpMM) | 4:07 | 2024-12-09 |  |
+| [Hot Thoughts](https://open.spotify.com/track/48yvsxGXnJBxy8nXgGbs4S) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Hot Thoughts](https://open.spotify.com/album/1OPdyA7ZW7zIZEmSqThRGy) | 3:48 | 2026-01-05 |  |
 | [Hot Tonight](https://open.spotify.com/track/1uRlwFkMy4My5ZTBv76Zm1) | [Tokyo Police Club](https://open.spotify.com/artist/3wyfo3svXNWnszGAEVey11) | [Forcefield](https://open.spotify.com/album/3bmCUlJudMemE7DgoOzVwn) | 3:05 | 2024-11-22 |  |
 | [Hotel in Memphis](https://open.spotify.com/track/08bKFswxaiQge0cOiUSt60) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth) | 3:36 | 2025-01-02 |  |
 | [Hotline Bling](https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:27 | 2025-02-18 |  |
@@ -2232,6 +2234,7 @@
 | [Ring My Bell](https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd) | [Anita Ward](https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P) | [Ring My Bell](https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV) | 8:11 | 2025-08-09 |  |
 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 | 2025-08-08 |  |
 | [Ripple Effect](https://open.spotify.com/track/1M7qITm14RSN4md3l9ZPIS) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Hôtel de Ville](https://open.spotify.com/album/4tSyMoAffvFeEEzIG3cJ5E) | 3:22 | 2024-12-20 |  |
+| [Ripple Rock](https://open.spotify.com/track/3bkxcMj44mn9VeLyYoNiPr) | [The Evaporators](https://open.spotify.com/artist/3E6zfYGiiMDHNEMUPnKvQs) | [Ripple Rock](https://open.spotify.com/album/4vzRxORJb8q0pYdW6IAkKT) | 1:53 | 2026-01-05 |  |
 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 | 2025-01-17 |  |
 | [Risk](https://open.spotify.com/track/64ZYwei2k93G3muzSPXzRy) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Art of Doubt](https://open.spotify.com/album/234lxLeeuQCxSumvL3gB2z) | 5:24 | 2025-02-25 |  |
 | [River](https://open.spotify.com/track/4Ap6iKHnyE5dSLNZlQ7stS) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Watin](https://open.spotify.com/album/42rAIuXgRtLB5Qe6Lur5AN) | 4:16 | 2025-04-21 |  |
@@ -2754,6 +2757,7 @@
 | [The Mountain](https://open.spotify.com/track/2xxwbKFNgE3jDUdEijTeTd) | [Sargeant X Comrade](https://open.spotify.com/artist/3fvetbwKOGvPQsY5ArCOEb), [K\-Riz](https://open.spotify.com/artist/0G1ZodFKMIPjywMnC8YvgA) | [The Mountain](https://open.spotify.com/album/6wDdcx4xTiUpOAymIuZCe8) | 3:03 | 2025-10-05 |  |
 | [The Needle Has Landed](https://open.spotify.com/track/3U9q4Cg5wl1zhShxsNFivf) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 3:45 | 2025-02-17 |  |
 | [The New Year](https://open.spotify.com/track/4nPNsnv4QEiIzihzCU5zHH) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe) | 4:06 | 2025-01-02 |  |
+| [The Night Starts Here](https://open.spotify.com/track/6pXuTAFEUjydpI9ot0E3Vy) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [In Our Bedroom After The War](https://open.spotify.com/album/60PvE8VUpzqz6CYlpabkhx) | 4:53 | 2026-01-05 |  |
 | [The Night They Drove Old Dixie Down](https://open.spotify.com/track/2nvcTDmZkRWKNMAL29sLHo) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Band](https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x) | 3:31 | 2025-08-16 |  |
 | [The Old Apartment](https://open.spotify.com/track/5HjviQMuDBIvcyNXJtka23) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Born on a Pirate Ship \(Enhanced Edition\)](https://open.spotify.com/album/0ZhGG0DUBuvVNyICBnHlpZ) | 3:29 | 2025-01-28 |  |
 | [The Only Heartbreaker](https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:04 | 2025-06-04 |  |

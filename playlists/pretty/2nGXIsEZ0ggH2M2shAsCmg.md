@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,355 songs - 12 day 9 hr 10 min
+[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,356 songs - 12 day 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4363,5 +4363,6 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 4353 | [Crying in the Rain](https://open.spotify.com/track/4UcoThIM9NMOHUwQgCcUDy) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 1:59 |
 | 4354 | [Yakety Yak](https://open.spotify.com/track/3jfbysYxyCdUkhG7UzkTp4) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [Stand By Me \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0Yk5DkDnqOtzPuBzTs6fti) | 1:52 |
 | 4355 | [Mr\. Tambourine Man](https://open.spotify.com/track/5Fz9nJOhmVJYjZtN7ti2Py) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Greatest Hits](https://open.spotify.com/album/1NoUvTyvwokGSPcqudblVQ) | 2:29 |
+| 4356 | [Always on My Mind \- Remastered](https://open.spotify.com/track/0AmAZBnbXW7Dq1ykCamvRl) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 3:39 |
 
-Snapshot ID: `AAACaKzA6cU2ew2ZDNLALmsGxm07KAzk`
+Snapshot ID: `AAACaQgF3oC29wUyd5O1Suk7z921LFQH`

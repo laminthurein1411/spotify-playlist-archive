@@ -17115,6 +17115,24 @@
     },
     {
       "album": {
+        "name": "Furr",
+        "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
+      },
+      "artists": [
+        {
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247515,
+      "name": "Furr",
+      "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
+    },
+    {
+      "album": {
         "name": "Peter Gabriel 3: Melt (Remastered)",
         "url": "https://open.spotify.com/album/0KLyPao7XpXHSAMmbkxCoz"
       },
@@ -22580,6 +22598,24 @@
       "duration_ms": 247266,
       "name": "Hot Tears",
       "url": "https://open.spotify.com/track/4iYYYiWBVhJn1Z1V9TkyBo"
+    },
+    {
+      "album": {
+        "name": "Hot Thoughts",
+        "url": "https://open.spotify.com/album/1OPdyA7ZW7zIZEmSqThRGy"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228653,
+      "name": "Hot Thoughts",
+      "url": "https://open.spotify.com/track/48yvsxGXnJBxy8nXgGbs4S"
     },
     {
       "album": {
@@ -41549,6 +41585,24 @@
     },
     {
       "album": {
+        "name": "Ripple Rock",
+        "url": "https://open.spotify.com/album/4vzRxORJb8q0pYdW6IAkKT"
+      },
+      "artists": [
+        {
+          "name": "The Evaporators",
+          "url": "https://open.spotify.com/artist/3E6zfYGiiMDHNEMUPnKvQs"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113266,
+      "name": "Ripple Rock",
+      "url": "https://open.spotify.com/track/3bkxcMj44mn9VeLyYoNiPr"
+    },
+    {
+      "album": {
         "name": "Dream Your Life Away",
         "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
@@ -51270,6 +51324,24 @@
       "duration_ms": 246373,
       "name": "The New Year",
       "url": "https://open.spotify.com/track/4nPNsnv4QEiIzihzCU5zHH"
+    },
+    {
+      "album": {
+        "name": "In Our Bedroom After The War",
+        "url": "https://open.spotify.com/album/60PvE8VUpzqz6CYlpabkhx"
+      },
+      "artists": [
+        {
+          "name": "Stars",
+          "url": "https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293226,
+      "name": "The Night Starts Here",
+      "url": "https://open.spotify.com/track/6pXuTAFEUjydpI9ot0E3Vy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-4,346 songs - 12 day 8 hr 30 min
+4,347 songs - 12 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Always on My Mind](https://open.spotify.com/track/07ABETRdek3ACMpRPvQuaT) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Discography \- Complete Singles Collection](https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy) | 3:54 | 2024-03-01 |  |
 | [Always on My Mind \- 2003 Remaster](https://open.spotify.com/track/2SWn864dJI5RNyrp3F4Kp1) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [PopArt: The Hits](https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv) | 3:57 | 2024-02-28 |  |
 | [Always on my mind \- 2023 Remaster](https://open.spotify.com/track/10umreSPAEw9G1cJIDV8ey) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [SMASH – The Singles 1985 – 2020 \(2023 Remaster\)](https://open.spotify.com/album/4FCjoPQe3bP2RmBE1SRCJj) | 4:04 | 2025-12-22 |  |
+| [Always on My Mind \- Remastered](https://open.spotify.com/track/0AmAZBnbXW7Dq1ykCamvRl) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 3:39 | 2026-01-05 |  |
 | [Always On The Run](https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 3:53 | 2024-03-29 |  |
 | [Always Something There to Remind Me](https://open.spotify.com/track/0KlJjhnfwAnPacNd7EH45J) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Burning Bridges](https://open.spotify.com/album/6yRpzEmRaZbj1tFD0zYLe8) | 3:38 | 2025-12-15 |  |
 | [Always Something There to Remind Me](https://open.spotify.com/track/605xqf1Xl2yi9uOFwCYuNU) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Best Of](https://open.spotify.com/album/2pceXt5NqVC12uWPib0fYy) | 3:38 | 2025-12-15 |  |
