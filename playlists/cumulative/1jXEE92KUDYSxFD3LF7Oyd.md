@@ -4,7 +4,7 @@
 
 > 
 
-167 songs - 9 hr 7 min
+168 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Коламбия Пикчерз не представляет](https://open.spotify.com/track/2zSiBfllKHXlFX27Uhw5RM) | [Band'Eros](https://open.spotify.com/artist/2OgohSfhZqyIauFLZHvXLU) | [Коламбия Пикчерз не представляет \(Новое издание\)](https://open.spotify.com/album/7irkpcZLog7GJk8Awj9SRB) | 4:26 | 2025-12-22 |  |
 | [Колыбельная](https://open.spotify.com/track/47RyOrXqLydmsPrsVU7nTw) | [Rauf & Faik](https://open.spotify.com/artist/0a3zDmrvmZcORfPeONPvfL) | [Колыбельная](https://open.spotify.com/album/25egsfoMlUTUKa6HVCS962) | 3:53 | 2023-10-12 |  |
 | [Кошка](https://open.spotify.com/track/65e5VdJT8DIuVR8jxJWqLJ) | [Рычаги Машин](https://open.spotify.com/artist/1Vg3SQ1TaIjVT2svpmq05q), [Ольга Артуровна](https://open.spotify.com/artist/0emMziAHNFA4pJu9ogWvgq) | [Полетаем](https://open.spotify.com/album/4lZdRHVPTJvuWNsOxpWogT) | 3:57 | 2025-12-19 |  |
+| [Люди Надоели](https://open.spotify.com/track/7wrUu51QXPJehBNRQAC20D) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [С крыш наших домов](https://open.spotify.com/album/3vvxtuFGdpwxgd2Pyk6N1D) | 2:58 | 2026-01-06 |  |
 | [Моно](https://open.spotify.com/track/458NBiLmZSIFnCUFa10u8i) | [Lena Katina](https://open.spotify.com/artist/5RfS9o5FOLPdO77H58h3oA) | [Моно](https://open.spotify.com/album/7HSLkUnGYC73TPTGR0qgKL) | 3:15 | 2025-12-25 |  |
 | [права](https://open.spotify.com/track/6E2ec1JmPOXyh7k37tYhYU) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:26 | 2025-10-23 |  |
 | [Про красивую жизнь](https://open.spotify.com/track/2e35bSBvm3RVyHWTwWeFbO) | [Band'Eros](https://open.spotify.com/artist/2OgohSfhZqyIauFLZHvXLU) | [Коламбия Пикчерз не представляет \(Новое издание\)](https://open.spotify.com/album/7irkpcZLog7GJk8Awj9SRB) | 3:41 | 2025-12-20 |  |

@@ -9765,6 +9765,28 @@
     },
     {
       "album": {
+        "name": "Collide With The Sky",
+        "url": "https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236293,
+      "name": "King For A Day",
+      "url": "https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ"
+    },
+    {
+      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,156 songs - 2 day 20 hr 51 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,157 songs - 2 day 20 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1164,5 +1164,6 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 | 1154 | [Fall For You](https://open.spotify.com/track/0bJ7Fs6uqdILGFy8O7Stz7) | [Secondhand Serenade](https://open.spotify.com/artist/6eouuqqGggqDlYRV63cgPo) | [A Twist In My Story](https://open.spotify.com/album/5gZWshCxaxuim3bSyRIc6n) | 3:03 |
 | 1155 | [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 |
 | 1156 | [3D Country](https://open.spotify.com/track/1h0TAXegSmZzATP3MhqGbH) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/4RT2pNX9ZXCB0LtqfI2sdJ) | 5:13 |
+| 1157 | [King For A Day](https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:56 |
 
-Snapshot ID: `AAAEwJ1Q56M5MTCvxeeLZlpxh/U2xKH3`
+Snapshot ID: `AAAEwYb9/v4kbfL8TmPqPrH8ENYPo9h+`

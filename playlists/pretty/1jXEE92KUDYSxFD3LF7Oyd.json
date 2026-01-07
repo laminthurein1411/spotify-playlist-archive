@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAAb1iMrKBkAf4PK41S4PXpCBaEIkQ/",
+  "snapshot_id": "AAAAcE8omdtz2+nFiO/L3qWycJk3Uw3L",
   "tracks": [
     {
       "added_at": "2022-05-07 13:03:51",
@@ -2731,6 +2731,22 @@
       "duration_ms": 199663,
       "name": "\u0413\u0440\u0443\u0441\u0442\u043d\u0430\u044f \u0441\u0443\u043a\u0430",
       "url": "https://open.spotify.com/track/7k6HFZe3WtGpbNUYY6Hndi"
+    },
+    {
+      "added_at": "2026-01-06 05:40:41",
+      "album": {
+        "name": "\u0421 \u043a\u0440\u044b\u0448 \u043d\u0430\u0448\u0438\u0445 \u0434\u043e\u043c\u043e\u0432",
+        "url": "https://open.spotify.com/album/3vvxtuFGdpwxgd2Pyk6N1D"
+      },
+      "artists": [
+        {
+          "name": "Molchat Doma",
+          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+        }
+      ],
+      "duration_ms": 178860,
+      "name": "\u041b\u044e\u0434\u0438 \u041d\u0430\u0434\u043e\u0435\u043b\u0438",
+      "url": "https://open.spotify.com/track/7wrUu51QXPJehBNRQAC20D"
     }
   ],
   "unique_name": "European \ud83c\udfe4",

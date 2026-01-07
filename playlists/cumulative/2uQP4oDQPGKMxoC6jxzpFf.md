@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,241 songs - 8 day 10 hr 6 min
+3,244 songs - 8 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,6 +492,7 @@
 | [Charlie](https://open.spotify.com/track/05wB5Ut97mzE0nHUbfBsOW) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Charlie](https://open.spotify.com/album/0LmxzLt0YsLNsUaPUP4BgZ) | 3:06 | 2024-11-22 |  |
 | [Charlie Brown](https://open.spotify.com/track/16WnxfT3YRRQP6CA10CFcm) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Charlie Brown](https://open.spotify.com/album/3vLHtJNQIxQJCQqcFE2d78) | 2:49 | 2024-11-22 |  |
 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 | 2024-12-05 |  |
+| [Chasing Pirates](https://open.spotify.com/track/0oUXLtYiOsbAePn0CQsfI4) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [The Fall \(Deluxe Edition\)](https://open.spotify.com/album/0Zk9QQDtNjL1SV8GnA12SR) | 2:40 | 2026-01-06 |  |
 | [Chasing Pirates](https://open.spotify.com/track/7GsLrzsAash4bp75SltRaN) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [The Fall](https://open.spotify.com/album/0U7AFwPDmrvgthIFj7DQWq) | 2:40 | 2025-04-02 |  |
 | [Check the Rhime](https://open.spotify.com/track/4HfxDJ0uLHTLe0fZrx0MbQ) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Low End Theory](https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a) | 3:36 | 2025-02-22 |  |
 | [Cherry Coke](https://open.spotify.com/track/0IJrtDPknuRyaiEhF6xDlC) | [OMBIIGIZI](https://open.spotify.com/artist/6M9etLgzbkyne0y9cvxGAG) | [Sewn Back Together](https://open.spotify.com/album/08YlFLF1PnZw9k7l2nU5Zs) | 3:01 | 2025-03-14 |  |
@@ -1503,6 +1504,7 @@
 | [Just What I Needed](https://open.spotify.com/track/2rjPMQ8rJTLskPHP4ZCkji) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Just What I Needed](https://open.spotify.com/album/0I00sFWhGUoZY0muWNXA6M) | 3:36 | 2025-01-27 |  |
 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 | 2024-11-24 |  |
 | [justified](https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:00 | 2025-04-21 |  |
+| [K.I.S.S.](https://open.spotify.com/track/24Oo7T82zjwxBqLCOaAJqT) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK), [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO) | [Start Anew](https://open.spotify.com/album/2onyL6HGniM3WDiFst7nSO) | 3:05 | 2026-01-06 |  |
 | [K.I.S.S.](https://open.spotify.com/track/2oVn7NEk6I7nc70iKqG1H9) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK), [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO) | [K.I.S.S\. + Islands](https://open.spotify.com/album/4kpzh76nrn9CqtxWEy1XvB) | 3:05 | 2025-09-26 |  |
 | [Karma Police](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:24 | 2025-10-04 |  |
 | [Keep Dancing](https://open.spotify.com/track/6AxSTb8pe2x2plJWnuT7eN) | [Wolf Saga](https://open.spotify.com/artist/0Lwn2PjwIw7QaoN7gHyqCA) | [Keep Dancing](https://open.spotify.com/album/40hb1dPj6T4n8A2Oof1Kj3) | 3:47 | 2025-04-14 |  |
@@ -1885,6 +1887,7 @@
 | [Neon Signs](https://open.spotify.com/track/2iMao6uEOB4JDPDfYmVHrl) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Humanhood](https://open.spotify.com/album/7qWfaw5cGD6TBkfFFoKW5N) | 5:07 | 2025-03-19 |  |
 | [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 | 2024-11-27 |  |
 | [Never Be Without Love](https://open.spotify.com/track/1beUwQMn1RQizG3JvZhIym) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Billy Raffoul](https://open.spotify.com/album/7qg4d56S9VEuBCpfjfuUsZ) | 2:52 | 2025-11-17 |  |
+| [Never Be Without Love](https://open.spotify.com/track/1rphSn6LyAIKbpWyEO22a9) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [The Love of My Life \(Great Lakes Version\)](https://open.spotify.com/album/2TN9doa7YwTw2J3Z8ThY2o) | 2:52 | 2026-01-06 |  |
 | [Never Be Without Love](https://open.spotify.com/track/4Z2cZ9KlAzURjf9r5lay9Y) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Homebody \(The Red Version\)](https://open.spotify.com/album/29R7ZwF8KLauyYYeExnVHx) | 2:52 | 2025-11-08 |  |
 | [Never Be Without Love](https://open.spotify.com/track/6MkxIJbhsXIiL1maMJFZHm) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Never Be Without Love](https://open.spotify.com/album/0BCZ4HqL2CZN58qa2w8mxx) | 2:52 | 2025-09-04 |  |
 | [Never Fail](https://open.spotify.com/track/2PZCiAmLY7UO9qnVd8tIvO) | [Jah'Mila](https://open.spotify.com/artist/4jV1TM9uYCekcZ8PPlCj39) | [Woman of the Sun](https://open.spotify.com/album/1aackkmMfs9NjBCvsfUJTh) | 4:44 | 2025-07-02 |  |
