@@ -6881,6 +6881,24 @@
     },
     {
       "album": {
+        "name": "Juslisen",
+        "url": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254493,
+      "name": "Halfcrazy",
+      "url": "https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv"
+    },
+    {
+      "album": {
         "name": "#3",
         "url": "https://open.spotify.com/album/63eaHsLLsW1e5ISNf7ISZy"
       },
@@ -9892,6 +9910,24 @@
       "duration_ms": 206333,
       "name": "La vie en rose - Single Version",
       "url": "https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD"
+    },
+    {
+      "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190546,
+      "name": "Lagos Love",
+      "url": "https://open.spotify.com/track/3AYQsSyM8Mi8GV0OKItsBR"
     },
     {
       "album": {
@@ -15297,6 +15333,24 @@
     },
     {
       "album": {
+        "name": "Share My World",
+        "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307106,
+      "name": "Share My World",
+      "url": "https://open.spotify.com/track/1HvmjWFZpe1lrEl1ehLsvr"
+    },
+    {
+      "album": {
         "name": "Expensive Pain",
         "url": "https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K"
       },
@@ -17334,6 +17388,24 @@
       "duration_ms": 262600,
       "name": "Television / So Far So Good",
       "url": "https://open.spotify.com/track/5OUTFH5acycdnf8OVo21Gv"
+    },
+    {
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280760,
+      "name": "Tell Him",
+      "url": "https://open.spotify.com/track/7iCs98iS5n6KCI4q3H7zp9"
     },
     {
       "album": {
@@ -21592,6 +21664,24 @@
       "duration_ms": 216453,
       "name": "Your Rocky Spine",
       "url": "https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8"
+    },
+    {
+      "album": {
+        "name": "Your Secret Love",
+        "url": "https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252609,
+      "name": "Your Secret Love",
+      "url": "https://open.spotify.com/track/56JRqiQ6QRaehxkG8852pL"
     },
     {
       "album": {

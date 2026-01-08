@@ -4,7 +4,7 @@
 
 > 
 
-440 songs - 1 day 4 hr 55 min
+443 songs - 1 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [No One Saving Me](https://open.spotify.com/track/1EVvWvM6qTZTqaYzKSCLxQ) | [Ewan Mainwood](https://open.spotify.com/artist/0sYD7tLwt7uBajEg4adh6u) | [No One Saving Me](https://open.spotify.com/album/4EOYvJAJUHsboYnOJJAHvt) | 3:24 | 2022-05-15 |  |
 | [No Surprises \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/track/0ur0BoMX0LcblJzYsQxAS1) | [Jeremiah Fraites](https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Surprises \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/album/3NzR0FrJVJsw1vF2TfUPQc) | 4:17 | 2025-08-09 |  |
 | [No Surprises \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/track/24YZvIJzpw72dbDVmrDWms) | [Jeremiah Fraites](https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Piano Piano 2](https://open.spotify.com/album/7JQSf3WvCov5K9oScX00XA) | 4:17 | 2024-10-13 |  |
+| [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2026-01-07 |  |
 | [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 | 2023-06-21 |  |
 | [not over you](https://open.spotify.com/track/1hXAkVaCozEsMUPVCcEkO9) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [bye](https://open.spotify.com/album/6qgMAtWzDo8Y1yBoGxv189) | 3:10 | 2022-02-03 |  |
 | [nothing ever changes.](https://open.spotify.com/track/7GCP46SVdrrxlWqiYVPzDV) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [nothing ever changes.](https://open.spotify.com/album/36Xxqh9rfUkyM3quOJkB8x) | 2:03 | 2022-01-15 |  |
@@ -377,6 +378,7 @@
 | [Teal](https://open.spotify.com/track/1jJvNlkbQmtRpG9uIUpiYA) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:11 | 2025-04-14 |  |
 | [Tears in Heaven \- Acoustic Live](https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 4:40 | 2024-05-06 |  |
 | [Television / So Far So Good](https://open.spotify.com/track/5OUTFH5acycdnf8OVo21Gv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH) | 4:22 | 2022-01-08 |  |
+| [Tell Him](https://open.spotify.com/track/7iCs98iS5n6KCI4q3H7zp9) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 4:40 | 2026-01-07 |  |
 | [tell me a joke](https://open.spotify.com/track/2fOYcnUo9iPTOqIlSg26MY) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [I Didn't Mean To Haunt You](https://open.spotify.com/album/3c0NHNo2Gn0X7uARad3hGv) | 5:04 | 2025-04-14 |  |
 | [Tell Me That You Love Me](https://open.spotify.com/track/2wHA4yJKT8TJhGz20QxUqX) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Tell Me That You Love Me](https://open.spotify.com/album/4oWsCEo45zfCdw8piPQUYm) | 3:14 | 2022-02-08 |  |
 | [that way \- with Jeremy Zucker](https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [that way \(with Jeremy Zucker\)](https://open.spotify.com/album/0XiGU8X2kdQscNbohqwyIs) | 2:54 | 2022-02-08 |  |
@@ -446,6 +448,7 @@
 | [You Dream](https://open.spotify.com/track/0Sii2xstkjZl7hwHuNiGvZ) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ), [Tara Nome Doyle](https://open.spotify.com/artist/4juPbQZA8Z5lkQYtd4pNmv) | [Munich \- The Edge of War \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/7AeDl43UsW2wWLYgL7wQRw) | 3:57 | 2022-01-27 |  |
 | [you were good to me](https://open.spotify.com/track/6tNgjrWXWHx2zR52Q6qCLG) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [you were good to me](https://open.spotify.com/album/5SGGuJQoa1tIFzSIlj44zl) | 3:39 | 2022-02-08 |  |
 | [You Will Be Found \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/1IXXCrh0B7CPzcbH3fzuFc) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck), [Liz Kate](https://open.spotify.com/artist/6iiyR9wHi3XEBKJeyn8K1b), [DeMarius Copes](https://open.spotify.com/artist/27n0jTBWhILKvbVfSHVpmu), [Isaac Powell](https://open.spotify.com/artist/7qJ6rgL30lnNhMXpIpJpF0), [Hadiya Eshe’](https://open.spotify.com/artist/1XuBSCcRZTWI2pn3GG7ttj), [Kaitlyn Dever](https://open.spotify.com/artist/5OAt5hmsLcnFdk4Mly1Peq), [Dear Evan Hansen Choir](https://open.spotify.com/artist/696ovICSMRv19NRn79oCWl) | [Waving Through A Window / You Will Be Found \(From The “Dear Evan Hansen” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/24W5BzFFHbVgf2m8XJcT3i) | 5:58 | 2022-02-22 |  |
+| [Your Secret Love](https://open.spotify.com/track/56JRqiQ6QRaehxkG8852pL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Your Secret Love](https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN) | 4:12 | 2026-01-07 |  |
 | [Your Sweet Love](https://open.spotify.com/track/6DVyQl6VTvbqNQ0WU7gXIR) | [Lee Hazlewood](https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG) | [The Very Special World Of Lee Hazlewood \(Expanded Edition\)](https://open.spotify.com/album/4BshrFXTkg7Vhtdcqg0FpX) | 4:05 | 2023-08-24 |  |
 | [You’re Not Sorry \(Taylor’s Version\)](https://open.spotify.com/track/6iiAfo4wTA2CVC3Uwx9uh8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:21 | 2022-02-08 |  |
 

@@ -6677,6 +6677,24 @@
     },
     {
       "album": {
+        "name": "Break The Glass",
+        "url": "https://open.spotify.com/album/1rNBnjmYIVTgczFszFzQa3"
+      },
+      "artists": [
+        {
+          "name": "Don Amero",
+          "url": "https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230994,
+      "name": "Break The Glass",
+      "url": "https://open.spotify.com/track/1gqgST0UeFFNplGOqXMaXk"
+    },
+    {
+      "album": {
         "name": "Synthetica (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ"
       },
@@ -7462,6 +7480,24 @@
       "duration_ms": 203426,
       "name": "California",
       "url": "https://open.spotify.com/track/13wUh7lUhlUH2xxd3c7cqG"
+    },
+    {
+      "album": {
+        "name": "The Guest (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD"
+      },
+      "artists": [
+        {
+          "name": "Phantom Planet",
+          "url": "https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193933,
+      "name": "California - Tchad Blake Mix",
+      "url": "https://open.spotify.com/track/497Fkp3gRiGrRMoqBTDudr"
     },
     {
       "album": {
@@ -16356,6 +16392,28 @@
       "duration_ms": 240080,
       "name": "Flatline (feat. Kenny Mason)",
       "url": "https://open.spotify.com/track/17wZ58uIxULAVELzhEURni"
+    },
+    {
+      "album": {
+        "name": "PANIC",
+        "url": "https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240093,
+      "name": "Flatline (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/30K37PY02Y21inHms1lF0w"
     },
     {
       "album": {
@@ -36293,6 +36351,24 @@
     },
     {
       "album": {
+        "name": "Thank You for Today",
+        "url": "https://open.spotify.com/album/6agCM9GJcebduMddgFmgsO"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/28QF5ELXqDnaBjPjGTlzAK"
+    },
+    {
+      "album": {
         "name": "Northern Star",
         "url": "https://open.spotify.com/album/0mC3hcWWNre9ohxHvhUdln"
       },
@@ -38284,6 +38360,24 @@
       "duration_ms": 192381,
       "name": "Outbound Only, No Return",
       "url": "https://open.spotify.com/track/4ANVKZGOxA5eGRhhR1FmkU"
+    },
+    {
+      "album": {
+        "name": "Outcast",
+        "url": "https://open.spotify.com/album/1yrvfMs5sJOdR6uty4FcBF"
+      },
+      "artists": [
+        {
+          "name": "Art d'Ecco",
+          "url": "https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197945,
+      "name": "Outcast",
+      "url": "https://open.spotify.com/track/5Scg9DoX2EDQrPe1YxwKvG"
     },
     {
       "album": {
