@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,249 songs - 8 day 10 hr 33 min
+3,253 songs - 8 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1973,6 +1973,7 @@
 | [Nowhere To Run](https://open.spotify.com/track/4kRLFt1LhLQZQN3Vezu4nu) | [Laura Nyro](https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV), [LaBelle](https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5) | [Gonna Take A Miracle](https://open.spotify.com/album/6867EFvLm4xENyg1pdcRdh) | 5:02 | 2025-08-05 |  |
 | [Nowhere With You](https://open.spotify.com/track/7crWQsNCGNHWsPbUdXjiOe) | [Joel Plaskett Emergency](https://open.spotify.com/artist/64WWINLIAzJ2CgzZWkywB3), [Joel Plaskett](https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC) | [Make A Little Noise](https://open.spotify.com/album/0S5cAd6lo6C26xTqToKc47) | 3:01 | 2025-04-19 |  |
 | [nrvs again](https://open.spotify.com/track/2UdIXcg3LbjirjkMvzonDr) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [I AM JUST A BOY LEAVE ME ALONE !!!](https://open.spotify.com/album/7KKDPcNCaaVphHT1WbKEKZ) | 3:27 | 2024-11-23 |  |
+| [Nuthin' But A "G" Thang](https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 3:57 | 2026-01-08 |  |
 | [O Siem](https://open.spotify.com/track/7JGI5J2oETERIyYdSbIoUt) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [This Child](https://open.spotify.com/album/2eEzjJcIibt8lC3ecx7RDN) | 4:27 | 2025-06-22 |  |
 | [Ocean Eyes](https://open.spotify.com/track/5rdfzozvs2VdNXflcqfHSA) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Ocean Eyes](https://open.spotify.com/album/1x8502sPZiUcMbKailSa22) | 3:20 | 2025-05-17 |  |
 | [Ocean Pearl](https://open.spotify.com/track/6mJsaJ0U6abpPVPPAcAF2r) | [54\-40](https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N) | [Smilin' Buddha Cabaret](https://open.spotify.com/album/1C62w5tRzjcNJEA5SlHglE) | 3:27 | 2025-06-28 |  |
@@ -2308,6 +2309,7 @@
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-11-21 |  |
 | [Sailor Song \(First Draft 4.29.24\)](https://open.spotify.com/track/1gJLJgKRWjtaFMxwdeyfVc) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life \(Extended\)](https://open.spotify.com/album/4fULdU3VoqC0M1IHhVTAQ4) | 3:42 | 2025-12-13 |  |
 | [Salvation](https://open.spotify.com/track/1B5CspmMKjLYFMmuglDXdr) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Rattlesnake](https://open.spotify.com/album/7dJ8c1GEW8kVARyq0yoexn) | 3:23 | 2025-01-05 |  |
+| [Salvation](https://open.spotify.com/track/4gIwFhs8mHziZ7Zd98ltB7) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Rattlesnake](https://open.spotify.com/album/3sMf3idZ8qF3ohLiNbRHy2) | 3:23 | 2026-01-08 |  |
 | [Same Place](https://open.spotify.com/track/7xlHumQxDOBkqzkpVSaiCT) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Same Place](https://open.spotify.com/album/3hHVbdv4nfdgabQrUBpPEa) | 2:39 | 2024-12-31 |  |
 | [Samurai](https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH) | 3:14 | 2024-11-21 |  |
 | [Samurai](https://open.spotify.com/track/0wJw5QXDKXTYn8IVyh3wqz) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e) | 3:14 | 2025-05-15 |  |
@@ -2519,6 +2521,7 @@
 | [SOUTHERN MAN](https://open.spotify.com/track/3p69L4m6Jf6Nt8qsI8AiPJ) | [Jason Lee Cook](https://open.spotify.com/artist/6ZRybe9DEHgOUYcy0PxGLM) | [SOUTHERN MAN](https://open.spotify.com/album/5ZLEeSeyUVJ8k5cEROGmgq) | 3:25 | 2025-11-13 |  |
 | [Southern Man](https://open.spotify.com/track/4v0XOp3m5cLDmNGZrVmXbX) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 3:15 | 2025-03-03 |  |
 | [Southern Sun](https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Harlequin Dream](https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN) | 4:41 | 2024-11-29 |  |
+| [Souvenirs](https://open.spotify.com/track/6ZBurjWFSOu2BHl8Gvcosp) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:29 | 2026-01-08 |  |
 | [Souvenirs](https://open.spotify.com/track/61gTjqzNXQ1U0MbKk0y36H) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [Still Living With My Parents](https://open.spotify.com/album/2O5eUmi2KeXNYqghiw4XBj) | 4:16 | 2025-05-02 |  |
 | [Sowing The Seeds Of Love](https://open.spotify.com/track/62vx6uOYO7PrqKqKTKg9RY) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Seeds Of Love](https://open.spotify.com/album/4M0DNIYXbpCdKnVV4LoD9X) | 6:19 | 2025-02-01 |  |
 | [Space](https://open.spotify.com/track/0gPJ080ZnDYqvySeZrnxxF) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Space](https://open.spotify.com/album/6An6N0j01qH7cOfGkaqBbJ) | 3:27 | 2025-02-22 |  |
@@ -2950,6 +2953,7 @@
 | [Ultralife](https://open.spotify.com/track/1ZQwftFvuyrHrl41HA9dOC) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Ultralife](https://open.spotify.com/album/2P63KJNeC3DwaLpw8KHYqE) | 3:31 | 2025-01-08 |  |
 | [Umami](https://open.spotify.com/track/1FYuXQG1pLK8LFykOGTJFQ) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Notre\-Dame\-des\-Sept\-Douleurs](https://open.spotify.com/album/1rjIIN3YaTgJFoACfUg0Ay) | 4:28 | 2025-04-20 |  |
 | [Umbrella](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:35 | 2025-02-11 |  |
+| [UMI Says](https://open.spotify.com/track/5Ru9OjtEw5htfnVKpYsIcv) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6) | 5:05 | 2026-01-08 |  |
 | [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 | 2025-05-11 |  |
 | [Under Pressure \- Remastered 2011](https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space \(Deluxe Remastered Version\)](https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf) | 4:08 | 2025-11-27 |  |
 | [Underground](https://open.spotify.com/track/1yjsa9lWFeBPRNJbjGgmfV) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Underground](https://open.spotify.com/album/0I7IPohZdSKzNW3I5wRvcc) | 3:56 | 2024-11-26 |  |

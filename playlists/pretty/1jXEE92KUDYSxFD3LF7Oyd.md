@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 168 songs - 9 hr 9 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 170 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,5 +176,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 166 | [Я сошла с ума](https://open.spotify.com/track/00fEaKXDScWhQDjzSXfSqm) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 По встречной](https://open.spotify.com/album/1Sh5wXsKdvWxovnLp57jXw) | 3:29 |
 | 167 | [Грустная сука](https://open.spotify.com/track/7k6HFZe3WtGpbNUYY6Hndi) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [Сладкая жизнь](https://open.spotify.com/album/6VjA2JeGzCvI9KVDAoksWB) | 3:19 |
 | 168 | [Люди Надоели](https://open.spotify.com/track/7wrUu51QXPJehBNRQAC20D) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [С крыш наших домов](https://open.spotify.com/album/3vvxtuFGdpwxgd2Pyk6N1D) | 2:58 |
+| 169 | [Пластинки](https://open.spotify.com/track/1OgLQdSMi9a7fZOqV96veS) | [Дурной Вкус](https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j) | [Пластинки](https://open.spotify.com/album/0jvMXv33xPDwS96RSQZe9U) | 3:04 |
+| 170 | [Здравствуй](https://open.spotify.com/track/4gmzU1lObaLdStXFRcODhe) | [Перемотка](https://open.spotify.com/artist/3AwNBhYb8tZmJ5m0VIKHp2) | [Дождь прошёл в парке отдыха](https://open.spotify.com/album/3xitaViJmqiq1a2vAufWHd) | 6:53 |
 
-Snapshot ID: `AAAAcE8omdtz2+nFiO/L3qWycJk3Uw3L`
+Snapshot ID: `AAAAcvkt6ofKwbv3yqT97fEYnnHVfqGw`

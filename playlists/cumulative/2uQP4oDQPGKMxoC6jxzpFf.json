@@ -36675,6 +36675,28 @@
     },
     {
       "album": {
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237573,
+      "name": "Nuthin' But A \"G\" Thang",
+      "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
+    },
+    {
+      "album": {
         "name": "This Child",
         "url": "https://open.spotify.com/album/2eEzjJcIibt8lC3ecx7RDN"
       },
@@ -42961,6 +42983,24 @@
     },
     {
       "album": {
+        "name": "Rattlesnake",
+        "url": "https://open.spotify.com/album/3sMf3idZ8qF3ohLiNbRHy2"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203666,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/4gIwFhs8mHziZ7Zd98ltB7"
+    },
+    {
+      "album": {
         "name": "Same Place",
         "url": "https://open.spotify.com/album/3hHVbdv4nfdgabQrUBpPEa"
       },
@@ -46876,6 +46916,24 @@
       "duration_ms": 281133,
       "name": "Southern Sun",
       "url": "https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa"
+    },
+    {
+      "album": {
+        "name": "HARK!",
+        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209880,
+      "name": "Souvenirs",
+      "url": "https://open.spotify.com/track/6ZBurjWFSOu2BHl8Gvcosp"
     },
     {
       "album": {
@@ -54958,6 +55016,24 @@
       "duration_ms": 275986,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
+    },
+    {
+      "album": {
+        "name": "Black On Both Sides",
+        "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "artists": [
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305280,
+      "name": "UMI Says",
+      "url": "https://open.spotify.com/track/5Ru9OjtEw5htfnVKpYsIcv"
     },
     {
       "album": {
