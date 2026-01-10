@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,253 songs - 8 day 10 hr 49 min
+3,256 songs - 8 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -922,6 +922,7 @@
 | [Freaks Come Out at Night](https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:42 | 2025-11-01 |  |
 | [Free](https://open.spotify.com/track/4iaaEAAyCWrQdYT5tRnyDb) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Rise\)](https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF) | 5:05 | 2025-04-14 |  |
 | [Freedom! '25](https://open.spotify.com/track/7IXAOzkEiArV6EEL2qnRbM) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Freedom! '25](https://open.spotify.com/album/3efwdrXMifTD6aQzjxGqAi) | 3:51 | 2025-12-03 |  |
+| [Freeway Of Love](https://open.spotify.com/track/0lpIVCLNQRBKffcRRNrHyh) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Who's Zoomin' Who? \(Expanded Edition\)](https://open.spotify.com/album/7x58T4Q8rIR7rY9mPen1li) | 5:52 | 2026-01-09 |  |
 | [From](https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:02 | 2025-05-17 |  |
 | [Fully Completely](https://open.spotify.com/track/7Gj5Gd0IlD4GTxL9bmVZg1) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Fully Completely](https://open.spotify.com/album/5iSeNirSdjXzdv4eBx72X1) | 3:48 | 2025-11-04 |  |
 | [Funeral](https://open.spotify.com/track/4GvdsVns332wQ3JsWAg2OV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:52 | 2025-11-18 |  |
@@ -1162,7 +1163,7 @@
 | [hey rose](https://open.spotify.com/track/6J4et4u2ECB9AH2QC9B5tg) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 2:55 | 2025-01-06 |  |
 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 | 2024-11-21 |  |
 | [Hey Young World, Pt\. 2 \(feat\. Slick Rick\)](https://open.spotify.com/track/69h3lxaK6X71iDgoFy6VoL) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [the id](https://open.spotify.com/album/6TYleoMhZYHFUvYl8UQiqp) | 4:02 | 2024-12-16 |  |
-| [Hiccup](https://open.spotify.com/track/2R3lSZ2AHGA7EPFgmsdFdy) | [Miina](https://open.spotify.com/artist/2be45mouasgEeyH4Tgm4fB), [Lowell](https://open.spotify.com/artist/1EF5U3AZF5TtEnyRajub8W) | [Hiccup](https://open.spotify.com/album/6Yq3XszbeToe8S0ymYeaMx) | 3:16 | 2024-11-26 |  |
+| [Hiccup](https://open.spotify.com/track/2R3lSZ2AHGA7EPFgmsdFdy) | [MIINA](https://open.spotify.com/artist/2be45mouasgEeyH4Tgm4fB), [Lowell](https://open.spotify.com/artist/1EF5U3AZF5TtEnyRajub8W) | [Hiccup](https://open.spotify.com/album/6Yq3XszbeToe8S0ymYeaMx) | 3:16 | 2024-11-26 |  |
 | [Hidden Place](https://open.spotify.com/track/5bnX0zhTVV1H5gNVjVhgaL) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1) | 5:28 | 2025-06-07 |  |
 | [Hide Your Love](https://open.spotify.com/track/0WP6Mfw109a5Mrr92SWb3I) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Night in the Park, Kiss in the Dark](https://open.spotify.com/album/2MAkOacwf7ipO9ywdL1IM7) | 3:22 | 2025-05-06 |  |
 | [Hide Your Love](https://open.spotify.com/track/4ZjYIYWwRYbYSGtIqBddnF) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Hide Your Love](https://open.spotify.com/album/7LRmsyHaUCQslgFxDnnrD0) | 3:22 | 2024-12-12 |  |
@@ -1451,6 +1452,7 @@
 | [It's My Life](https://open.spotify.com/track/05QjvTR451nno4NyhKmrSe) | [Allegories](https://open.spotify.com/artist/61bTkOisFXOWUZibTyZhgD) | [It's My Life](https://open.spotify.com/album/36XdQbKqUI1NNGPdcoWbp4) | 3:56 | 2025-05-02 |  |
 | [It's Oh So Quiet](https://open.spotify.com/track/0OMNQyneWmmZtTQpULYJcl) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:37 | 2025-06-06 |  |
 | [It's So Strange](https://open.spotify.com/track/5Jh4RRuFLFZWCFpokPkUVD) | [Jerry Leger](https://open.spotify.com/artist/3GtHH5i1nt9Bb3dr39l4ac) | [It's So Strange](https://open.spotify.com/album/21BF1P12UhhU9PlRZYrjBK) | 3:24 | 2025-11-14 |  |
+| [It's So Strange](https://open.spotify.com/track/7DpIM0SoHxkpy4oHBQv08d) | [Jerry Leger](https://open.spotify.com/artist/3GtHH5i1nt9Bb3dr39l4ac) | [Waves Of Desire](https://open.spotify.com/album/6XAGVRHXbA7ErqpICUlJH6) | 3:24 | 2026-01-09 |  |
 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/25vPkiryH1W0SPHLUdcMxB) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Miss Patti's Christmas](https://open.spotify.com/album/1aqIyE9ljoggPYx7u6JXl0) | 3:06 | 2024-12-20 |  |
 | [I’ll Be Home For Christmas](https://open.spotify.com/track/504nGhJlqAHhetXtDvAXI4) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [This Christmas With Glenn Lewis](https://open.spotify.com/album/6xMW1pbkF1sch0QbXersBD) | 3:54 | 2024-12-18 |  |
 | [J\-Boy](https://open.spotify.com/track/57tOzus76E38NNNkNp1lnq) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR) | 4:07 | 2025-02-18 |  |
@@ -1814,6 +1816,7 @@
 | [Mistadobalina](https://open.spotify.com/track/2ECYtCiyC3zLvFTybWv75p) | [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [I Wish My Brother George Was Here](https://open.spotify.com/album/0AK7woKmcPwiCyv3SDiKor) | 4:13 | 2025-02-26 |  |
 | [Moderation](https://open.spotify.com/track/6V0PPYLaQ5fCAPftwIgpuN) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Moderation](https://open.spotify.com/album/7kytZHAdRdVINFw8W1TB50) | 3:08 | 2025-05-17 |  |
 | [Modern Girl](https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Woods](https://open.spotify.com/album/73ctstwnbNifu5U902X2zL) | 3:01 | 2024-11-30 |  |
+| [Modern Love \- 2018 Remaster](https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 4:48 | 2026-01-09 |  |
 | [Molded Like a Monster](https://open.spotify.com/track/5qAT1ULYd8USoPTPsq88fN) | [Kellie Loder](https://open.spotify.com/artist/4NhBhwipQcDsV9mqqOltay) | [Benefit of the Doubt](https://open.spotify.com/album/2bZjOkLAHfFtZ45mRD9U08) | 4:18 | 2025-08-21 |  |
 | [Money](https://open.spotify.com/track/5rgY6vN5CaEL3boucCi3CT) | [The Flying Lizards](https://open.spotify.com/artist/2L9iHIK8h5HvZe6VXb0aOI) | [The Flying Lizards](https://open.spotify.com/album/3KATYZsxEEpu78IwBeonYe) | 5:38 | 2024-11-23 |  |
 | [Money City Maniacs](https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Navy Blues](https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6) | 3:53 | 2025-08-09 |  |

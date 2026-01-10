@@ -4,7 +4,7 @@
 
 > 
 
-431 songs - 1 day 4 hr 20 min
+432 songs - 1 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [I want to love you](https://open.spotify.com/track/1jSmHXxPOO4KHD8npLJB2U) | [Today's hot song](https://open.spotify.com/artist/11qpyBQPfAaKnNQY43Mj0O) | [Eiffel Tower effect](https://open.spotify.com/album/5Ee0f9SUslVEGLld3PqIO0) | 3:43 | 2020-01-16 |  |
 | [I Will Forget You](https://open.spotify.com/track/4Nf3UrWCMmV4CAJgQ5FSZq) | [Cha Sik Jung](https://open.spotify.com/artist/2RiUYgdx1U7IYEHGN3YuK3) | [Signal \(Original Television Soundtrack\)](https://open.spotify.com/album/3XWPudsfSroRADDvNdWFei) | 4:23 | 2020-01-16 |  |
 | [I Will Go To You Like the First Snow](https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Guardian \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS) | 3:49 | 2019-12-18 |  |
+| [I will go to you like the first snow \(Veiled Musician X Shin Yong Jae with Suyeong\-dong Thirty\-One\)](https://open.spotify.com/track/31dor00o1DhnyVNK83pRn5) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [I will go to you like the first snow \(Veiled Musician X Shin Yong Jae with Suyeong\-dong Thirty\-One\)](https://open.spotify.com/album/0zBqNmgt9u2KdufDp0R51t) | 3:36 | 2026-01-09 |  |
 | [I Wonder If You Hurt Like Me](https://open.spotify.com/track/2NDEW4uf4rvM5FytTtBrbZ) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [F.Scott Fitzgerald's Way of Love](https://open.spotify.com/album/36QzXSj6vmA5tOpylKeZeL) | 3:48 | 2019-12-27 |  |
 | [I'll be There \[From "Oh My Venus \(Original Television Soundtrack\), Pt\. 5"\]](https://open.spotify.com/track/0lkOqaODRl5tMNWgjQGnog) | [Tei](https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK) | [I'll be There \[From "Oh My Venus \(Original Television Soundtrack\), Pt\. 5"\]](https://open.spotify.com/album/3H7oJ9L8NJdUk3UarxuL5M) | 4:04 | 2019-12-29 |  |
 | [I'm a little drunk \(Prod\. 2soo\)](https://open.spotify.com/track/3tdVMK7L0hJyluQaG0i925) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [I'm a little drunk](https://open.spotify.com/album/1lrr4P5sYiTLpAZUPfBvTU) | 4:17 | 2019-12-18 |  |

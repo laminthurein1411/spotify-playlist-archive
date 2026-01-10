@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5DcgB6NMwxRusWGzAJlxNc.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 4 likes - 431 songs - 1 day 4 hr 20 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 4 likes - 432 songs - 1 day 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -439,5 +439,6 @@ pretty - [cumulative](/playlists/cumulative/5DcgB6NMwxRusWGzAJlxNc.md) - [plain]
 | 429 | [I Think I Did](https://open.spotify.com/track/14VB8lE0hKZMFMq40nUwXW) | [Yoo Hwe Seung](https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs) | [Lovely Runner \(Original Soundtrack\)](https://open.spotify.com/album/0L3w221QtLgtyoQlpR7skW) | 4:20 |
 | 430 | [A Day](https://open.spotify.com/track/4O0HIR3ZkBVw2FrvkmwGXa) | [Jong Ho](https://open.spotify.com/artist/5gecqU5FZgxVdz1AtLumT0) | [Lovely Runner \(Original Soundtrack\)](https://open.spotify.com/album/0L3w221QtLgtyoQlpR7skW) | 3:52 |
 | 431 | [Spring Snow](https://open.spotify.com/track/7skJfTpolAtiE0dbQymd3e) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Lovely Runner \(Original Soundtrack\)](https://open.spotify.com/album/0L3w221QtLgtyoQlpR7skW) | 3:21 |
+| 432 | [I will go to you like the first snow \(Veiled Musician X Shin Yong Jae with Suyeong\-dong Thirty\-One\)](https://open.spotify.com/track/31dor00o1DhnyVNK83pRn5) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [I will go to you like the first snow \(Veiled Musician X Shin Yong Jae with Suyeong\-dong Thirty\-One\)](https://open.spotify.com/album/0zBqNmgt9u2KdufDp0R51t) | 3:36 |
 
-Snapshot ID: `AAABycHmFhnmQGCb3x9D9v7EQuJu5/v9`
+Snapshot ID: `AAABypE60hDeBDI5g5opKm8Me0cWIXsi`

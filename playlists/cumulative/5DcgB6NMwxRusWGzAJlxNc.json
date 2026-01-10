@@ -2679,6 +2679,24 @@
     },
     {
       "album": {
+        "name": "I will go to you like the first snow (Veiled Musician X Shin Yong Jae with Suyeong-dong Thirty-One)",
+        "url": "https://open.spotify.com/album/0zBqNmgt9u2KdufDp0R51t"
+      },
+      "artists": [
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "I will go to you like the first snow (Veiled Musician X Shin Yong Jae with Suyeong-dong Thirty-One)",
+      "url": "https://open.spotify.com/track/31dor00o1DhnyVNK83pRn5"
+    },
+    {
+      "album": {
         "name": "F.Scott Fitzgerald's Way of Love",
         "url": "https://open.spotify.com/album/36QzXSj6vmA5tOpylKeZeL"
       },
