@@ -3619,6 +3619,28 @@
     },
     {
       "album": {
+        "name": "Stuck a.k.a the Cult Song",
+        "url": "https://open.spotify.com/album/2ZTz0two250lkNMjpojuZj"
+      },
+      "artists": [
+        {
+          "name": "Ernie Bird",
+          "url": "https://open.spotify.com/artist/6w1rte5iQLFYD9yoOVCeXE"
+        },
+        {
+          "name": "Gabrielle Filloux",
+          "url": "https://open.spotify.com/artist/3G7hcurTpr63cXspUaCotV"
+        }
+      ],
+      "date_added": "2026-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Stuck a.k.a the Cult Song",
+      "url": "https://open.spotify.com/track/2sKqHMI6bNT8rfmFeSTIOd"
+    },
+    {
+      "album": {
         "name": "Schubert",
         "url": "https://open.spotify.com/album/073hIhdGDDOfOXDiYvO0kC"
       },

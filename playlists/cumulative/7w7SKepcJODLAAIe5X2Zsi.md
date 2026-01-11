@@ -4,7 +4,7 @@
 
 > 
 
-198 songs - 14 hr 11 min
+199 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Spiriteaux](https://open.spotify.com/track/5rpw2ag9jizRl9VdaLNT61) | [Tony Anderson](https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl) | [Spiriteaux](https://open.spotify.com/album/2GZpYfqw49QYOYtGlNg3EQ) | 3:54 | 2022-05-01 |  |
 | [Spring 1 \- 2012](https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Recomposed By Max Richter: Vivaldi, The Four Seasons](https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy) | 2:31 | 2022-05-01 |  |
 | [String Quartet: I\. Modere](https://open.spotify.com/track/2Cc5z5swQrDqZiyCkZ0TnF) | [Germaine Tailleferre](https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM), [Fanny Mendelssohn Quartet](https://open.spotify.com/artist/16zGYKFvAjVYlbUvqIXZGr) | [Tailleferre: Kammermusik](https://open.spotify.com/album/1wEh9M3ARcKdansQU1qME8) | 2:27 | 2022-05-01 |  |
+| [Stuck a.k.a the Cult Song](https://open.spotify.com/track/2sKqHMI6bNT8rfmFeSTIOd) | [Ernie Bird](https://open.spotify.com/artist/6w1rte5iQLFYD9yoOVCeXE), [Gabrielle Filloux](https://open.spotify.com/artist/3G7hcurTpr63cXspUaCotV) | [Stuck a.k.a the Cult Song](https://open.spotify.com/album/2ZTz0two250lkNMjpojuZj) | 4:20 | 2026-01-10 |  |
 | [Ständchen, S\. 560 \(Trans\. from Schwanengesang No\. 4, D\. 957\)](https://open.spotify.com/track/4b59u2E74KcDuyHCRBkf5v) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Schubert](https://open.spotify.com/album/073hIhdGDDOfOXDiYvO0kC) | 7:22 | 2022-05-01 |  |
 | [Succession \(Main Title Theme\)](https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Succession: Season 1 \(HBO Original Series Soundtrack\)](https://open.spotify.com/album/7IONINkxycqA3eIKlVZ7Bj) | 1:42 | 2022-03-31 |  |
 | [Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/track/3hCPh4oVVjaM8tv9sFH8cx) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Nightfall](https://open.spotify.com/album/0Mbkl6nlKMXhmVeoSCQntV) | 4:54 | 2022-05-01 |  |

@@ -4,7 +4,7 @@
 
 > 
 
-1,162 songs - 2 day 21 hr 17 min
+1,163 songs - 2 day 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -896,6 +896,7 @@
 | [Strawberry Kisses](https://open.spotify.com/track/4LXuSaMzY515ubvtGnCvBi) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Strawberry Kisses](https://open.spotify.com/album/4QQ5HRLZrSC7882WTmvZFH) | 3:01 | 2022-01-15 |  |
 | [Street Fight](https://open.spotify.com/track/36pwoWh6xqOShF8X6AZmzQ) | [Adam Jensen](https://open.spotify.com/artist/7ymrIsmp4vE7vAtcS12J4D) | [Street Fight](https://open.spotify.com/album/4sVzYCPoh0HyRLKeB6aB73) | 3:11 | 2021-02-22 |  |
 | [Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:22 | 2020-04-08 |  |
+| [Stuck a.k.a the Cult Song](https://open.spotify.com/track/2sKqHMI6bNT8rfmFeSTIOd) | [Ernie Bird](https://open.spotify.com/artist/6w1rte5iQLFYD9yoOVCeXE), [Gabrielle Filloux](https://open.spotify.com/artist/3G7hcurTpr63cXspUaCotV) | [Stuck a.k.a the Cult Song](https://open.spotify.com/album/2ZTz0two250lkNMjpojuZj) | 4:20 | 2026-01-10 |  |
 | [Stuck on the puzzle](https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY) | [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S) | [Submarine \- Original Songs From The Film By Alex Turner](https://open.spotify.com/album/3OqRGywivnQ0IeClUeUa4n) | 3:31 | 2023-11-13 |  |
 | [Stunnin' \(feat\. Harm Franklin\)](https://open.spotify.com/track/2JSmxLqt8h7ZpJJkfuLJvK) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Harm Franklin](https://open.spotify.com/artist/44rJuOJLavqhY6qGgpQW4U) | [Pity Party](https://open.spotify.com/album/6f5E0fgEQox4MmTJqxOnrD) | 2:24 | 2022-07-20 |  |
 | [Sucker for Pain \(with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat\. X Ambassadors\)](https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Sucker for Pain \(with Logic & Ty Dolla $ign feat\. X Ambassadors\)](https://open.spotify.com/album/704GHNtZhEe9TBgleCNNGv) | 4:03 | 2020-03-10 |  |

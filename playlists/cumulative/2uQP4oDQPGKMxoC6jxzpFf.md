@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,256 songs - 8 day 11 hr 3 min
+3,261 songs - 8 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1352,6 +1352,7 @@
 | [I Won't Hide](https://open.spotify.com/track/6FUYTH8K5KhX9IARIpilrK) | [Amanda Rheaume](https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ) | [I Won't Hide](https://open.spotify.com/album/7qW5Nz4K2rXjcr2IR9xUNV) | 3:53 | 2025-10-01 |  |
 | [I Won't Stop](https://open.spotify.com/track/4MWiKVBxtGvdV6MUMEGIYy) | [Wolf Castle](https://open.spotify.com/artist/4a0kFZeBNUTvD2iN55HBwq) | [Waiting for the Dawn](https://open.spotify.com/album/5CyVVlNfDpJ4WJipirslZb) | 3:06 | 2024-11-28 |  |
 | [I'll Be Back Someday](https://open.spotify.com/track/67Qr9WN6TXQh3tF2QAFRIi) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:12 | 2024-12-08 |  |
+| [I'll Believe in Anything](https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm) | [Apologies to the Queen Mary](https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ) | 4:36 | 2026-01-10 |  |
 | [I'll Go Anywhere](https://open.spotify.com/track/1v10JNv4HwPALOeWH28R8M) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/45XoaObdMwc02uZjsuOfgq) | 2:34 | 2025-01-08 |  |
 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 | 2025-01-11 |  |
 | [I'll Take You There](https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:16 | 2025-05-13 |  |
@@ -1455,6 +1456,7 @@
 | [It's So Strange](https://open.spotify.com/track/7DpIM0SoHxkpy4oHBQv08d) | [Jerry Leger](https://open.spotify.com/artist/3GtHH5i1nt9Bb3dr39l4ac) | [Waves Of Desire](https://open.spotify.com/album/6XAGVRHXbA7ErqpICUlJH6) | 3:24 | 2026-01-09 |  |
 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/25vPkiryH1W0SPHLUdcMxB) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Miss Patti's Christmas](https://open.spotify.com/album/1aqIyE9ljoggPYx7u6JXl0) | 3:06 | 2024-12-20 |  |
 | [I’ll Be Home For Christmas](https://open.spotify.com/track/504nGhJlqAHhetXtDvAXI4) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [This Christmas With Glenn Lewis](https://open.spotify.com/album/6xMW1pbkF1sch0QbXersBD) | 3:54 | 2024-12-18 |  |
+| [I’m Every Woman](https://open.spotify.com/track/7Mr6Wt1tLBG8NjuJFk6L4a) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [70s HITS \- 100 Greatest Songs of the 1970s](https://open.spotify.com/album/3N8mBG9DvFq93X6efNxH0i) | 4:07 | 2026-01-10 |  |
 | [J\-Boy](https://open.spotify.com/track/57tOzus76E38NNNkNp1lnq) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR) | 4:07 | 2025-02-18 |  |
 | [Jackson \(feat\. Orville Peck\)](https://open.spotify.com/track/3AqOip5BipwZReSnYPaW6O) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc), [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Jackson \(feat\. Orville Peck\)](https://open.spotify.com/album/1Pzckr6QLjYIXoywJwT8Ap) | 2:37 | 2025-05-17 |  |
 | [JACK’S HILL DREAMERS \(feat\. Skip Marley\)](https://open.spotify.com/track/6DKqyghUb45KpVKPrdfhfJ) | [King Cruff](https://open.spotify.com/artist/4OpO9CxjDD3HQ2g4NnTato), [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [WHAT HAVE I 'DON](https://open.spotify.com/album/4bKmN0R2almeBPvyFM2mph) | 2:25 | 2025-05-10 |  |
@@ -2704,6 +2706,7 @@
 | [Tell Me How](https://open.spotify.com/track/00RDBupKs9RP0YQEBrKn1i) | [Loryn Taggart](https://open.spotify.com/artist/2DwFvKJOTB8DNK7j0q3HaO) | [Tell Me How](https://open.spotify.com/album/60QZB4L7P6e41u3rNBgB2m) | 4:25 | 2024-11-21 |  |
 | [Tell Me How](https://open.spotify.com/track/0AAb8t7o7HreZ5KdfUCKrh) | [Loryn Taggart](https://open.spotify.com/artist/2DwFvKJOTB8DNK7j0q3HaO) | [Tell Me How](https://open.spotify.com/album/4ISjGPqN1SRuNEfmAmR80s) | 4:25 | 2025-04-08 | 2025-07-16 |
 | [Tell Me How](https://open.spotify.com/track/14xnlSJ87rNBOHdpcZ28kA) | [Loryn Taggart](https://open.spotify.com/artist/2DwFvKJOTB8DNK7j0q3HaO) | [The Lost Art of Pulling Through](https://open.spotify.com/album/5CNwP4avepkc3xqhRKepAq) | 4:25 | 2025-03-08 | 2025-07-16 |
+| [Tell Me Something Good](https://open.spotify.com/track/1OO2Fp9PsnaayiekeXuGJX) | [Rufus & Chaka Khan](https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Rags To Rufus](https://open.spotify.com/album/127CLXCibn1ARC1CGExGav) | 4:37 | 2026-01-10 |  |
 | [Tempted](https://open.spotify.com/track/5r2z0FHOoFI06GZEVGDjzM) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [East Side Story](https://open.spotify.com/album/4178w40uOpDld2RnR1ifCy) | 4:00 | 2025-01-11 |  |
 | [Tender](https://open.spotify.com/track/42cxPm9jgbaxIVN77XA1m6) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 7:41 | 2025-07-25 |  |
 | [Tennessee](https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00) | [Arrested Development](https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7) | [3 Years, 5 Months And 2 Days In The Life Of...](https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh) | 4:32 | 2024-12-28 |  |
@@ -2852,6 +2855,7 @@
 | [This Christmas](https://open.spotify.com/track/2p97TwEVvmhVPk1rzMu1x0) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [A Very Teddy Christmas](https://open.spotify.com/album/5Uz5dJxxx80FlqetqpvCJp) | 3:08 | 2025-12-22 |  |
 | [This Is A Photograph](https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 3:30 | 2024-11-26 |  |
 | [This Is Good](https://open.spotify.com/track/5xUPLoi0ZfqRWplMdKgDnd) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [This Is Good](https://open.spotify.com/album/6GFuNEwbrxrWJYuOC8YwgZ) | 3:57 | 2024-12-22 |  |
+| [This Is How We Do It](https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL) | 3:58 | 2026-01-10 |  |
 | [This Is Nowhere](https://open.spotify.com/track/7aQx06Jx3iA9pRdixCUADJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 3:44 | 2025-01-07 |  |
 | [This Is the Day](https://open.spotify.com/track/3FjYAj4hg5KiXpVAMjpLKq) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Soul Mining](https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A) | 4:57 | 2024-12-08 |  |
 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:26 | 2024-12-10 |  |
@@ -2867,6 +2871,7 @@
 | [Thodi Si Daaru](https://open.spotify.com/track/3JiLQJmVW7d4O8AQDFB3oj) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Thodi Si Daaru](https://open.spotify.com/album/5VtCQYa9RJHYMQAfzAb1HQ) | 3:00 | 2025-08-06 |  |
 | [Three Little Birds](https://open.spotify.com/track/7vggqxNKwd6xdRoYS0pQtM) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:00 | 2025-08-22 |  |
 | [Three More Days](https://open.spotify.com/track/2pDOP7lUpO5LGUz798H0me) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Till The Sun Turns Black](https://open.spotify.com/album/6teArUjXEHY8nEbWiOf1Hq) | 3:36 | 2024-11-27 |  |
+| [Through the Fire](https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 4:48 | 2026-01-10 |  |
 | [Through This Night](https://open.spotify.com/track/66JhCZvm9NqeDGsEcuyZSS) | [Wolf Saga](https://open.spotify.com/artist/0Lwn2PjwIw7QaoN7gHyqCA) | [Wolf Saga](https://open.spotify.com/album/7unFc7wjufEqY5wxeKvWsr) | 3:19 | 2024-12-28 |  |
 | [Thunder Road](https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:49 | 2025-01-29 |  |
 | [Tie you down](https://open.spotify.com/track/2EJpfJvSPRpy7dE15cV6L6) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/5h1fJpCoQ6ylGaXXnN33xI) | 2:56 | 2025-10-29 |  |

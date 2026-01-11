@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7w7SKepcJODLAAIe5X2Zsi.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 4 likes - 198 songs - 14 hr 11 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 4 likes - 199 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,5 +206,6 @@ pretty - [cumulative](/playlists/cumulative/7w7SKepcJODLAAIe5X2Zsi.md) - [plain]
 | 196 | [Foggy Mountain Breakdown](https://open.spotify.com/track/0PlXgfunAKx3UHOWwZe7nb) | [Banjo Express Ensemble](https://open.spotify.com/artist/05J6xQ89UYrnxpHooXn6xJ), [Yannick Huet](https://open.spotify.com/artist/2yCO6IpldnhJo4Ug8WLL3y), [Christian et Philippe Bon](https://open.spotify.com/artist/4P9GmNzYgMMekGm55oaQSO), [Pascal Maucourant](https://open.spotify.com/artist/2UDoKSsxc7prUPK9eiyTfo), [Luis\-josé Landa](https://open.spotify.com/artist/4bQtzLgxS7bX0mWDv0BaAu) | [Best of Usa : Banjo Furioso](https://open.spotify.com/album/3iIW3UITm6DnbH7kin6iTm) | 2:13 |
 | 197 | [Qalbi Fil Madinah](https://open.spotify.com/track/0wlrVtFDcIBzZQoTdVcIkg) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz), [Harris J](https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE) | [Qalbi Fil Madinah](https://open.spotify.com/album/6iPrwxzLdwfMrjymjvxvJM) | 3:24 |
 | 198 | [The Way He Looks at Her](https://open.spotify.com/track/0B3WiZX4n0aAr0lexbElfv) | [Pause maybe?](https://open.spotify.com/artist/39qg15Rtb00BmU98HN4TFZ) | [Just Thinking...](https://open.spotify.com/album/3Lju0Ii1dSAWX262yAYdX7) | 4:32 |
+| 199 | [Stuck a.k.a the Cult Song](https://open.spotify.com/track/2sKqHMI6bNT8rfmFeSTIOd) | [Ernie Bird](https://open.spotify.com/artist/6w1rte5iQLFYD9yoOVCeXE), [Gabrielle Filloux](https://open.spotify.com/artist/3G7hcurTpr63cXspUaCotV) | [Stuck a.k.a the Cult Song](https://open.spotify.com/album/2ZTz0two250lkNMjpojuZj) | 4:20 |
 
-Snapshot ID: `AAAAZrh2o7fw2ZzZyx4xEBslliRXENf8`
+Snapshot ID: `AAAAZ277C0bLFo7BctSUzecYeG7gxlIw`
