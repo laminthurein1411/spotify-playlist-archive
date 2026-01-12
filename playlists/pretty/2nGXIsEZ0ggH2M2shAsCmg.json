@@ -6,7 +6,7 @@
     "name": "ramiro",
     "url": "https://open.spotify.com/user/rgarzaa"
   },
-  "snapshot_id": "AAACbQNnK0oc6Zve44arnyD6QmqyIOU2",
+  "snapshot_id": "AAACbn9pS6H+dOyl9iAmALOUEv3G1LKZ",
   "tracks": [
     {
       "added_at": "2024-02-28 02:33:08",
@@ -74183,6 +74183,38 @@
       "duration_ms": 195893,
       "name": "Rhinestone Cowboy",
       "url": "https://open.spotify.com/track/68yjblcYaMCQFMD9Q6x1IO"
+    },
+    {
+      "added_at": "2026-01-11 05:49:21",
+      "album": {
+        "name": "50 Years - Don't Stop",
+        "url": "https://open.spotify.com/album/06JqOkwwy91OxrApXclzYf"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 223253,
+      "name": "Everywhere - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7BRMVjSXolblx6ZXliSaMl"
+    },
+    {
+      "added_at": "2026-01-11 05:49:21",
+      "album": {
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/6sdXGlrywMohGMVg5gIqwp"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 178853,
+      "name": "Cracklin' Rosie",
+      "url": "https://open.spotify.com/track/1LjFrPohvGTdXmEz6rHbxi"
     }
   ],
   "unique_name": "Classic 106.9",

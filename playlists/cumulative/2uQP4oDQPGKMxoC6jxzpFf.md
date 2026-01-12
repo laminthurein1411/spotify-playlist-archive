@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,261 songs - 8 day 11 hr 25 min
+3,266 songs - 8 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,6 +585,7 @@
 | [Connected](https://open.spotify.com/track/5t09SnxOR2AelOghumKkXO) | [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8) | [Connected](https://open.spotify.com/album/2IozNWNXp77fqFQOgzpLcw) | 5:14 | 2025-01-08 |  |
 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 | 2025-01-29 |  |
 | [Conqueror](https://open.spotify.com/track/37JCU4vvjMn0dfM18dYFPt) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/24CyXZHXgFPncdizaeTnSq) | 3:27 | 2025-01-27 |  |
+| [Constant Craving \- 2010 Remaster](https://open.spotify.com/track/0wCrg1LhgPcGMw51qqpI6k) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Recollection](https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE) | 4:37 | 2026-01-11 |  |
 | [Constant Love](https://open.spotify.com/track/4ONbh8UpSbCqVT2vmXJgGN) | [Richard Laviolette](https://open.spotify.com/artist/1pgjT95HLZVnRi0K4QqQa7) | [All Wild Things Are Shy](https://open.spotify.com/album/4032008iWfC4IAdGoCsZxk) | 3:40 | 2025-07-13 |  |
 | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/album/7ix2EWiNF7gDXdXoy99NjK) | 2:37 | 2024-12-02 |  |
 | [Cornflake Girl](https://open.spotify.com/track/1300POeOaj8qho30FRHjgf) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Under the Pink](https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD) | 5:05 | 2025-01-13 |  |
@@ -923,6 +924,7 @@
 | [Free](https://open.spotify.com/track/4iaaEAAyCWrQdYT5tRnyDb) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Rise\)](https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF) | 5:05 | 2025-04-14 |  |
 | [Freedom! '25](https://open.spotify.com/track/7IXAOzkEiArV6EEL2qnRbM) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Freedom! '25](https://open.spotify.com/album/3efwdrXMifTD6aQzjxGqAi) | 3:51 | 2025-12-03 |  |
 | [Freeway Of Love](https://open.spotify.com/track/0lpIVCLNQRBKffcRRNrHyh) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Who's Zoomin' Who? \(Expanded Edition\)](https://open.spotify.com/album/7x58T4Q8rIR7rY9mPen1li) | 5:52 | 2026-01-09 |  |
+| [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 | 2026-01-11 |  |
 | [From](https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:02 | 2025-05-17 |  |
 | [Fully Completely](https://open.spotify.com/track/7Gj5Gd0IlD4GTxL9bmVZg1) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Fully Completely](https://open.spotify.com/album/5iSeNirSdjXzdv4eBx72X1) | 3:48 | 2025-11-04 |  |
 | [Funeral](https://open.spotify.com/track/4GvdsVns332wQ3JsWAg2OV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:52 | 2025-11-18 |  |
@@ -1590,6 +1592,7 @@
 | [Leaving On A Jet Plane](https://open.spotify.com/track/2tFYV2RZGwRLCmfDqfI3OT) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Since We Met: The Best of 1996\-2006](https://open.spotify.com/album/67QWVDS41ddKIKYhlsJjJt) | 4:40 | 2025-06-07 |  |
 | [Lemongrass](https://open.spotify.com/track/60Kmo3ctvORB7cjEoeGMrO) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Uncle Fester](https://open.spotify.com/artist/1NDO9FL12aOUTjSL6BdZMU) | [Bleeding Gums Murphy](https://open.spotify.com/album/50cl5MGwlLCVUdHgQ43R8I) | 3:52 | 2025-05-15 |  |
 | [Leopard\-Skin Pill\-Box Hat](https://open.spotify.com/track/68rQfshq0i73PEiP7haCpU) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 3:41 | 2025-10-29 |  |
+| [Les vagues](https://open.spotify.com/track/4mjxe1SAHcnqymww3Rsmat) | [Myëlle](https://open.spotify.com/artist/3zyJnhJQGxbhR6f27TqhP3) | [Les vagues](https://open.spotify.com/album/6es8oRZaZDil2Z2cUZvU6s) | 3:45 | 2026-01-11 |  |
 | [Let It Be](https://open.spotify.com/track/2H9pBiTpvgjKDMzslfQPfD) | [Tim Heidecker](https://open.spotify.com/artist/7n5xb6bByE74Aw4ppe858H) | [Fear of Death](https://open.spotify.com/album/0QjLw00bxfcpk71v8PcMGt) | 2:30 | 2025-01-07 |  |
 | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV) | 4:27 | 2025-03-28 |  |
 | [Let It Rain](https://open.spotify.com/track/11zgphiq5vlwjis2uFi271) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Let It Rain](https://open.spotify.com/album/274sh16x8L1VQQZvTeTJzC) | 3:29 | 2025-11-20 |  |
@@ -1618,6 +1621,7 @@
 | [Life 2](https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Life 2](https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e) | 3:23 | 2025-05-15 |  |
 | [Life I Wanted](https://open.spotify.com/track/3So7Hy4evTP8sqkrVftZQy) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Life I Wanted](https://open.spotify.com/album/7MTvwzmvpmcgMRNUkxxn97) | 2:53 | 2025-04-16 |  |
 | [Life Is Better](https://open.spotify.com/track/4ihpHBBrKr6wpyAkhoyfmh) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [The Renaissance](https://open.spotify.com/album/6V5Ct3kX5Yk74z4MLZB6h9) | 4:41 | 2025-06-05 |  |
+| [Life On Mars?](https://open.spotify.com/track/0KpA8R3NM3N0JB4NAGbAxO) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [The Life Aquatic Exclusive Studio Sessions Featuring Seu Jorge](https://open.spotify.com/album/2tAFOhqz3DxxVI2s5YNsrD) | 3:29 | 2026-01-11 |  |
 | [Light My Fire \- 1994 Remaster](https://open.spotify.com/track/2RxYGOHMSm6nc9q9xyLtYq) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Something](https://open.spotify.com/album/7moeasHrdO4gtA9gierUQ7) | 3:27 | 2025-02-10 |  |
 | [Light of the Moon](https://open.spotify.com/track/3eEKFdMtl79wlF2QRm9gDz) | [Celeigh Cardinal](https://open.spotify.com/artist/7HAq3UBI3pb8ok9k7dkdGR) | [Boundless Possibilities](https://open.spotify.com/album/6B3NT4TL6dgTip9mttXRsQ) | 3:21 | 2025-03-28 |  |
 | [Light Of The Moon](https://open.spotify.com/track/0oLfucNEYpWdYLfbravsKb) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx), [Matthew Barber](https://open.spotify.com/artist/2mhqgf0GxdfXpO6gwLohyX) | [Light Of The Moon](https://open.spotify.com/album/2go3yMOUHtRF1BqgyWSuzR) | 4:02 | 2025-04-15 |  |
@@ -2994,6 +2998,7 @@
 | [Vending Machines](https://open.spotify.com/track/4OoQp7wJMut10OSeVFzFuS) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Strange Trip Ahead](https://open.spotify.com/album/3IILNy0XPiGB4g8jtm9Agp) | 4:14 | 2025-11-21 |  |
 | [Vending Machines](https://open.spotify.com/track/2Hw8otNNNMks0xHhkFRL8E) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Vending Machines](https://open.spotify.com/album/2lN4KYFLngz1KNTYhquwEe) | 4:15 | 2025-05-28 |  |
 | [Venus](https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae) | [Bananarama](https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx) | [True Confessions \(Collector's Edition\)](https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h) | 3:49 | 2025-08-06 |  |
+| [Vibrant Colours](https://open.spotify.com/track/0G38gXXcyWHrrjJd0Q8XGL) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [Bleached Wavves](https://open.spotify.com/album/4ZPmnkRhclS1RbNT3yz2Dw) | 4:36 | 2026-01-11 |  |
 | [Vibrant Colours](https://open.spotify.com/track/0hQuyxNcrJcjLbX4WT5IQc) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [Bleached Wavves](https://open.spotify.com/album/3RABU4vLHRyxMHwpXMSpni) | 4:36 | 2024-11-27 |  |
 | [Vibrations](https://open.spotify.com/track/4xmJmpkbZhTMXfFtqFBCY4) | [Mick Davis & Thin Love](https://open.spotify.com/artist/5zvV1x0UoyivsEhIYo8vun) | [Garbage Street](https://open.spotify.com/album/3aF0zloKuU6wNX67U6YlEq) | 3:15 | 2024-12-19 |  |
 | [Victim](https://open.spotify.com/track/66gtnUDneW30UV5DptKEW7) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Sundry Rock Song Stock](https://open.spotify.com/album/1Yl8659iDQjjaHNyTNXR4b) | 4:42 | 2025-09-16 |  |

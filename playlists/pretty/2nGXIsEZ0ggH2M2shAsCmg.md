@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,564 songs - 12 day 23 hr 43 min
+[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,566 songs - 12 day 23 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4572,5 +4572,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 4562 | [Cats in the Cradle](https://open.spotify.com/track/5MI5oaoToL30iBCRL6MIE1) | [Harry Chapin](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) | [clásicos de los 70s, 80s y 90s en inglés](https://open.spotify.com/album/1Cn5O15sJAXFjHRhevbUV9) | 3:32 |
 | 4563 | [Barracuda](https://open.spotify.com/track/6dmiV9JGjv4vGgLwEZTaOI) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Greatest Hits / Live](https://open.spotify.com/album/1U5jSuZWVTWnmfF9nAFkBi) | 4:21 |
 | 4564 | [Rhinestone Cowboy](https://open.spotify.com/track/68yjblcYaMCQFMD9Q6x1IO) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Glen Campbell \- The Capitol Years 1965 \- 1977](https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy) | 3:15 |
+| 4565 | [Everywhere \- 2018 Remaster](https://open.spotify.com/track/7BRMVjSXolblx6ZXliSaMl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [50 Years \- Don't Stop](https://open.spotify.com/album/06JqOkwwy91OxrApXclzYf) | 3:43 |
+| 4566 | [Cracklin' Rosie](https://open.spotify.com/track/1LjFrPohvGTdXmEz6rHbxi) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [All\-Time Greatest Hits](https://open.spotify.com/album/6sdXGlrywMohGMVg5gIqwp) | 2:58 |
 
-Snapshot ID: `AAACbQNnK0oc6Zve44arnyD6QmqyIOU2`
+Snapshot ID: `AAACbn9pS6H+dOyl9iAmALOUEv3G1LKZ`

@@ -13841,6 +13841,24 @@
     },
     {
       "album": {
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/6sdXGlrywMohGMVg5gIqwp"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "date_added": "2026-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178853,
+      "name": "Cracklin' Rosie",
+      "url": "https://open.spotify.com/track/1LjFrPohvGTdXmEz6rHbxi"
+    },
+    {
+      "album": {
         "name": "Tap Root Manuscript",
         "url": "https://open.spotify.com/album/0WGnkp386fyXfTvKwTIVRO"
       },
@@ -21036,6 +21054,24 @@
       "duration_ms": 226653,
       "name": "Everywhere - 2017 Remaster",
       "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
+    },
+    {
+      "album": {
+        "name": "50 Years - Don't Stop",
+        "url": "https://open.spotify.com/album/06JqOkwwy91OxrApXclzYf"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2026-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223253,
+      "name": "Everywhere - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7BRMVjSXolblx6ZXliSaMl"
     },
     {
       "album": {

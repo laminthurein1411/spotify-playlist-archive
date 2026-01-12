@@ -4,7 +4,7 @@
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-4,555 songs - 12 day 23 hr 3 min
+4,557 songs - 12 day 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -766,6 +766,7 @@
 | [Couldn't Get It Right](https://open.spotify.com/track/7GSCnEFxiD6Im98CbfySDw) | [Climax Blues Band](https://open.spotify.com/artist/4eeRviM714mXXeILmKHxh2) | [Gold Plated](https://open.spotify.com/album/46b5kxxgs65r2SQYf6BYfO) | 3:18 | 2025-12-15 |  |
 | [Cover Girl](https://open.spotify.com/track/6CCYX0JVy5qYqUvWpCvHXh) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Hangin' Tough](https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK) | 4:01 | 2024-03-03 |  |
 | [Coward Of The County](https://open.spotify.com/track/0JkIre0YxNmKGMU5V7ZiDx) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Kenny](https://open.spotify.com/album/3dJ7K3zS6Ux7OFAWcG8eWI) | 4:18 | 2024-03-17 |  |
+| [Cracklin' Rosie](https://open.spotify.com/track/1LjFrPohvGTdXmEz6rHbxi) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [All\-Time Greatest Hits](https://open.spotify.com/album/6sdXGlrywMohGMVg5gIqwp) | 2:58 | 2026-01-11 |  |
 | [Cracklin' Rosie \- Single Version](https://open.spotify.com/track/5pkd9ib1RgbkAd1R9bIOCa) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Tap Root Manuscript](https://open.spotify.com/album/0WGnkp386fyXfTvKwTIVRO) | 2:59 | 2025-12-28 |  |
 | [Cracklin' Rosie \- Single Version](https://open.spotify.com/track/2ZSa7X45pczDH2mpLhLlAN) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Song Sung Blue: Neil Diamond Originals](https://open.spotify.com/album/2XlVJnnvKBkoZauuoY9Bcx) | 3:00 | 2025-12-26 |  |
 | [Cradle Of Love](https://open.spotify.com/track/5TSANSqPTD6nBG0NSJWmVB) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Charmed Life](https://open.spotify.com/album/4GCciwt8efweJZ4AEEvnTQ) | 4:41 | 2024-03-02 |  |
@@ -1159,6 +1160,7 @@
 | [Everytime You Cry](https://open.spotify.com/track/57o35wXnJhDeWD5DwNyBhL) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/0EriQlp6zHpb1ThLZcandW) | 4:31 | 2025-12-18 |  |
 | [Everywhere](https://open.spotify.com/track/1prZ0pr6XoRCxcrC3MCL0M) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:42 | 2024-02-29 |  |
 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 | 2024-03-01 |  |
+| [Everywhere \- 2018 Remaster](https://open.spotify.com/track/7BRMVjSXolblx6ZXliSaMl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [50 Years \- Don't Stop](https://open.spotify.com/album/06JqOkwwy91OxrApXclzYf) | 3:43 | 2026-01-11 |  |
 | [Evil Ways](https://open.spotify.com/track/5tmrnhMxx39jnu3kjopMdP) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana \(Legacy Edition\)](https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu) | 3:58 | 2024-03-02 |  |
 | [Evil Woman](https://open.spotify.com/track/6pIe1Wr0RuXoFh8Z6EQcoO) | [Crow](https://open.spotify.com/artist/6HBX2vIWfKJR2s0jfzwroZ) | [Crow Music](https://open.spotify.com/album/2ONUwG3NtSX32bgL04tD30) | 3:09 | 2024-03-07 |  |
 | [Evil Woman](https://open.spotify.com/track/4N6HYihypXOVL24bnaR4fp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [All Over The World: The Very Best Of ELO](https://open.spotify.com/album/1npNR6mWuE6qaqU3GGpNTB) | 4:11 | 2024-03-03 |  |
