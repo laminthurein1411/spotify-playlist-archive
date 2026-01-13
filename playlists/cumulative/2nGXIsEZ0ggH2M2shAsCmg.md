@@ -4,7 +4,7 @@
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-4,557 songs - 12 day 23 hr 10 min
+4,558 songs - 12 day 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4082,6 +4082,7 @@
 | [Under Pressure](https://open.spotify.com/track/7rgZTzcjofQJY5kz9FO3OS) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space](https://open.spotify.com/album/19HKPNkfGggYUnvdKHGTKJ) | 4:06 | 2024-02-29 |  |
 | [Under Pressure \- Remastered 2011](https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space \(2011 Remaster\)](https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1) | 4:08 | 2025-12-15 |  |
 | [Under the Boardwalk](https://open.spotify.com/track/2rO2W10cFVVD0P6pBz7Plu) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Classic Oldies](https://open.spotify.com/album/1VrravzsxruIeQf1cuE6zB) | 2:40 | 2025-12-27 |  |
+| [Under the Bridge](https://open.spotify.com/track/0m94t87orBZLrmJTVzr6CO) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Mellow 90s Gold](https://open.spotify.com/album/3GosrfiSY5V8aP5zMGRXVY) | 4:24 | 2026-01-12 |  |
 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 | 2024-03-06 |  |
 | [Under the Bridge](https://open.spotify.com/track/4hBC7qxZ3G402rebpdyPRR) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Lo mejor de los 80s y 90s 100 clásicos en inglés](https://open.spotify.com/album/12shc0OaIzdgbBRz1M6c8a) | 4:24 | 2025-12-27 |  |
 | [Under the Bridge](https://open.spotify.com/track/7o6yXSYGgdfNXPQDUcSDnR) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [100 Greatest Driving Songs](https://open.spotify.com/album/3D5BaRZxngDIZP811L4p1N) | 4:24 | 2025-12-21 |  |

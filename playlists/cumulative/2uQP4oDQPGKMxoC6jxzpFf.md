@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,266 songs - 8 day 11 hr 45 min
+3,270 songs - 8 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,6 +589,7 @@
 | [Constant Love](https://open.spotify.com/track/4ONbh8UpSbCqVT2vmXJgGN) | [Richard Laviolette](https://open.spotify.com/artist/1pgjT95HLZVnRi0K4QqQa7) | [All Wild Things Are Shy](https://open.spotify.com/album/4032008iWfC4IAdGoCsZxk) | 3:40 | 2025-07-13 |  |
 | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/album/7ix2EWiNF7gDXdXoy99NjK) | 2:37 | 2024-12-02 |  |
 | [Cornflake Girl](https://open.spotify.com/track/1300POeOaj8qho30FRHjgf) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Under the Pink](https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD) | 5:05 | 2025-01-13 |  |
+| [Cosmic Carousel](https://open.spotify.com/track/640ksJNNEgbPoswV0UlAtd) | [Evan Redsky](https://open.spotify.com/artist/1qZng7TJN7pOHMSUItFB8s) | [Cosmic Carousel](https://open.spotify.com/album/32LE1Hhmf7xiA41AkY4yVq) | 4:20 | 2026-01-12 |  |
 | [Could You Be Loved](https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:57 | 2025-02-08 |  |
 | [could've been](https://open.spotify.com/track/503UamBQdS8AviZKgI6vaT) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [could've been](https://open.spotify.com/album/5Lqk70ShnYKLtdwHrUFjrk) | 3:45 | 2024-11-23 |  |
 | [Courage \(For Hugh MacLennan\)](https://open.spotify.com/track/1ffzAzDFSOvEbWTbC7aPLw) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Fully Completely](https://open.spotify.com/album/60peDyBYVk0DWanN2GPxhO) | 4:27 | 2024-11-30 |  |
@@ -1177,6 +1178,7 @@
 | [High Horse](https://open.spotify.com/track/2U2Z1IXnmJIvlknWizFykZ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:33 | 2025-02-12 |  |
 | [High Note \[Feat\. Stax Music Academy\]](https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Stax Music Academy](https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K) | [High Note \[Feat\. Stax Music Academy\]](https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w) | 3:02 | 2025-01-14 |  |
 | [High Priestess](https://open.spotify.com/track/1vbayZm5FgNe4ou8BRNiDq) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Spirituals](https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo) | 3:13 | 2024-11-28 |  |
+| [High Ticket Attractions](https://open.spotify.com/track/1sG2FDeg3HyblygpDYL6sf) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Whiteout Conditions](https://open.spotify.com/album/7gyNplAOdr9m2csLHAHX7O) | 3:51 | 2026-01-12 |  |
 | [Higher](https://open.spotify.com/track/21jTsW3RskhgJucF3bAZOq) | [Boogey the Beat](https://open.spotify.com/artist/0Kc8I2nrf9po7TU4VH3lnK), [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [Cousins](https://open.spotify.com/album/1wnZuVgCUAAbVjqbiK8zkM) | 3:52 | 2024-11-28 |  |
 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 | 2025-01-10 |  |
 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 | 2025-07-13 |  |
@@ -1611,6 +1613,7 @@
 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 | 2024-12-12 |  |
 | [Let's Ride](https://open.spotify.com/track/4xeCHrtDwf5QMRjNHSMukw) | [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS) | [Ice Cold](https://open.spotify.com/album/1NxOhu7pWLESkHyxliwV6m) | 4:21 | 2024-11-28 |  |
 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 | 2025-02-16 |  |
+| [Let's Stick Together](https://open.spotify.com/track/6y4FVJwf09ssxuRnlEgXkp) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [Let's Stick Together](https://open.spotify.com/album/7q7RBiiadKQR4DCbs7OMbd) | 2:59 | 2026-01-12 |  |
 | [Letter To Hermione](https://open.spotify.com/track/7f4R2TOur5XdSwVPHQHK7H) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Black Radio](https://open.spotify.com/album/1yqUCdbw73DpnHBVDwNa3X) | 4:51 | 2025-02-20 |  |
 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 | 2025-09-05 |  |
 | [Libre](https://open.spotify.com/track/7nVJa3bpQZc4onq25jo4pJ) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Abracadabra](https://open.spotify.com/album/1Qx4Ifq9PMRQhjF7pChakY) | 3:09 | 2025-03-31 |  |
@@ -2641,6 +2644,7 @@
 | [Sweat Of Your Brow \- featuring Demarco](https://open.spotify.com/track/7L2BWkVYx9Th8OXTSZbHPu) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [This Is Me](https://open.spotify.com/album/5aCzPA20FepyLnjjgulmFv) | 3:20 | 2025-05-30 |  |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2025-04-19 |  |
 | [Sweet Caroline](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd) | 3:23 | 2025-05-29 |  |
+| [Sweet City Woman](https://open.spotify.com/track/2iun9tjxI89EsB2nAJUraP) | [The Matinee](https://open.spotify.com/artist/5xoJ85rpGDb8hhTaNqa2Fv) | [Push Button Radio: CanCon AM Radio Hits from the 70s](https://open.spotify.com/album/1ruGbQIBzbwz325iJFbYNs) | 3:21 | 2026-01-12 |  |
 | [Sweet Flower \(feat\. Syra\)](https://open.spotify.com/track/3AfwO9WWwJq59erFbKebdM) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Syra](https://open.spotify.com/artist/2084XyyxS0j6Yt7u5KpbAa) | [The Brownprint](https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9) | 2:56 | 2025-03-30 |  |
 | [Sweet Love](https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Rapture](https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u) | 4:26 | 2025-02-15 |  |
 | [Sweet Ones](https://open.spotify.com/track/2ZjN2dU82pxJZPFsRHuUwt) | [Sarah Slean](https://open.spotify.com/artist/5Iajdo2RauARzonA7d4XtW) | [Sarah Slean \(83502\)](https://open.spotify.com/album/4Mx1zlxSBolgFbzBkTdDpn) | 3:13 | 2024-12-12 |  |

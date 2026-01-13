@@ -10831,6 +10831,24 @@
     },
     {
       "album": {
+        "name": "Cosmic Carousel",
+        "url": "https://open.spotify.com/album/32LE1Hhmf7xiA41AkY4yVq"
+      },
+      "artists": [
+        {
+          "name": "Evan Redsky",
+          "url": "https://open.spotify.com/artist/1qZng7TJN7pOHMSUItFB8s"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260605,
+      "name": "Cosmic Carousel",
+      "url": "https://open.spotify.com/track/640ksJNNEgbPoswV0UlAtd"
+    },
+    {
+      "album": {
         "name": "Uprising",
         "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
       },
@@ -21835,6 +21853,24 @@
     },
     {
       "album": {
+        "name": "Whiteout Conditions",
+        "url": "https://open.spotify.com/album/7gyNplAOdr9m2csLHAHX7O"
+      },
+      "artists": [
+        {
+          "name": "The New Pornographers",
+          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231093,
+      "name": "High Ticket Attractions",
+      "url": "https://open.spotify.com/track/1sG2FDeg3HyblygpDYL6sf"
+    },
+    {
+      "album": {
         "name": "Cousins",
         "url": "https://open.spotify.com/album/1wnZuVgCUAAbVjqbiK8zkM"
       },
@@ -29900,6 +29936,24 @@
       "duration_ms": 199396,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
+    },
+    {
+      "album": {
+        "name": "Let's Stick Together",
+        "url": "https://open.spotify.com/album/7q7RBiiadKQR4DCbs7OMbd"
+      },
+      "artists": [
+        {
+          "name": "Bryan Ferry",
+          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179160,
+      "name": "Let's Stick Together",
+      "url": "https://open.spotify.com/track/6y4FVJwf09ssxuRnlEgXkp"
     },
     {
       "album": {
@@ -49144,6 +49198,24 @@
       "duration_ms": 203573,
       "name": "Sweet Caroline",
       "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"
+    },
+    {
+      "album": {
+        "name": "Push Button Radio: CanCon AM Radio Hits from the 70s",
+        "url": "https://open.spotify.com/album/1ruGbQIBzbwz325iJFbYNs"
+      },
+      "artists": [
+        {
+          "name": "The Matinee",
+          "url": "https://open.spotify.com/artist/5xoJ85rpGDb8hhTaNqa2Fv"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201960,
+      "name": "Sweet City Woman",
+      "url": "https://open.spotify.com/track/2iun9tjxI89EsB2nAJUraP"
     },
     {
       "album": {

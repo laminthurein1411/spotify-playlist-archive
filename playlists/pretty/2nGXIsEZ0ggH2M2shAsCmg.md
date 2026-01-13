@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,566 songs - 12 day 23 hr 49 min
+[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,567 songs - 12 day 23 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4574,5 +4574,6 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 4564 | [Rhinestone Cowboy](https://open.spotify.com/track/68yjblcYaMCQFMD9Q6x1IO) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Glen Campbell \- The Capitol Years 1965 \- 1977](https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy) | 3:15 |
 | 4565 | [Everywhere \- 2018 Remaster](https://open.spotify.com/track/7BRMVjSXolblx6ZXliSaMl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [50 Years \- Don't Stop](https://open.spotify.com/album/06JqOkwwy91OxrApXclzYf) | 3:43 |
 | 4566 | [Cracklin' Rosie](https://open.spotify.com/track/1LjFrPohvGTdXmEz6rHbxi) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [All\-Time Greatest Hits](https://open.spotify.com/album/6sdXGlrywMohGMVg5gIqwp) | 2:58 |
+| 4567 | [Under the Bridge](https://open.spotify.com/track/0m94t87orBZLrmJTVzr6CO) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Mellow 90s Gold](https://open.spotify.com/album/3GosrfiSY5V8aP5zMGRXVY) | 4:24 |
 
-Snapshot ID: `AAACbn9pS6H+dOyl9iAmALOUEv3G1LKZ`
+Snapshot ID: `AAACbz75Ow2TyqFij3hxzYzhwbDsffwx`
