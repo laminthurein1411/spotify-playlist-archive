@@ -29955,6 +29955,24 @@
     },
     {
       "album": {
+        "name": "All That Jazz",
+        "url": "https://open.spotify.com/album/2t2kQu1Zd9vZRb71Vx1ASf"
+      },
+      "artists": [
+        {
+          "name": "Breathe",
+          "url": "https://open.spotify.com/artist/1MNeXu0284O7mQWgF1YRc0"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284360,
+      "name": "How Can I Fall ?",
+      "url": "https://open.spotify.com/track/62oGUBJQGPa3emMGMejBhm"
+    },
+    {
+      "album": {
         "name": "When A Man Loves A Woman: The Love Songs of Michael Bolton",
         "url": "https://open.spotify.com/album/5yOi71tm0r1qFBwhUhVGvj"
       },
@@ -45244,6 +45262,24 @@
       "duration_ms": 275706,
       "name": "Ma Baker (ZDF Starparade 02.06.1977)",
       "url": "https://open.spotify.com/track/48C219M8L2HGsFTLudljk5"
+    },
+    {
+      "album": {
+        "name": "On The Radio: Greatest Hits Volumes I & II",
+        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "MacArthur Park - Single Version",
+      "url": "https://open.spotify.com/track/42tYHqMxXxXHAAWqLaoOfQ"
     },
     {
       "album": {
@@ -68807,6 +68843,24 @@
     },
     {
       "album": {
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/2gXC4NqrL2cbjNhaoSrpIi"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222013,
+      "name": "The In Crowd",
+      "url": "https://open.spotify.com/track/274ivMDGoAmZGsxhcn6tNt"
+    },
+    {
+      "album": {
         "name": "The Miracle (2011 Remaster)",
         "url": "https://open.spotify.com/album/3h6SV9wHJtNL1YswZUJs8V"
       },
@@ -71096,6 +71150,24 @@
       "duration_ms": 162186,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P"
+    },
+    {
+      "album": {
+        "name": "Throwback Tunes: 90s",
+        "url": "https://open.spotify.com/album/0q3ZiDgtLHx0TjBxomn0Hs"
+      },
+      "artists": [
+        {
+          "name": "The La's",
+          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/3GurPCntk4pGks9vSeVnlR"
     },
     {
       "album": {
@@ -73988,6 +74060,24 @@
       "duration_ms": 240419,
       "name": "Two Tickets to Paradise (2022 Remaster)",
       "url": "https://open.spotify.com/track/22CIOfLZB9z8He7WgHYAgH"
+    },
+    {
+      "album": {
+        "name": "Drew's Famous Hits Of The 90's",
+        "url": "https://open.spotify.com/album/0yxQT9TFkTDgL8IJArvjpF"
+      },
+      "artists": [
+        {
+          "name": "MC Hammer",
+          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255213,
+      "name": "U Can't Touch This",
+      "url": "https://open.spotify.com/track/6DlIHBdyl72czwnxImThih"
     },
     {
       "album": {
@@ -77475,7 +77565,7 @@
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 259466,
+      "duration_ms": 254600,
       "name": "What Can I Do",
       "url": "https://open.spotify.com/track/4rvT5iZVOCJeXZrDvy6JFK"
     },

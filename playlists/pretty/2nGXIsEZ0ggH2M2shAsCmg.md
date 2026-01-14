@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,567 songs - 12 day 23 hr 54 min
+[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,572 songs - 13 day 0 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2197,7 +2197,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 2187 | [There's No Other Way \- Single Version](https://open.spotify.com/track/2qw5UTkURUArvay7phtq8U) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 3:13 |
 | 2188 | [Because of You](https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU) | 3:39 |
 | 2189 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 |
-| 2190 | [What Can I Do](https://open.spotify.com/track/4rvT5iZVOCJeXZrDvy6JFK) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W), [Tin Tin Out](https://open.spotify.com/artist/1a5l3fWnzmaK7gDD2IkbHq) | [Talk on Corners](https://open.spotify.com/album/1z8ikMQ0VmMJDPmeiKY3o5) | 4:19 |
+| 2190 | [What Can I Do](https://open.spotify.com/track/4rvT5iZVOCJeXZrDvy6JFK) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W), [Tin Tin Out](https://open.spotify.com/artist/1a5l3fWnzmaK7gDD2IkbHq) | [Talk on Corners](https://open.spotify.com/album/1z8ikMQ0VmMJDPmeiKY3o5) | 4:14 |
 | 2191 | [I'll Never Let You Go](https://open.spotify.com/track/43v1rIzI5SvzVvXsvI8F9j) | [STEELHEART](https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD) | [Steelheart](https://open.spotify.com/album/5w6EjgZMLmZm7Z0EJJZ7PZ) | 5:06 |
 | 2192 | [Nobody's Fool](https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Night Songs](https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY) | 4:47 |
 | 2193 | [Dee](https://open.spotify.com/track/25HIDHHrgMma40JUI7s7BJ) | [Randy Rhoads](https://open.spotify.com/artist/3pSSOCRaRiEVnNWnPPsO2d), [Jose Duarte](https://open.spotify.com/artist/2BV14bDG5iaUlaTzMunwBV) | [Mellow Matters](https://open.spotify.com/album/1AYZRSNRqdgKupzUEj3dzq) | 0:56 |
@@ -4575,5 +4575,10 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 4565 | [Everywhere \- 2018 Remaster](https://open.spotify.com/track/7BRMVjSXolblx6ZXliSaMl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [50 Years \- Don't Stop](https://open.spotify.com/album/06JqOkwwy91OxrApXclzYf) | 3:43 |
 | 4566 | [Cracklin' Rosie](https://open.spotify.com/track/1LjFrPohvGTdXmEz6rHbxi) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [All\-Time Greatest Hits](https://open.spotify.com/album/6sdXGlrywMohGMVg5gIqwp) | 2:58 |
 | 4567 | [Under the Bridge](https://open.spotify.com/track/0m94t87orBZLrmJTVzr6CO) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Mellow 90s Gold](https://open.spotify.com/album/3GosrfiSY5V8aP5zMGRXVY) | 4:24 |
+| 4568 | [How Can I Fall ?](https://open.spotify.com/track/62oGUBJQGPa3emMGMejBhm) | [Breathe](https://open.spotify.com/artist/1MNeXu0284O7mQWgF1YRc0) | [All That Jazz](https://open.spotify.com/album/2t2kQu1Zd9vZRb71Vx1ASf) | 4:44 |
+| 4569 | [U Can't Touch This](https://open.spotify.com/track/6DlIHBdyl72czwnxImThih) | [MC Hammer](https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW) | [Drew's Famous Hits Of The 90's](https://open.spotify.com/album/0yxQT9TFkTDgL8IJArvjpF) | 4:15 |
+| 4570 | [MacArthur Park \- Single Version](https://open.spotify.com/track/42tYHqMxXxXHAAWqLaoOfQ) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [On The Radio: Greatest Hits Volumes I & II](https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA) | 3:55 |
+| 4571 | [There She Goes](https://open.spotify.com/track/3GurPCntk4pGks9vSeVnlR) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [Throwback Tunes: 90s](https://open.spotify.com/album/0q3ZiDgtLHx0TjBxomn0Hs) | 2:44 |
+| 4572 | [The In Crowd](https://open.spotify.com/track/274ivMDGoAmZGsxhcn6tNt) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Time Flies](https://open.spotify.com/album/2gXC4NqrL2cbjNhaoSrpIi) | 3:42 |
 
-Snapshot ID: `AAACbz75Ow2TyqFij3hxzYzhwbDsffwx`
+Snapshot ID: `AAACcMFbmddoDtl2oPigoMPbs95FEZ3g`

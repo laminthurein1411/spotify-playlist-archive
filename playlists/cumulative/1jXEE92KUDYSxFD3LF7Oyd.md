@@ -4,7 +4,7 @@
 
 > 
 
-170 songs - 9 hr 20 min
+172 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Fais comme l'oiseau](https://open.spotify.com/track/725PsGr5yXLJl8uENrVXPa) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais comme l'oiseau](https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP) | 3:06 | 2023-12-09 |  |
 | [Fais pas ci, fais pas ça](https://open.spotify.com/track/0FypjlDKkK46KkvSPt7bem) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [Il est cinq heures](https://open.spotify.com/album/6uZABwQhmEllK5otzX9ONK) | 1:43 | 2025-10-30 |  |
 | [Gabriela](https://open.spotify.com/track/0RvJfhqX0Ktl5H9wzhNjTJ) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Ben É Samba Bom \(1964\)](https://open.spotify.com/album/3p1lsEa1gZjIWwUDKA0AbT) | 2:52 | 2025-07-19 |  |
+| [GDE PAPA LONGMIX](https://open.spotify.com/track/7MRLGjlf6qUWBS59FBMhCA) | [BOOKER](https://open.spotify.com/artist/40K9KbqFFDzGXfUW3s60bv), [CMH](https://open.spotify.com/artist/4t8lDh2zuWn1d9cyJQkESe), [mzlff](https://open.spotify.com/artist/56wiPFJN2Z1PG1N8hGNYaD), [Slava KPSS](https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq) | [КАЧ](https://open.spotify.com/album/6FSybQCiCMmB5Q01sfIQbo) | 4:15 | 2026-01-13 |  |
 | [Griechischer Wein](https://open.spotify.com/track/6acOaeELSjmb29hNussIXt) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Meine Lieder](https://open.spotify.com/album/36VpMfIJBeA3UTkj5FvzRc) | 4:04 | 2025-09-05 |  |
 | [Gwendolyne](https://open.spotify.com/track/7B4uAyj4X3qs8YXdV4wwhS) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Gwendolyne](https://open.spotify.com/album/33JwmtWxEH0Jh0IqK9OIMj) | 2:48 | 2025-04-03 |  |
 | [Hier encore](https://open.spotify.com/track/4ciRwt5dGHKKm8Et8r1xJ0) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Que c'est triste Venise \(Remastered 2014\)](https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK) | 2:23 | 2025-07-31 |  |
@@ -113,6 +114,7 @@
 | [Non, je ne regrette rien](https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Eternelle](https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za) | 2:22 | 2023-12-09 |  |
 | [Nur wegen dir](https://open.spotify.com/track/19VrCmegsh8IqFfvpht5yw) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Schlagschatten](https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI) | 3:01 | 2025-07-28 |  |
 | [Oublier](https://open.spotify.com/track/08ERabruhqMIkZOlIPKIDb) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Oublier](https://open.spotify.com/album/5Ezw4AdjahQsjz7U3iXIec) | 2:48 | 2025-10-30 |  |
+| [Paroles… paroles…](https://open.spotify.com/track/4upAAK88rtQ3L9vTnk5YKs) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [Julien](https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr) | 4:05 | 2026-01-13 |  |
 | [Paroles… paroles…](https://open.spotify.com/track/4VvTGipG8YaF09z0kfGqaD) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 4:05 | 2023-12-09 |  |
 | [Pas à ma place](https://open.spotify.com/track/1zNGngJpT00C7fMRTwcJhQ) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [Montagnes Russes](https://open.spotify.com/album/01FvUhPKSiGylm8coBbWZN) | 2:55 | 2022-05-07 |  |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2025-06-21 |  |

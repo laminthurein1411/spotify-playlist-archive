@@ -6,7 +6,7 @@
     "name": "ramiro",
     "url": "https://open.spotify.com/user/rgarzaa"
   },
-  "snapshot_id": "AAACbz75Ow2TyqFij3hxzYzhwbDsffwx",
+  "snapshot_id": "AAACcMFbmddoDtl2oPigoMPbs95FEZ3g",
   "tracks": [
     {
       "added_at": "2024-02-28 02:33:08",
@@ -35436,7 +35436,7 @@
           "url": "https://open.spotify.com/artist/1a5l3fWnzmaK7gDD2IkbHq"
         }
       ],
-      "duration_ms": 259466,
+      "duration_ms": 254600,
       "name": "What Can I Do",
       "url": "https://open.spotify.com/track/4rvT5iZVOCJeXZrDvy6JFK"
     },
@@ -74231,6 +74231,86 @@
       "duration_ms": 264306,
       "name": "Under the Bridge",
       "url": "https://open.spotify.com/track/0m94t87orBZLrmJTVzr6CO"
+    },
+    {
+      "added_at": "2026-01-13 14:30:36",
+      "album": {
+        "name": "All That Jazz",
+        "url": "https://open.spotify.com/album/2t2kQu1Zd9vZRb71Vx1ASf"
+      },
+      "artists": [
+        {
+          "name": "Breathe",
+          "url": "https://open.spotify.com/artist/1MNeXu0284O7mQWgF1YRc0"
+        }
+      ],
+      "duration_ms": 284360,
+      "name": "How Can I Fall ?",
+      "url": "https://open.spotify.com/track/62oGUBJQGPa3emMGMejBhm"
+    },
+    {
+      "added_at": "2026-01-13 14:30:36",
+      "album": {
+        "name": "Drew's Famous Hits Of The 90's",
+        "url": "https://open.spotify.com/album/0yxQT9TFkTDgL8IJArvjpF"
+      },
+      "artists": [
+        {
+          "name": "MC Hammer",
+          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
+        }
+      ],
+      "duration_ms": 255213,
+      "name": "U Can't Touch This",
+      "url": "https://open.spotify.com/track/6DlIHBdyl72czwnxImThih"
+    },
+    {
+      "added_at": "2026-01-13 14:30:36",
+      "album": {
+        "name": "On The Radio: Greatest Hits Volumes I & II",
+        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "MacArthur Park - Single Version",
+      "url": "https://open.spotify.com/track/42tYHqMxXxXHAAWqLaoOfQ"
+    },
+    {
+      "added_at": "2026-01-13 14:30:36",
+      "album": {
+        "name": "Throwback Tunes: 90s",
+        "url": "https://open.spotify.com/album/0q3ZiDgtLHx0TjBxomn0Hs"
+      },
+      "artists": [
+        {
+          "name": "The La's",
+          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/3GurPCntk4pGks9vSeVnlR"
+    },
+    {
+      "added_at": "2026-01-13 14:30:36",
+      "album": {
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/2gXC4NqrL2cbjNhaoSrpIi"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "The In Crowd",
+      "url": "https://open.spotify.com/track/274ivMDGoAmZGsxhcn6tNt"
     }
   ],
   "unique_name": "Classic 106.9",

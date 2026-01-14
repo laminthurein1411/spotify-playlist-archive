@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 170 songs - 9 hr 19 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 172 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,5 +178,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 168 | [Люди Надоели](https://open.spotify.com/track/7wrUu51QXPJehBNRQAC20D) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [С крыш наших домов](https://open.spotify.com/album/3vvxtuFGdpwxgd2Pyk6N1D) | 2:58 |
 | 169 | [Пластинки](https://open.spotify.com/track/1OgLQdSMi9a7fZOqV96veS) | [Дурной Вкус](https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j) | [Пластинки](https://open.spotify.com/album/0jvMXv33xPDwS96RSQZe9U) | 3:04 |
 | 170 | [Здравствуй](https://open.spotify.com/track/4gmzU1lObaLdStXFRcODhe) | [Перемотка](https://open.spotify.com/artist/3AwNBhYb8tZmJ5m0VIKHp2) | [Дождь прошёл в парке отдыха](https://open.spotify.com/album/3xitaViJmqiq1a2vAufWHd) | 6:53 |
+| 171 | [Paroles… paroles…](https://open.spotify.com/track/4upAAK88rtQ3L9vTnk5YKs) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [Julien](https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr) | 4:05 |
+| 172 | [GDE PAPA LONGMIX](https://open.spotify.com/track/7MRLGjlf6qUWBS59FBMhCA) | [BOOKER](https://open.spotify.com/artist/40K9KbqFFDzGXfUW3s60bv), [CMH](https://open.spotify.com/artist/4t8lDh2zuWn1d9cyJQkESe), [mzlff](https://open.spotify.com/artist/56wiPFJN2Z1PG1N8hGNYaD), [Slava KPSS](https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq) | [КАЧ](https://open.spotify.com/album/6FSybQCiCMmB5Q01sfIQbo) | 4:15 |
 
-Snapshot ID: `AAAAcvkt6ofKwbv3yqT97fEYnnHVfqGw`
+Snapshot ID: `AAAAdOB7L0+2KUfLlXe1CQfI8JSg6S/E`

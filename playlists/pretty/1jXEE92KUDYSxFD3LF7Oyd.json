@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAAcvkt6ofKwbv3yqT97fEYnnHVfqGw",
+  "snapshot_id": "AAAAdOB7L0+2KUfLlXe1CQfI8JSg6S/E",
   "tracks": [
     {
       "added_at": "2022-05-07 13:03:51",
@@ -2779,6 +2779,54 @@
       "duration_ms": 413567,
       "name": "\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439",
       "url": "https://open.spotify.com/track/4gmzU1lObaLdStXFRcODhe"
+    },
+    {
+      "added_at": "2026-01-13 10:02:54",
+      "album": {
+        "name": "Julien",
+        "url": "https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        },
+        {
+          "name": "Alain Delon",
+          "url": "https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8"
+        }
+      ],
+      "duration_ms": 245146,
+      "name": "Paroles\u2026 paroles\u2026",
+      "url": "https://open.spotify.com/track/4upAAK88rtQ3L9vTnk5YKs"
+    },
+    {
+      "added_at": "2026-01-13 11:43:33",
+      "album": {
+        "name": "\u041a\u0410\u0427",
+        "url": "https://open.spotify.com/album/6FSybQCiCMmB5Q01sfIQbo"
+      },
+      "artists": [
+        {
+          "name": "BOOKER",
+          "url": "https://open.spotify.com/artist/40K9KbqFFDzGXfUW3s60bv"
+        },
+        {
+          "name": "CMH",
+          "url": "https://open.spotify.com/artist/4t8lDh2zuWn1d9cyJQkESe"
+        },
+        {
+          "name": "mzlff",
+          "url": "https://open.spotify.com/artist/56wiPFJN2Z1PG1N8hGNYaD"
+        },
+        {
+          "name": "Slava KPSS",
+          "url": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
+        }
+      ],
+      "duration_ms": 255333,
+      "name": "GDE PAPA LONGMIX",
+      "url": "https://open.spotify.com/track/7MRLGjlf6qUWBS59FBMhCA"
     }
   ],
   "unique_name": "European \ud83c\udfe4",
