@@ -3185,6 +3185,24 @@
     },
     {
       "album": {
+        "name": "Namu",
+        "url": "https://open.spotify.com/album/0HH0rLAe8G6aZMmV003Idq"
+      },
+      "artists": [
+        {
+          "name": "Sable Hills",
+          "url": "https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220839,
+      "name": "Namu",
+      "url": "https://open.spotify.com/track/2WG78GhtscUQJnUMZLyJXN"
+    },
+    {
+      "album": {
         "name": "Your Name.",
         "url": "https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP"
       },

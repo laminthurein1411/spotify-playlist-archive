@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,572 songs - 13 day 0 hr 13 min
+[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,593 songs - 13 day 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4580,5 +4580,26 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 4570 | [MacArthur Park \- Single Version](https://open.spotify.com/track/42tYHqMxXxXHAAWqLaoOfQ) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [On The Radio: Greatest Hits Volumes I & II](https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA) | 3:55 |
 | 4571 | [There She Goes](https://open.spotify.com/track/3GurPCntk4pGks9vSeVnlR) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [Throwback Tunes: 90s](https://open.spotify.com/album/0q3ZiDgtLHx0TjBxomn0Hs) | 2:44 |
 | 4572 | [The In Crowd](https://open.spotify.com/track/274ivMDGoAmZGsxhcn6tNt) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Time Flies](https://open.spotify.com/album/2gXC4NqrL2cbjNhaoSrpIi) | 3:42 |
+| 4573 | [Put Your Head on My Shoulder \- Remastered](https://open.spotify.com/track/51JFzA3YkMTklUD0HXU2zb) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Diana / Put Your Head on My Shoulder \(Remastered\)](https://open.spotify.com/album/32uJfQFlJXM2dUlLen2Byf) | 2:38 |
+| 4574 | [Saving All My Love for You](https://open.spotify.com/track/2KtQEHv44Y1US0iaJ41pRA) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston \(The Deluxe Anniversary Edition\)](https://open.spotify.com/album/04arXzlpe9GdzQ8yPzAjAE) | 3:57 |
+| 4575 | [Save a Prayer](https://open.spotify.com/track/52noeR9sobs1a0E0Z6VuUO) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 5:29 |
+| 4576 | [Sexbomb](https://open.spotify.com/track/7GHKA8GIMcND6c5nN1sFnD) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5), [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6) | [Reload](https://open.spotify.com/album/4cFoiStUR2uBHKKZUWtaBG) | 3:31 |
+| 4577 | [Blue Moon](https://open.spotify.com/track/0mzih4AXNRUHW50gIeuQ6n) | [The Marcels](https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3) | [Blue Moon](https://open.spotify.com/album/6MJ1gyQgPQmPRkRrh1rMBu) | 2:18 |
+| 4578 | [Fade To Black \- Remastered](https://open.spotify.com/track/5nekfiTN45vlxG0eNJQQye) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe / Remastered\)](https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx) | 6:57 |
+| 4579 | [Hells Bells](https://open.spotify.com/track/69QHm3pustz01CJRwdo20z) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 5:12 |
+| 4580 | [Tell Me What You Want](https://open.spotify.com/track/6WCeKlgDg5zzOY1OvMA3q9) | [Zebra](https://open.spotify.com/artist/1q7m1DacLfRgt38Wdin4yH) | [Zebra](https://open.spotify.com/album/6tPfQMnJfQxqiTediMQb10) | 3:50 |
+| 4581 | [Shot in the Dark](https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Ultimate Sin](https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j) | 4:16 |
+| 4582 | [Never Gonna Give You Up](https://open.spotify.com/track/1oQCO7vLjHfOiSW10Luahl) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Football Songs](https://open.spotify.com/album/4S4crj7xILxy4YLFA5g8fx) | 3:32 |
+| 4583 | [Show Me How to Live](https://open.spotify.com/track/21tuvt3CXIsNquc32v8jpc) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/7ysDeat0kDelEE7M6MUwXZ) | 4:37 |
+| 4584 | [Californication](https://open.spotify.com/track/7JmVUkJUW6jf7uD0NyTao5) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Música para la comida](https://open.spotify.com/album/6H2g3DCqHLwW64baF4DPjI) | 5:29 |
+| 4585 | [Suspicious Minds](https://open.spotify.com/track/4BZ4zs8i0h0fpVuXHsZl8R) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Best of The '68 Comeback Special \(Live\)](https://open.spotify.com/album/1vaQwUom5fWnLNJDcabU01) | 4:21 |
+| 4586 | [Mr Sandman](https://open.spotify.com/track/73AkMaExrQHSIgfL7ApNdN) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Mr Sandman](https://open.spotify.com/album/2hpfuuc0uveSqDkH8jWSOB) | 2:24 |
+| 4587 | [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 |
+| 4588 | [Little Red Corvette](https://open.spotify.com/track/4iozhXt27eMl39W5z7R8H6) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67) | 4:56 |
+| 4589 | [Touch And Go \- 2024 Remaster](https://open.spotify.com/track/0BiXbnP4n96gLv0r7KdqiS) | [Emerson, Lake & Powell](https://open.spotify.com/artist/6Do8N74ifeVxB1hc2cRcko) | [Complete Collection](https://open.spotify.com/album/6qU829oR61EW5OwnlzAFqu) | 3:38 |
+| 4590 | [Freewill](https://open.spotify.com/track/2XwYeBzumtjxVbFWwhJpsy) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Permanent Waves](https://open.spotify.com/album/3nUNxSh2szhmN7iifAKv5i) | 5:21 |
+| 4591 | [Need You Now](https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 4:37 |
+| 4592 | [Soul Finger](https://open.spotify.com/track/0njGde1tKKOE08rleBgGMA) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [Absolute 60's](https://open.spotify.com/album/0KP8mnbhp4Qb6InIAw1WqW) | 2:21 |
+| 4593 | [Sister Golden Hair](https://open.spotify.com/track/4BCmdMShfg9uz1WeyXaFae) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [America's Greatest Hits \- History](https://open.spotify.com/album/64sDz3NRE1xYuaIZWAyu4N) | 3:17 |
 
-Snapshot ID: `AAACcMFbmddoDtl2oPigoMPbs95FEZ3g`
+Snapshot ID: `AAACcWKQOOOd/OR3Lw4s6uLtE65aTLpE`

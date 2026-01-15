@@ -3033,6 +3033,24 @@
     },
     {
       "album": {
+        "name": "Apple",
+        "url": "https://open.spotify.com/album/4dLoyyvosqm0KTmxz9TV62"
+      },
+      "artists": [
+        {
+          "name": "Rae Spoon",
+          "url": "https://open.spotify.com/artist/507TICFblljsw2Nbk7wXbx"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154122,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/1vOO2HMOfNU8WOx6M0LVgd"
+    },
+    {
+      "album": {
         "name": "Cheat Codes",
         "url": "https://open.spotify.com/album/4TPi1tGDVXCdQOjn4NSRaB"
       },
@@ -11441,6 +11459,24 @@
     },
     {
       "album": {
+        "name": "West End Girl",
+        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184333,
+      "name": "Dallas Major",
+      "url": "https://open.spotify.com/track/1ECugAb7Pg6UDA501YYgH9"
+    },
+    {
+      "album": {
         "name": "The Trill: A Journey So Far",
         "url": "https://open.spotify.com/album/0xXMwQ5HFQ7JTrXW6x0osm"
       },
@@ -13926,6 +13962,24 @@
       "duration_ms": 227736,
       "name": "Dreaming Man",
       "url": "https://open.spotify.com/track/1Wnlx848FRm7HX9G4vDcMw"
+    },
+    {
+      "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233641,
+      "name": "Dreamlover",
+      "url": "https://open.spotify.com/track/5m9aremBVDMMMAP1tfFCbx"
     },
     {
       "album": {
@@ -34834,6 +34888,24 @@
     {
       "album": {
         "name": "The Reminder",
+        "url": "https://open.spotify.com/album/0gdO7WhaXPUpmWr81AOcMK"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228346,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/1NMFwd3TGPWYrVmYaBasz6"
+    },
+    {
+      "album": {
+        "name": "The Reminder",
         "url": "https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF"
       },
       "artists": [
@@ -48618,6 +48690,24 @@
       "duration_ms": 222654,
       "name": "Sugar in the Tank",
       "url": "https://open.spotify.com/track/27Xxf6AtaSpXE47Xzvua9r"
+    },
+    {
+      "album": {
+        "name": "American Beauty (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199398,
+      "name": "Sugar Magnolia - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2EB1aFLWC4uIfld5Z3Yj1z"
     },
     {
       "album": {

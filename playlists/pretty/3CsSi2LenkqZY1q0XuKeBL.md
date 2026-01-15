@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3CsSi2LenkqZY1q0XuKeBL.md) - [plain]
 
 > Collection Of All Types Of Music Genres With Japanese Songs.
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 4 likes - 517 songs - 1 day 12 hr 40 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 4 likes - 518 songs - 1 day 12 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -525,5 +525,6 @@ pretty - [cumulative](/playlists/cumulative/3CsSi2LenkqZY1q0XuKeBL.md) - [plain]
 | 515 | [The Cruel Angel's Thesis \(Director's Edit Version\)](https://open.spotify.com/track/3x4378ztiLvFmm2nuzEI0C) | [高橋　洋子](https://open.spotify.com/artist/7E5MrVWMFeqB4lK3xCEL6B) | [NEON GENESIS EVANGELION \(Original Series Soundtrack\)](https://open.spotify.com/album/4vwgTxjKwiSWfEoGOqhiWa) | 4:05 |
 | 516 | [明日、僕は君に会いに行く。](https://open.spotify.com/track/3ilHVNsvKWpfT6uzrAo60D) | [wakaba](https://open.spotify.com/artist/2uo1XalgqLUYeHMtKrLt4n) | [『世界一初恋』コレクターズボーカルアルバム](https://open.spotify.com/album/2uoDgx3TE2tVZJ24rum1jh) | 4:07 |
 | 517 | [明日、僕は君に会いに行く。](https://open.spotify.com/track/1KXGwIhcTM3ela6AaM4ztc) | [wakaba](https://open.spotify.com/artist/2uo1XalgqLUYeHMtKrLt4n) | [Atlas](https://open.spotify.com/album/4icPDR6gQIj6IYYwOptVGu) | 4:09 |
+| 518 | [Namu](https://open.spotify.com/track/2WG78GhtscUQJnUMZLyJXN) | [Sable Hills](https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn) | [Namu](https://open.spotify.com/album/0HH0rLAe8G6aZMmV003Idq) | 3:40 |
 
-Snapshot ID: `AAACJKLFvQCIrudWfuD/pC22FAQdSNiI`
+Snapshot ID: `AAACJbjn1sA0dN56rA7IeMytkcxEJTlu`

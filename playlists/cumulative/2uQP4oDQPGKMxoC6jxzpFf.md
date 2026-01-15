@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,275 songs - 8 day 12 hr 19 min
+3,280 songs - 8 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Anvil](https://open.spotify.com/track/7i2bJ4K6Dl0IZUt45B1Obl) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Strange Trip Ahead](https://open.spotify.com/album/3IILNy0XPiGB4g8jtm9Agp) | 4:10 | 2025-11-29 |  |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-04-19 |  |
 | [Anything for You \(feat\. Nadine Sutherland\)](https://open.spotify.com/track/25gL12i7OhqwAalksRruiY) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1), [Nadine Sutherland](https://open.spotify.com/artist/6SaSgAC8GbmzRyCuhPtWdd) | [Murder Love](https://open.spotify.com/album/0qoktMXIiOXT6ZNpSzLMlI) | 4:31 | 2025-07-02 |  |
+| [Apple](https://open.spotify.com/track/1vOO2HMOfNU8WOx6M0LVgd) | [Rae Spoon](https://open.spotify.com/artist/507TICFblljsw2Nbk7wXbx) | [Apple](https://open.spotify.com/album/4dLoyyvosqm0KTmxz9TV62) | 2:34 | 2026-01-14 |  |
 | [Aquamarine \(feat\. Michael Kiwanuka\)](https://open.spotify.com/track/4so0c8plnJDYDCZtZCfsHr) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cheat Codes](https://open.spotify.com/album/4TPi1tGDVXCdQOjn4NSRaB) | 3:58 | 2025-01-08 |  |
 | [Archie, Marry Me](https://open.spotify.com/track/1cSzFn8tBOd75LCCHRRll0) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/7hZHazzF2CYhmxIzvgDtyC) | 3:16 | 2025-01-20 |  |
 | [Arctic Rose](https://open.spotify.com/track/6wML0iWqKojKQwfAMeFP6Q) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [Arctic Rose](https://open.spotify.com/album/1dT40YxCeO3oqR2dcxzvTJ) | 4:08 | 2025-11-29 |  |
@@ -622,6 +623,7 @@
 | [Crying While Wasted](https://open.spotify.com/track/1YLIbW037vjKp4uhvEUUZe) | [Rachel Cousins](https://open.spotify.com/artist/7DpXoKZYGVplF7otoL4gnY) | [Crying While Wasted](https://open.spotify.com/album/1c2kpCpzxSiJHRpxH0fkgx) | 4:11 | 2025-10-03 |  |
 | [Cursed](https://open.spotify.com/track/4MlstlvEZVegz6fvYkCB61) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:20 | 2025-04-16 |  |
 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-31 |  |
+| [Dallas Major](https://open.spotify.com/track/1ECugAb7Pg6UDA501YYgH9) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 3:04 | 2026-01-14 |  |
 | [Dance In Your Car](https://open.spotify.com/track/53dncaY2CpfUzOAzMfp2zw) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [The Trill: A Journey So Far](https://open.spotify.com/album/0xXMwQ5HFQ7JTrXW6x0osm) | 3:52 | 2025-01-03 |  |
 | [Dance to the Music](https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:59 | 2025-06-28 |  |
 | [Dance With My Father](https://open.spotify.com/track/7snmvZMLdGGk3l9PcvoYSM) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:26 | 2025-05-24 |  |
@@ -756,6 +758,7 @@
 | [Dream Job](https://open.spotify.com/track/3u7PMsVBQ1viIm8tlhotl6) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Where’s My Utopia?](https://open.spotify.com/album/34UIFF2mDOl7JN0QdmMjPg) | 2:39 | 2025-01-05 |  |
 | [Dreaming \- Remastered 2001](https://open.spotify.com/track/3W0xbvrZqaao3ZZEDhVQ0r) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4SxhwzlhAfa0FgYHrGfGz8) | 3:08 | 2025-01-07 |  |
 | [Dreaming Man](https://open.spotify.com/track/1Wnlx848FRm7HX9G4vDcMw) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Truckdriver Gladiator Mule](https://open.spotify.com/album/06soSZ6crBh33S0iw7147X) | 3:47 | 2025-09-27 |  |
+| [Dreamlover](https://open.spotify.com/track/5m9aremBVDMMMAP1tfFCbx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 3:53 | 2026-01-14 |  |
 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 | 2025-03-21 |  |
 | [Dreams](https://open.spotify.com/track/2eK9zWVs4CwsrUtO8QksCb) | [The Hanging Stars](https://open.spotify.com/artist/4xFe9Cm82gRgtZb8jlJX5b), [Bonnie Dobson](https://open.spotify.com/artist/62dp4ukQTgdD8vhPD2gb67) | [Dreams](https://open.spotify.com/album/2ytMXjfFwgzodwfe47zOnL) | 5:10 | 2025-08-12 |  |
 | [Dress](https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Dress](https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys) | 3:26 | 2024-11-25 |  |
@@ -1876,6 +1879,7 @@
 | [My Lovin' \(You're Never Gonna Get It\)](https://open.spotify.com/track/0YneC4nNQEsKCqAGCv1tJK) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [The Very Best of En Vogue](https://open.spotify.com/album/6ABqEktNUuYULXWUubkHKg) | 4:41 | 2025-12-03 |  |
 | [My Mind At Ease](https://open.spotify.com/track/3x8E6sX3I3rGP0oITZRHLX) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [My Mind At Ease](https://open.spotify.com/album/1oBZ20zNFcydJedaGQ5InG) | 2:55 | 2024-11-24 |  |
 | [My Mind At Ease](https://open.spotify.com/track/6s4MLHKqzLkSpdT5WpGaMO) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Our Roots Run Deep](https://open.spotify.com/album/1ucca4wuWot78VAnORCwN8) | 2:55 | 2025-05-13 |  |
+| [My Moon My Man](https://open.spotify.com/track/1NMFwd3TGPWYrVmYaBasz6) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/0gdO7WhaXPUpmWr81AOcMK) | 3:48 | 2026-01-14 |  |
 | [My Moon My Man](https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:48 | 2025-12-16 |  |
 | [My Music At Work](https://open.spotify.com/track/6e7pBANRzNhX2dKBxat8cD) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Music@Work](https://open.spotify.com/album/1HUCg8G3crYzn2sGujgSho) | 3:06 | 2025-05-02 |  |
 | [My Name Is](https://open.spotify.com/track/1viosS4mye9JiXHeAeVnJd) | [Kellylee Evans](https://open.spotify.com/artist/2ujofFVAz72xGjjpohH5Cn) | [I Remember When](https://open.spotify.com/album/5SzwxNaAFySgtHYyjUmjw7) | 3:24 | 2025-01-31 |  |
@@ -2612,6 +2616,7 @@
 | [Sugah Daddy](https://open.spotify.com/track/53l4LGUeZKCDZI1u25kQDN) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:02 | 2025-01-25 |  |
 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 | 2025-01-14 |  |
 | [Sugar in the Tank](https://open.spotify.com/track/27Xxf6AtaSpXE47Xzvua9r) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Send A Prayer My Way](https://open.spotify.com/album/7wVTqZ02NOssDk9xfo9Imf) | 3:42 | 2025-06-04 |  |
+| [Sugar Magnolia \- 2013 Remaster](https://open.spotify.com/track/2EB1aFLWC4uIfld5Z3Yj1z) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [American Beauty \(2013 Remaster\)](https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS) | 3:19 | 2026-01-14 |  |
 | [Sugar Sugar](https://open.spotify.com/track/06RAXBywc2KoY5dC53arSP) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Total Reggae: Chart Hits Reggae Style](https://open.spotify.com/album/7xoAvPaXEwxSDWnA0BJJsl) | 2:43 | 2025-07-24 |  |
 | [Sugarcube](https://open.spotify.com/track/2nqaQ4WJ5tGTvGfQCvpBWT) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 3:21 | 2025-05-27 |  |
 | [Summer Breeze](https://open.spotify.com/track/35xQ1daoggJNQF3tgoluOT) | [Jackie Mittoo](https://open.spotify.com/artist/6UTUjmko5raD927Hbx960a) | [The Keyboard King at Studio One](https://open.spotify.com/album/6Oi2oseXr48panNynaEvRF) | 3:44 | 2025-07-10 |  |

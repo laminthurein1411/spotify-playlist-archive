@@ -4,7 +4,7 @@
 
 > Collection Of All Types Of Music Genres With Japanese Songs.
 
-512 songs - 1 day 12 hr 15 min
+513 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Mysterious Eyes <New Version>](https://open.spotify.com/track/2aitprf8UgRnG13sFF4kQh) | [PRIZMAX](https://open.spotify.com/artist/6rsTkvv0r1MFgDKiiet77k) | [Gradually](https://open.spotify.com/album/0WZnlRpX64SaZXwH1xjYOs) | 3:40 | 2020-03-09 |  |
 | [Naked](https://open.spotify.com/track/3ICQyg241GNARrr1wBI2cB) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [SUCK MY WORLD](https://open.spotify.com/album/5AzCX3rN5zPB0AeaOjTRYC) | 3:05 | 2020-06-30 |  |
 | [Name of Love](https://open.spotify.com/track/1y9QiBBJynizfLbYjHM2Sg) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [Name of Love](https://open.spotify.com/album/1ISP5p4p9DKnw7LUIpoSjA) | 4:26 | 2020-03-24 |  |
+| [Namu](https://open.spotify.com/track/2WG78GhtscUQJnUMZLyJXN) | [Sable Hills](https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn) | [Namu](https://open.spotify.com/album/0HH0rLAe8G6aZMmV003Idq) | 3:40 | 2026-01-14 |  |
 | [Nandemonaiya \- movie ver.](https://open.spotify.com/track/7dEfa89dZfo6CQPdsgGCF6) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 5:44 | 2020-03-01 |  |
 | [NANIMONO \(feat\. 米津玄師\)](https://open.spotify.com/track/21YjXHKo8hc5fOK7sYtixB) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [NANIMONO EP](https://open.spotify.com/album/0LER3HsCsaTndOTcsTzAu4) | 4:06 | 2020-03-06 |  |
 | [Nekojarashi](https://open.spotify.com/track/3X5CxTX4SWxlf53pCE6oQP) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Nekojarashi](https://open.spotify.com/album/7Aw3a6CnSpByjgzZFDzkfx) | 4:27 | 2020-06-30 |  |

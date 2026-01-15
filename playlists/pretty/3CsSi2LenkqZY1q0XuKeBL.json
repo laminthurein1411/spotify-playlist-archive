@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAACJKLFvQCIrudWfuD/pC22FAQdSNiI",
+  "snapshot_id": "AAACJbjn1sA0dN56rA7IeMytkcxEJTlu",
   "tracks": [
     {
       "added_at": "2019-12-09 14:14:19",
@@ -8539,6 +8539,22 @@
       "duration_ms": 249026,
       "name": "\u660e\u65e5\u3001\u50d5\u306f\u541b\u306b\u4f1a\u3044\u306b\u884c\u304f\u3002",
       "url": "https://open.spotify.com/track/1KXGwIhcTM3ela6AaM4ztc"
+    },
+    {
+      "added_at": "2026-01-14 08:51:05",
+      "album": {
+        "name": "Namu",
+        "url": "https://open.spotify.com/album/0HH0rLAe8G6aZMmV003Idq"
+      },
+      "artists": [
+        {
+          "name": "Sable Hills",
+          "url": "https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn"
+        }
+      ],
+      "duration_ms": 220839,
+      "name": "Namu",
+      "url": "https://open.spotify.com/track/2WG78GhtscUQJnUMZLyJXN"
     }
   ],
   "unique_name": "Japanese Songs",
