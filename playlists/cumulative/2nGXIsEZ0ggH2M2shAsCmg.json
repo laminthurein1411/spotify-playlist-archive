@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "40 Seasons: The Best of Skid Row",
+        "url": "https://open.spotify.com/album/3WTQ8XO7hDZKse1LInzLYa"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231280,
+      "name": "18 and Life",
+      "url": "https://open.spotify.com/track/6aEZx09xLP9xZsrPWEBDQ6"
+    },
+    {
+      "album": {
         "name": "(Rotten Apples) The Smashing Pumpkins Greatest Hits",
         "url": "https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn"
       },
@@ -4899,6 +4917,24 @@
     },
     {
       "album": {
+        "name": "Morning View",
+        "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264200,
+      "name": "Are You In?",
+      "url": "https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm"
+    },
+    {
+      "album": {
         "name": "Jimmy Ray",
         "url": "https://open.spotify.com/album/65aWVI7ULOKD2NJSp2qGlx"
       },
@@ -8449,6 +8485,24 @@
     },
     {
       "album": {
+        "name": "4 Hits: Milli Vanilli",
+        "url": "https://open.spotify.com/album/6YOOLhdZhPoLDhEe8862YD"
+      },
+      "artists": [
+        {
+          "name": "Milli Vanilli",
+          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248533,
+      "name": "Blame It on the Rain",
+      "url": "https://open.spotify.com/track/0UUpyDCYzkziXJ1TM4awHM"
+    },
+    {
+      "album": {
         "name": "Cross Road",
         "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
       },
@@ -11508,6 +11562,24 @@
       "duration_ms": 230640,
       "name": "Can't Get You out of My Head",
       "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
+    },
+    {
+      "album": {
+        "name": "Pop Decades: 00s",
+        "url": "https://open.spotify.com/album/2qJqTqEUp5TD9CNie4XMtg"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230640,
+      "name": "Can't Get You out of My Head",
+      "url": "https://open.spotify.com/track/4l5XtyufofxZYVXDiKZ8cn"
     },
     {
       "album": {
@@ -15110,6 +15182,24 @@
       "duration_ms": 180479,
       "name": "Dance with Me",
       "url": "https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44"
+    },
+    {
+      "album": {
+        "name": "The Essentials: Orleans",
+        "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
+      },
+      "artists": [
+        {
+          "name": "Orleans",
+          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180479,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
     },
     {
       "album": {
@@ -19175,6 +19265,24 @@
     },
     {
       "album": {
+        "name": "The Essential 00's Rock",
+        "url": "https://open.spotify.com/album/6quJl7zugek1Q8fWRi6Lpn"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259346,
+      "name": "Drops of Jupiter (Tell Me)",
+      "url": "https://open.spotify.com/track/3JN7bELKmvJW6MjJK5E6ar"
+    },
+    {
+      "album": {
         "name": "Drops Of Jupiter",
         "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
       },
@@ -19244,6 +19352,24 @@
       "duration_ms": 264026,
       "name": "Dude (Looks Like A Lady)",
       "url": "https://open.spotify.com/track/16YKTrvkjSINdXEcAXaI4n"
+    },
+    {
+      "album": {
+        "name": "Big Ones",
+        "url": "https://open.spotify.com/album/2JgnqOt5m0QNEo3VbplePI"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264866,
+      "name": "Dude (Looks Like A Lady)",
+      "url": "https://open.spotify.com/track/2fn1Mpb9WnT5drrMQjLeGP"
     },
     {
       "album": {
@@ -21107,6 +21233,28 @@
     },
     {
       "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        },
+        {
+          "name": "The Crickets",
+          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127160,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/0TTMk6eesBVqkYXVNdP1Jq"
+    },
+    {
+      "album": {
         "name": "Not Fade Away: The Complete Studio Recordings And More",
         "url": "https://open.spotify.com/album/23TDJiqtPfw3UcDhce8Q2x"
       },
@@ -21148,6 +21296,24 @@
       "duration_ms": 129120,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
+    },
+    {
+      "album": {
+        "name": "The Best of Morrissey - Suedehead",
+        "url": "https://open.spotify.com/album/0YidZM0OXOX4KxyLqyF9hs"
+      },
+      "artists": [
+        {
+          "name": "Morrissey",
+          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213786,
+      "name": "Everyday Is Like Sunday",
+      "url": "https://open.spotify.com/track/5GW9uHrOdmoXzX3umscu7u"
     },
     {
       "album": {
@@ -26429,6 +26595,24 @@
     },
     {
       "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205733,
+      "name": "Grease - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/6X1D6qbVmK48uoOD9nIvVV"
+    },
+    {
+      "album": {
         "name": "Jerry Lee's Greatest",
         "url": "https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj"
       },
@@ -28799,6 +28983,24 @@
     },
     {
       "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210160,
+      "name": "Hey Joe",
+      "url": "https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP"
+    },
+    {
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/1Ye7yrA7vAlQnoooj8yDXb"
       },
@@ -29282,6 +29484,24 @@
       "duration_ms": 210188,
       "name": "Highway 61 Revisited",
       "url": "https://open.spotify.com/track/6os5B6xjuke9YfBKH3tu1e"
+    },
+    {
+      "album": {
+        "name": "Machine Head (Remix 2024 / Remaster 2024)",
+        "url": "https://open.spotify.com/album/1PYl2uQNd51wwrEVsjEgg1"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367360,
+      "name": "Highway Star - 2024 Remastered",
+      "url": "https://open.spotify.com/track/1mUobV330ldp7WnJ14pmgP"
     },
     {
       "album": {
@@ -33737,6 +33957,24 @@
     },
     {
       "album": {
+        "name": "Tommy James and The Shondells: Anthology",
+        "url": "https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN"
+      },
+      "artists": [
+        {
+          "name": "Tommy James & The Shondells",
+          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132800,
+      "name": "I Think We're Alone Now - Single Version",
+      "url": "https://open.spotify.com/track/0jfOA16bjZxrkIzibPcl6U"
+    },
+    {
+      "album": {
         "name": "Divinyls",
         "url": "https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv"
       },
@@ -34526,6 +34764,24 @@
       "duration_ms": 271093,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
+    },
+    {
+      "album": {
+        "name": "Middle Of Nowhere",
+        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
+      },
+      "artists": [
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251293,
+      "name": "I Will Come To You",
+      "url": "https://open.spotify.com/track/6ZIuoDs3i1KjKurJf9miSs"
     },
     {
       "album": {
@@ -37741,6 +37997,24 @@
     },
     {
       "album": {
+        "name": "The Complete Stevie Wonder",
+        "url": "https://open.spotify.com/album/3wV75jagiyMRezq1LOCh1I"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394266,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/7DYBUBCmXVHoeJbuMQV3Z9"
+    },
+    {
+      "album": {
         "name": "Mama Said",
         "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
       },
@@ -38304,6 +38578,24 @@
       "duration_ms": 119800,
       "name": "It's Not Unusual",
       "url": "https://open.spotify.com/track/3TlIt0ReIxPsVZcOEivT5U"
+    },
+    {
+      "album": {
+        "name": "Silver Collection",
+        "url": "https://open.spotify.com/album/39JlwGObFfN25r2DrEl4rz"
+      },
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121053,
+      "name": "It's Not Unusual",
+      "url": "https://open.spotify.com/track/58O1bg9xCZNIlGLACoQIZe"
     },
     {
       "album": {
@@ -40827,6 +41119,24 @@
     },
     {
       "album": {
+        "name": "Knock on Wood: The Anthology",
+        "url": "https://open.spotify.com/album/7sTS0xZLJCmhKqoTUXNiom"
+      },
+      "artists": [
+        {
+          "name": "Amii Stewart",
+          "url": "https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380093,
+      "name": "Knock on Wood - Long Disco Version",
+      "url": "https://open.spotify.com/track/3bsg4IV6kjV6pQ6ga6DDsJ"
+    },
+    {
+      "album": {
         "name": "Candida",
         "url": "https://open.spotify.com/album/3SZtvt7lV1H4YN9tKVURJR"
       },
@@ -41508,6 +41818,28 @@
       "duration_ms": 230546,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs"
+    },
+    {
+      "album": {
+        "name": "Crystal Visions...The Very Best of Stevie Nicks",
+        "url": "https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Melbourne Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5CHXXNuReinAFGk3pjWgOH"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254373,
+      "name": "Landslide (with the Melbourne Symphony) - Live 2006",
+      "url": "https://open.spotify.com/track/0s3WRfuZtAZ2940hxIUCIX"
     },
     {
       "album": {
@@ -42912,6 +43244,24 @@
       "duration_ms": 188280,
       "name": "Like a Virgin",
       "url": "https://open.spotify.com/track/1iaIEmZHrjGzWUmJ9BaFr6"
+    },
+    {
+      "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191133,
+      "name": "Like a Virgin",
+      "url": "https://open.spotify.com/track/22VWmcVQrYqHT4exHD6mMF"
     },
     {
       "album": {
@@ -46523,6 +46873,24 @@
     },
     {
       "album": {
+        "name": "20 #1\u2019s: 00s",
+        "url": "https://open.spotify.com/album/2BeZnjdRLRcw0OswEERuw5"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211080,
+      "name": "Makes Me Wonder",
+      "url": "https://open.spotify.com/track/03RS9R2PP5crzuewPuWmSw"
+    },
+    {
+      "album": {
         "name": "It Won't Be Soon Before Long (International Version)",
         "url": "https://open.spotify.com/album/1cCm3jwAW9eJtEGyzpxlXY"
       },
@@ -47298,6 +47666,24 @@
       "duration_ms": 219146,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/0ObQpi3TUFNRii58x5gnL8"
+    },
+    {
+      "album": {
+        "name": "McCartney (Archive Collection)",
+        "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229826,
+      "name": "Maybe I\u2019m Amazed - Remastered 2011",
+      "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
     },
     {
       "album": {
@@ -48732,6 +49118,24 @@
       "duration_ms": 287133,
       "name": "More Than a Feeling",
       "url": "https://open.spotify.com/track/02uHUHkREQ9U2QCCyh0AQD"
+    },
+    {
+      "album": {
+        "name": "How Can You Mend A Broken Heart",
+        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196213,
+      "name": "More Than A Woman",
+      "url": "https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE"
     },
     {
       "album": {
@@ -51933,6 +52337,24 @@
     },
     {
       "album": {
+        "name": "No Need To Argue (2025 Remastered)",
+        "url": "https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270600,
+      "name": "Ode To My Family - 2025 Remastered",
+      "url": "https://open.spotify.com/track/3k8qSv5e8ALW6tA9cpY9mm"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4xUwgfclor6Dozy3eWgMBE"
       },
@@ -52164,6 +52586,28 @@
       "duration_ms": 195253,
       "name": "Old Time Rock And Roll - Remastered 2011",
       "url": "https://open.spotify.com/track/5jQI0mj9xWX6m8TymhzWll"
+    },
+    {
+      "album": {
+        "name": "Winner In You",
+        "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        },
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290840,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
     },
     {
       "album": {
@@ -54631,6 +55075,24 @@
     },
     {
       "album": {
+        "name": "The Essential Billy Joel",
+        "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339290,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/3FCto7hnn1shUyZL42YgfO"
+    },
+    {
+      "album": {
         "name": "Piano Man",
         "url": "https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH"
       },
@@ -54790,6 +55252,24 @@
       "duration_ms": 283666,
       "name": "Pink Houses",
       "url": "https://open.spotify.com/track/5JKQMoGmXwDHCodn5pFVHB"
+    },
+    {
+      "album": {
+        "name": "The Best That I Could Do 1978 - 1988",
+        "url": "https://open.spotify.com/album/2ssc6teLS9Pr9JV7AuXUS4"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283893,
+      "name": "Pink Houses",
+      "url": "https://open.spotify.com/track/3BOBvqlKutMkpAIp6mSoKR"
     },
     {
       "album": {
@@ -56443,6 +56923,24 @@
     },
     {
       "album": {
+        "name": "Nightflight to Venus",
+        "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351573,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/5jkFvD4UJrmdoezzT1FRoP"
+    },
+    {
+      "album": {
         "name": "Rattle That Lock (Deluxe)",
         "url": "https://open.spotify.com/album/1gquhHnaFnshQuJGnHRpF9"
       },
@@ -58045,6 +58543,24 @@
     },
     {
       "album": {
+        "name": "Centerfield (25th Anniversary)",
+        "url": "https://open.spotify.com/album/7wLd9KZsIrtpcRCVOjq7v8"
+      },
+      "artists": [
+        {
+          "name": "John Fogerty",
+          "url": "https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206640,
+      "name": "Rock and Roll Girls",
+      "url": "https://open.spotify.com/track/47uCfpxZHga6d3eio3pSoz"
+    },
+    {
+      "album": {
         "name": "Beatles For Sale (Remastered)",
         "url": "https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a"
       },
@@ -58438,6 +58954,24 @@
       "duration_ms": 252493,
       "name": "Rock You Like A Hurricane",
       "url": "https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX"
+    },
+    {
+      "album": {
+        "name": "Touch My Soul",
+        "url": "https://open.spotify.com/album/4DqiteSfWzm0R4lymGFEgN"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265306,
+      "name": "Rock Your Body",
+      "url": "https://open.spotify.com/track/68sIt1YaYzrlYPYWCuEIwk"
     },
     {
       "album": {
@@ -62383,6 +62917,24 @@
     },
     {
       "album": {
+        "name": "Signed Sealed And Delivered",
+        "url": "https://open.spotify.com/album/5Ejztki15nFl3ts3SqjhKE"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/0kzhMZZNmxiLG7qyJhVBHB"
+    },
+    {
+      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best of Tesla",
         "url": "https://open.spotify.com/album/2GQH4L2aMloYA4cWuaJXJi"
       },
@@ -62931,6 +63483,24 @@
     },
     {
       "album": {
+        "name": "Upstairs At Eric's",
+        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346800,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH"
+    },
+    {
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/0Jjn7oCNlP9cWr4JJbpnww"
       },
@@ -63216,6 +63786,24 @@
       "duration_ms": 494573,
       "name": "Slow Ride",
       "url": "https://open.spotify.com/track/5rTe42jWw9XBMwUog24we0"
+    },
+    {
+      "album": {
+        "name": "Fool for the City (2016 Remaster)",
+        "url": "https://open.spotify.com/album/6A5fIqkWcZEAuhZLf8bLAG"
+      },
+      "artists": [
+        {
+          "name": "Foghat",
+          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494626,
+      "name": "Slow Ride - 2016 Remaster",
+      "url": "https://open.spotify.com/track/3OccwXSaM4pZ4CiRkaqKX7"
     },
     {
       "album": {
@@ -63894,6 +64482,24 @@
       "duration_ms": 217466,
       "name": "Someday We'll Know",
       "url": "https://open.spotify.com/track/5X0zqWSaSnulsbf74CrljV"
+    },
+    {
+      "album": {
+        "name": "nostalgic fall vibes",
+        "url": "https://open.spotify.com/album/6yIhKdtttDau9gFgTsAWTq"
+      },
+      "artists": [
+        {
+          "name": "New Radicals",
+          "url": "https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217466,
+      "name": "Someday We'll Know",
+      "url": "https://open.spotify.com/track/5XHc5zhUfp729HuQYyVCrX"
     },
     {
       "album": {
@@ -68959,6 +69565,24 @@
     },
     {
       "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229453,
+      "name": "Thank You For The Music",
+      "url": "https://open.spotify.com/track/08GOw3NsrJ0LsCCeyqzt3b"
+    },
+    {
+      "album": {
         "name": "That Thing You Do! Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/4rgkKwVNM3Y1pfb3WfKj9C"
       },
@@ -70527,6 +71151,24 @@
     },
     {
       "album": {
+        "name": "The Lion Sleeps Tonight",
+        "url": "https://open.spotify.com/album/3ZDIola38Xjsy28U1oW9Ld"
+      },
+      "artists": [
+        {
+          "name": "The Tokens",
+          "url": "https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161493,
+      "name": "The Lion Sleeps Tonight (Wimoweh)",
+      "url": "https://open.spotify.com/track/6w8XjvHN3OFjUW03zHNvgJ"
+    },
+    {
+      "album": {
         "name": "Wimoweh!!! - The Best Of The Tokens",
         "url": "https://open.spotify.com/album/6NBox81OQox7U4I0hZB9t0"
       },
@@ -71904,6 +72546,24 @@
       "duration_ms": 306986,
       "name": "The Sun Always Shines on T.V. - 2015 Remaster",
       "url": "https://open.spotify.com/track/10ixI4bAxZWxqsBunhREPm"
+    },
+    {
+      "album": {
+        "name": "Time and Again: The Ultimate a-ha",
+        "url": "https://open.spotify.com/album/7ubkBvBT9AJifbLIIWUWnx"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306800,
+      "name": "The Sun Always Shines on T.V. - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4SClfuM35ra6vEnWsk5VOc"
     },
     {
       "album": {
@@ -73484,6 +74144,24 @@
       "duration_ms": 245529,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73"
+    },
+    {
+      "album": {
+        "name": "12 X 5",
+        "url": "https://open.spotify.com/album/2Hnje5QVKaPVNuGJ5yHC7Z"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172693,
+      "name": "Time Is On My Side - Mono Version / Organ Intro",
+      "url": "https://open.spotify.com/track/4s8wL4SxEmAEd6XO9mi1Pn"
     },
     {
       "album": {
@@ -76169,6 +76847,28 @@
     },
     {
       "album": {
+        "name": "Timeless Love Songs",
+        "url": "https://open.spotify.com/album/3FaedZvIHccbFe6mentRD2"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        },
+        {
+          "name": "Jennifer Warnes",
+          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233666,
+      "name": "Up Where We Belong (feat. Jennifer Warnes) - From \"An Officer And A Gentleman\"",
+      "url": "https://open.spotify.com/track/3690IFzTbQka9unRN9P2lc"
+    },
+    {
+      "album": {
         "name": "20th Century Masters: The Best Of Joe Cocker (The Millennium Collection)",
         "url": "https://open.spotify.com/album/2Qy7P4tvyqZcNOD4II3oKg"
       },
@@ -76438,6 +77138,24 @@
       "duration_ms": 271200,
       "name": "Urgent",
       "url": "https://open.spotify.com/track/08onVqQ8YicJ98Ycm1qoLf"
+    },
+    {
+      "album": {
+        "name": "No End in Sight: The Very Best of Foreigner",
+        "url": "https://open.spotify.com/album/4VRXqPaa2ZTwC2AG364RWO"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270320,
+      "name": "Urgent - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6QkR93RevDDOxHJsndq2HF"
     },
     {
       "album": {
@@ -78986,6 +79704,24 @@
       "duration_ms": 136640,
       "name": "What A Wonderful World",
       "url": "https://open.spotify.com/track/0zTvVtmhkP336ulJSvWAOk"
+    },
+    {
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139226,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9"
     },
     {
       "album": {
@@ -82179,6 +82915,24 @@
     },
     {
       "album": {
+        "name": "Jeremy",
+        "url": "https://open.spotify.com/album/1WJ3UbOi2QYGuRgXCc9FIV"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303586,
+      "name": "Yellow Ledbetter",
+      "url": "https://open.spotify.com/track/3bE5slaVEfaDreqARl6k4M"
+    },
+    {
+      "album": {
         "name": "Christie",
         "url": "https://open.spotify.com/album/0YtUDtmBOGWAerJN70aCUR"
       },
@@ -83191,6 +83945,24 @@
     },
     {
       "album": {
+        "name": "Heartbeat City",
+        "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185026,
+      "name": "You Might Think",
+      "url": "https://open.spotify.com/track/7BvuV4c1BGhaRapcXvRu5z"
+    },
+    {
+      "album": {
         "name": "Rock Scene 80's",
         "url": "https://open.spotify.com/album/4iaoM5Tj4Wz1bzJO2zdIOG"
       },
@@ -83735,6 +84507,24 @@
     },
     {
       "album": {
+        "name": "Most Streamed Songs (Biggest Tracks Ever)",
+        "url": "https://open.spotify.com/album/2gpSxguAfYcELdEO68g7Nj"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212960,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/5qOxcNr2IQae8Lx0tXN3M9"
+    },
+    {
+      "album": {
         "name": "Back To Bedlam (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6cn9fRpQNt6mp2YZQOGPfi"
       },
@@ -84252,6 +85042,24 @@
       "duration_ms": 309520,
       "name": "You've Got a Friend",
       "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
+        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
+      },
+      "artists": [
+        {
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225426,
+      "name": "You've Lost That Lovin' Feelin'",
+      "url": "https://open.spotify.com/track/5GMw6X6BbCDGO9gApQYRSa"
     },
     {
       "album": {

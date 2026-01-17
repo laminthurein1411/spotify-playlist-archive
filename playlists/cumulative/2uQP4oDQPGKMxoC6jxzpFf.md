@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,280 songs - 8 day 12 hr 36 min
+3,284 songs - 8 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Basement Apt.](https://open.spotify.com/track/4l2ZwGfd6ugIZViw7dtV8K) | [Sarah Harmer](https://open.spotify.com/artist/0RyvcOVrlV86NmFz0MrG9e) | [You Were Here](https://open.spotify.com/album/7oWTHejE4DO3DvJDMGHS2F) | 4:08 | 2025-02-07 |  |
 | [Basement Band Song](https://open.spotify.com/track/2HpGLNqw9UivNg2jfSwgGW) | [The Organ](https://open.spotify.com/artist/7aFKbKHCNNDNAG0jSmr9go) | [Grab That Gun](https://open.spotify.com/album/6zvv44hOAYmFoJH7dcx0gF) | 4:12 | 2025-09-30 |  |
 | [Battlefords](https://open.spotify.com/track/3QTTjfOTqJWxq34F87X4KA) | [Hawksley Workman](https://open.spotify.com/artist/6TXT0xgAes45U8vyHeCIZJ) | [Median Age Wasteland](https://open.spotify.com/album/4u7mj8czN0FhDHphzwwC5b) | 5:15 | 2025-02-09 |  |
+| [Be Careful](https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Be Careful](https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf) | 5:42 | 2026-01-16 |  |
 | [be cool](https://open.spotify.com/track/6gILMXbilRDGSp6vexAg8r) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 2:23 | 2025-01-11 |  |
 | [Be Happy](https://open.spotify.com/track/5X82VFLvjpeWQlTSShqqj0) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 5:49 | 2024-11-29 |  |
 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 | 2024-12-03 |  |
@@ -836,6 +837,7 @@
 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 | 2024-12-02 |  |
 | [Faded](https://open.spotify.com/track/4WP1XJnAUkZfTtMdZTaN9k) | [SoulDecision](https://open.spotify.com/artist/6hYrBYtoVGArYJcqvYxN4r) | [No One Does It Better](https://open.spotify.com/album/125budnbeWLmbMmMR6jV4t) | 3:28 | 2025-07-02 |  |
 | [fairytales](https://open.spotify.com/track/2X1BrCQpbBlvczxml8jbEd) | [STORRY](https://open.spotify.com/artist/2B3DdwYxUSSrYdda9V2UL0) | [fairytales](https://open.spotify.com/album/5VX5yWc9NI6ytjUvx41k6c) | 3:58 | 2025-03-09 |  |
+| [Fall At Your Feet](https://open.spotify.com/track/4HopuG8wQBlvXQ6xwA79FG) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [He Will Have His Way \- The Songs Of Tim & Neil Finn](https://open.spotify.com/album/6aiKwTrXj3GqBPFdtI1PpR) | 4:31 | 2026-01-16 |  |
 | [Fall On Me \- 2011 Remaster](https://open.spotify.com/track/3xPKSMgZl4N3rfTyIgSPfa) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Lifes Rich Pageant \(Deluxe Edition\)](https://open.spotify.com/album/1G95bEVJwyXeqzLdbzkREi) | 2:49 | 2025-09-07 |  |
 | [FALLBACK \(with Runkus\)](https://open.spotify.com/track/68nVM00QMoan1ZciZxFxrb) | [King Cruff](https://open.spotify.com/artist/4OpO9CxjDD3HQ2g4NnTato), [Runkus](https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ) | [FALLBACK \(with Runkus\)](https://open.spotify.com/album/2guWjqWfHUUAwJ6flCfZX8) | 3:02 | 2025-03-30 |  |
 | [Fam Jam \(Fe Sum Immigrins\)](https://open.spotify.com/track/3B0jWUpvPpnGIvux7DdG6t) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [Flying Colours](https://open.spotify.com/album/1ysjuK1TypW8UZTQgcbGFQ) | 3:44 | 2025-08-18 |  |
@@ -1071,6 +1073,7 @@
 | [Gunslinger](https://open.spotify.com/track/3Jxg0rsL9ue8vssskTI7aN) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [Gunslinger](https://open.spotify.com/album/72J2Yu2M2hxayHP1La9Qwx) | 3:27 | 2025-08-13 |  |
 | [Half Empty](https://open.spotify.com/track/0NXt9NfHjlEJNXplC11xVy) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Three Rocks and a Slingshot](https://open.spotify.com/album/0ruEs6gcbL2jDvNsyVV5oF) | 3:24 | 2024-11-22 |  |
 | [Half\-Built Buildings](https://open.spotify.com/track/35tdVMfCQIAjBXgCPOxh7S) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Half\-Built Buildings](https://open.spotify.com/album/5c6EB9pqWchgiwUtN39Jl2) | 4:28 | 2024-12-16 |  |
+| [Halfmoon](https://open.spotify.com/track/33sEQdgKNrUj5sKU66XB4s) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Halfmoon](https://open.spotify.com/album/47KeqI7vwzGUSr2TjK4L7T) | 3:16 | 2026-01-16 |  |
 | [Halfway Broken](https://open.spotify.com/track/5U9WcuBcbcI4mIXvv175On) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Halfway Broken](https://open.spotify.com/album/6roIpbmKIBVXtsFHN4vrg0) | 3:14 | 2024-11-22 |  |
 | [Halfway Home](https://open.spotify.com/track/4nUT86Gudk78XZLjcScZ3M) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Hug Of Thunder](https://open.spotify.com/album/6oPAq3tPMGIvlpjoscQP4g) | 4:41 | 2024-12-08 |  |
 | [Halloween Clothes](https://open.spotify.com/track/4H8p0vJLhHGijt5n80ChOb) | [Silver Wolf Band](https://open.spotify.com/artist/4A8OuU3MiOK1mqQ2vEoM8N) | [Make Your Heart Home](https://open.spotify.com/album/3y7327DRtHxtKaVT96SrwZ) | 3:27 | 2025-12-07 |  |
@@ -2277,6 +2280,7 @@
 | [Robber](https://open.spotify.com/track/2Fpuw0tokeVbrsBLXyHiwZ) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3Yx2sk0fJmwE8zGJs2yOJ8) | 5:20 | 2025-04-06 |  |
 | [Robots](https://open.spotify.com/track/2qSasRgbic22KZRGhQaIS8) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Nice, Nice, Very Nice \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0QAT7mXfHrKqknyA7bWf86) | 4:04 | 2025-12-14 |  |
 | [Rock and Roll](https://open.spotify.com/track/3133Uct5LILQV4A9A1HY4S) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 4:54 | 2025-07-06 |  |
+| [Rock Me Gently](https://open.spotify.com/track/3VjyJp26FcWthWNzn2bBFP) | [Ron Dante](https://open.spotify.com/artist/7DnDbWjGUzhCnQiTDTye5l) | [Saturday Night Blast](https://open.spotify.com/album/4QkUQ491aG5MHMX9dE5CHe) | 4:12 | 2026-01-16 |  |
 | [Rock Me Gently](https://open.spotify.com/track/72CIDSU3ZQGuIC2t3gGW1u) | [Trans\-Canada Highwaymen](https://open.spotify.com/artist/5Aq588mj6kj9ua5OaYQrOT) | [Explosive Hits Vol.1](https://open.spotify.com/album/3QxGl20MKtCtO29jacZkNO) | 3:46 | 2025-10-23 |  |
 | [Rock Steady](https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Young, Gifted and Black](https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB) | 3:13 | 2025-10-08 |  |
 | [Rock The Bells](https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 4:00 | 2025-09-18 |  |
