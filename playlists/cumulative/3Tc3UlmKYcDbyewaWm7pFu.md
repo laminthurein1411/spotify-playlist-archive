@@ -4,7 +4,7 @@
 
 > 
 
-1,164 songs - 2 day 21 hr 25 min
+1,165 songs - 2 day 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -930,6 +930,7 @@
 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 | 2020-11-04 |  |
 | [Take Over](https://open.spotify.com/track/7asFSf2pkWNEG3E5EuN1QR) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Jeremy McKinnon of A Day To Remember](https://open.spotify.com/artist/4aQY8buO08AQLaDOuLs6Yn), [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Take Over](https://open.spotify.com/album/746kCUpkRofCTYBupy2grd) | 3:33 | 2021-02-23 |  |
 | [Tearin' up My Heart \- Radio Edit](https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync](https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd) | 3:31 | 2020-03-15 |  |
+| [Teenage Dirtbag](https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 4:01 | 2026-01-17 |  |
 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 | 2023-10-02 |  |
 | [Teeth](https://open.spotify.com/track/26wLOs3ZuHJa2Ihhx6QIE6) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [13 Reasons Why \(Season 3\)](https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6) | 3:24 | 2020-03-15 |  |
 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 | 2025-08-07 |  |

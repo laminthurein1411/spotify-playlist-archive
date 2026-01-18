@@ -17341,6 +17341,24 @@
     },
     {
       "album": {
+        "name": "Wheatus",
+        "url": "https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd"
+      },
+      "artists": [
+        {
+          "name": "Wheatus",
+          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241666,
+      "name": "Teenage Dirtbag",
+      "url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS"
+    },
+    {
+      "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },

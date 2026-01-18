@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,164 songs - 2 day 21 hr 25 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,165 songs - 2 day 21 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1172,5 +1172,6 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 | 1162 | [Lagos Love](https://open.spotify.com/track/3AYQsSyM8Mi8GV0OKItsBR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 3:10 |
 | 1163 | [Stuck a.k.a the Cult Song](https://open.spotify.com/track/2sKqHMI6bNT8rfmFeSTIOd) | [Ernie Bird](https://open.spotify.com/artist/6w1rte5iQLFYD9yoOVCeXE), [Gabrielle Filloux](https://open.spotify.com/artist/3G7hcurTpr63cXspUaCotV) | [Stuck a.k.a the Cult Song](https://open.spotify.com/album/2ZTz0two250lkNMjpojuZj) | 4:20 |
 | 1164 | [Some Protector](https://open.spotify.com/track/6fjl6Ekn2hE7U9TLJ8teY0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:37 |
+| 1165 | [Teenage Dirtbag](https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 4:01 |
 
-Snapshot ID: `AAAEyGOODjHwcEBnt9gkYch2hR6qpG2Y`
+Snapshot ID: `AAAEybkjqG2t/DrhW5IUcrD7e8rKkEx8`

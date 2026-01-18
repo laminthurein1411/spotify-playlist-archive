@@ -12736,13 +12736,25 @@
         {
           "name": "Jessica Curry",
           "url": "https://open.spotify.com/artist/7maqsg42XWKV2TOwesH5YF"
+        },
+        {
+          "name": "Metro Voices",
+          "url": "https://open.spotify.com/artist/1xOu87MVQLtCUObGJCOaEG"
+        },
+        {
+          "name": "London Voices",
+          "url": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+        },
+        {
+          "name": "James Morgan",
+          "url": "https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC"
         }
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 190413,
-      "name": "The Light We Cast",
+      "name": "The Light We Cast (From \"Everybody's Gone to the Rapture\" Soundtrack)",
       "url": "https://open.spotify.com/track/2pdGvz2IWaw0ST2mAafKno"
     },
     {
@@ -13634,7 +13646,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169533,
-      "name": "Tsimtsum",
+      "name": "Tsimtsum (From \"Life of Pi\" Soundtrack)",
       "url": "https://open.spotify.com/track/1RxaEvQCmT36nIZFYjpk5F"
     },
     {
