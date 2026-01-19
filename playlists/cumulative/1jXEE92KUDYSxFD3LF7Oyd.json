@@ -2207,6 +2207,24 @@
     },
     {
       "album": {
+        "name": "Saiyan 4",
+        "url": "https://open.spotify.com/album/6bBshc1MifkxeEsjbpJmsB"
+      },
+      "artists": [
+        {
+          "name": "Lybro",
+          "url": "https://open.spotify.com/artist/3uiTnIx5N6ZWAPkPb8GFC9"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148333,
+      "name": "Saiyan 4",
+      "url": "https://open.spotify.com/track/3Qg3R8St26itaavWm0UtON"
+    },
+    {
+      "album": {
         "name": "Du Rire Aux Larmes",
         "url": "https://open.spotify.com/album/1kuaDf4qlg3J0t2Zi061Lk"
       },

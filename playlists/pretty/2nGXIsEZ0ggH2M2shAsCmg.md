@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,759 songs - 13 day 12 hr 42 min
+[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,777 songs - 13 day 13 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4767,5 +4767,23 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 4757 | [She's A Lady](https://open.spotify.com/track/4RLp5DkihFjtKyJeC0NMhX) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [The Best Of ..\. Tom Jones](https://open.spotify.com/album/4ZUMKIP2q2iWW61GJQU1cv) | 2:52 |
 | 4758 | [Wake up Little Susie \- Single Version; 2006 Remaster](https://open.spotify.com/track/7mVbL1b8HC1rW4Jle6ypG3) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Definitive Pop: The Everly Brothers](https://open.spotify.com/album/7suOvu4ppoFddBOxpYkf2d) | 2:03 |
 | 4759 | [Are You Lonesome Tonight?](https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Platinum \- A Life In Music](https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE) | 3:06 |
+| 4760 | [I'll Be Loving You \(Forever\)](https://open.spotify.com/track/2U0RwqvTI5N7SCRfK0VTvc) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [NKOTBSB](https://open.spotify.com/album/5Zwuaan4RIS108lyMEYYmw) | 4:25 |
+| 4761 | [Bette Davis Eyes](https://open.spotify.com/track/6Tpc2GoGC8XpjtRPmwBfLi) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Gypsy Honeymoon: The Best Of Kim Carnes](https://open.spotify.com/album/5RDGpsmUSnVuJyh13Aryw7) | 3:45 |
+| 4762 | [Is There Something I Should Know? \- 2010 Remaster](https://open.spotify.com/track/2rzPxJ8y7ekQwmAIVyStmf) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Seven and the Ragged Tiger \(Deluxe Edition\)](https://open.spotify.com/album/0jBIq5EY9zRBZJuCE9iuM1) | 4:11 |
+| 4763 | [Justify My Love](https://open.spotify.com/track/6NBGabiAuQklrfkufcOqlN) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 5:00 |
+| 4764 | [Killer Queen \- Remastered 2011](https://open.spotify.com/track/4cIPLtg1avt2Jm3ne9S1zy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr) | 2:59 |
+| 4765 | [Tonight](https://open.spotify.com/track/42NADmH0f8icPSrVXoqp6k) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 3:27 |
+| 4766 | [Old Time Rock & Roll](https://open.spotify.com/track/0nZg8CjMz7UomYLB4cF97g) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Greatest Hits](https://open.spotify.com/album/3RRcYI9ZM3nOiIo3bzaLeJ) | 3:15 |
+| 4767 | [Somebody To Love](https://open.spotify.com/track/5txoZyuAmtCfmDjUCEphWm) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 4:55 |
+| 4768 | [All You Need Is Love \- Remastered 2009](https://open.spotify.com/track/68BTFws92cRztMS1oQ7Ewj) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) | 3:50 |
+| 4769 | [In Spite Of All The Danger](https://open.spotify.com/track/7zvMaTcCspbRMahT4DcjQG) | [The Quarrymen](https://open.spotify.com/artist/3frJniZNsChzTgI37gT54C) | [Anthology 1](https://open.spotify.com/album/1pBBIxK5yURfbv8Xd5lta1) | 2:44 |
+| 4770 | [That'll Be The Day \- Remastered](https://open.spotify.com/track/3jXXj6ny0Iq8Yg1hXYoz1L) | [The Quarrymen](https://open.spotify.com/artist/3frJniZNsChzTgI37gT54C) | [Anthology Collection](https://open.spotify.com/album/5Crr1GUYTC7qdR3XnNW6HW) | 2:09 |
+| 4771 | [Words Of Love \- Remastered 2009](https://open.spotify.com/track/42qkSeX6HNJYHxlk6cWoFe) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a) | 2:04 |
+| 4772 | [Michelle \- Remastered 2009](https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered 2009\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:42 |
+| 4773 | [If I Needed Someone \- Remastered 2009](https://open.spotify.com/track/7C6hdDIz90Uf5YmdZnYbJJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered 2009\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:22 |
+| 4774 | [You Know My Name \(Look Up The Number\) \- Remastered 2009](https://open.spotify.com/track/2k7gS1tS9OHeS3e8MatzgJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Past Masters \(Vols\. 1 & 2 / Remastered\)](https://open.spotify.com/album/3GmCXW10kLxmZrEY0JpRlw) | 4:19 |
+| 4775 | [You're Going To Lose That Girl \- Remastered 2009](https://open.spotify.com/track/70HNt0eoBVqr4ss68U8x3B) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:18 |
+| 4776 | [We Got The Beat \- Single Mix](https://open.spotify.com/track/1ayIQqBm4PFbaine2OjgYO) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Return To The Valley Of The Go\-Go's](https://open.spotify.com/album/2Fz3LCOdrEUXSYMKaQ5C2f) | 2:31 |
+| 4777 | [Everything Counts](https://open.spotify.com/track/1R1vbkHj40yexphG1i7x27) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Construction Time Again \(Deluxe\)](https://open.spotify.com/album/32QIAykZFP3GI8Q5QqoNCD) | 4:21 |
 
-Snapshot ID: `AAACdKX9leGfcEVcsEtPLfLXCIi8joqS`
+Snapshot ID: `AAACdQaLho/1Kbi0bgjewGcuIdbvWJ4m`

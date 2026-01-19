@@ -3415,6 +3415,24 @@
     },
     {
       "album": {
+        "name": "Magical Mystery Tour (Remastered)",
+        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230386,
+      "name": "All You Need Is Love - Remastered 2009",
+      "url": "https://open.spotify.com/track/68BTFws92cRztMS1oQ7Ewj"
+    },
+    {
+      "album": {
         "name": "1 (Remastered)",
         "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
       },
@@ -7520,6 +7538,24 @@
       "duration_ms": 175013,
       "name": "Beth - Live",
       "url": "https://open.spotify.com/track/5cPISbao7sZ27Cxj3la7lT"
+    },
+    {
+      "album": {
+        "name": "Gypsy Honeymoon: The Best Of Kim Carnes",
+        "url": "https://open.spotify.com/album/5RDGpsmUSnVuJyh13Aryw7"
+      },
+      "artists": [
+        {
+          "name": "Kim Carnes",
+          "url": "https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225626,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/6Tpc2GoGC8XpjtRPmwBfLi"
     },
     {
       "album": {
@@ -21695,6 +21731,24 @@
     },
     {
       "album": {
+        "name": "Construction Time Again (Deluxe)",
+        "url": "https://open.spotify.com/album/32QIAykZFP3GI8Q5QqoNCD"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261053,
+      "name": "Everything Counts",
+      "url": "https://open.spotify.com/track/1R1vbkHj40yexphG1i7x27"
+    },
+    {
+      "album": {
         "name": "Construction Time Again (2007 Remaster)",
         "url": "https://open.spotify.com/album/6oFsq13ql71yK5Gaar7eIy"
       },
@@ -35765,6 +35819,24 @@
     },
     {
       "album": {
+        "name": "NKOTBSB",
+        "url": "https://open.spotify.com/album/5Zwuaan4RIS108lyMEYYmw"
+      },
+      "artists": [
+        {
+          "name": "New Kids On The Block",
+          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265613,
+      "name": "I'll Be Loving You (Forever)",
+      "url": "https://open.spotify.com/track/2U0RwqvTI5N7SCRfK0VTvc"
+    },
+    {
+      "album": {
         "name": "Fahrenheit",
         "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
       },
@@ -36839,6 +36911,24 @@
     },
     {
       "album": {
+        "name": "Rubber Soul (Remastered 2009)",
+        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142266,
+      "name": "If I Needed Someone - Remastered 2009",
+      "url": "https://open.spotify.com/track/7C6hdDIz90Uf5YmdZnYbJJ"
+    },
+    {
+      "album": {
         "name": "Sheryl Crow",
         "url": "https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb"
       },
@@ -37464,6 +37554,24 @@
       "duration_ms": 262293,
       "name": "In Private",
       "url": "https://open.spotify.com/track/24KLjoa4KBgpn4XGWFiy5c"
+    },
+    {
+      "album": {
+        "name": "Anthology 1",
+        "url": "https://open.spotify.com/album/1pBBIxK5yURfbv8Xd5lta1"
+      },
+      "artists": [
+        {
+          "name": "The Quarrymen",
+          "url": "https://open.spotify.com/artist/3frJniZNsChzTgI37gT54C"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "In Spite Of All The Danger",
+      "url": "https://open.spotify.com/track/7zvMaTcCspbRMahT4DcjQG"
     },
     {
       "album": {
@@ -38372,6 +38480,24 @@
       "duration_ms": 249666,
       "name": "Is There Something I Should Know?",
       "url": "https://open.spotify.com/track/3X4T0KunohTtDaecqBZ8vC"
+    },
+    {
+      "album": {
+        "name": "Seven and the Ragged Tiger (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0jBIq5EY9zRBZJuCE9iuM1"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251893,
+      "name": "Is There Something I Should Know? - 2010 Remaster",
+      "url": "https://open.spotify.com/track/2rzPxJ8y7ekQwmAIVyStmf"
     },
     {
       "album": {
@@ -40931,6 +41057,24 @@
     },
     {
       "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300826,
+      "name": "Justify My Love",
+      "url": "https://open.spotify.com/track/6NBGabiAuQklrfkufcOqlN"
+    },
+    {
+      "album": {
         "name": "Miracle Mile",
         "url": "https://open.spotify.com/album/5S4tasGYxpQuSEWLYvgyQp"
       },
@@ -41252,6 +41396,24 @@
       "duration_ms": 179600,
       "name": "Killer Queen - Remastered 2011",
       "url": "https://open.spotify.com/track/2AKOOhml62GZNFWDN7VqzT"
+    },
+    {
+      "album": {
+        "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179600,
+      "name": "Killer Queen - Remastered 2011",
+      "url": "https://open.spotify.com/track/4cIPLtg1avt2Jm3ne9S1zy"
     },
     {
       "album": {
@@ -48627,6 +48789,24 @@
     },
     {
       "album": {
+        "name": "Rubber Soul (Remastered 2009)",
+        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162373,
+      "name": "Michelle - Remastered 2009",
+      "url": "https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS"
+    },
+    {
+      "album": {
         "name": "Mickey: The Very Best Of Toni Basil",
         "url": "https://open.spotify.com/album/1gFkSr7JzUqVvKcSUk4HeC"
       },
@@ -53148,6 +53328,24 @@
       "duration_ms": 194146,
       "name": "Old Time Rock & Roll",
       "url": "https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3RRcYI9ZM3nOiIo3bzaLeJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195454,
+      "name": "Old Time Rock & Roll",
+      "url": "https://open.spotify.com/track/0nZg8CjMz7UomYLB4cF97g"
     },
     {
       "album": {
@@ -65101,6 +65299,24 @@
     },
     {
       "album": {
+        "name": "Bohemian Rhapsody (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295733,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/5txoZyuAmtCfmDjUCEphWm"
+    },
+    {
+      "album": {
         "name": "A Day At The Races",
         "url": "https://open.spotify.com/album/7hvCZFEWheDmHJMHOWdkLc"
       },
@@ -70473,6 +70689,24 @@
     },
     {
       "album": {
+        "name": "Anthology Collection",
+        "url": "https://open.spotify.com/album/5Crr1GUYTC7qdR3XnNW6HW"
+      },
+      "artists": [
+        {
+          "name": "The Quarrymen",
+          "url": "https://open.spotify.com/artist/3frJniZNsChzTgI37gT54C"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129613,
+      "name": "That'll Be The Day - Remastered",
+      "url": "https://open.spotify.com/track/3jXXj6ny0Iq8Yg1hXYoz1L"
+    },
+    {
+      "album": {
         "name": "Turn It on Again: The Hits",
         "url": "https://open.spotify.com/album/2ORdvAqSQMCTd9ynNg5krw"
       },
@@ -75595,6 +75829,24 @@
     },
     {
       "album": {
+        "name": "90s 100 Hits",
+        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
+      },
+      "artists": [
+        {
+          "name": "New Kids On The Block",
+          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207466,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/42NADmH0f8icPSrVXoqp6k"
+    },
+    {
+      "album": {
         "name": "Tonight I'm Yours (Expanded Edition)",
         "url": "https://open.spotify.com/album/6gDOvRUvES84YOBkMEQTbD"
       },
@@ -80215,6 +80467,24 @@
     },
     {
       "album": {
+        "name": "Return To The Valley Of The Go-Go's",
+        "url": "https://open.spotify.com/album/2Fz3LCOdrEUXSYMKaQ5C2f"
+      },
+      "artists": [
+        {
+          "name": "The Go-Go's",
+          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151866,
+      "name": "We Got The Beat - Single Mix",
+      "url": "https://open.spotify.com/track/1ayIQqBm4PFbaine2OjgYO"
+    },
+    {
+      "album": {
         "name": "The Greatest Hits Collection",
         "url": "https://open.spotify.com/album/1mOwW2z2alFWJUEExm3ErB"
       },
@@ -83571,6 +83841,24 @@
     },
     {
       "album": {
+        "name": "Beatles For Sale (Remastered)",
+        "url": "https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124320,
+      "name": "Words Of Love - Remastered 2009",
+      "url": "https://open.spotify.com/track/42qkSeX6HNJYHxlk6cWoFe"
+    },
+    {
+      "album": {
         "name": "Big Ones",
         "url": "https://open.spotify.com/album/5IYNDR7BraRrltWJLefkuV"
       },
@@ -84799,6 +85087,24 @@
     },
     {
       "album": {
+        "name": "Past Masters (Vols. 1 & 2 / Remastered)",
+        "url": "https://open.spotify.com/album/3GmCXW10kLxmZrEY0JpRlw"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259906,
+      "name": "You Know My Name (Look Up The Number) - Remastered 2009",
+      "url": "https://open.spotify.com/track/2k7gS1tS9OHeS3e8MatzgJ"
+    },
+    {
+      "album": {
         "name": "The Collection (Standard Edition)",
         "url": "https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg"
       },
@@ -85592,6 +85898,24 @@
       "duration_ms": 213973,
       "name": "You're Beautiful - 2024 Remaster",
       "url": "https://open.spotify.com/track/0vIPfeuj5jnzGrDuO1mLNy"
+    },
+    {
+      "album": {
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "You're Going To Lose That Girl - Remastered 2009",
+      "url": "https://open.spotify.com/track/70HNt0eoBVqr4ss68U8x3B"
     },
     {
       "album": {

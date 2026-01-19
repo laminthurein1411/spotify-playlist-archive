@@ -4,7 +4,7 @@
 
 > 
 
-172 songs - 9 hr 28 min
+173 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Roi](https://open.spotify.com/track/7LPGJhkRDEW6KopWhD8DbX) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF) | [Euphories](https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV) | 3:44 | 2025-03-03 |  |
 | [Rétine](https://open.spotify.com/track/0bwfMzwdaG9wsp1UmlYOwZ) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Rétine](https://open.spotify.com/album/5W7qMGfHx27Wa1Vfvs60gc) | 3:30 | 2022-05-07 |  |
 | [RÓA](https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg) | [RÓA](https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2) | 2:42 | 2025-04-03 |  |
+| [Saiyan 4](https://open.spotify.com/track/3Qg3R8St26itaavWm0UtON) | [Lybro](https://open.spotify.com/artist/3uiTnIx5N6ZWAPkPb8GFC9) | [Saiyan 4](https://open.spotify.com/album/6bBshc1MifkxeEsjbpJmsB) | 2:28 | 2026-01-18 |  |
 | [Salade de fruits](https://open.spotify.com/track/4yvuxFp9SAPviEb7J9dtAc) | [Andre Bourvil](https://open.spotify.com/artist/5ruLBvB3VLj0yLVxwitU0M) | [Du Rire Aux Larmes](https://open.spotify.com/album/1kuaDf4qlg3J0t2Zi061Lk) | 3:15 | 2023-12-09 |  |
 | [Samo mi se spava](https://open.spotify.com/track/7wLxoyWoClSUAlKGjaefQn) | [Luke Black](https://open.spotify.com/artist/3sPiEqLcANa5kAp5RnEHNq) | [Samo mi se spava](https://open.spotify.com/album/2lChE0kdOhcD7p6U0e8RVc) | 2:53 | 2023-05-27 |  |
 | [Santa Maria](https://open.spotify.com/track/3wfQEIvOfeVkXgGZogK3gL) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Santa Maria](https://open.spotify.com/album/7sxlz5Rgse37BmYI6MdqMc) | 3:09 | 2022-05-07 |  |
