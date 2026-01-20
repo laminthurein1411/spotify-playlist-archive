@@ -29525,6 +29525,24 @@
     },
     {
       "album": {
+        "name": "Before All the Magic's Gone",
+        "url": "https://open.spotify.com/album/5quGdGk5VHKvwIzFe5KCz3"
+      },
+      "artists": [
+        {
+          "name": "Ashleigh Ball",
+          "url": "https://open.spotify.com/artist/1rJcBvUoAMPLfQN0ua01ZA"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267027,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/1EZxtFfv5FeTbKWqgKk79L"
+    },
+    {
+      "album": {
         "name": "Lay Your Light",
         "url": "https://open.spotify.com/album/4huCKmPCm8AYNAriM7QWDE"
       },
@@ -45864,6 +45882,24 @@
       "duration_ms": 138761,
       "name": "Slanted",
       "url": "https://open.spotify.com/track/1Qc07xFZtoVauMsFnlxXed"
+    },
+    {
+      "album": {
+        "name": "Start Anew",
+        "url": "https://open.spotify.com/album/2onyL6HGniM3WDiFst7nSO"
+      },
+      "artists": [
+        {
+          "name": "Shad",
+          "url": "https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138761,
+      "name": "Slanted",
+      "url": "https://open.spotify.com/track/6p55eRrh0z1JvpEUOmrv73"
     },
     {
       "album": {

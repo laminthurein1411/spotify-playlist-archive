@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,287 songs - 8 day 13 hr 6 min
+3,289 songs - 8 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1590,6 +1590,7 @@
 | [Laundromats](https://open.spotify.com/track/0263L9TUbSwjntSF6Y9lkJ) | [Pillow Fite](https://open.spotify.com/artist/4qYYUWoet5mNRpDASCnGC8) | [Laundromats](https://open.spotify.com/album/1CzWPlVKIxfhLkazSnaS4p) | 5:10 | 2025-11-04 |  |
 | [laundry day](https://open.spotify.com/track/1dtINGPPyYYVhtwpSAjodV) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [laundry day](https://open.spotify.com/album/3osKZabjMYt3IESd67l0Zr) | 2:48 | 2025-06-17 |  |
 | [Lavender](https://open.spotify.com/track/3iWKdskhaLEZl5OTVpBaeH) | [Ashleigh Ball](https://open.spotify.com/artist/1rJcBvUoAMPLfQN0ua01ZA) | [Before All the Magic's Gone](https://open.spotify.com/album/2kiKEVHzGnoipkjE4UTzqA) | 4:26 | 2024-12-08 |  |
+| [Lavender](https://open.spotify.com/track/1EZxtFfv5FeTbKWqgKk79L) | [Ashleigh Ball](https://open.spotify.com/artist/1rJcBvUoAMPLfQN0ua01ZA) | [Before All the Magic's Gone](https://open.spotify.com/album/5quGdGk5VHKvwIzFe5KCz3) | 4:27 | 2026-01-19 |  |
 | [Lay Your Light](https://open.spotify.com/track/3kCmzbZL8reWDvZC6NeRF5) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Lay Your Light](https://open.spotify.com/album/4huCKmPCm8AYNAriM7QWDE) | 2:53 | 2025-06-17 |  |
 | [Lay Your Light](https://open.spotify.com/track/537zoPq0ugohYdOvOSyR5y) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [No, I'm Not Crying](https://open.spotify.com/album/4Zlk0ggvfpHAPlexTOF35u) | 2:53 | 2025-07-16 |  |
 | [Lay Your Light \- Stripped](https://open.spotify.com/track/1GRV7rPRStVhqeyFO4w7am) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [No, I'm Not Crying \(Live Sessions\)](https://open.spotify.com/album/1BfxVuhLx3wACxRXaOxM1u) | 2:42 | 2025-11-20 |  |
@@ -2463,6 +2464,7 @@
 | [Sky High](https://open.spotify.com/track/7F9K69ywGHjiuiXfkdrG2P) | [Tia Wood](https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC) | [Pretty Red Bird](https://open.spotify.com/album/4CVvKdcEb3rkac230DsOQB) | 2:56 | 2024-12-07 |  |
 | [Sky's the Limit \(feat\. 112\) \- 2014 Remaster](https://open.spotify.com/track/0xdYzkbBBfTevSyOJqWUSX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 5:29 | 2025-02-25 |  |
 | [Slanted](https://open.spotify.com/track/1Qc07xFZtoVauMsFnlxXed) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [Slanted](https://open.spotify.com/album/7gxPP42HXKFhHaeHVY3GQw) | 2:18 | 2025-11-24 |  |
+| [Slanted](https://open.spotify.com/track/6p55eRrh0z1JvpEUOmrv73) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [Start Anew](https://open.spotify.com/album/2onyL6HGniM3WDiFst7nSO) | 2:18 | 2026-01-19 |  |
 | [Sleeper](https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Sleeper](https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD) | 4:04 | 2024-12-08 |  |
 | [Sleepwalking](https://open.spotify.com/track/050TMrxpzlXGYRDAjnrSp6) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:45 | 2025-01-05 |  |
 | [Slicked Back Hair](https://open.spotify.com/track/0ZhStYZNAZZk52Udk4sREx) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Slicked Back Hair](https://open.spotify.com/album/7gxQnRYlUl5UkH1KMuxZRJ) | 2:42 | 2025-09-25 |  |

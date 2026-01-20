@@ -6,7 +6,7 @@
     "name": "ramiro",
     "url": "https://open.spotify.com/user/rgarzaa"
   },
-  "snapshot_id": "AAACdQaLho/1Kbi0bgjewGcuIdbvWJ4m",
+  "snapshot_id": "AAACdifko8b+xMyq4z/wySEac8frKRsj",
   "tracks": [
     {
       "added_at": "2024-02-28 02:33:08",
@@ -77651,6 +77651,362 @@
       "duration_ms": 261053,
       "name": "Everything Counts",
       "url": "https://open.spotify.com/track/1R1vbkHj40yexphG1i7x27"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "Fix You - Don't Give Up",
+        "url": "https://open.spotify.com/album/27dyHDrbDUbrsBHlVpOKmO"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "When I Was Your Man",
+      "url": "https://open.spotify.com/track/6RX5CU24Bn09tYxWo2TZTu"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "Show Us Your Hits",
+        "url": "https://open.spotify.com/album/2KnfEWU4cEvUNeOBCWgHgJ"
+      },
+      "artists": [
+        {
+          "name": "Bloodhound Gang",
+          "url": "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
+        }
+      ],
+      "duration_ms": 259839,
+      "name": "The Bad Touch",
+      "url": "https://open.spotify.com/track/1UskRFse4ay6ttkIH4HfvR"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "20 #1\u2019s: Alternative Rock",
+        "url": "https://open.spotify.com/album/1ue7nr3fvZFQpjmbZcVdsf"
+      },
+      "artists": [
+        {
+          "name": "Semisonic",
+          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
+        }
+      ],
+      "duration_ms": 273546,
+      "name": "Closing Time",
+      "url": "https://open.spotify.com/track/1wKWgSrVgaSyxJARfld0Yu"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "80er - Alle Hits",
+        "url": "https://open.spotify.com/album/6eQYbYKwP2IDasweXBGci6"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Little Lies - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7DSqaoSmdhZdSewjqz5go2"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "Van Halen (Remastered)",
+        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 156146,
+      "name": "You Really Got Me - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0upLyFR8Rr52ZpMp5esQoq"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "The Record - Their Greatest Hits",
+        "url": "https://open.spotify.com/album/79YOBypNnYVmzAzXkFTfl6"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 180173,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/4A36SxmR9iJqlgCIPl8c10"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "Greatest Hits II (2011 Remaster)",
+        "url": "https://open.spotify.com/album/6wlsUpq6NrapsweMIOKt0y"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 218320,
+      "name": "Hammer To Fall - Remastered 2011",
+      "url": "https://open.spotify.com/track/4zguEJ2UaLe4zbEIDWqiVP"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "The Greatest Songs Of The Seventies",
+        "url": "https://open.spotify.com/album/6VuAmXnYxOAd2Ru20MOCEq"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "duration_ms": 241346,
+      "name": "Copacabana (At the Copa)",
+      "url": "https://open.spotify.com/track/3hWOGUIOcqKDoVpFBLp9Qc"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "Deadpool 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2NvfPngtKzNClIdFMuUAxl"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 165426,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/6qpt8RfvSz67i1UzPusvFt"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 253909,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "The Essential Shawn Mullins",
+        "url": "https://open.spotify.com/album/56a0jajgyzAVEAYBJc8BG6"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mullins",
+          "url": "https://open.spotify.com/artist/4TROLx8HvrnfGGNo2ngL2N"
+        }
+      ],
+      "duration_ms": 330666,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/5sMUwUR3JI2woCOrNbizUt"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "Souvenir : The Singles 2004 - 2012",
+        "url": "https://open.spotify.com/album/029kszrrDaDAqI9T6L7BIK"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/3aRn4Q8EdXvyUhVNi7925L"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "100 Greatest Driving Songs",
+        "url": "https://open.spotify.com/album/3D5BaRZxngDIZP811L4p1N"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "Right down the Line",
+      "url": "https://open.spotify.com/track/1tQ1U2yjFWpTkcRZUnOSm4"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "Living in a van",
+        "url": "https://open.spotify.com/album/0XCIYRVQ1AC30OuKHnPoTE"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/3fd2ymWkgnY3OEoxCuV1X1"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "Brotherhood",
+        "url": "https://open.spotify.com/album/2HU7w9cB9NzKgSTLXUYCKe"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 261545,
+      "name": "Bizarre Love Triangle - 2024 Digital Master",
+      "url": "https://open.spotify.com/track/28qfj544k6pDavkWkyzvWz"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "Metallica (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7h5xn0Olvx2p0eQcSt1Osy"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 324600,
+      "name": "Sad But True - Remastered 2021",
+      "url": "https://open.spotify.com/track/5ltXoDLlI0rFZAmOXbAp5T"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1C5eSIfft6FjRE1XWu240M"
+      },
+      "artists": [
+        {
+          "name": "John Farnham",
+          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "You're the Voice",
+      "url": "https://open.spotify.com/track/74FxcLdSWEeRJKFC7Jqpj6"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "Essential",
+        "url": "https://open.spotify.com/album/31RMeyfXJt5rMLk0Sy1FKT"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 365626,
+      "name": "Baker Street",
+      "url": "https://open.spotify.com/track/5rGahG7WEK4op7MrVLXbuD"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "Timeless - The All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/3C4wWZRrQkuPx4PAnWnIpm"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 302933,
+      "name": "Tragedy",
+      "url": "https://open.spotify.com/track/6Opg2fwvYA3sZ4aiYO0COb"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "Hot Rocks 1964-1971",
+        "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 179386,
+      "name": "Honky Tonk Women - Mono Version",
+      "url": "https://open.spotify.com/track/3RZMzCvYsmJ0u2ioKTOsmJ"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "Halloween Hits",
+        "url": "https://open.spotify.com/album/31PZzle2nuK0OlzRRhGlZw"
+      },
+      "artists": [
+        {
+          "name": "Lou Gramm",
+          "url": "https://open.spotify.com/artist/7CnmC3gRgLev4I609BrSxj"
+        }
+      ],
+      "duration_ms": 396533,
+      "name": "Lost in the Shadows (From \"The Lost Boys\")",
+      "url": "https://open.spotify.com/track/1zI046BEky05noLD4Yzip1"
+    },
+    {
+      "added_at": "2026-01-19 05:57:22",
+      "album": {
+        "name": "Plener",
+        "url": "https://open.spotify.com/album/1qPRAwtSW7aESEWBvH506H"
+      },
+      "artists": [
+        {
+          "name": "Laura Branigan",
+          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/4i7EicyOtycCKGHu3NKIYP"
     }
   ],
   "unique_name": "Classic 106.9",

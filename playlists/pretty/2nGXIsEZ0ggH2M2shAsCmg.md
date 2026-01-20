@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,777 songs - 13 day 13 hr 44 min
+[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,799 songs - 13 day 15 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4785,5 +4785,27 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 4775 | [You're Going To Lose That Girl \- Remastered 2009](https://open.spotify.com/track/70HNt0eoBVqr4ss68U8x3B) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:18 |
 | 4776 | [We Got The Beat \- Single Mix](https://open.spotify.com/track/1ayIQqBm4PFbaine2OjgYO) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Return To The Valley Of The Go\-Go's](https://open.spotify.com/album/2Fz3LCOdrEUXSYMKaQ5C2f) | 2:31 |
 | 4777 | [Everything Counts](https://open.spotify.com/track/1R1vbkHj40yexphG1i7x27) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Construction Time Again \(Deluxe\)](https://open.spotify.com/album/32QIAykZFP3GI8Q5QqoNCD) | 4:21 |
+| 4778 | [When I Was Your Man](https://open.spotify.com/track/6RX5CU24Bn09tYxWo2TZTu) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fix You \- Don't Give Up](https://open.spotify.com/album/27dyHDrbDUbrsBHlVpOKmO) | 3:33 |
+| 4779 | [The Bad Touch](https://open.spotify.com/track/1UskRFse4ay6ttkIH4HfvR) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Show Us Your Hits](https://open.spotify.com/album/2KnfEWU4cEvUNeOBCWgHgJ) | 4:19 |
+| 4780 | [Closing Time](https://open.spotify.com/track/1wKWgSrVgaSyxJARfld0Yu) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20 \#1’s: Alternative Rock](https://open.spotify.com/album/1ue7nr3fvZFQpjmbZcVdsf) | 4:33 |
+| 4781 | [Little Lies \- 2018 Remaster](https://open.spotify.com/track/7DSqaoSmdhZdSewjqz5go2) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [80er \- Alle Hits](https://open.spotify.com/album/6eQYbYKwP2IDasweXBGci6) | 3:39 |
+| 4782 | [You Really Got Me \- 2015 Remaster](https://open.spotify.com/track/0upLyFR8Rr52ZpMp5esQoq) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 2:36 |
+| 4783 | [To Love Somebody](https://open.spotify.com/track/4A36SxmR9iJqlgCIPl8c10) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [The Record \- Their Greatest Hits](https://open.spotify.com/album/79YOBypNnYVmzAzXkFTfl6) | 3:00 |
+| 4784 | [Hammer To Fall \- Remastered 2011](https://open.spotify.com/track/4zguEJ2UaLe4zbEIDWqiVP) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II \(2011 Remaster\)](https://open.spotify.com/album/6wlsUpq6NrapsweMIOKt0y) | 3:38 |
+| 4785 | [Copacabana \(At the Copa\)](https://open.spotify.com/track/3hWOGUIOcqKDoVpFBLp9Qc) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [The Greatest Songs Of The Seventies](https://open.spotify.com/album/6VuAmXnYxOAd2Ru20MOCEq) | 4:01 |
+| 4786 | [9 to 5](https://open.spotify.com/track/6qpt8RfvSz67i1UzPusvFt) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Deadpool 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2NvfPngtKzNClIdFMuUAxl) | 2:45 |
+| 4787 | [Piece of My Heart](https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:13 |
+| 4788 | [Lullaby](https://open.spotify.com/track/5sMUwUR3JI2woCOrNbizUt) | [Shawn Mullins](https://open.spotify.com/artist/4TROLx8HvrnfGGNo2ngL2N) | [The Essential Shawn Mullins](https://open.spotify.com/album/56a0jajgyzAVEAYBJc8BG6) | 5:30 |
+| 4789 | [Ruby](https://open.spotify.com/track/3aRn4Q8EdXvyUhVNi7925L) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Souvenir : The Singles 2004 \- 2012](https://open.spotify.com/album/029kszrrDaDAqI9T6L7BIK) | 3:23 |
+| 4790 | [Right down the Line](https://open.spotify.com/track/1tQ1U2yjFWpTkcRZUnOSm4) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [100 Greatest Driving Songs](https://open.spotify.com/album/3D5BaRZxngDIZP811L4p1N) | 4:27 |
+| 4791 | [Island In The Sun](https://open.spotify.com/track/3fd2ymWkgnY3OEoxCuV1X1) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Living in a van](https://open.spotify.com/album/0XCIYRVQ1AC30OuKHnPoTE) | 3:20 |
+| 4792 | [Bizarre Love Triangle \- 2024 Digital Master](https://open.spotify.com/track/28qfj544k6pDavkWkyzvWz) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Brotherhood](https://open.spotify.com/album/2HU7w9cB9NzKgSTLXUYCKe) | 4:21 |
+| 4793 | [Sad But True \- Remastered 2021](https://open.spotify.com/track/5ltXoDLlI0rFZAmOXbAp5T) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7h5xn0Olvx2p0eQcSt1Osy) | 5:24 |
+| 4794 | [You're the Voice](https://open.spotify.com/track/74FxcLdSWEeRJKFC7Jqpj6) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Greatest Hits](https://open.spotify.com/album/1C5eSIfft6FjRE1XWu240M) | 5:02 |
+| 4795 | [Baker Street](https://open.spotify.com/track/5rGahG7WEK4op7MrVLXbuD) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [Essential](https://open.spotify.com/album/31RMeyfXJt5rMLk0Sy1FKT) | 6:05 |
+| 4796 | [Tragedy](https://open.spotify.com/track/6Opg2fwvYA3sZ4aiYO0COb) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Timeless \- The All\-Time Greatest Hits](https://open.spotify.com/album/3C4wWZRrQkuPx4PAnWnIpm) | 5:02 |
+| 4797 | [Honky Tonk Women \- Mono Version](https://open.spotify.com/track/3RZMzCvYsmJ0u2ioKTOsmJ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks 1964\-1971](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 2:59 |
+| 4798 | [Lost in the Shadows \(From "The Lost Boys"\)](https://open.spotify.com/track/1zI046BEky05noLD4Yzip1) | [Lou Gramm](https://open.spotify.com/artist/7CnmC3gRgLev4I609BrSxj) | [Halloween Hits](https://open.spotify.com/album/31PZzle2nuK0OlzRRhGlZw) | 6:36 |
+| 4799 | [Self Control](https://open.spotify.com/track/4i7EicyOtycCKGHu3NKIYP) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Plener](https://open.spotify.com/album/1qPRAwtSW7aESEWBvH506H) | 4:06 |
 
-Snapshot ID: `AAACdQaLho/1Kbi0bgjewGcuIdbvWJ4m`
+Snapshot ID: `AAACdifko8b+xMyq4z/wySEac8frKRsj`

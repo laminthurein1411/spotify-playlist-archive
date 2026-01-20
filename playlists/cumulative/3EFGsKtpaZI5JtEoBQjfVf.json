@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "2SIDED",
+        "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177473,
+      "name": "2SIDED",
+      "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
+    },
+    {
+      "album": {
         "name": "black british music (2025)",
         "url": "https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f"
       },
@@ -574,6 +592,24 @@
       "duration_ms": 126760,
       "name": "Ain't No Dummy",
       "url": "https://open.spotify.com/track/6GugU1kWFOZULoISblBqeT"
+    },
+    {
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224279,
+      "name": "AIR FORCE (BLACK DEMARCO)",
+      "url": "https://open.spotify.com/track/4WGk4UwyQD0mxTN6gEL4wl"
     },
     {
       "album": {
@@ -1372,6 +1408,24 @@
       "duration_ms": 224762,
       "name": "Back To Texas",
       "url": "https://open.spotify.com/track/0DQnd5ztyLJWc4TCZCDaC1"
+    },
+    {
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/1GRGtFtuMOIoxIZuw2i4oF"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190794,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/5fw5edT2Iu243gaNQbZwxC"
     },
     {
       "album": {
@@ -2419,6 +2473,28 @@
     },
     {
       "album": {
+        "name": "Buster",
+        "url": "https://open.spotify.com/album/32CDpjlHh3h2DfRnwnhfar"
+      },
+      "artists": [
+        {
+          "name": "Djanaba",
+          "url": "https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr"
+        },
+        {
+          "name": "Hylander",
+          "url": "https://open.spotify.com/artist/00JuW5c5vm2ztgv54DRqF4"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184587,
+      "name": "Buster",
+      "url": "https://open.spotify.com/track/4sysYECdYekuLUXThVgOf7"
+    },
+    {
+      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/7fUaYVubaNeP8Vxis6yBBy"
       },
@@ -2670,6 +2746,24 @@
       "duration_ms": 188514,
       "name": "catch these fists",
       "url": "https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw"
+    },
+    {
+      "album": {
+        "name": "Catching Up 2 U",
+        "url": "https://open.spotify.com/album/3c84ecpWrWwMWcJ0qqPxJt"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202103,
+      "name": "Catching Up 2 U",
+      "url": "https://open.spotify.com/track/2ylOJDYb91xiRaLs3kKtqD"
     },
     {
       "album": {
@@ -3116,6 +3210,28 @@
       "duration_ms": 167323,
       "name": "Come My Way",
       "url": "https://open.spotify.com/track/2K3voDI8zQB23hS5ReNyII"
+    },
+    {
+      "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/1sCsiqGXef6RuggffHQKSS"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187279,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/2BVyRnQTr2by4dvTdhP6LI"
     },
     {
       "album": {
@@ -4578,6 +4694,24 @@
       "duration_ms": 153409,
       "name": "Employee",
       "url": "https://open.spotify.com/track/6BlJYH5UurT8xhmBZZtIfC"
+    },
+    {
+      "album": {
+        "name": "TOO BRAZEN",
+        "url": "https://open.spotify.com/album/6A2At8Wh91FJuYKCBEkYHq"
+      },
+      "artists": [
+        {
+          "name": "Brazen Barbie",
+          "url": "https://open.spotify.com/artist/7krRGwtf9BlypHPR8D9EZW"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146206,
+      "name": "En Route",
+      "url": "https://open.spotify.com/track/7sdpz5UIjPbxSyyXjV2DBR"
     },
     {
       "album": {
@@ -7193,6 +7327,28 @@
     },
     {
       "album": {
+        "name": "i think i'm addicted",
+        "url": "https://open.spotify.com/album/6zUJXKpWJGuzb2LrB7t7hG"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        },
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158520,
+      "name": "i think i'm addicted",
+      "url": "https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0"
+    },
+    {
+      "album": {
         "name": "I Want It All",
         "url": "https://open.spotify.com/album/3RJmsUsvKZyneGHeZPOYqg"
       },
@@ -7676,6 +7832,24 @@
       "duration_ms": 163433,
       "name": "INTERSTATE",
       "url": "https://open.spotify.com/track/6AZVpiYWlRSo3LxiuAQ0BR"
+    },
+    {
+      "album": {
+        "name": "invisible wings",
+        "url": "https://open.spotify.com/album/3yQXWC4qPtJS6wBK66VZpx"
+      },
+      "artists": [
+        {
+          "name": "2charm",
+          "url": "https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266792,
+      "name": "invisible wings",
+      "url": "https://open.spotify.com/track/1iwApc5CudQCYHIJKugqYO"
     },
     {
       "album": {
@@ -8945,6 +9119,24 @@
     },
     {
       "album": {
+        "name": "LOVE YOU LESS",
+        "url": "https://open.spotify.com/album/4g944V0fgMbrZYEDG9E0OG"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201186,
+      "name": "LOVE YOU LESS",
+      "url": "https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY"
+    },
+    {
+      "album": {
         "name": "love you more",
         "url": "https://open.spotify.com/album/6xd4NcJWAoxQnpWwjfeT1b"
       },
@@ -8986,6 +9178,24 @@
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK"
+    },
+    {
+      "album": {
+        "name": "Lover, where'd you go",
+        "url": "https://open.spotify.com/album/6FJlS6zxw3WwTAlmAinLHo"
+      },
+      "artists": [
+        {
+          "name": "Olivia C. Dacal",
+          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191130,
+      "name": "Lover, where'd you go",
+      "url": "https://open.spotify.com/track/6BQ1cFHSN2CgBigZqBoCzq"
     },
     {
       "album": {
@@ -11737,6 +11947,24 @@
     },
     {
       "album": {
+        "name": "Record Baby",
+        "url": "https://open.spotify.com/album/6238WDOoer4Z0CiQHebglb"
+      },
+      "artists": [
+        {
+          "name": "Ra Ra Viper",
+          "url": "https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162594,
+      "name": "Record Baby",
+      "url": "https://open.spotify.com/track/1IOWf4GFUljEq46AdTCVbw"
+    },
+    {
+      "album": {
         "name": "Red Lights",
         "url": "https://open.spotify.com/album/0tf1GkuAI4CdzdrrtAXm7I"
       },
@@ -12268,6 +12496,24 @@
       "duration_ms": 257065,
       "name": "Shapeshifter",
       "url": "https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m"
+    },
+    {
+      "album": {
+        "name": "Sharks",
+        "url": "https://open.spotify.com/album/3Ux3tqe169UnBo1a7gREiL"
+      },
+      "artists": [
+        {
+          "name": "Dune Rats",
+          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221842,
+      "name": "Sharks",
+      "url": "https://open.spotify.com/track/1Q5izvlLFm6gQZyaxJHEHy"
     },
     {
       "album": {
@@ -15276,6 +15522,24 @@
       "duration_ms": 253478,
       "name": "Where You Need To Be",
       "url": "https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"
+    },
+    {
+      "album": {
+        "name": "Where's My Phone?",
+        "url": "https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189853,
+      "name": "Where's My Phone?",
+      "url": "https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,165 songs - 2 day 21 hr 29 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,167 songs - 2 day 21 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1173,5 +1173,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 | 1163 | [Stuck a.k.a the Cult Song](https://open.spotify.com/track/2sKqHMI6bNT8rfmFeSTIOd) | [Ernie Bird](https://open.spotify.com/artist/6w1rte5iQLFYD9yoOVCeXE), [Gabrielle Filloux](https://open.spotify.com/artist/3G7hcurTpr63cXspUaCotV) | [Stuck a.k.a the Cult Song](https://open.spotify.com/album/2ZTz0two250lkNMjpojuZj) | 4:20 |
 | 1164 | [Some Protector](https://open.spotify.com/track/6fjl6Ekn2hE7U9TLJ8teY0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:37 |
 | 1165 | [Teenage Dirtbag](https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 4:01 |
+| 1166 | [Perverts](https://open.spotify.com/track/15mQvNeL3jFWwaklufPVWP) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Perverts](https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv) | 12:04 |
+| 1167 | [Everything is romantic \- Reimagined](https://open.spotify.com/track/6JvdunPHOc9bKBIlojEKJM) | [Alina Kay](https://open.spotify.com/artist/2mPEAvJbq6EwkD6Di2xvOK), [Ozz Gold](https://open.spotify.com/artist/0KZDvnSmE8sY5Q2PtUab2P) | [Everything is romantic \(Reimagined\)](https://open.spotify.com/album/6njDql560LsOS5LdSSjyz6) | 2:02 |
 
-Snapshot ID: `AAAEybkjqG2t/DrhW5IUcrD7e8rKkEx8`
+Snapshot ID: `AAAEy7Q46qXIPiT2YWQw9UN+8aSYtCVQ`

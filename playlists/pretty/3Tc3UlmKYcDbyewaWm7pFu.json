@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAEybkjqG2t/DrhW5IUcrD7e8rKkEx8",
+  "snapshot_id": "AAAEy7Q46qXIPiT2YWQw9UN+8aSYtCVQ",
   "tracks": [
     {
       "added_at": "2019-12-20 13:17:42",
@@ -19559,6 +19559,42 @@
       "duration_ms": 241666,
       "name": "Teenage Dirtbag",
       "url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS"
+    },
+    {
+      "added_at": "2026-01-18 12:07:39",
+      "album": {
+        "name": "Perverts",
+        "url": "https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 724333,
+      "name": "Perverts",
+      "url": "https://open.spotify.com/track/15mQvNeL3jFWwaklufPVWP"
+    },
+    {
+      "added_at": "2026-01-19 08:53:27",
+      "album": {
+        "name": "Everything is romantic (Reimagined)",
+        "url": "https://open.spotify.com/album/6njDql560LsOS5LdSSjyz6"
+      },
+      "artists": [
+        {
+          "name": "Alina Kay",
+          "url": "https://open.spotify.com/artist/2mPEAvJbq6EwkD6Di2xvOK"
+        },
+        {
+          "name": "Ozz Gold",
+          "url": "https://open.spotify.com/artist/0KZDvnSmE8sY5Q2PtUab2P"
+        }
+      ],
+      "duration_ms": 122246,
+      "name": "Everything is romantic - Reimagined",
+      "url": "https://open.spotify.com/track/6JvdunPHOc9bKBIlojEKJM"
     }
   ],
   "unique_name": "Western Songs",
