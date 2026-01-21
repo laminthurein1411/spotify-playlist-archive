@@ -6,7 +6,7 @@
     "name": "ramiro",
     "url": "https://open.spotify.com/user/rgarzaa"
   },
-  "snapshot_id": "AAACdifko8b+xMyq4z/wySEac8frKRsj",
+  "snapshot_id": "AAACd5Ry0O72UamFEM669sVzQUlJeNOl",
   "tracks": [
     {
       "added_at": "2024-02-28 02:33:08",
@@ -78007,6 +78007,26 @@
       "duration_ms": 246440,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/4i7EicyOtycCKGHu3NKIYP"
+    },
+    {
+      "added_at": "2026-01-20 05:53:55",
+      "album": {
+        "name": "Stumblin' In (2017 Remaster)",
+        "url": "https://open.spotify.com/album/70zwk7XkGn8CRIObD3a40F"
+      },
+      "artists": [
+        {
+          "name": "Chris Norman",
+          "url": "https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc"
+        },
+        {
+          "name": "Suzi Quatro",
+          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+        }
+      ],
+      "duration_ms": 239611,
+      "name": "Stumblin' In - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2Pzhx26KqgTTKnko0uC7F7"
     }
   ],
   "unique_name": "Classic 106.9",

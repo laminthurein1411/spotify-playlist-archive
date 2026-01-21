@@ -4,7 +4,7 @@
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-4,790 songs - 13 day 14 hr 37 min
+4,791 songs - 13 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3750,6 +3750,7 @@
 | [Stuck With You \- Single Edit](https://open.spotify.com/track/2cIVQRSEMi0XL98JcjN0Xo) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 4:26 | 2025-12-21 |  |
 | [Stumblin' In](https://open.spotify.com/track/5Gv0KcM2idgDOvRkcU3IN8) | [Chris Norman](https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc), [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [The Best Of 20 Years](https://open.spotify.com/album/2pDAgibofMuBVMLX2vnw8q) | 3:55 | 2025-12-15 |  |
 | [Stumblin' In](https://open.spotify.com/track/0ctgmKdlPY8xx41wY339Da) | [Chris Norman](https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc), [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Licorice Pizza \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2hZarv2b2vI2j0QRrOv4bt) | 3:58 | 2025-12-27 |  |
+| [Stumblin' In \- 2017 Remaster](https://open.spotify.com/track/2Pzhx26KqgTTKnko0uC7F7) | [Chris Norman](https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc), [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Stumblin' In \(2017 Remaster\)](https://open.spotify.com/album/70zwk7XkGn8CRIObD3a40F) | 3:59 | 2026-01-20 |  |
 | [Stumblin' In \- Acoustic Cover](https://open.spotify.com/track/1oA96IPDcezyUDvXwjNBf2) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ), [Chris Norman](https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc), [Lee Warne](https://open.spotify.com/artist/7Af8RjdalPwHNnsIMwqgaj) | [Relaxing Classical Playlist: Joyful Music for Stress Relief](https://open.spotify.com/album/6Zvl8MTH0fucZb7aM0smEC) | 3:51 | 2024-03-21 |  |
 | [Stupid Girl](https://open.spotify.com/track/4dC0fWZm8tU5dNdVutSMVP) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Anthology](https://open.spotify.com/album/6aESTfmdGbSgCGw5hjPtH6) | 4:19 | 2024-03-21 |  |
 | [Stupid Girl \- 2015 \- Remaster](https://open.spotify.com/track/02bDwHxd8UuWJyeytiohaK) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Super Deluxe Edition\)](https://open.spotify.com/album/1zMVQsor2FNTEMdEhsQ48S) | 4:17 | 2025-12-15 |  |

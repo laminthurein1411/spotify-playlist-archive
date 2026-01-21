@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,799 songs - 13 day 15 hr 17 min
+[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,800 songs - 13 day 15 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4807,5 +4807,6 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 4797 | [Honky Tonk Women \- Mono Version](https://open.spotify.com/track/3RZMzCvYsmJ0u2ioKTOsmJ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks 1964\-1971](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 2:59 |
 | 4798 | [Lost in the Shadows \(From "The Lost Boys"\)](https://open.spotify.com/track/1zI046BEky05noLD4Yzip1) | [Lou Gramm](https://open.spotify.com/artist/7CnmC3gRgLev4I609BrSxj) | [Halloween Hits](https://open.spotify.com/album/31PZzle2nuK0OlzRRhGlZw) | 6:36 |
 | 4799 | [Self Control](https://open.spotify.com/track/4i7EicyOtycCKGHu3NKIYP) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Plener](https://open.spotify.com/album/1qPRAwtSW7aESEWBvH506H) | 4:06 |
+| 4800 | [Stumblin' In \- 2017 Remaster](https://open.spotify.com/track/2Pzhx26KqgTTKnko0uC7F7) | [Chris Norman](https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc), [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Stumblin' In \(2017 Remaster\)](https://open.spotify.com/album/70zwk7XkGn8CRIObD3a40F) | 3:59 |
 
-Snapshot ID: `AAACdifko8b+xMyq4z/wySEac8frKRsj`
+Snapshot ID: `AAACd5Ry0O72UamFEM669sVzQUlJeNOl`

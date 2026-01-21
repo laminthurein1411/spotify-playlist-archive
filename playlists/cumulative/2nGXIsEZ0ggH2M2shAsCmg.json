@@ -68269,6 +68269,28 @@
     },
     {
       "album": {
+        "name": "Stumblin' In (2017 Remaster)",
+        "url": "https://open.spotify.com/album/70zwk7XkGn8CRIObD3a40F"
+      },
+      "artists": [
+        {
+          "name": "Chris Norman",
+          "url": "https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc"
+        },
+        {
+          "name": "Suzi Quatro",
+          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239611,
+      "name": "Stumblin' In - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2Pzhx26KqgTTKnko0uC7F7"
+    },
+    {
+      "album": {
         "name": "Relaxing Classical Playlist: Joyful Music for Stress Relief",
         "url": "https://open.spotify.com/album/6Zvl8MTH0fucZb7aM0smEC"
       },
