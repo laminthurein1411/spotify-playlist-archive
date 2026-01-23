@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,299 songs - 8 day 13 hr 52 min
+3,302 songs - 8 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1876,6 +1876,7 @@
 | [Mr\. Soul](https://open.spotify.com/track/3GnafHtGYpa4N8ab1cIZGV) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Trans](https://open.spotify.com/album/6kHeF6gWAzKji20zAe7e16) | 3:19 | 2025-11-12 |  |
 | [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 | 2026-01-02 |  |
 | [Music](https://open.spotify.com/track/2fzykVsO2Di5jnofUNX3YE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 3:45 | 2025-05-28 |  |
+| [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2026-01-22 |  |
 | [MUTUAL FRIEND](https://open.spotify.com/track/6PFyd6Gmp2LZHI1IpkZGgy) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:26 | 2024-11-29 |  |
 | [MUTUAL FRIEND](https://open.spotify.com/track/6qTkFd7eFndvexoySUmpNq) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [MUTUAL FRIEND](https://open.spotify.com/album/5h4ncClsNTs4SL2B0udXCT) | 3:26 | 2025-03-16 | 2025-07-16 |
 | [My Angel](https://open.spotify.com/track/2ljCJxlSAAsARG4TmJV5yJ) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Basia's Palace](https://open.spotify.com/album/3NHxM1SUg8BRHLmcV1Nw9n) | 3:20 | 2025-04-08 |  |
@@ -1901,6 +1902,7 @@
 | [My Rights Versus Yours](https://open.spotify.com/track/76VIwyyeOVlNnPIh5U6Dhb) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Challengers](https://open.spotify.com/album/1BkE9yPh8msnjeLvLS1dC9) | 4:17 | 2024-12-12 |  |
 | [My Silver Lining](https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9) | 3:35 | 2025-06-18 |  |
 | [My Sweet Lord \- 2014 Remaster](https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 4:41 | 2025-07-10 |  |
+| [My Town](https://open.spotify.com/track/36oSzy6uztrVglG0swtduH) | [Glass Tiger](https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv) | [Simple Mission](https://open.spotify.com/album/75Bv72IjO9tkBIFdSqu0xT) | 4:49 | 2026-01-22 |  |
 | [Mysterious Ways](https://open.spotify.com/track/50JK22El2PTIzZBU2liLDI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:03 | 2025-11-21 |  |
 | [Mystery](https://open.spotify.com/track/0YsLm3mpqjELlj7N8iRoO4) | [David Myles](https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf) | [It's Only a Little Loneliness](https://open.spotify.com/album/4ZRQS7I2IlLKLNyDV6ON7P) | 3:25 | 2025-02-18 |  |
 | [Mystic Light](https://open.spotify.com/track/5CAfqtSWbJQLlusAEb2d3A) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/3SaOC7YKiYYtVSTww9SuTx) | 3:16 | 2025-05-06 |  |
@@ -2762,6 +2764,7 @@
 | [The Bed, The Room, The Rain and You](https://open.spotify.com/track/457OYL6fLCFAzdB1mmb1HZ) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [VIVA HINDS](https://open.spotify.com/album/4XQwD29zcKWF5TUKjYACaN) | 2:28 | 2025-05-14 |  |
 | [The Benefits of Being Alone](https://open.spotify.com/track/5ghFvXkRn3ZiWJkDbWeRDa) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/1OOpLsjYm20UGottxYTusF) | 3:14 | 2025-04-02 |  |
 | [The Best](https://open.spotify.com/track/4OeFQtRyT7vsLnRTv7t8YT) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [All The Best](https://open.spotify.com/album/64PNGg3YLgOkJ2ySlbrmPZ) | 5:30 | 2025-01-10 |  |
+| [The Bird](https://open.spotify.com/track/7pamxApUs3CE8t7tKmUJ6Z) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 3:37 | 2026-01-22 |  |
 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 | 2025-02-02 |  |
 | [The Boy Is Mine](https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:54 | 2025-04-16 |  |
 | [The Brightest Light](https://open.spotify.com/track/6YRxki6C42MLt5AEqnJlhk) | [Dallas Good](https://open.spotify.com/artist/0dJtWy71D8lV9h8vGvPx4H), [Richard Reed Parry](https://open.spotify.com/artist/7kdBCYCfsZQPu4dVYpvswY) | [The Brightest Light](https://open.spotify.com/album/5f4yIfWWisI2Afm1pAWkpH) | 3:32 | 2025-12-11 |  |
