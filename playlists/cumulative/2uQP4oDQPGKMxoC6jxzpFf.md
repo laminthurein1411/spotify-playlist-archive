@@ -4,7 +4,7 @@
 
 > https:&\#x2F;&\#x2F;www.cbc.ca&\#x2F;listen&\#x2F;live\-radio&\#x2F;1\-280\-mornings&\#x2F;
 
-3,302 songs - 8 day 14 hr 3 min
+3,306 songs - 8 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -950,6 +950,7 @@
 | [Gaza is Calling](https://open.spotify.com/track/3Du98XwcmnKGEwGOKyxUK8) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/45XoaObdMwc02uZjsuOfgq) | 4:30 | 2025-07-13 |  |
 | [Gee Whiz, It's Christmas](https://open.spotify.com/track/0itJ9uZXV6chjgCuQnmoKI) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Let Me Be Good to You: The Atlantic & Stax Recordings \(1960\-1968\)](https://open.spotify.com/album/6tpCi4wCrheS80Q1IuI5TI) | 2:46 | 2024-12-21 |  |
 | [Genius of Love](https://open.spotify.com/track/0UMfconu33lpuioJ696nKv) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Genius of Love](https://open.spotify.com/album/7ATVtKtlDE1cxauGVsZvSv) | 3:25 | 2025-12-16 |  |
+| [Gentleman Blue](https://open.spotify.com/track/5loW20chHOzvK5z4y9D96U) | [Elysia Biro](https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L) | [Gentleman Blue](https://open.spotify.com/album/5T5QLI9OIEwLHJ065gR3D2) | 3:28 | 2026-01-23 |  |
 | [Get Back Again](https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Get Back Again](https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9) | 4:10 | 2024-11-24 |  |
 | [Get By](https://open.spotify.com/track/1LM6EReMkAxuDXDF26ekl2) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Quality](https://open.spotify.com/album/0apVddbk7Juec0DV4LNiBg) | 3:47 | 2025-02-26 |  |
 | [Get in Line](https://open.spotify.com/track/1nrqkNgc9OgSmuyriyALPl) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Long Player Late Bloomer](https://open.spotify.com/album/64xSMkL9PmRCRmudL6RamM) | 2:27 | 2025-01-25 |  |
@@ -1099,6 +1100,7 @@
 | [Happy People](https://open.spotify.com/track/41wgHYaNAx7QAEaUvmpUBb) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Happy People](https://open.spotify.com/album/7K84PEN3LOZvwIigoIbJpy) | 3:20 | 2025-02-04 |  |
 | [Happy People](https://open.spotify.com/track/5yZf2P5nOJ5rRe2lMpfocB) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Jupiter](https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH) | 3:20 | 2025-05-18 |  |
 | [Happy Pills](https://open.spotify.com/track/5OULYbjWNukOzjjR7GlMGO) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Little Broken Hearts](https://open.spotify.com/album/3N9ECfsk4OUDKhmhPT3OPX) | 3:34 | 2024-12-17 |  |
+| [Happy Together](https://open.spotify.com/track/3BYY6EvwqAIBnRZVHi1XMG) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Happy Together](https://open.spotify.com/album/2AvUpNIbOC4UwiCpdJMDxf) | 3:06 | 2026-01-23 |  |
 | [Hard On Everyone](https://open.spotify.com/track/37Cvfac4BeLrKdWL4Eus50) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/7BoJ2M5s0Zqv3Ww1K1Jbm7) | 5:32 | 2024-12-02 |  |
 | [Hard Road](https://open.spotify.com/track/5ohBrBQzevHXevv7sRfGV7) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [We Were Born In A Flame](https://open.spotify.com/album/3AoWVHZuuu68ZVOy1R55l9) | 4:05 | 2025-02-17 |  |
 | [Hard Time](https://open.spotify.com/track/4ZiiiKXN6WgRxlPTme5Lby) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Hard Time](https://open.spotify.com/album/4mMpD7VNC2zomYx9nDLSSD) | 3:21 | 2025-05-12 |  |
@@ -1470,6 +1472,7 @@
 | [It's Amazing To Be Young](https://open.spotify.com/track/1NQn6ovexeHuKcEMVfvb30) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance \(Deluxe Edition\)](https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy) | 3:30 | 2025-08-09 |  |
 | [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 | 2025-03-19 |  |
 | [It's My Life](https://open.spotify.com/track/05QjvTR451nno4NyhKmrSe) | [Allegories](https://open.spotify.com/artist/61bTkOisFXOWUZibTyZhgD) | [It's My Life](https://open.spotify.com/album/36XdQbKqUI1NNGPdcoWbp4) | 3:56 | 2025-05-02 |  |
+| [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 | 2026-01-23 |  |
 | [It's Oh So Quiet](https://open.spotify.com/track/0OMNQyneWmmZtTQpULYJcl) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:37 | 2025-06-06 |  |
 | [It's So Strange](https://open.spotify.com/track/5Jh4RRuFLFZWCFpokPkUVD) | [Jerry Leger](https://open.spotify.com/artist/3GtHH5i1nt9Bb3dr39l4ac) | [It's So Strange](https://open.spotify.com/album/21BF1P12UhhU9PlRZYrjBK) | 3:24 | 2025-11-14 |  |
 | [It's So Strange](https://open.spotify.com/track/7DpIM0SoHxkpy4oHBQv08d) | [Jerry Leger](https://open.spotify.com/artist/3GtHH5i1nt9Bb3dr39l4ac) | [Waves Of Desire](https://open.spotify.com/album/6XAGVRHXbA7ErqpICUlJH6) | 3:24 | 2026-01-09 |  |
@@ -1721,6 +1724,7 @@
 | [LOVE IN THE DARK](https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:59 | 2025-07-29 |  |
 | [LOVE IN THE DARK](https://open.spotify.com/track/6WrHKidpEVkYKX3vSQhBgL) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [LOVE IN THE DARK](https://open.spotify.com/album/1cotXPn0CcR0ZCQWcTtZe0) | 4:00 | 2025-10-18 |  |
 | [Love Is A Canyon](https://open.spotify.com/track/2rSuyPz6BfCzxB13UF6hpw) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [I WANT MY LOVED ONES TO GO WITH ME \(DELUXE\)](https://open.spotify.com/album/1srzE6EPPVOfxOxPV1SoEY) | 3:48 | 2025-10-30 |  |
+| [Love Is The Key](https://open.spotify.com/track/2VtIZmwcsbhokNJLFUwXpM) | [Kevin Hearn](https://open.spotify.com/artist/6PrvsItN2F9EaT1eCcBmgF), [The Persuasions](https://open.spotify.com/artist/1s1K3nAfVupmteRMDCPnx5), [Andy Kim](https://open.spotify.com/artist/2VBBUzDKxw5AlKn1dAU9W3) | [Love Is The Key](https://open.spotify.com/album/3xS2qGucPJ3NyAhxcy1PUE) | 3:07 | 2026-01-23 |  |
 | [Love language](https://open.spotify.com/track/7ps2R27n2YEP8SRsRaXkqA) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Love language](https://open.spotify.com/album/3iV0gdLkvnoN6Ba58iNWAN) | 2:46 | 2025-09-26 |  |
 | [Love Like That \(feat\. Ali Sethi\)](https://open.spotify.com/track/6vBuBiZkJDabpSEZqZFYNS) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Love Like That \(feat\. Ali Sethi\)](https://open.spotify.com/album/370o1v7cPpNPuFnOGEgVCN) | 2:40 | 2024-11-21 |  |
 | [Love Me](https://open.spotify.com/track/5yW2bkhotkK8CDpD8HyPmW) | [CEC](https://open.spotify.com/artist/3r3uBjy2d93ntlU8BFgE4N) | [LOVE ME](https://open.spotify.com/album/7FD5lUx2ylcdrjb36IJfuM) | 2:23 | 2025-09-27 |  |

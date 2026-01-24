@@ -17593,6 +17593,24 @@
     },
     {
       "album": {
+        "name": "Gentleman Blue",
+        "url": "https://open.spotify.com/album/5T5QLI9OIEwLHJ065gR3D2"
+      },
+      "artists": [
+        {
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208706,
+      "name": "Gentleman Blue",
+      "url": "https://open.spotify.com/track/5loW20chHOzvK5z4y9D96U"
+    },
+    {
+      "album": {
         "name": "Get Back Again",
         "url": "https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9"
       },
@@ -20372,6 +20390,28 @@
       "duration_ms": 214680,
       "name": "Happy Pills",
       "url": "https://open.spotify.com/track/5OULYbjWNukOzjjR7GlMGO"
+    },
+    {
+      "album": {
+        "name": "Happy Together",
+        "url": "https://open.spotify.com/album/2AvUpNIbOC4UwiCpdJMDxf"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Happy Together",
+      "url": "https://open.spotify.com/track/3BYY6EvwqAIBnRZVHi1XMG"
     },
     {
       "album": {
@@ -27301,6 +27341,24 @@
     },
     {
       "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
+      },
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232400,
+      "name": "It's My Life - 1997 Remaster",
+      "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
+    },
+    {
+      "album": {
         "name": "Post",
         "url": "https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs"
       },
@@ -31968,6 +32026,32 @@
       "duration_ms": 228593,
       "name": "Love Is A Canyon",
       "url": "https://open.spotify.com/track/2rSuyPz6BfCzxB13UF6hpw"
+    },
+    {
+      "album": {
+        "name": "Love Is The Key",
+        "url": "https://open.spotify.com/album/3xS2qGucPJ3NyAhxcy1PUE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Hearn",
+          "url": "https://open.spotify.com/artist/6PrvsItN2F9EaT1eCcBmgF"
+        },
+        {
+          "name": "The Persuasions",
+          "url": "https://open.spotify.com/artist/1s1K3nAfVupmteRMDCPnx5"
+        },
+        {
+          "name": "Andy Kim",
+          "url": "https://open.spotify.com/artist/2VBBUzDKxw5AlKn1dAU9W3"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187375,
+      "name": "Love Is The Key",
+      "url": "https://open.spotify.com/track/2VtIZmwcsbhokNJLFUwXpM"
     },
     {
       "album": {
