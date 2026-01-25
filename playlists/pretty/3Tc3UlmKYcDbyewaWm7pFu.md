@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,168 songs - 2 day 21 hr 48 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,170 songs - 2 day 21 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1176,5 +1176,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 | 1166 | [Perverts](https://open.spotify.com/track/15mQvNeL3jFWwaklufPVWP) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Perverts](https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv) | 12:04 |
 | 1167 | [Everything is romantic \- Reimagined](https://open.spotify.com/track/6JvdunPHOc9bKBIlojEKJM) | [Alina Kay](https://open.spotify.com/artist/2mPEAvJbq6EwkD6Di2xvOK), [Ozz Gold](https://open.spotify.com/artist/0KZDvnSmE8sY5Q2PtUab2P) | [Everything is romantic \(Reimagined\)](https://open.spotify.com/album/6njDql560LsOS5LdSSjyz6) | 2:02 |
 | 1168 | [Collard Greens](https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 4:59 |
+| 1169 | [Chasing Cars](https://open.spotify.com/track/2VlEyuzxCN7wN9utykzDmn) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Chasing Cars](https://open.spotify.com/album/3i7moD9yaXK0o48iMjJkWQ) | 3:55 |
+| 1170 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
 
-Snapshot ID: `AAAEzNKEqulUaA0GhhPnbLg7Gb2rH4pe`
+Snapshot ID: `AAAE0M0vbQVtx543a2uCIEtyk1Iiz1/u`

@@ -1155,6 +1155,46 @@
     },
     {
       "album": {
+        "name": "Eyes Open",
+        "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267960,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
+    },
+    {
+      "album": {
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/3i7moD9yaXK0o48iMjJkWQ"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235384,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/2VlEyuzxCN7wN9utykzDmn"
+    },
+    {
+      "album": {
         "name": "Leonard Cohen: I'm Your Man",
         "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
       },
@@ -4699,6 +4739,24 @@
     },
     {
       "album": {
+        "name": "LOVE YOU LESS",
+        "url": "https://open.spotify.com/album/4g944V0fgMbrZYEDG9E0OG"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201186,
+      "name": "LOVE YOU LESS",
+      "url": "https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY"
+    },
+    {
+      "album": {
         "name": "I'm Wide Awake, It's Morning",
         "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
       },
@@ -8174,6 +8232,24 @@
       "duration_ms": 261842,
       "name": "You\u2019re Not Sorry (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/6iiAfo4wTA2CVC3Uwx9uh8"
+    },
+    {
+      "album": {
+        "name": "\u041c\u043e\u043b\u0438\u0442\u0432\u044b. \u0410\u043d\u0435\u043a\u0434\u043e\u0442\u044b. \u0422\u043e\u0441\u0442\u044b.",
+        "url": "https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox"
+      },
+      "artists": [
+        {
+          "name": "Monetochka",
+          "url": "https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK"
+        }
+      ],
+      "date_added": "2026-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188415,
+      "name": "\u0421\u0435\u043b\u0444\u0445\u0430\u0440\u043c",
+      "url": "https://open.spotify.com/track/46tUEN0dIhVxYbOgxCvkF4"
     }
   ],
   "url": "https://open.spotify.com/playlist/1bXE7Pyusw2lDjPiTdqwk2"
