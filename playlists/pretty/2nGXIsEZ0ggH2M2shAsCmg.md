@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,973 songs - 14 day 3 hr 41 min
+[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 4,985 songs - 14 day 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4981,5 +4981,17 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 4971 | [We Didn't Start the Fire](https://open.spotify.com/track/38bDGWuyYdSdNfrFfbCiVS) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 4:51 |
 | 4972 | [Memphis \- Live At Whiskey A Go Go / 1964 / Remastered 1995](https://open.spotify.com/track/5QqdnAVnNCfWp9CZ3pi5a0) | [Johnny Rivers](https://open.spotify.com/artist/3TiISqKS6ESlMQ4WFfZJw2) | [Totally Live At The Whisky A Go Go](https://open.spotify.com/album/5GKZQbgxZoeVHXIwq0jtsb) | 2:44 |
 | 4973 | [\(Let Me Be Your\) Teddy Bear](https://open.spotify.com/track/57j9wUmiHxii7VpbAdSkPQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Loving You](https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2) | 1:49 |
+| 4974 | [Barbie Girl](https://open.spotify.com/track/0LTrz9IbNZccl0USnGhVJT) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [90's Party Mix](https://open.spotify.com/album/797RpvHC9gxlRdNIgXDJh5) | 3:17 |
+| 4975 | [Good Times \- 7" Edit; 2018 Remaster](https://open.spotify.com/track/1Ket3P7fn8XF7y3f15rUH8) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [The Chic Organization 1977\-1979 \(2018 Remaster\)](https://open.spotify.com/album/3Jhtxnrjbk5oxleA3oafAy) | 3:45 |
+| 4976 | [Close My Eyes Forever](https://open.spotify.com/track/6JYU4r8D2EwW4eP7ZeUGPa) | [Lita Ford](https://open.spotify.com/artist/77tBvvyd6SD4Y9Um1xcbxP), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Platinum & Gold Collection](https://open.spotify.com/album/0WFtnE2BmgSTsnbAaBXQ3o) | 4:42 |
+| 4977 | [Revolution \- Remastered 2009](https://open.spotify.com/track/3UDmHZcBTQp8Iu8droNtUl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 \- 1970 \(Remastered\)](https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs) | 3:25 |
+| 4978 | [Besame Mucho \- June 1962 Version](https://open.spotify.com/track/2Qgak11t9BJHwkicG0WJQE) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Anthology 1](https://open.spotify.com/album/1pBBIxK5yURfbv8Xd5lta1) | 2:36 |
+| 4979 | [Bad Boy \- Remastered 2009](https://open.spotify.com/track/7iTjGs5z7opNGCXyurs0Q7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Past Masters \(Vols\. 1 & 2 / Remastered\)](https://open.spotify.com/album/3GmCXW10kLxmZrEY0JpRlw) | 2:20 |
+| 4980 | [Lady Madonna \- Remastered 2009](https://open.spotify.com/track/1fSHw7Gt4ha9kJew9a0a55) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 \- 1970 \(Remastered\)](https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs) | 2:18 |
+| 4981 | [Jet \- 2010 Remaster](https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 4:08 |
+| 4982 | [Back In The U.S.S.R\. \- Remastered 2009](https://open.spotify.com/track/0j3p1p06deJ7f9xmJ9yG22) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:43 |
+| 4983 | [Dance to the Music](https://open.spotify.com/track/34TgADAGV0HRFvUXlvJANq) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [On Your 60's Radio](https://open.spotify.com/album/5wE973IcRveDESH52qmKLD) | 2:57 |
+| 4984 | [Gloria](https://open.spotify.com/track/220cgo2kcxM5OiuUjidzKm) | [The Shadows Of Knight](https://open.spotify.com/artist/0NRN3tnDVDspHMCfyu2ZwT) | [Oldies 60's](https://open.spotify.com/album/3y2gHDcfKpQG21SutK6ErH) | 2:37 |
+| 4985 | [Bicycle Race \- Remastered 2011](https://open.spotify.com/track/5FYslb39kAXnPmxSsJyzC5) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits \(Remastered\)](https://open.spotify.com/album/3VWrUk4vBznMYXGMPc7dRB) | 3:00 |
 
-Snapshot ID: `AAACe6+ZeR7KG0dueW9tKY3Bj14hKROq`
+Snapshot ID: `AAACfM87B5da/yuuuZXloMKE8OC0QtcR`

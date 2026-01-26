@@ -6021,6 +6021,24 @@
     },
     {
       "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163453,
+      "name": "Back In The U.S.S.R. - Remastered 2009",
+      "url": "https://open.spotify.com/track/0j3p1p06deJ7f9xmJ9yG22"
+    },
+    {
+      "album": {
         "name": "Greatest Hits: Huey Lewis And The News",
         "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
       },
@@ -6162,6 +6180,24 @@
       "duration_ms": 235506,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/5AM6VOkN7ficA2O04f5JG1"
+    },
+    {
+      "album": {
+        "name": "Past Masters (Vols. 1 & 2 / Remastered)",
+        "url": "https://open.spotify.com/album/3GmCXW10kLxmZrEY0JpRlw"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140600,
+      "name": "Bad Boy - Remastered 2009",
+      "url": "https://open.spotify.com/track/7iTjGs5z7opNGCXyurs0Q7"
     },
     {
       "album": {
@@ -6754,6 +6790,24 @@
       "duration_ms": 236666,
       "name": "Bangin' On My Heart",
       "url": "https://open.spotify.com/track/2yjZkFTHyMZjdd8QDREOEE"
+    },
+    {
+      "album": {
+        "name": "90's Party Mix",
+        "url": "https://open.spotify.com/album/797RpvHC9gxlRdNIgXDJh5"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197960,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/0LTrz9IbNZccl0USnGhVJT"
     },
     {
       "album": {
@@ -7819,6 +7873,24 @@
     },
     {
       "album": {
+        "name": "Anthology 1",
+        "url": "https://open.spotify.com/album/1pBBIxK5yURfbv8Xd5lta1"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156960,
+      "name": "Besame Mucho - June 1962 Version",
+      "url": "https://open.spotify.com/track/2Qgak11t9BJHwkicG0WJQE"
+    },
+    {
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
       },
@@ -8000,6 +8072,24 @@
       "duration_ms": 180813,
       "name": "Bicycle Race - Remastered 2011",
       "url": "https://open.spotify.com/track/5CTAcf8aS0a0sIsDwQRF9C"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits (Remastered)",
+        "url": "https://open.spotify.com/album/3VWrUk4vBznMYXGMPc7dRB"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180813,
+      "name": "Bicycle Race - Remastered 2011",
+      "url": "https://open.spotify.com/track/5FYslb39kAXnPmxSsJyzC5"
     },
     {
       "album": {
@@ -13759,6 +13849,28 @@
     },
     {
       "album": {
+        "name": "Platinum & Gold Collection",
+        "url": "https://open.spotify.com/album/0WFtnE2BmgSTsnbAaBXQ3o"
+      },
+      "artists": [
+        {
+          "name": "Lita Ford",
+          "url": "https://open.spotify.com/artist/77tBvvyd6SD4Y9Um1xcbxP"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282466,
+      "name": "Close My Eyes Forever",
+      "url": "https://open.spotify.com/track/6JYU4r8D2EwW4eP7ZeUGPa"
+    },
+    {
+      "album": {
         "name": "The Head On The Door",
         "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
       },
@@ -15914,6 +16026,24 @@
       "duration_ms": 240800,
       "name": "Dance Hall Days",
       "url": "https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I"
+    },
+    {
+      "album": {
+        "name": "On Your 60's Radio",
+        "url": "https://open.spotify.com/album/5wE973IcRveDESH52qmKLD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177093,
+      "name": "Dance to the Music",
+      "url": "https://open.spotify.com/track/34TgADAGV0HRFvUXlvJANq"
     },
     {
       "album": {
@@ -26671,6 +26801,24 @@
     },
     {
       "album": {
+        "name": "Oldies 60's",
+        "url": "https://open.spotify.com/album/3y2gHDcfKpQG21SutK6ErH"
+      },
+      "artists": [
+        {
+          "name": "The Shadows Of Knight",
+          "url": "https://open.spotify.com/artist/0NRN3tnDVDspHMCfyu2ZwT"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/220cgo2kcxM5OiuUjidzKm"
+    },
+    {
+      "album": {
         "name": "Rock de los 60 en Ingles",
         "url": "https://open.spotify.com/album/14xCxNiiKdXndMaKL5gQM2"
       },
@@ -27338,6 +27486,24 @@
       "duration_ms": 495400,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/0PQFPcSK1gnBGlbV4CZCG0"
+    },
+    {
+      "album": {
+        "name": "The Chic Organization 1977-1979 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3Jhtxnrjbk5oxleA3oafAy"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225746,
+      "name": "Good Times - 7\" Edit; 2018 Remaster",
+      "url": "https://open.spotify.com/track/1Ket3P7fn8XF7y3f15rUH8"
     },
     {
       "album": {
@@ -41479,6 +41645,28 @@
     },
     {
       "album": {
+        "name": "Band On The Run",
+        "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248360,
+      "name": "Jet - 2010 Remaster",
+      "url": "https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh"
+    },
+    {
+      "album": {
         "name": "The Classic Years: 1956-1962",
         "url": "https://open.spotify.com/album/7yeVUGG3xvGjKwhM2FBItZ"
       },
@@ -43772,6 +43960,24 @@
       "duration_ms": 307153,
       "name": "Lady - Hear Me Tonight",
       "url": "https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6"
+    },
+    {
+      "album": {
+        "name": "The Beatles 1967 - 1970 (Remastered)",
+        "url": "https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138986,
+      "name": "Lady Madonna - Remastered 2009",
+      "url": "https://open.spotify.com/track/1fSHw7Gt4ha9kJew9a0a55"
     },
     {
       "album": {
@@ -60722,6 +60928,24 @@
       "duration_ms": 255466,
       "name": "Return To Innocence",
       "url": "https://open.spotify.com/track/2UKkLqST2xWpK8n1b0Xr5Z"
+    },
+    {
+      "album": {
+        "name": "The Beatles 1967 - 1970 (Remastered)",
+        "url": "https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2026-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205293,
+      "name": "Revolution - Remastered 2009",
+      "url": "https://open.spotify.com/track/3UDmHZcBTQp8Iu8droNtUl"
     },
     {
       "album": {
