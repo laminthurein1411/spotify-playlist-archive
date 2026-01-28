@@ -6,8 +6,24 @@
     "name": "scfi",
     "url": "https://open.spotify.com/user/stephenip10"
   },
-  "snapshot_id": "AAAGIiZbzo7FNOtQnVkls98RrV0tx7Bj",
+  "snapshot_id": "AAAGJJrrwIkrRWz+JS3P6S2xAZv1soU0",
   "tracks": [
+    {
+      "added_at": "2026-01-27 08:00:18",
+      "album": {
+        "name": "Vie",
+        "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 266021,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
+    },
     {
       "added_at": "2026-01-23 21:30:17",
       "album": {
@@ -3555,26 +3571,6 @@
       "duration_ms": 157453,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
-    },
-    {
-      "added_at": "2024-10-27 07:00:22",
-      "album": {
-        "name": "PARA TODAS LAS MAMACITAS",
-        "url": "https://open.spotify.com/album/3vybLae46btPWds1OXSHTK"
-      },
-      "artists": [
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "LA NENA",
-      "url": "https://open.spotify.com/track/5CC7ZZyAQYD0aMziCsKgWz"
     },
     {
       "added_at": "2023-05-03 08:00:13",

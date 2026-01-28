@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAE0R+3xgRLhJ7lSa5xHXo4I+ckhnlW",
+  "snapshot_id": "AAAE0vTV+Vo/2TT8dsJqPexhxOHscTuc",
   "tracks": [
     {
       "added_at": "2019-12-20 13:17:42",
@@ -19667,6 +19667,22 @@
       "duration_ms": 215160,
       "name": "Everybody's Changing",
       "url": "https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA"
+    },
+    {
+      "added_at": "2026-01-27 08:48:54",
+      "album": {
+        "name": "Get Born (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6svS1vGX5qyK9mhz8ijzxs"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 230893,
+      "name": "Look What You've Done",
+      "url": "https://open.spotify.com/track/1vZOMg44tCErIWtunDnorD"
     }
   ],
   "unique_name": "Western Songs",
