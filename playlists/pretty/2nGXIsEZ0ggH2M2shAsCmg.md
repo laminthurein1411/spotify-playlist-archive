@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 5,029 songs - 14 day 7 hr 18 min
+[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 5,053 songs - 14 day 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5037,5 +5037,29 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 5027 | [I Saw the Light](https://open.spotify.com/track/5984HFphBKAsXQCcV5SJ43) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Lo Mejor de los 70 en Ingles](https://open.spotify.com/album/0gdPmC9QzulqONR2v1J2pl) | 3:00 |
 | 5028 | [Let's Go Crazy](https://open.spotify.com/track/6FMIVQPZg9cmMY8hPxAacD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9) | 4:39 |
 | 5029 | [All Shook Up](https://open.spotify.com/track/6A28sLdLOf9vohN5LVl5KR) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Platinum \- A Life In Music](https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE) | 1:57 |
+| 5030 | [That's What Friends Are For \(with Elton John, Gladys Knight & Stevie Wonder\)](https://open.spotify.com/track/1OzrlK57iLTIjmbZC1ppWM) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Friends](https://open.spotify.com/album/7IigfsyypJlb6NW6f9vSt7) | 4:15 |
+| 5031 | [Morning Has Broken \- Remastered 2021](https://open.spotify.com/track/6sChvqRqFB4XnRtaHSjnx3) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Música Variada para Carretera](https://open.spotify.com/album/0YixMntTq2a7aPCKY6OLeQ) | 3:19 |
+| 5032 | [All Fired Up](https://open.spotify.com/track/6XpczhG192lULA9i4JLqKJ) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Wide Awake In Dreamland](https://open.spotify.com/album/1cglcD9iGtfheI7hmVdoUb) | 4:32 |
+| 5033 | [The Gambler](https://open.spotify.com/track/3QUJLKo5Xr7ERbEkJumKQb) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Very Best Of Kenny Rogers](https://open.spotify.com/album/6KPb3uNsDkJKcQjZR2elxd) | 3:31 |
+| 5034 | [Psycho Circus](https://open.spotify.com/track/1D28pacrVWg8sg7v00l4uR) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Psycho Circus](https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd) | 5:30 |
+| 5035 | [Time](https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 7:02 |
+| 5036 | [Take Me with You \- 2011 Remaster](https://open.spotify.com/track/6kl5Gs0LuXZOKOQsyrv1HT) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Trouble \(2013 Remaster\)](https://open.spotify.com/album/0ob6B0BrQQnTjxrfe3ZCT8) | 4:47 |
+| 5037 | [Mr\. Wendal](https://open.spotify.com/track/3pj2ao1LZNsyD8ljHTASMI) | [Arrested Development](https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7) | [Greatest Hits](https://open.spotify.com/album/4KqorQ6C7yDXvqgfgGrnvm) | 4:06 |
+| 5038 | [The Boys Of Summer](https://open.spotify.com/track/3PaRQjJurvG717F7zmlbTC) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Yacht Rock](https://open.spotify.com/album/20yzt7KwCXCnqnVD04TTMI) | 4:48 |
+| 5039 | [Roll With It](https://open.spotify.com/track/2QlPByrmEO9XciNBXCrawR) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Roll With It](https://open.spotify.com/album/6EGZHq3euiuESgxmzhIfSN) | 5:20 |
+| 5040 | [World In My Eyes](https://open.spotify.com/track/0TBn49AjkNufCRJ2O5VJ6s) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(Deluxe\)](https://open.spotify.com/album/0Tg76MY2wNK4j37iCb6qyH) | 4:26 |
+| 5041 | [Is This Love](https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:52 |
+| 5042 | [Learning To Fly](https://open.spotify.com/track/5lGE5bsOeh1Zpf20fdcqmY) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Greatest Hits](https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y) | 4:01 |
+| 5043 | [Take It Easy On Me \- Remastered 2022](https://open.spotify.com/track/5l7E3KLriUC0UlVE9fiGus) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Time Exposure \(Remastered 2022\)](https://open.spotify.com/album/3VzaX0xFHyhSWJoLtRwi8w) | 3:48 |
+| 5044 | [Somebody's Baby](https://open.spotify.com/track/4SlCb8n5Jw52astU7GWPyV) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [The Next Voice You Hear \- The Best Of Jackson Browne](https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu) | 4:22 |
+| 5045 | [Dancing On The Ceiling](https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 4:30 |
+| 5046 | [All This Time](https://open.spotify.com/track/5jzDnEoTtwzvJfvVx52rDC) | [Tiffany](https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe) | [Hold An Old Friend's Hand](https://open.spotify.com/album/1DAE5K7Rv0H1JZkJaLcV9x) | 4:21 |
+| 5047 | [Someday](https://open.spotify.com/track/5WK0KIZmq3H0FpQ6O4Wkrz) | [Glass Tiger](https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv) | [Air Time](https://open.spotify.com/album/6mOJn5irB4sxCmJfJM0GHL) | 3:37 |
+| 5048 | [I'm Like A Bird](https://open.spotify.com/track/4sUoWHVnJl8z3t4zdqf6xB) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly!](https://open.spotify.com/album/23pjCUj0AFDWNgh9uto3yR) | 4:03 |
+| 5049 | [The Great Commandment](https://open.spotify.com/track/2hUINMzSnrhcqpdcWiY0oa) | [Camouflage](https://open.spotify.com/artist/2YTbBGa3Tf2rRPhiJxWoUN) | [Voices & Images](https://open.spotify.com/album/4GySGCtDkNqFYjA8TFTJfR) | 4:17 |
+| 5050 | [Let's Go All The Way](https://open.spotify.com/track/1B5qrP4nm0670NfhXZYFdW) | [Sly Fox](https://open.spotify.com/artist/2ftebux5zF4XL3lPHcAoSw) | [Let's Go All The Way](https://open.spotify.com/album/7IHazS340MUJ78sDY5tO2P) | 5:09 |
+| 5051 | [Ball of Confusion \- Single Edit](https://open.spotify.com/track/5a1xOAkydEy3Ar4R5Z9oDr) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Sorted! The Best Of](https://open.spotify.com/album/3AcsDSTDj7AR2JBhnwxDHS) | 3:32 |
+| 5052 | [América](https://open.spotify.com/track/4SHiOG5uZ95REDXPfP6Gw0) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [Trini López](https://open.spotify.com/album/7tyHKF7dVSMIRKNRkwNfTS) | 3:26 |
+| 5053 | [Bye Bye Love](https://open.spotify.com/track/6OPMgzdjWaxR0P8mCql03S) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [All I Have to Do Is Dream](https://open.spotify.com/album/7Dzfcj8tp9CUmkD6kXAqcb) | 2:22 |
 
-Snapshot ID: `AAACfV4QcNaU7YDpC3TC6IY8yYH1kTIe`
+Snapshot ID: `AAACfkI+K8BD//dl0gJD7zV9ditpxkbf`
