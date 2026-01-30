@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ow5Ld6uEFhMTDrMsPKZTk.md) - [plain]
 
 > Whores for instruments
 
-[Maya Parker](https://open.spotify.com/user/mcp8498) - 650 likes - 358 songs - 22 hr 23 min
+[Maya Parker](https://open.spotify.com/user/mcp8498) - 651 likes - 358 songs - 22 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -345,7 +345,7 @@ pretty - [cumulative](/playlists/cumulative/3ow5Ld6uEFhMTDrMsPKZTk.md) - [plain]
 | 335 | [more to lose](https://open.spotify.com/track/6V00TYIiLW4PfclKoaphfa) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf) | 2:54 |
 | 336 | [jazz burger](https://open.spotify.com/track/1JNDmvQPhhEQdvWpVTz5Fp) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf) | 3:11 |
 | 337 | [shut up](https://open.spotify.com/track/2tQSTPWGzPq3rHdFMKn4Pm) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf) | 2:41 |
-| 338 | [Burnout Days \(feat\. Old Mervs\)](https://open.spotify.com/track/3RG13Hwupg0zsyOyQAcYhQ) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH), [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Burnout Days \(feat\. Old Mervs\)](https://open.spotify.com/album/6QvT49gbEu8U7R9c4V7Apz) | 3:35 |
+| 338 | [Burnout Days \(Reimagined\)](https://open.spotify.com/track/3RG13Hwupg0zsyOyQAcYhQ) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH), [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Burnout Days \(Reimagined\)](https://open.spotify.com/album/6QvT49gbEu8U7R9c4V7Apz) | 3:35 |
 | 339 | [good times](https://open.spotify.com/track/0ano0WrMqQ5YYb2ijdgpCe) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf) | 2:38 |
 | 340 | [who’s your boyfriend](https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:53 |
 | 341 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 |

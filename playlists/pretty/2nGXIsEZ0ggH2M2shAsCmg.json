@@ -6,7 +6,7 @@
     "name": "ramiro",
     "url": "https://open.spotify.com/user/rgarzaa"
   },
-  "snapshot_id": "AAACfkI+K8BD//dl0gJD7zV9ditpxkbf",
+  "snapshot_id": "AAACfwtGYmVEzFDO95Kw/cYxjSQUQQZY",
   "tracks": [
     {
       "added_at": "2024-02-28 02:33:08",
@@ -19412,7 +19412,7 @@
           "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
         }
       ],
-      "duration_ms": 241986,
+      "duration_ms": 240093,
       "name": "West End Girls",
       "url": "https://open.spotify.com/track/5Dqik1P9toCJTLj5rEm78s"
     },
@@ -82155,6 +82155,22 @@
       "duration_ms": 142906,
       "name": "Bye Bye Love",
       "url": "https://open.spotify.com/track/6OPMgzdjWaxR0P8mCql03S"
+    },
+    {
+      "added_at": "2026-01-29 06:06:10",
+      "album": {
+        "name": "Ultimate Air Supply",
+        "url": "https://open.spotify.com/album/5PXeBHFjvr8EykHfFxJMje"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 241373,
+      "name": "All Out of Love",
+      "url": "https://open.spotify.com/track/6Nq8YtPAHuL1outooeiFde"
     }
   ],
   "unique_name": "Classic 106.9",

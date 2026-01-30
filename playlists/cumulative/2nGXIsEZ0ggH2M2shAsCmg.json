@@ -3099,6 +3099,24 @@
     },
     {
       "album": {
+        "name": "Ultimate Air Supply",
+        "url": "https://open.spotify.com/album/5PXeBHFjvr8EykHfFxJMje"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241373,
+      "name": "All Out of Love",
+      "url": "https://open.spotify.com/track/6Nq8YtPAHuL1outooeiFde"
+    },
+    {
+      "album": {
         "name": "Lost in Love",
         "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
       },
@@ -85503,7 +85521,7 @@
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 241986,
+      "duration_ms": 240093,
       "name": "West End Girls",
       "url": "https://open.spotify.com/track/5Dqik1P9toCJTLj5rEm78s"
     },
