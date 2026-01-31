@@ -4,7 +4,7 @@
 
 > 
 
-1,173 songs - 2 day 22 hr 7 min
+1,175 songs - 2 day 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Everything is romantic \- Reimagined](https://open.spotify.com/track/6JvdunPHOc9bKBIlojEKJM) | [Alina Kay](https://open.spotify.com/artist/2mPEAvJbq6EwkD6Di2xvOK), [Ozz Gold](https://open.spotify.com/artist/0KZDvnSmE8sY5Q2PtUab2P) | [Everything is romantic \(Reimagined\)](https://open.spotify.com/album/6njDql560LsOS5LdSSjyz6) | 2:02 | 2026-01-19 |  |
 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:45 | 2022-02-02 |  |
 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 | 2020-10-29 |  |
+| [Face Down](https://open.spotify.com/track/4wzjNqjKAKDU82e8uMhzmr) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Don't You Fake It](https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2) | 3:12 | 2026-01-30 |  |
 | [Fairytale](https://open.spotify.com/track/3MnAsEBBsEj86d03RgO4EM) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Fairytale](https://open.spotify.com/album/6EWWmTEOXI58PL13vNk67S) | 3:02 | 2025-10-23 |  |
 | [Fairytale](https://open.spotify.com/track/4eDtZP99H6xfasP4Tku9Ee) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Lighthouse](https://open.spotify.com/album/4Pmm7z9aZUxOifop5oDvOJ) | 2:49 | 2021-09-28 |  |
 | [Faithfully](https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 4:27 | 2022-05-02 |  |
@@ -564,6 +565,7 @@
 | [Let's Get To Work](https://open.spotify.com/track/6YhXwzU3CeckzA5mmWpslE) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [There Goes The Neighbourhood](https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb) | 3:01 | 2024-06-28 |  |
 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 | 2025-04-14 |  |
 | [Let's Live For Today \- Uncensored Version](https://open.spotify.com/track/4UteAW3ZmZaB2Ru3FjB0dp) | [The Grass Roots](https://open.spotify.com/artist/2IU5UBup85LmAXh5U36DeC) | [Let's Live For Today](https://open.spotify.com/album/5BEc0f6FK1xSjGVpBrvHGm) | 2:47 | 2024-12-24 |  |
+| [Let’s Dance](https://open.spotify.com/track/2hJFmrgR5b9A6J4MFaMXuZ) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/45XKAXpi7A29EPPLJIb1Qx) | 5:00 | 2026-01-30 |  |
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 | 2021-06-05 |  |
 | [Lie](https://open.spotify.com/track/07FkzikE6FuHIa8Ma7zJGc) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Perception](https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf) | 3:29 | 2021-02-23 |  |
 | [Lie Lie Lie](https://open.spotify.com/track/1jOBlsvKhdqjZAlUAia4Qz) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Lie Lie Lie](https://open.spotify.com/album/4lWcXvzLSYlHcBFtMVZ5RA) | 2:56 | 2021-02-22 |  |

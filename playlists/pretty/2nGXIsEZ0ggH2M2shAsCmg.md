@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 5,054 songs - 14 day 9 hr 5 min
+[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 5,078 songs - 14 day 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5062,5 +5062,29 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 5052 | [América](https://open.spotify.com/track/4SHiOG5uZ95REDXPfP6Gw0) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [Trini López](https://open.spotify.com/album/7tyHKF7dVSMIRKNRkwNfTS) | 3:26 |
 | 5053 | [Bye Bye Love](https://open.spotify.com/track/6OPMgzdjWaxR0P8mCql03S) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [All I Have to Do Is Dream](https://open.spotify.com/album/7Dzfcj8tp9CUmkD6kXAqcb) | 2:22 |
 | 5054 | [All Out of Love](https://open.spotify.com/track/6Nq8YtPAHuL1outooeiFde) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Ultimate Air Supply](https://open.spotify.com/album/5PXeBHFjvr8EykHfFxJMje) | 4:01 |
+| 5055 | [Times Like These \- Acoustic Version](https://open.spotify.com/track/1pXgBjIvALm97lDhroan2E) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [00020225](https://open.spotify.com/album/69GTpu2TQvWQNOjhIVyzRL) | 3:58 |
+| 5056 | [Waiting for a Star to Fall](https://open.spotify.com/track/7vyTWylElEs7iRlt2NYiWe) | [Boy Meets Girl](https://open.spotify.com/artist/02Xpf8IlAGeelWAQZP33kQ) | [The Best Year Of My Life: 1988](https://open.spotify.com/album/0U5BEYNbiP8OFlmSIoraYJ) | 4:32 |
+| 5057 | [I'm Not In Love](https://open.spotify.com/track/3TZHWY7af2fREEjAF4jXpd) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [Heartbreak Hits](https://open.spotify.com/album/6S3vni7DhQ6XliFnarFgFv) | 6:01 |
+| 5058 | [Shadow Dancing](https://open.spotify.com/track/1oTBbWCBV2lbcYHUw9L8XM) | [Andy Gibb](https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK) | [The Very Best Of](https://open.spotify.com/album/7axTPcZzoAWFbTbrokCAyn) | 4:35 |
+| 5059 | [Top Of The World](https://open.spotify.com/track/5ee20xB17u8TX7IUWDNed6) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Gold \- Greatest Hits](https://open.spotify.com/album/02fXxBBnewKb71ZQ3Bu39I) | 2:58 |
+| 5060 | [Love Hurts \- Single Edit](https://open.spotify.com/track/6MXUZ4VRQ41qTPWKgvHMCK) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Hair of the Dog](https://open.spotify.com/album/5UtTPte2HJqvyzo2r0ij6j) | 3:52 |
+| 5061 | [7 O'Clock](https://open.spotify.com/track/1Hdql8hTSnqWXWz3YjaVRV) | [The Quireboys](https://open.spotify.com/artist/0d49iRrp4iVZggKbcpxnqI) | [A Bit Of What You Fancy](https://open.spotify.com/album/6gzrd4bd2cQQ0d3YYt0Cmu) | 3:38 |
+| 5062 | [Sunshine Of Your Love](https://open.spotify.com/track/5TuUdcrzYIVSJ7pyAuDep4) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Clásicos del Rock en Inglés](https://open.spotify.com/album/6wBRGhULLLdhU8vf9nprZI) | 4:10 |
+| 5063 | [Stranglehold](https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE) | [Ted Nugent](https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG) | [Ted Nugent](https://open.spotify.com/album/71SdSYZuuy7fCWbx0iqtac) | 8:23 |
+| 5064 | [Walking On Sunshine](https://open.spotify.com/track/0F8wsmQApvBk4He2ITzVAH) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Positive Vibes](https://open.spotify.com/album/29LuoXkYkNitikdoc6MEC4) | 3:41 |
+| 5065 | [My Favorite Mistake](https://open.spotify.com/track/7uykxATRMtcPwu7nm4NMvS) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Hits And Rarities](https://open.spotify.com/album/6hEraRCFDwYMUeDWpCReSe) | 4:05 |
+| 5066 | [Close To Me](https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door \(Remastered\)](https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG) | 3:23 |
+| 5067 | [Rock On \- Ver\. 09](https://open.spotify.com/track/6e3O5XkMEhMAatdKnOlZPh) | [Michael Damian](https://open.spotify.com/artist/1Wb1iP9BzMJyjm5nXtBUFP) | [Rock On](https://open.spotify.com/album/560XKoM2owBqNr8zz4qhUG) | 3:32 |
+| 5068 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/5I9ARBqaU2j5Ho7cMBrfgG) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Let's Go Girls!](https://open.spotify.com/album/4hkDh2SHFzlm2aGrcX6PTa) | 3:53 |
+| 5069 | [If I Ever Lose My Faith In You](https://open.spotify.com/track/05vL56xSoxthM0r7IfcQjo) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) | 4:30 |
+| 5070 | [Once in a Lifetime](https://open.spotify.com/track/1Tr4K5MU5XYE44umXGDndd) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light](https://open.spotify.com/album/1JvXxLsm0PxlGH4LXzqMGq) | 4:19 |
+| 5071 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
+| 5072 | [Someday We'll Know](https://open.spotify.com/track/1ruGgKdiXV99hvHiNp5sPy) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Con los pies en la tierra](https://open.spotify.com/album/1xg2mX7tZe7wZqmag3feS0) | 3:37 |
+| 5073 | [Life in a Northern Town](https://open.spotify.com/track/3UmKYhwKqqQwXau2KLFeUn) | [The Dream Academy](https://open.spotify.com/artist/1JVoO5bwfU8GNuAZLpBoHe) | [100 Greatest Summer Songs](https://open.spotify.com/album/0xYPmjzRD0Ux122ilnKaKh) | 4:16 |
+| 5074 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 |
+| 5075 | [Jump Around \- 30 Years Remaster](https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\) \[30 Years\] \[Deluxe Edition\]](https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM) | 3:38 |
+| 5076 | [O.P.P](https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Naughty By Nature](https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO) | 4:31 |
+| 5077 | [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 |
+| 5078 | [St\. Elmo's Fire \(Man in Motion\)](https://open.spotify.com/track/5LqoauB7tVbEX8k06zUtY1) | [John Parr](https://open.spotify.com/artist/3Z1tibPKhUYWCno0IYicCN) | [Lo mejor de los 80s y 90s 100 clásicos en inglés](https://open.spotify.com/album/12shc0OaIzdgbBRz1M6c8a) | 4:11 |
 
-Snapshot ID: `AAACfwtGYmVEzFDO95Kw/cYxjSQUQQZY`
+Snapshot ID: `AAACgDXt5g7y3qto2Wk50YkSU1dVG3Fe`

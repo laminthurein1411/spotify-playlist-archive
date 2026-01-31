@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "A Bit Of What You Fancy",
+        "url": "https://open.spotify.com/album/6gzrd4bd2cQQ0d3YYt0Cmu"
+      },
+      "artists": [
+        {
+          "name": "The Quireboys",
+          "url": "https://open.spotify.com/artist/0d49iRrp4iVZggKbcpxnqI"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218373,
+      "name": "7 O'Clock",
+      "url": "https://open.spotify.com/track/1Hdql8hTSnqWXWz3YjaVRV"
+    },
+    {
+      "album": {
         "name": "The Guide (Wommat)",
         "url": "https://open.spotify.com/album/2TuFGU177xmzHf32AnEwVF"
       },
@@ -2605,6 +2623,24 @@
     },
     {
       "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240800,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
+    },
+    {
+      "album": {
         "name": "In Utero",
         "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
       },
@@ -3510,6 +3546,24 @@
       "duration_ms": 171055,
       "name": "All The Small Things",
       "url": "https://open.spotify.com/track/5uAzuQcZEufbP3NamOy2dH"
+    },
+    {
+      "album": {
+        "name": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB"
+      },
+      "artists": [
+        {
+          "name": "t.A.T.u.",
+          "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214440,
+      "name": "All The Things She Said",
+      "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
     },
     {
       "album": {
@@ -9397,6 +9451,24 @@
     },
     {
       "album": {
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134466,
+      "name": "Blitzkrieg Bop - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+    },
+    {
+      "album": {
         "name": "That's the Stuff (Expanded Edition)",
         "url": "https://open.spotify.com/album/2UMYWQup8FHWttctuoEgmP"
       },
@@ -14138,6 +14210,24 @@
       "duration_ms": 203266,
       "name": "Close To Me",
       "url": "https://open.spotify.com/track/1JcK6hdFLKddUVlm0JQeWj"
+    },
+    {
+      "album": {
+        "name": "The Head On The Door (Remastered)",
+        "url": "https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203266,
+      "name": "Close To Me",
+      "url": "https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z"
     },
     {
       "album": {
@@ -38201,6 +38291,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak Hits",
+        "url": "https://open.spotify.com/album/6S3vni7DhQ6XliFnarFgFv"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361040,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/3TZHWY7af2fREEjAF4jXpd"
+    },
+    {
+      "album": {
         "name": "The Original Soundtrack",
         "url": "https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj"
       },
@@ -38818,6 +38926,24 @@
       "duration_ms": 252013,
       "name": "If I Could Turn Back Time - 2024 Remaster",
       "url": "https://open.spotify.com/track/1GNMkzFdis5dr1zPUH4vZF"
+    },
+    {
+      "album": {
+        "name": "Ten Summoner's Tales",
+        "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270533,
+      "name": "If I Ever Lose My Faith In You",
+      "url": "https://open.spotify.com/track/05vL56xSoxthM0r7IfcQjo"
     },
     {
       "album": {
@@ -42615,6 +42741,24 @@
     },
     {
       "album": {
+        "name": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM"
+      },
+      "artists": [
+        {
+          "name": "House Of Pain",
+          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218546,
+      "name": "Jump Around - 30 Years Remaster",
+      "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
+    },
+    {
+      "album": {
         "name": "Jump Up Calypso",
         "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
       },
@@ -46145,6 +46289,24 @@
     },
     {
       "album": {
+        "name": "100 Greatest Summer Songs",
+        "url": "https://open.spotify.com/album/0xYPmjzRD0Ux122ilnKaKh"
+      },
+      "artists": [
+        {
+          "name": "The Dream Academy",
+          "url": "https://open.spotify.com/artist/1JVoO5bwfU8GNuAZLpBoHe"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256946,
+      "name": "Life in a Northern Town",
+      "url": "https://open.spotify.com/track/3UmKYhwKqqQwXau2KLFeUn"
+    },
+    {
+      "album": {
         "name": "Hotel California (2013 Remaster)",
         "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
       },
@@ -48399,6 +48561,24 @@
     },
     {
       "album": {
+        "name": "Hair of the Dog",
+        "url": "https://open.spotify.com/album/5UtTPte2HJqvyzo2r0ij6j"
+      },
+      "artists": [
+        {
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232120,
+      "name": "Love Hurts - Single Edit",
+      "url": "https://open.spotify.com/track/6MXUZ4VRQ41qTPWKgvHMCK"
+    },
+    {
+      "album": {
         "name": "20th Century Masters: The Millennium Collection: The Best Of Aerosmith",
         "url": "https://open.spotify.com/album/2XiFOu7QAcAvXBUInuRY0s"
       },
@@ -50524,6 +50704,24 @@
       "duration_ms": 314173,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/4jLv3tDBu8ww2R07DvL12s"
+    },
+    {
+      "album": {
+        "name": "Let's Go Girls!",
+        "url": "https://open.spotify.com/album/4hkDh2SHFzlm2aGrcX6PTa"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Man! I Feel Like A Woman!",
+      "url": "https://open.spotify.com/track/5I9ARBqaU2j5Ho7cMBrfgG"
     },
     {
       "album": {
@@ -53577,6 +53775,24 @@
     },
     {
       "album": {
+        "name": "Hits And Rarities",
+        "url": "https://open.spotify.com/album/6hEraRCFDwYMUeDWpCReSe"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245946,
+      "name": "My Favorite Mistake",
+      "url": "https://open.spotify.com/track/7uykxATRMtcPwu7nm4NMvS"
+    },
+    {
+      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/7Kw98O8x1Urwo139vaO0fJ"
       },
@@ -55941,6 +56157,24 @@
     },
     {
       "album": {
+        "name": "Naughty By Nature",
+        "url": "https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO"
+      },
+      "artists": [
+        {
+          "name": "Naughty By Nature",
+          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271066,
+      "name": "O.P.P",
+      "url": "https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE"
+    },
+    {
+      "album": {
         "name": "The Beatles (Remastered)",
         "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },
@@ -56396,6 +56630,24 @@
       "duration_ms": 349373,
       "name": "On The Road Again",
       "url": "https://open.spotify.com/track/6MNizYPA6RIAG63iirfbrQ"
+    },
+    {
+      "album": {
+        "name": "Remain in Light",
+        "url": "https://open.spotify.com/album/1JvXxLsm0PxlGH4LXzqMGq"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259600,
+      "name": "Once in a Lifetime",
+      "url": "https://open.spotify.com/track/1Tr4K5MU5XYE44umXGDndd"
     },
     {
       "album": {
@@ -62879,6 +63131,24 @@
     },
     {
       "album": {
+        "name": "Rock On",
+        "url": "https://open.spotify.com/album/560XKoM2owBqNr8zz4qhUG"
+      },
+      "artists": [
+        {
+          "name": "Michael Damian",
+          "url": "https://open.spotify.com/artist/1Wb1iP9BzMJyjm5nXtBUFP"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212348,
+      "name": "Rock On - Ver. 09",
+      "url": "https://open.spotify.com/track/6e3O5XkMEhMAatdKnOlZPh"
+    },
+    {
+      "album": {
         "name": "Songs From An American Movie: Learning How To Smile",
         "url": "https://open.spotify.com/album/2GQ3ljlp19JGE7qvE89PqF"
       },
@@ -65956,6 +66226,24 @@
       "duration_ms": 193160,
       "name": "Shaddap You Face",
       "url": "https://open.spotify.com/track/7fgS7jlaRkpbUVYCe2Mt7i"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/7axTPcZzoAWFbTbrokCAyn"
+      },
+      "artists": [
+        {
+          "name": "Andy Gibb",
+          "url": "https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275533,
+      "name": "Shadow Dancing",
+      "url": "https://open.spotify.com/track/1oTBbWCBV2lbcYHUw9L8XM"
     },
     {
       "album": {
@@ -69203,6 +69491,24 @@
     },
     {
       "album": {
+        "name": "Con los pies en la tierra",
+        "url": "https://open.spotify.com/album/1xg2mX7tZe7wZqmag3feS0"
+      },
+      "artists": [
+        {
+          "name": "New Radicals",
+          "url": "https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217466,
+      "name": "Someday We'll Know",
+      "url": "https://open.spotify.com/track/1ruGgKdiXV99hvHiNp5sPy"
+    },
+    {
+      "album": {
         "name": "Maybe You've Been Brainwashed Too",
         "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
       },
@@ -70266,6 +70572,24 @@
       "duration_ms": 251800,
       "name": "St. Elmo's Fire (Man In Motion)",
       "url": "https://open.spotify.com/track/4GatkUJv0UihAmVe4jAIg3"
+    },
+    {
+      "album": {
+        "name": "Lo mejor de los 80s y 90s 100 cl\u00e1sicos en ingl\u00e9s",
+        "url": "https://open.spotify.com/album/12shc0OaIzdgbBRz1M6c8a"
+      },
+      "artists": [
+        {
+          "name": "John Parr",
+          "url": "https://open.spotify.com/artist/3Z1tibPKhUYWCno0IYicCN"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251800,
+      "name": "St. Elmo's Fire (Man in Motion)",
+      "url": "https://open.spotify.com/track/5LqoauB7tVbEX8k06zUtY1"
     },
     {
       "album": {
@@ -71585,6 +71909,24 @@
     },
     {
       "album": {
+        "name": "Ted Nugent",
+        "url": "https://open.spotify.com/album/71SdSYZuuy7fCWbx0iqtac"
+      },
+      "artists": [
+        {
+          "name": "Ted Nugent",
+          "url": "https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503066,
+      "name": "Stranglehold",
+      "url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE"
+    },
+    {
+      "album": {
         "name": "Magical Mystery Tour (Remastered)",
         "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
       },
@@ -72760,6 +73102,24 @@
       "duration_ms": 200173,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/0jGVEPscW8KmqktoHqv2Pa"
+    },
+    {
+      "album": {
+        "name": "Cl\u00e1sicos del Rock en Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/6wBRGhULLLdhU8vf9nprZI"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250240,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/5TuUdcrzYIVSJ7pyAuDep4"
     },
     {
       "album": {
@@ -79707,6 +80067,24 @@
     },
     {
       "album": {
+        "name": "00020225",
+        "url": "https://open.spotify.com/album/69GTpu2TQvWQNOjhIVyzRL"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238586,
+      "name": "Times Like These - Acoustic Version",
+      "url": "https://open.spotify.com/track/1pXgBjIvALm97lDhroan2E"
+    },
+    {
+      "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/4jOItHaJyNyXJxz8toGytx"
       },
@@ -80474,6 +80852,24 @@
       "duration_ms": 205573,
       "name": "Tooth and Nail - Live in Japan, 1988",
       "url": "https://open.spotify.com/track/1ZpBJ0Ep3YFqUahDUg6NnJ"
+    },
+    {
+      "album": {
+        "name": "Gold - Greatest Hits",
+        "url": "https://open.spotify.com/album/02fXxBBnewKb71ZQ3Bu39I"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178573,
+      "name": "Top Of The World",
+      "url": "https://open.spotify.com/track/5ee20xB17u8TX7IUWDNed6"
     },
     {
       "album": {
@@ -83487,6 +83883,24 @@
     },
     {
       "album": {
+        "name": "The Best Year Of My Life: 1988",
+        "url": "https://open.spotify.com/album/0U5BEYNbiP8OFlmSIoraYJ"
+      },
+      "artists": [
+        {
+          "name": "Boy Meets Girl",
+          "url": "https://open.spotify.com/artist/02Xpf8IlAGeelWAQZP33kQ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272013,
+      "name": "Waiting for a Star to Fall",
+      "url": "https://open.spotify.com/track/7vyTWylElEs7iRlt2NYiWe"
+    },
+    {
+      "album": {
         "name": "Morrison Hotel",
         "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
       },
@@ -84076,6 +84490,24 @@
       "duration_ms": 310666,
       "name": "Walking On A Thin Line",
       "url": "https://open.spotify.com/track/1OU4uVYuoUOHfwriMnS1Km"
+    },
+    {
+      "album": {
+        "name": "Positive Vibes",
+        "url": "https://open.spotify.com/album/29LuoXkYkNitikdoc6MEC4"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221333,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/0F8wsmQApvBk4He2ITzVAH"
     },
     {
       "album": {
