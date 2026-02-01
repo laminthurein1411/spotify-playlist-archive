@@ -4,7 +4,7 @@
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-5,068 songs - 14 day 10 hr 0 min
+5,070 songs - 14 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [Birthday \- Remastered 2009](https://open.spotify.com/track/1ABegtCPBMMJaMpfDyATjE) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:43 | 2024-03-30 |  |
 | [Bitch](https://open.spotify.com/track/3D7iG6JJq1l8Hv7m9Yc9gu) | [Meredith Brooks](https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN) | [I Am Woman](https://open.spotify.com/album/1icMHrMlpqNYUAcuxgmwhR) | 4:07 | 2025-12-19 |  |
 | [Bitch](https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM) | [Meredith Brooks](https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN) | [Blurring The Edges](https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1) | 4:12 | 2024-02-28 |  |
+| [Bitter Sweet Symphony](https://open.spotify.com/track/1WYEDcS7WGjv0rG7rmMX3o) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [This Is Music: The Singles 92\-98](https://open.spotify.com/album/0pygZ3lfsCkG1WmnWWq6a1) | 5:59 | 2026-01-31 |  |
 | [Bitter Sweet Symphony](https://open.spotify.com/track/0iS31jBVGKhDw3djlvKgfd) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [90s Rock](https://open.spotify.com/album/1McxWsEVD3sZ7SBeJbsD47) | 5:59 | 2025-12-22 |  |
 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2024-03-05 |  |
 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/7BuzWpE57fkw9kM6a8Uefe) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [zombie apocalypse vibes](https://open.spotify.com/album/43FHXmLZmW7UBg1UULQyjV) | 5:58 | 2026-01-09 |  |
@@ -3586,7 +3587,7 @@
 | [Say It Isn't So](https://open.spotify.com/track/4Dnnchb3a2hx3HlUfF9DXE) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 3:33 | 2024-02-28 |  |
 | [Say It Isn't So](https://open.spotify.com/track/2bZswvNGESo7MKeg7SQ9rp) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [The Very Best of Daryl Hall / John Oates](https://open.spotify.com/album/4tUyNf5dGXwY4TaMaxwhqF) | 4:17 | 2025-12-15 |  |
 | [Say It Isn't So](https://open.spotify.com/track/2CvpZHuFZNY5vrcz2fXkJ5) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/0EriQlp6zHpb1ThLZcandW) | 3:49 | 2024-03-03 |  |
-| [Say Say Say \- Remastered 2015](https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Pipes Of Peace](https://open.spotify.com/album/6zlKkX99NhLW8IRy77bYmb) | 3:55 | 2025-12-15 |  |
+| [Say Say Say \- Remastered 2015](https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Pipes Of Peace \(Remastered 2015\)](https://open.spotify.com/album/6zlKkX99NhLW8IRy77bYmb) | 3:55 | 2025-12-15 |  |
 | [Say What You Will](https://open.spotify.com/track/08nVwMJvWeJwwc9pSd74wO) | [Fastway](https://open.spotify.com/artist/7eD005d7pGOEYD3eWVRecb) | [FASTWAY](https://open.spotify.com/album/6sCVVfHN80AH6tzqTvCRDg) | 3:19 | 2024-03-15 |  |
 | [Say You Will](https://open.spotify.com/track/5nW7RbN0mBLPts9CURNwdy) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Inside Information](https://open.spotify.com/album/7w6HSgAb9MseMM4DDx3Ls2) | 4:15 | 2024-02-28 |  |
 | [Say You'll Be Mine \- 2019 Remaster](https://open.spotify.com/track/6Hdxi0e3yYYdMtgN1n85M6) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross \(2019 Remaster\)](https://open.spotify.com/album/3bP1LQWb3dpjYLVI7UkxdC) | 2:54 | 2025-12-21 |  |
@@ -4473,6 +4474,7 @@
 | [True \- Single Edit](https://open.spotify.com/track/6eDYgjKl4vUgRusxb7THDu) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Gold \- The Best of Spandau Ballet](https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7) | 5:29 | 2026-01-07 |  |
 | [True Blue](https://open.spotify.com/track/7azOuDeJGbxt5mvq3GQHXp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:17 | 2024-03-08 |  |
 | [True Colors](https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors](https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn) | 3:47 | 2024-03-04 |  |
+| [True Colors](https://open.spotify.com/track/3H6PyErK1t979fGWNlXloH) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors: The Best Of Cyndi Lauper](https://open.spotify.com/album/3ob0XVPoKBjrOjg0mf3zN3) | 3:49 | 2026-01-31 |  |
 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 | 2024-03-07 |  |
 | [Tubthumping](https://open.spotify.com/track/2JLRcAkPB8JZIIohZarVTr) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [All\-Star Sports Jams](https://open.spotify.com/album/79sAKFjr7TWKw6A94kBKPL) | 3:32 | 2025-12-15 |  |
 | [Tubthumping](https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [Tubthumper](https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt) | 4:38 | 2024-03-03 |  |

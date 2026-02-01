@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 5,078 songs - 14 day 10 hr 45 min
+[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 5,080 songs - 14 day 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2594,7 +2594,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 2584 | [Kung Fu Fighting](https://open.spotify.com/track/40NRm1ZLvZpUSCUXAGGZ8J) | [Carl Douglas](https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8) | [The Soul of the Kung Fu Fighter](https://open.spotify.com/album/7wA3s9ug9RoJXi9qGQbSjX) | 3:17 |
 | 2585 | [Your Love](https://open.spotify.com/track/4oDZ5L8izBals6jKBJDBcX) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/2d5GU9ms5JCSS9GjsFebu8) | 3:36 |
 | 2586 | [Square Rooms](https://open.spotify.com/track/7tT88YwbSGi17DuytjREGo) | [Al Corley](https://open.spotify.com/artist/1xuHClal8p5s4nFkkdqbzv) | [Hablando Con Música: Lo Mejor De Los 80´S](https://open.spotify.com/album/0A2nqN6IojFETXHvUlRxmE) | 3:47 |
-| 2587 | [Say Say Say \- Remastered 2015](https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Pipes Of Peace](https://open.spotify.com/album/6zlKkX99NhLW8IRy77bYmb) | 3:55 |
+| 2587 | [Say Say Say \- Remastered 2015](https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Pipes Of Peace \(Remastered 2015\)](https://open.spotify.com/album/6zlKkX99NhLW8IRy77bYmb) | 3:55 |
 | 2588 | [You Drive Me Crazy](https://open.spotify.com/track/2j8bXaOBeEeyoY4ZpCcFIW) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Shaky](https://open.spotify.com/album/05rSaDParyh27b5eomSA8P) | 2:51 |
 | 2589 | [American Woman \- 7" Single Version](https://open.spotify.com/track/5LPGZnsy07YNxeuTI1X3RT) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Platinum & Gold Collection](https://open.spotify.com/album/049pDJuLOtgEpo1buRzScg) | 3:51 |
 | 2590 | [Every 1's a Winner \- Single Version](https://open.spotify.com/track/5MXXbGYNmRHR7ULMvZYo5R) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Every 1's a Winner](https://open.spotify.com/album/2MdCe2CS9EcdJ9V20TKzxo) | 4:49 |
@@ -5086,5 +5086,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 5076 | [O.P.P](https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Naughty By Nature](https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO) | 4:31 |
 | 5077 | [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 |
 | 5078 | [St\. Elmo's Fire \(Man in Motion\)](https://open.spotify.com/track/5LqoauB7tVbEX8k06zUtY1) | [John Parr](https://open.spotify.com/artist/3Z1tibPKhUYWCno0IYicCN) | [Lo mejor de los 80s y 90s 100 clásicos en inglés](https://open.spotify.com/album/12shc0OaIzdgbBRz1M6c8a) | 4:11 |
+| 5079 | [Bitter Sweet Symphony](https://open.spotify.com/track/1WYEDcS7WGjv0rG7rmMX3o) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [This Is Music: The Singles 92\-98](https://open.spotify.com/album/0pygZ3lfsCkG1WmnWWq6a1) | 5:59 |
+| 5080 | [True Colors](https://open.spotify.com/track/3H6PyErK1t979fGWNlXloH) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors: The Best Of Cyndi Lauper](https://open.spotify.com/album/3ob0XVPoKBjrOjg0mf3zN3) | 3:49 |
 
-Snapshot ID: `AAACgDXt5g7y3qto2Wk50YkSU1dVG3Fe`
+Snapshot ID: `AAACgXndVGkMOGbLS2YhnDpJ9aqmgpRL`

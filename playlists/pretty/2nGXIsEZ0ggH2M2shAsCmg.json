@@ -6,7 +6,7 @@
     "name": "ramiro",
     "url": "https://open.spotify.com/user/rgarzaa"
   },
-  "snapshot_id": "AAACgDXt5g7y3qto2Wk50YkSU1dVG3Fe",
+  "snapshot_id": "AAACgXndVGkMOGbLS2YhnDpJ9aqmgpRL",
   "tracks": [
     {
       "added_at": "2024-02-28 02:33:08",
@@ -41903,7 +41903,7 @@
     {
       "added_at": "2025-12-15 12:09:51",
       "album": {
-        "name": "Pipes Of Peace",
+        "name": "Pipes Of Peace (Remastered 2015)",
         "url": "https://open.spotify.com/album/6zlKkX99NhLW8IRy77bYmb"
       },
       "artists": [
@@ -82555,6 +82555,38 @@
       "duration_ms": 251800,
       "name": "St. Elmo's Fire (Man in Motion)",
       "url": "https://open.spotify.com/track/5LqoauB7tVbEX8k06zUtY1"
+    },
+    {
+      "added_at": "2026-01-31 06:01:55",
+      "album": {
+        "name": "This Is Music: The Singles 92-98",
+        "url": "https://open.spotify.com/album/0pygZ3lfsCkG1WmnWWq6a1"
+      },
+      "artists": [
+        {
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+        }
+      ],
+      "duration_ms": 359546,
+      "name": "Bitter Sweet Symphony",
+      "url": "https://open.spotify.com/track/1WYEDcS7WGjv0rG7rmMX3o"
+    },
+    {
+      "added_at": "2026-01-31 06:01:55",
+      "album": {
+        "name": "True Colors: The Best Of Cyndi Lauper",
+        "url": "https://open.spotify.com/album/3ob0XVPoKBjrOjg0mf3zN3"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/3H6PyErK1t979fGWNlXloH"
     }
   ],
   "unique_name": "Classic 106.9",
