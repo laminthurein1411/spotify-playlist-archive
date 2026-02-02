@@ -7567,6 +7567,24 @@
     },
     {
       "album": {
+        "name": "Double Fantasy",
+        "url": "https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245693,
+      "name": "Beautiful Boy (Darling Boy) - Remastered 2010",
+      "url": "https://open.spotify.com/track/5URfZHMlUWTWxPvvSBWcPk"
+    },
+    {
+      "album": {
         "name": "Double Fantasy: Stripped Down",
         "url": "https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF"
       },
@@ -7708,6 +7726,24 @@
       "duration_ms": 142346,
       "name": "Because - 2019 Remaster",
       "url": "https://open.spotify.com/track/21YySvqRhW6JbpFiOpBtXh"
+    },
+    {
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "Because - Remastered 2009",
+      "url": "https://open.spotify.com/track/1rxoyGj1QuPoVi8fOft1Kt"
     },
     {
       "album": {
@@ -12423,6 +12459,24 @@
     },
     {
       "album": {
+        "name": "The Hits",
+        "url": "https://open.spotify.com/album/6qVtCTLXHnRF8gc8pubQPU"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294333,
+      "name": "Can't Fight This Feeling",
+      "url": "https://open.spotify.com/track/4zC2f6KKjnmscQKLJfI7dF"
+    },
+    {
+      "album": {
         "name": "Wheels Are Turnin'",
         "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
       },
@@ -16811,6 +16865,24 @@
     },
     {
       "album": {
+        "name": "Abba Gold Anniversary Edition",
+        "url": "https://open.spotify.com/album/00GMnZ71KyvmEnZfqcsFP4"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231093,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/2BsqXN1LH76kAqjegAAsTZ"
+    },
+    {
+      "album": {
         "name": "The Singles (The First Fifty Years)",
         "url": "https://open.spotify.com/album/2vAK3qYYJfA3FOImcCzfoE"
       },
@@ -17836,6 +17908,24 @@
       "duration_ms": 147760,
       "name": "Diana - Remastered 2003",
       "url": "https://open.spotify.com/track/0hjYuU2Z9jcKvOl39oUpeE"
+    },
+    {
+      "album": {
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Dig A Pony - Remastered 2009",
+      "url": "https://open.spotify.com/track/4OUmlC67FoPLvQNuE5C7kF"
     },
     {
       "album": {
@@ -20322,6 +20412,24 @@
       "duration_ms": 256173,
       "name": "Dream Weaver",
       "url": "https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP"
+    },
+    {
+      "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284902,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
     },
     {
       "album": {
@@ -23443,6 +23551,24 @@
     },
     {
       "album": {
+        "name": "Eye Of The Tiger",
+        "url": "https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243773,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"
+    },
+    {
+      "album": {
         "name": "Rocky IV",
         "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
       },
@@ -23692,6 +23818,24 @@
       "duration_ms": 266946,
       "name": "Faithfully (2023 Remaster)",
       "url": "https://open.spotify.com/track/0l5TpsCL1ObiTEsHeWA0by"
+    },
+    {
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290706,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
     },
     {
       "album": {
@@ -25690,6 +25834,24 @@
       "duration_ms": 162029,
       "name": "Frosty the Snowman (feat. The Puppini Sisters)",
       "url": "https://open.spotify.com/track/1CIZP9DLQ7LWLOeLl7sZGM"
+    },
+    {
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300672,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/4lv7AOF6HTL0xsrp57tvOq"
     },
     {
       "album": {
@@ -36299,6 +36461,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3BTkvdN3A5ZVTDjgbvScz0"
+      },
+      "artists": [
+        {
+          "name": "Tiffany",
+          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230063,
+      "name": "I Think We're Alone Now",
+      "url": "https://open.spotify.com/track/5SUuWCLUgpPSAPWXV8VVIx"
+    },
+    {
+      "album": {
         "name": "I Think We're Alone Now",
         "url": "https://open.spotify.com/album/6gvl4yoeI4s7y5MbQzfONy"
       },
@@ -39301,6 +39481,24 @@
     },
     {
       "album": {
+        "name": "12 X 5",
+        "url": "https://open.spotify.com/album/2Hnje5QVKaPVNuGJ5yHC7Z"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124200,
+      "name": "If You Need Me",
+      "url": "https://open.spotify.com/track/2eY1YOfHt1Ji17PdtSal7j"
+    },
+    {
+      "album": {
         "name": "Backtrack 1980-1994",
         "url": "https://open.spotify.com/album/23GAsMERArkz1Bx4tWFxvF"
       },
@@ -40793,6 +40991,24 @@
     },
     {
       "album": {
+        "name": "2000s Throwbacks",
+        "url": "https://open.spotify.com/album/61eQ5hCvcsU6nJR3ZY249J"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200053,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/32QOIomrbiysVEgRjdiE9R"
+    },
+    {
+      "album": {
         "name": "Living in a van",
         "url": "https://open.spotify.com/album/0XCIYRVQ1AC30OuKHnPoTE"
       },
@@ -41642,6 +41858,24 @@
       "duration_ms": 264240,
       "name": "It's Raining Again",
       "url": "https://open.spotify.com/track/2bzBI23EJWHjXmGj3xlYaM"
+    },
+    {
+      "album": {
+        "name": "Retrospectacle - The Supertramp Anthology",
+        "url": "https://open.spotify.com/album/7reiQf1lsaL4PRcrvhOUKG"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264333,
+      "name": "It's Raining Again",
+      "url": "https://open.spotify.com/track/5ZMB4uuAkf1nHqXBzKL242"
     },
     {
       "album": {
@@ -44323,6 +44557,24 @@
     },
     {
       "album": {
+        "name": "American Classics",
+        "url": "https://open.spotify.com/album/2DiuX1hCBBkbj7d8G3AtyX"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216093,
+      "name": "Kokomo - 1995 Remaster",
+      "url": "https://open.spotify.com/track/6UxkEYv4pisOU5YinQdZtS"
+    },
+    {
+      "album": {
         "name": "The Soul of the Kung Fu Fighter",
         "url": "https://open.spotify.com/album/7wA3s9ug9RoJXi9qGQbSjX"
       },
@@ -45494,6 +45746,24 @@
       "duration_ms": 207560,
       "name": "Leaving on a Jet Plane",
       "url": "https://open.spotify.com/track/5FmBXFttCJFD4LDwfQxpS6"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Peter, Paul and Mary",
+        "url": "https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207560,
+      "name": "Leaving on a Jet Plane - 2004 Remaster",
+      "url": "https://open.spotify.com/track/14mwel8vjedANfclf48jfw"
     },
     {
       "album": {
@@ -47841,6 +48111,24 @@
     },
     {
       "album": {
+        "name": "The Long Road Home 1963-2003 - 40th Anniversary Collection",
+        "url": "https://open.spotify.com/album/5yHbVhCxxsBbrdecFUCxZh"
+      },
+      "artists": [
+        {
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197933,
+      "name": "Long Cool Woman (In a Black Dress) - 2003 Remaster",
+      "url": "https://open.spotify.com/track/29tmpbQ7D5lYrdhYsAdfGI"
+    },
+    {
+      "album": {
         "name": "Past Masters (Vols. 1 & 2 / Remastered)",
         "url": "https://open.spotify.com/album/3GmCXW10kLxmZrEY0JpRlw"
       },
@@ -49623,6 +49911,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits (2024 Remaster)",
+        "url": "https://open.spotify.com/album/1Gtf2hZQlOGVER16uemmzR"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232483,
+      "name": "Lovin', Touchin', Squeezin' (2024 Remaster)",
+      "url": "https://open.spotify.com/track/10O20qYuUZHVNKdLZ7lG1h"
+    },
+    {
+      "album": {
         "name": "Anthology 1970-1974",
         "url": "https://open.spotify.com/album/3eFHSj92hUa4efE4f4I3qY"
       },
@@ -49912,6 +50218,24 @@
       "duration_ms": 186520,
       "name": "Lust For Life - Edit",
       "url": "https://open.spotify.com/track/3pcibdJ3bxfj3GKLvq3TpP"
+    },
+    {
+      "album": {
+        "name": "Their Greatest Hits 1971-1975 (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2Lgsa7jbu86SK5zJVFCh3S"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381998,
+      "name": "Lyin' Eyes - 2013 Remaster",
+      "url": "https://open.spotify.com/track/1MgDXY89MOoohMeaMoHaED"
     },
     {
       "album": {
@@ -53103,6 +53427,24 @@
     },
     {
       "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168026,
+      "name": "Mother Nature's Son - Remastered 2009",
+      "url": "https://open.spotify.com/track/6TjUg1cTUzWHbal6yQAi7c"
+    },
+    {
+      "album": {
         "name": "Mother-in-Law",
         "url": "https://open.spotify.com/album/2N04ilfKdceazhh01f950Z"
       },
@@ -55991,6 +56333,24 @@
     },
     {
       "album": {
+        "name": "Take On Me 80s: The Collection",
+        "url": "https://open.spotify.com/album/7EBPKKbGnGXUZ4tG6MeJkh"
+      },
+      "artists": [
+        {
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270333,
+      "name": "Nothing's Gonna Stop Us Now",
+      "url": "https://open.spotify.com/track/0k5aMahuLoaL8Rt8omvRub"
+    },
+    {
+      "album": {
         "name": "No Protection",
         "url": "https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J"
       },
@@ -58860,6 +59220,24 @@
       "duration_ms": 277026,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0Ad6zfevmnIhMTlIJUJGyY"
+    },
+    {
+      "album": {
+        "name": "Knocking At Your Back Door: The Best Of Deep Purple In The 80's",
+        "url": "https://open.spotify.com/album/6pYZSBVixO4mm7u0LaUAkF"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321093,
+      "name": "Perfect Strangers",
+      "url": "https://open.spotify.com/track/7m1EF6LilQOZ50GZYFZmkf"
     },
     {
       "album": {
@@ -65843,6 +66221,24 @@
     },
     {
       "album": {
+        "name": "Playlist: Rock",
+        "url": "https://open.spotify.com/album/1cqv7joIiSKvaqvnMwHpw5"
+      },
+      "artists": [
+        {
+          "name": "Third Eye Blind",
+          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268640,
+      "name": "Semi-Charmed Life - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3lc9WwdotE2ThL0IHq230T"
+    },
+    {
+      "album": {
         "name": "Frontiers (2023 Remaster)",
         "url": "https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh"
       },
@@ -67722,6 +68118,24 @@
       "duration_ms": 251520,
       "name": "Sideshow",
       "url": "https://open.spotify.com/track/0fopVbPW7N5BK0sOybQCq2"
+    },
+    {
+      "album": {
+        "name": "Past Masters (Vols. 1 & 2 / Remastered)",
+        "url": "https://open.spotify.com/album/3GmCXW10kLxmZrEY0JpRlw"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139400,
+      "name": "Sie liebt dich - Remastered 2009",
+      "url": "https://open.spotify.com/track/5rkgbGIOTBGlKTAawWb06X"
     },
     {
       "album": {
@@ -74593,6 +75007,24 @@
     },
     {
       "album": {
+        "name": "Songs From Dawson's Creek, Vol. II",
+        "url": "https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj"
+      },
+      "artists": [
+        {
+          "name": "Wheatus",
+          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241666,
+      "name": "Teenage Dirtbag",
+      "url": "https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw"
+    },
+    {
+      "album": {
         "name": "Siogo",
         "url": "https://open.spotify.com/album/71RqNRfEVCppUzDNhmOc9f"
       },
@@ -74824,6 +75256,24 @@
       "duration_ms": 268973,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4g2TNvnLKj3UPeuoJEZ1gM"
+    },
+    {
+      "album": {
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157986,
+      "name": "Tell Me What You See - Remastered 2009",
+      "url": "https://open.spotify.com/track/2jnr9KaaMAmvk0zMcM9UzV"
     },
     {
       "album": {
@@ -79373,6 +79823,24 @@
     },
     {
       "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/1b6ChQEPZbOHVNi5vjqYr6"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306240,
+      "name": "This Ain't A Love Song",
+      "url": "https://open.spotify.com/track/0ZLBD6hHGN9LYOtNlu2n8e"
+    },
+    {
+      "album": {
         "name": "Past Masters (Vols. 1 & 2 / Remastered)",
         "url": "https://open.spotify.com/album/3GmCXW10kLxmZrEY0JpRlw"
       },
@@ -80482,6 +80950,28 @@
       "duration_ms": 278426,
       "name": "Tom Sawyer",
       "url": "https://open.spotify.com/track/1B0rBJadcJeZDyjI7GUwMN"
+    },
+    {
+      "album": {
+        "name": "Trending Hits Today",
+        "url": "https://open.spotify.com/album/4w1QQFDzqJnAPrUVPdYwbc"
+      },
+      "artists": [
+        {
+          "name": "DNA",
+          "url": "https://open.spotify.com/artist/2rGm8R7YDTbqDCVlNssQyL"
+        },
+        {
+          "name": "Suzanne Vega",
+          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326066,
+      "name": "Tom's Diner",
+      "url": "https://open.spotify.com/track/699eYta9FsZzVT8bCrBIxm"
     },
     {
       "album": {
@@ -82904,6 +83394,24 @@
       "duration_ms": 161466,
       "name": "Up Around The Bend",
       "url": "https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT"
+    },
+    {
+      "album": {
+        "name": "Creedence Clearwater Revival - Best Of",
+        "url": "https://open.spotify.com/album/6anfZgEtfrdKVimLp6VF3d"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162853,
+      "name": "Up Around The Bend",
+      "url": "https://open.spotify.com/track/43yHGDCyr8mHqj7xfOaIF5"
     },
     {
       "album": {
@@ -89560,6 +90068,24 @@
       "duration_ms": 403066,
       "name": "Year of the Cat - 2020 Remaster",
       "url": "https://open.spotify.com/track/0BPl2z35ItKYbpvGjyh3mU"
+    },
+    {
+      "album": {
+        "name": "The Best of Al Stewart - Centenary Collection",
+        "url": "https://open.spotify.com/album/4snUTd3uRQvA10ygxFpPAR"
+      },
+      "artists": [
+        {
+          "name": "Al Stewart",
+          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395293,
+      "name": "Year of the Cat - Single Version",
+      "url": "https://open.spotify.com/track/0RAPMP5Hm91ug3AiYcOz2m"
     },
     {
       "album": {

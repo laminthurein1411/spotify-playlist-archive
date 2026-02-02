@@ -4,7 +4,7 @@
 
 > 
 
-1,175 songs - 2 day 22 hr 15 min
+1,177 songs - 2 day 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Better Days](https://open.spotify.com/track/2K0r5GD5zYlEMx2M7ZMcqG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Better Days](https://open.spotify.com/album/3ETKNL7BaU8N2gh1GH4HXQ) | 2:24 | 2021-02-23 |  |
 | [Better Man](https://open.spotify.com/track/6yM5jM2eAq3k8NojZ7dLp1) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sing When You're Winning](https://open.spotify.com/album/0fpjbJvjq6Zxj8xoIjX31m) | 3:24 | 2020-03-10 |  |
 | [Better Now](https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:51 | 2020-03-10 |  |
+| [Big Ole Freak](https://open.spotify.com/track/3YEbLhXRDPTtctnb3ddg8g) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 3:34 | 2026-02-01 |  |
 | [Biggest Part of Me](https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [One Eighty](https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH) | 5:24 | 2024-05-06 |  |
 | [Bill Watterson](https://open.spotify.com/track/3OYft1tm3KCBGIyCSuX35y) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [View\-Monster](https://open.spotify.com/album/2iKe0QhSWxNuyiUlzmJpTs) | 3:50 | 2024-04-23 |  |
 | [Bisexual Anthem](https://open.spotify.com/track/4Qd02az9lDaJt1i3RTtXg6) | [Domo Wilson](https://open.spotify.com/artist/2h2fB0j2IN50sSwolVO1AZ) | [Chapter 25: Domonique](https://open.spotify.com/album/48XiZTxn0hO6jHKEKodR2C) | 3:07 | 2020-06-27 |  |
@@ -795,6 +796,7 @@
 | [Road Trips](https://open.spotify.com/track/3fkxlQ1gKektnGhSxBOD1E) | [米卡](https://open.spotify.com/artist/67pFbn9hYLonqvcAB21xtH) | [Road Trips](https://open.spotify.com/album/0VSv1gOjudUmscNETpepll) | 3:00 | 2021-02-23 |  |
 | [Roar](https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:43 | 2019-12-30 |  |
 | [Rock 'n' Roll Lifestyle](https://open.spotify.com/track/4tRkMAL93DFmaMDUHOHuBH) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Motorcade of Generosity](https://open.spotify.com/album/7sdz6zUhXNwbwzqVRskzj9) | 4:14 | 2023-11-27 |  |
+| [Rock Me](https://open.spotify.com/track/4GF00uRxC4ECrxNEbnapqf) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt) | 3:20 | 2026-02-01 |  |
 | [Rocketship](https://open.spotify.com/track/2sUyYBBxw618jdMBtRA8Gm) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Dual Reality](https://open.spotify.com/album/4snbzdTWgW4W2UuDtbgvIw) | 2:36 | 2025-05-25 |  |
 | [Rollin' \(Air Raid Vehicle\)](https://open.spotify.com/track/3IV4swNduIRunHREK80owz) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 3:33 | 2024-03-09 |  |
 | [Romeo & Juliet](https://open.spotify.com/track/1VyA8mbSyXOdJx2lguR8Uu) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Romeo & Juliet](https://open.spotify.com/album/6Bdil490atXzxeG4pevs7o) | 2:46 | 2022-01-16 |  |
