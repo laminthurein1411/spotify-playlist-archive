@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/6txGpx5Oa73ScOpIrZcoLb"
+      },
+      "artists": [
+        {
+          "name": "Pur\u00e9e",
+          "url": "https://open.spotify.com/artist/4wBguEl200jafxtVjWKPwa"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203547,
+      "name": "A4",
+      "url": "https://open.spotify.com/track/7iD5D3ocuy6ndBUW06eLzJ"
+    },
+    {
+      "album": {
         "name": "about time",
         "url": "https://open.spotify.com/album/1tI4DHwaPnfJNrWV4Jo1oh"
       },
@@ -516,6 +534,24 @@
       "duration_ms": 170566,
       "name": "Adore Me",
       "url": "https://open.spotify.com/track/3i3BPNx2LZtNK7thr7nYPk"
+    },
+    {
+      "album": {
+        "name": "Adored",
+        "url": "https://open.spotify.com/album/2mrUtLnSNRea0FCG9AvwYd"
+      },
+      "artists": [
+        {
+          "name": "Lucky",
+          "url": "https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191443,
+      "name": "Adored",
+      "url": "https://open.spotify.com/track/5GLNsiFGhE9gHL4aefiQiT"
     },
     {
       "album": {
@@ -3147,6 +3183,24 @@
     },
     {
       "album": {
+        "name": "Coal Dust",
+        "url": "https://open.spotify.com/album/4VaI6BZB9ayjqCRp3KRb6z"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207468,
+      "name": "Coal Dust",
+      "url": "https://open.spotify.com/track/5E5LeotIuFrQGJHlrJxQtq"
+    },
+    {
+      "album": {
         "name": "Like Love",
         "url": "https://open.spotify.com/album/5sZBCDhQ1XkWmR8OxT4aFL"
       },
@@ -3525,6 +3579,24 @@
     },
     {
       "album": {
+        "name": "Running With Scissors",
+        "url": "https://open.spotify.com/album/64PgXU23E9lh3upKqECPIr"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124133,
+      "name": "Cryptid",
+      "url": "https://open.spotify.com/track/47Ex8nx2Xob3IB29Ms7e9G"
+    },
+    {
+      "album": {
         "name": "Negative Spaces",
         "url": "https://open.spotify.com/album/0YIOpXQvcbiDNPusSqi5Ew"
       },
@@ -3616,6 +3688,24 @@
       "duration_ms": 224591,
       "name": "Damager",
       "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
+    },
+    {
+      "album": {
+        "name": "DANCEHEAD",
+        "url": "https://open.spotify.com/album/0kUkx3KVTvBHeuzhwAN7m2"
+      },
+      "artists": [
+        {
+          "name": "DEVAURA",
+          "url": "https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126269,
+      "name": "DANCEHEAD",
+      "url": "https://open.spotify.com/track/2tXjGN9f9LVYWC7RROErvn"
     },
     {
       "album": {
@@ -4640,6 +4730,24 @@
       "duration_ms": 165000,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/7HxsMygWgEcqkH2Wse0G2i"
+    },
+    {
+      "album": {
+        "name": "EMBARRASSED 4 U",
+        "url": "https://open.spotify.com/album/1n6k41qGKqh1Qt9kTeJaac"
+      },
+      "artists": [
+        {
+          "name": "Blush",
+          "url": "https://open.spotify.com/artist/4SMzu9aSW9H01vr7ZSAxc2"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144599,
+      "name": "EMBARRASSED 4 U",
+      "url": "https://open.spotify.com/track/3cv4Q7rgAYyJnyX5xayc7o"
     },
     {
       "album": {
@@ -5789,6 +5897,24 @@
     },
     {
       "album": {
+        "name": "GHETTO KID",
+        "url": "https://open.spotify.com/album/16VlabAWWevKo1cWfxjSNI"
+      },
+      "artists": [
+        {
+          "name": "Walkerboy",
+          "url": "https://open.spotify.com/artist/6zl9LGhOEuvQOHDwOKvj8r"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143987,
+      "name": "GHETTO KID",
+      "url": "https://open.spotify.com/track/3KBv8LwIbRX8sRdQSl9gPB"
+    },
+    {
+      "album": {
         "name": "Ghost of Bendigo",
         "url": "https://open.spotify.com/album/7tnhOimLWvZTDYd5BxKvSB"
       },
@@ -6687,6 +6813,24 @@
     },
     {
       "album": {
+        "name": "High On Heaven",
+        "url": "https://open.spotify.com/album/4yLI9P0vuGT3XifsGuov5n"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199480,
+      "name": "High On Heaven",
+      "url": "https://open.spotify.com/track/4VDT0bb5RpkfoUoiVjGlrR"
+    },
+    {
+      "album": {
         "name": "HIGHJACK",
         "url": "https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL"
       },
@@ -7324,6 +7468,24 @@
       "duration_ms": 198425,
       "name": "I Only Smoke When I Drink",
       "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
+    },
+    {
+      "album": {
+        "name": "I Shouldn't",
+        "url": "https://open.spotify.com/album/5BYzxqbxR4zZhTWkr8NqdM"
+      },
+      "artists": [
+        {
+          "name": "Charli Lucas",
+          "url": "https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156503,
+      "name": "I Shouldn't",
+      "url": "https://open.spotify.com/track/3W0I0UvIbZBAAyRBP7dofV"
     },
     {
       "album": {
@@ -8425,6 +8587,24 @@
     },
     {
       "album": {
+        "name": "L.U.C.K.Y",
+        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138706,
+      "name": "L.U.C.K.Y",
+      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+    },
+    {
+      "album": {
         "name": "Lady Beetle",
         "url": "https://open.spotify.com/album/0uRXxggkDe5tIpGeMC8ixb"
       },
@@ -8757,6 +8937,24 @@
     },
     {
       "album": {
+        "name": "LIGHTS GO OUT",
+        "url": "https://open.spotify.com/album/2Ha5IAL4jtiVibo7sv86Fj"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158333,
+      "name": "LIGHTS GO OUT",
+      "url": "https://open.spotify.com/track/2iyMHe42Q6bY0mKp29KaHw"
+    },
+    {
+      "album": {
         "name": "Like cleopatra",
         "url": "https://open.spotify.com/album/1ISMffmawx1LzriFHcEhu4"
       },
@@ -8869,6 +9067,32 @@
     },
     {
       "album": {
+        "name": "LIT EFFECT [Feat. Bktherula & LAZER DIM 700]",
+        "url": "https://open.spotify.com/album/5v8hMYYnZgU0xx8y2ALGnZ"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        },
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207079,
+      "name": "LIT EFFECT [Feat. Bktherula & LAZER DIM 700]",
+      "url": "https://open.spotify.com/track/4sJFW6APhXl5v7idGF3QWd"
+    },
+    {
+      "album": {
         "name": "London Lights",
         "url": "https://open.spotify.com/album/3ORTbqyGSadMNPQ2ceXxU9"
       },
@@ -8942,6 +9166,32 @@
       "duration_ms": 183042,
       "name": "Looking for Trouble",
       "url": "https://open.spotify.com/track/7x2ILyNOw4bofJSL7IKAyy"
+    },
+    {
+      "album": {
+        "name": "Loose Pt. 3",
+        "url": "https://open.spotify.com/album/21BkFek37rkAQcrALu8uk2"
+      },
+      "artists": [
+        {
+          "name": "WILL K",
+          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
+        },
+        {
+          "name": "JAY1",
+          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
+        },
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169308,
+      "name": "Loose Pt. 3",
+      "url": "https://open.spotify.com/track/2Hg1IXJ36JXi40dmTqJ5T4"
     },
     {
       "album": {
@@ -11016,6 +11266,28 @@
       "duration_ms": 259773,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/6fu8kFePHPqOz4WOOG0trB"
+    },
+    {
+      "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259495,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB"
     },
     {
       "album": {
@@ -13729,6 +14001,24 @@
     },
     {
       "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/01qh3d0M3MdKyBSxFeBgv6"
+      },
+      "artists": [
+        {
+          "name": "The Sooks",
+          "url": "https://open.spotify.com/artist/7AJRbMEkOOcr3YRQqR75tj"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203100,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/23G8Q09SDZEmwYSrUWwFSq"
+    },
+    {
+      "album": {
         "name": "choke enough",
         "url": "https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt"
       },
@@ -13949,6 +14239,46 @@
     },
     {
       "album": {
+        "name": "TELL ME (REMIX)",
+        "url": "https://open.spotify.com/album/4Bzx3c5zPzLg9D3RHt0GEk"
+      },
+      "artists": [
+        {
+          "name": "MADEN LANE",
+          "url": "https://open.spotify.com/artist/1aRu48Fw9MoTG4FHxSscmu"
+        },
+        {
+          "name": "Max Laxon",
+          "url": "https://open.spotify.com/artist/658dKlnFp3wgEh9dBmIQpy"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264517,
+      "name": "TELL ME - REMIX",
+      "url": "https://open.spotify.com/track/6bxrOrKwgNTwfplOe9yxQp"
+    },
+    {
+      "album": {
+        "name": "Glimmers Continued",
+        "url": "https://open.spotify.com/album/7zZokVmJqbuBVc0drwjtx1"
+      },
+      "artists": [
+        {
+          "name": "Velvet Trip",
+          "url": "https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222552,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/4W3XltRy0SU91Dv4wUCuaD"
+    },
+    {
+      "album": {
         "name": "Ten",
         "url": "https://open.spotify.com/album/1Db9mYMaxIPA3mEX5UDesN"
       },
@@ -14163,6 +14493,24 @@
     },
     {
       "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317961,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
+    },
+    {
+      "album": {
         "name": "The Great Tree / Holiday",
         "url": "https://open.spotify.com/album/4pnMLJYzHd4lyCjAhHrBmQ"
       },
@@ -14369,6 +14717,24 @@
     },
     {
       "album": {
+        "name": "BACKWARD",
+        "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166687,
+      "name": "THEMSELVES",
+      "url": "https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm"
+    },
+    {
+      "album": {
         "name": "THEN THERE'S ONE",
         "url": "https://open.spotify.com/album/507peyvSZvyvvOGIanbXLU"
       },
@@ -14559,6 +14925,24 @@
     },
     {
       "album": {
+        "name": "Empty Hands",
+        "url": "https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207200,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
       },
@@ -14614,6 +14998,24 @@
       "duration_ms": 177208,
       "name": "TIT FOR TAT",
       "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
+    },
+    {
+      "album": {
+        "name": "To Love Somebody",
+        "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237952,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
     },
     {
       "album": {
@@ -15359,6 +15761,24 @@
     },
     {
       "album": {
+        "name": "What You Saying",
+        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131729,
+      "name": "What You Saying",
+      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+    },
+    {
+      "album": {
         "name": "What's A Girl To Do (feat. DRIIA)",
         "url": "https://open.spotify.com/album/3XRAWTnyUDiIA3LSfgxBfi"
       },
@@ -15486,6 +15906,24 @@
       "duration_ms": 168176,
       "name": "What\u2019s It Take to Be a Star?",
       "url": "https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw"
+    },
+    {
+      "album": {
+        "name": "When We Were Young",
+        "url": "https://open.spotify.com/album/3vCMAEMQ96wkY0LZEQK7f2"
+      },
+      "artists": [
+        {
+          "name": "Mia Wray",
+          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188742,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/0ZRMhpe4OOujgvmivonlCK"
     },
     {
       "album": {
