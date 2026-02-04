@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 5,146 songs - 14 day 15 hr 14 min
+[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 5,148 songs - 14 day 15 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1246,7 +1246,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 1236 | [Fool Again](https://open.spotify.com/track/5Aa33rAPkp7f7l1aVqsHO8) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Westlife](https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN) | 3:54 |
 | 1237 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
 | 1238 | [It Never Rains in Southern California](https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [It Never Rains In Southern California](https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM) | 3:53 |
-| 1239 | [California Dreaming \- Live](https://open.spotify.com/track/3aXHSxhhanoxLCdhWhRDcm) | [The Mamas & The Papas Tribute Band](https://open.spotify.com/artist/6bjmA7p22LL1ACvMIZhew2) | [Tribute To The Mamas & The Papas \(Live\)](https://open.spotify.com/album/0ygaqBwV1pMwJCJ3N6QZT5) | 2:00 |
+| 1239 | [California Dreaming \- Live](https://open.spotify.com/track/3aXHSxhhanoxLCdhWhRDcm) | [Papa Mamas](https://open.spotify.com/artist/41Ejg8T9AbCTkwJmuCoeL3) | [Tribute To The Mamas & The Papas \(Live\)](https://open.spotify.com/album/0ygaqBwV1pMwJCJ3N6QZT5) | 2:00 |
 | 1240 | [Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:24 |
 | 1241 | [Karaoke \- Landslide](https://open.spotify.com/track/38wTBBl2xMxaSP67S5cin3) | [Karaoke \- Dixie Chicks](https://open.spotify.com/artist/1eEkxzO2gBIviNSHo7HzMY) | [Karaoke \- Contemporary Female Country \- Vol.4](https://open.spotify.com/album/1FveLQGM5bZ5fniqaNJYQ0) | 3:47 |
 | 1242 | [Friday I'm In Love](https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:35 |
@@ -5154,5 +5154,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 5144 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/2nSF2OQepDRSMkbcfTh46c) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Gimme Gimme!](https://open.spotify.com/album/26FaNGnFk1vylHKtHLFUuT) | 4:49 |
 | 5145 | [You're The One That I Want \- From “Grease”](https://open.spotify.com/track/4uFn9xEBDusHN12PQ9AxnU) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [House Party Jams](https://open.spotify.com/album/3BRZHiNQiv0t7x6kVuzFwq) | 2:50 |
 | 5146 | [Is This Love \- 2018 Remaster](https://open.spotify.com/track/6QyWVCLASvvtpKD0KJZs5e) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(2018 Remaster\)](https://open.spotify.com/album/7swyGza0lOXnnkfSupULM5) | 4:44 |
+| 5147 | [Fun, Fun, Fun \(Mono\)](https://open.spotify.com/track/5L0L3RyON6g8avnI20uubN) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Shut Down, Vol\. 2 \(Mono & Stereo\)](https://open.spotify.com/album/3rMEJYbaJfULHu3bX9PSOo) | 2:18 |
+| 5148 | [Cecilia \- Single Mix](https://open.spotify.com/track/2Fom6AIwPsRd76evrN3fRk) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Greatest Hits](https://open.spotify.com/album/4Em5W5HgYEvhpc2elrpKES) | 2:49 |
 
-Snapshot ID: `AAACg0ZyFBY98GxCnTbASFLhBJmLBq2v`
+Snapshot ID: `AAAChM9JEsIBvdRhYy2nB8crKLzjcVE9`

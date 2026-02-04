@@ -4,7 +4,7 @@
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-5,136 songs - 14 day 14 hr 30 min
+5,138 songs - 14 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -672,7 +672,7 @@
 | [California](https://open.spotify.com/track/5VEd2Yb0Mqy1GOuEp7LErd) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 2:36 | 2024-03-02 |  |
 | [California Dreamin' \- Single Version](https://open.spotify.com/track/2ASuuiVsmKssdkeeNkgCKv) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [California Dreaming](https://open.spotify.com/album/0udoDKYMGnShFV3ThFvqed) | 2:39 | 2024-03-08 |  |
 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 | 2025-12-15 |  |
-| [California Dreaming \- Live](https://open.spotify.com/track/3aXHSxhhanoxLCdhWhRDcm) | [The Mamas & The Papas Tribute Band](https://open.spotify.com/artist/6bjmA7p22LL1ACvMIZhew2) | [Tribute To The Mamas & The Papas \(Live\)](https://open.spotify.com/album/0ygaqBwV1pMwJCJ3N6QZT5) | 2:00 | 2024-03-04 |  |
+| [California Dreaming \- Live](https://open.spotify.com/track/3aXHSxhhanoxLCdhWhRDcm) | [Papa Mamas](https://open.spotify.com/artist/41Ejg8T9AbCTkwJmuCoeL3) | [Tribute To The Mamas & The Papas \(Live\)](https://open.spotify.com/album/0ygaqBwV1pMwJCJ3N6QZT5) | 2:00 | 2024-03-04 |  |
 | [California Girls](https://open.spotify.com/track/4H3vuLX59XPqdtTpIesGyS) | [David Lee Roth](https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3) | [Crazy from the Heat](https://open.spotify.com/album/2CLt8z7ozftRAx6I37C7rE) | 2:51 | 2024-03-01 |  |
 | [California Girls](https://open.spotify.com/track/0mwr3py9MZIOdvOrI31h6r) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [50 Big Ones: Greatest Hits](https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F) | 2:46 | 2024-03-04 |  |
 | [California Strut](https://open.spotify.com/track/0o2iivelMT3RB0LVP3b1yC) | [Walter Murphy](https://open.spotify.com/artist/73JBR5s2PVvUjGu6tIqjqx) | [A Fifth of Beethoven](https://open.spotify.com/album/3WGhDlddrE9npY07UYyA7D) | 3:33 | 2025-12-30 |  |
@@ -745,6 +745,7 @@
 | [Caught Up In You](https://open.spotify.com/track/5Kj2NFqopbkeHU79jqMTAo) | [38 Special](https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi) | [The Very Best Of The A&M Years \(1977\-1988\)](https://open.spotify.com/album/70LmUc4bIUyDhvrx2hfJJA) | 4:38 | 2026-01-07 |  |
 | [Caught Up In You](https://open.spotify.com/track/3jYRpwbctfqB77uU7T7K3U) | [38 Special](https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi) | [Special Forces](https://open.spotify.com/album/4vWxauP6oFowwSQeBnFwRW) | 4:39 | 2026-01-21 |  |
 | [Cecilia](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 2:54 | 2024-03-03 |  |
+| [Cecilia \- Single Mix](https://open.spotify.com/track/2Fom6AIwPsRd76evrN3fRk) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Greatest Hits](https://open.spotify.com/album/4Em5W5HgYEvhpc2elrpKES) | 2:49 | 2026-02-03 |  |
 | [Celebration](https://open.spotify.com/track/10y3J8zReHzqMIJWtXCA7V) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Everything's Kool & The Gang \(Greatest Hits & More\)](https://open.spotify.com/album/1b40AHGyi4FcfUbFLHjcKr) | 4:58 | 2026-01-24 |  |
 | [Celebration](https://open.spotify.com/track/0mAFhcH2ceQZBFsuS5IT8R) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Best Of](https://open.spotify.com/album/74QGin4IyWkxkjEFku17cF) | 4:58 | 2025-12-21 |  |
 | [Celebration](https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebrate!](https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI) | 4:58 | 2024-03-02 |  |
@@ -1434,6 +1435,7 @@
 | [Frosty the Snowman \(feat\. The Puppini Sisters\)](https://open.spotify.com/track/1CIZP9DLQ7LWLOeLl7sZGM) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [The Puppini Sisters](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/6UuaXwIIaIaNSGrpPE1vFt) | 2:42 | 2025-12-19 |  |
 | [Full Circle](https://open.spotify.com/track/4lv7AOF6HTL0xsrp57tvOq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 5:00 | 2026-02-01 |  |
 | [Fun, Fun, Fun](https://open.spotify.com/track/4T5SR1krNuVLOnxSjYb8nW) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [50 Big Ones: Greatest Hits](https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F) | 2:16 | 2024-03-03 |  |
+| [Fun, Fun, Fun \(Mono\)](https://open.spotify.com/track/5L0L3RyON6g8avnI20uubN) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Shut Down, Vol\. 2 \(Mono & Stereo\)](https://open.spotify.com/album/3rMEJYbaJfULHu3bX9PSOo) | 2:18 | 2026-02-03 |  |
 | [Funk \#49](https://open.spotify.com/track/5FfVwgKhGcehzx555DZFXj) | [James Gang](https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF) | [Greatest Hits](https://open.spotify.com/album/0uUewFCVqusWNAwGPA3Mro) | 3:55 | 2025-12-30 |  |
 | [Funk \#49](https://open.spotify.com/track/5h6SovHOYpIMlAkafxcbq3) | [James Gang](https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF) | [Rides Again](https://open.spotify.com/album/0FHtUmahwAambT6S4boSP0) | 4:06 | 2024-04-03 |  |
 | [Funky Cold Medina](https://open.spotify.com/track/5YIF6HSOtHN9HdcE5IPzMe) | [Tone\-Loc](https://open.spotify.com/artist/5Y8EphH8Vdqu5SLj6K5vjj) | [Loc\-ed After Dark](https://open.spotify.com/album/6xE6A0Vwd2LmopR6Mn8UFG) | 4:08 | 2024-02-29 |  |

@@ -2705,6 +2705,24 @@
     },
     {
       "album": {
+        "name": "The Singer and the Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100746,
+      "name": "Bless the Telephone",
+      "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
+    },
+    {
+      "album": {
         "name": "Blood // Water",
         "url": "https://open.spotify.com/album/2ih65NyzXsPwEsI1sMdyIy"
       },
