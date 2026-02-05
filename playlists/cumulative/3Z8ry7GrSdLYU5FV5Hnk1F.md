@@ -4,7 +4,7 @@
 
 > 
 
-220 songs - 12 hr 51 min
+221 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Phonecert](https://open.spotify.com/track/47CcHKISaUPsK4QkO9ERFc) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [4.0](https://open.spotify.com/album/1i93hxs5eEJrOQM71vrifu) | 3:17 | 2021-05-19 |  |
 | [PICK ME](https://open.spotify.com/track/0nBubVVpnTgA5y5ExFkjeu) | [PRODUCE 101](https://open.spotify.com/artist/2iTBqSiPjYYns3Ta0Ohzrs) | [PRODUCE 101 \- PICK ME](https://open.spotify.com/album/0d0lqvI3oVXQxJRckzv7KM) | 3:46 | 2019-12-23 |  |
 | [PICK ME](https://open.spotify.com/track/1LShDXXs40R8bQFNBBupI3) | [PRODUCE 48](https://open.spotify.com/artist/5ORE0ElD7HiONogJZzhKrS) | [PRODUCE 48 \- NEKKOYA \(PICK ME\)](https://open.spotify.com/album/2bl024XQdz3Pd4jQLNyaZg) | 4:39 | 2019-12-21 |  |
+| [Pinocchio](https://open.spotify.com/track/3hXsfPCNGZnZx0l4AYvh8E) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [The Passage](https://open.spotify.com/album/0ZX6t8OnOwrjrnKXzHGuHK) | 3:41 | 2026-02-04 |  |
 | [Pirate King](https://open.spotify.com/track/5Jl2i6LR3Socm4TYqRzZw3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.1 : All to Zero](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) | 3:15 | 2019-12-21 |  |
 | [Platonic Love](https://open.spotify.com/track/32uZjoJA2Mm7Xf6Yonsk3q) | [SNUPER](https://open.spotify.com/artist/3RkN2CENR9zgHLKn2H3hcI) | [SNUPER 2nd Mini Album Platonic Love](https://open.spotify.com/album/1D8WUuXPgECDXT9pF8di1U) | 3:08 | 2020-01-17 |  |
 | [Psycho](https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:30 | 2020-01-17 |  |

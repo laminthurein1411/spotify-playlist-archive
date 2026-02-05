@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Z8ry7GrSdLYU5FV5Hnk1F.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 4 likes - 220 songs - 12 hr 51 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 4 likes - 221 songs - 12 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,5 +228,6 @@ pretty - [cumulative](/playlists/cumulative/3Z8ry7GrSdLYU5FV5Hnk1F.md) - [plain]
 | 218 | [무제\(無題\) \(Untitled, 2014\)](https://open.spotify.com/track/16BS342F89MDqouSxgLaUK) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [KWON JI YONG](https://open.spotify.com/album/2koSNfchdUxqw1rPJO87aH) | 3:42 |
 | 219 | [Rendezvous](https://open.spotify.com/track/4nKnOIDXFjRSMG4vkXDwzY) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [WHO WE ARE](https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz) | 3:40 |
 | 220 | [You & Me](https://open.spotify.com/track/6xXCn7H2Yl8SDD6jxo5SpN) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/2Joq37Cjv3ZL7M2faHWe3b) | 2:59 |
+| 221 | [Pinocchio](https://open.spotify.com/track/3hXsfPCNGZnZx0l4AYvh8E) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [The Passage](https://open.spotify.com/album/0ZX6t8OnOwrjrnKXzHGuHK) | 3:41 |
 
-Snapshot ID: `AAAA4r7lGqHwBYJ8evwKcq+SNtc1H9DS`
+Snapshot ID: `AAAA467etE8iM6+/i+2tFk8odyLUKdC0`
