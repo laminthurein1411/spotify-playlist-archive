@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 5,148 songs - 14 day 15 hr 19 min
+[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 5,150 songs - 14 day 15 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5156,5 +5156,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 5146 | [Is This Love \- 2018 Remaster](https://open.spotify.com/track/6QyWVCLASvvtpKD0KJZs5e) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(2018 Remaster\)](https://open.spotify.com/album/7swyGza0lOXnnkfSupULM5) | 4:44 |
 | 5147 | [Fun, Fun, Fun \(Mono\)](https://open.spotify.com/track/5L0L3RyON6g8avnI20uubN) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Shut Down, Vol\. 2 \(Mono & Stereo\)](https://open.spotify.com/album/3rMEJYbaJfULHu3bX9PSOo) | 2:18 |
 | 5148 | [Cecilia \- Single Mix](https://open.spotify.com/track/2Fom6AIwPsRd76evrN3fRk) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Greatest Hits](https://open.spotify.com/album/4Em5W5HgYEvhpc2elrpKES) | 2:49 |
+| 5149 | [She Bop](https://open.spotify.com/track/3ptxtmBTnLLPJZQo32IFLI) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 3:52 |
+| 5150 | [If I Had A Hammer \- Re\-Recorded](https://open.spotify.com/track/0nHyQmLpH1JdSzh82DNncC) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [If I Had A Hammer \(Re\-Recorded \- Sped Up\)](https://open.spotify.com/album/3RHIG3RRiz4hGfEuPIe8Ar) | 3:01 |
 
-Snapshot ID: `AAAChM9JEsIBvdRhYy2nB8crKLzjcVE9`
+Snapshot ID: `AAACheBvYwdRpVnJ9WHiJHHBjSdoFvVR`

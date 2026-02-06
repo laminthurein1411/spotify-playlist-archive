@@ -4,7 +4,7 @@
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-5,138 songs - 14 day 14 hr 35 min
+5,140 songs - 14 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2172,6 +2172,7 @@
 | [If I Ever Lose My Faith In You](https://open.spotify.com/track/05vL56xSoxthM0r7IfcQjo) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) | 4:30 | 2026-01-30 |  |
 | [If I Had a Hammer](https://open.spotify.com/track/21oita3X6TJauSPtTP5Fr6) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [His 28 Greatest Hits](https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon) | 2:58 | 2025-12-26 |  |
 | [If I Had a Hammer](https://open.spotify.com/track/4JMl6POnS2IPBpVVwDl06P) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [Greatest Hits](https://open.spotify.com/album/7wNWm9v6ZapW2K2yx4HFzz) | 2:59 | 2024-03-05 |  |
+| [If I Had A Hammer \- Re\-Recorded](https://open.spotify.com/track/0nHyQmLpH1JdSzh82DNncC) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [If I Had A Hammer \(Re\-Recorded \- Sped Up\)](https://open.spotify.com/album/3RHIG3RRiz4hGfEuPIe8Ar) | 3:01 | 2026-02-05 |  |
 | [If I Needed Someone \- Remastered 2009](https://open.spotify.com/track/7C6hdDIz90Uf5YmdZnYbJJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered 2009\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:22 | 2026-01-18 |  |
 | [If It Makes You Happy](https://open.spotify.com/track/5XrfFo0JFOnWD9ZMNXGkQh) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb) | 5:23 | 2024-03-18 |  |
 | [If It Makes You Happy](https://open.spotify.com/track/1W5acBpsLXWrnOmzSKH0FI) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [The Very Best Of](https://open.spotify.com/album/7Kw98O8x1Urwo139vaO0fJ) | 5:23 | 2025-12-28 |  |
@@ -3710,6 +3711,7 @@
 | [She Blinded Me With Science \- 2009 Remaster](https://open.spotify.com/track/3Rx60zjRwENayjOpt8SWEQ) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [The Golden Age of Wireless \(2009 Remaster \- Bonus Tracks Edition\)](https://open.spotify.com/album/0d4InBRfqj24nfChRZv6nh) | 3:42 | 2026-01-23 |  |
 | [She Blinded Me With Science \- 2009 Remastered Version](https://open.spotify.com/track/6y9VZNRczyKeQihebHSMJ8) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [The Golden Age Of Wireless](https://open.spotify.com/album/6B0ZeHngr24VJ1MABDW2Yz) | 3:42 | 2025-12-15 |  |
 | [She Blinded Me With Science \- Extended Version](https://open.spotify.com/track/7HVeMe8SaI20TUqTj5GrbU) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [12x12 Original Remixes](https://open.spotify.com/album/47DHbx1y0LM6tl9YEypo2x) | 5:10 | 2024-03-28 |  |
+| [She Bop](https://open.spotify.com/track/3ptxtmBTnLLPJZQo32IFLI) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 3:52 | 2026-02-05 |  |
 | [She Bop](https://open.spotify.com/track/2FAL6hxj5Qxuj0kWOkEOsF) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:52 | 2024-03-02 |  |
 | [She Don't Know Me](https://open.spotify.com/track/3NbA8ltUxaEtC3XjM7WEtC) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi \(Deluxe Edition\)](https://open.spotify.com/album/5jbeZAH40R7ZGUfDnZAkpl) | 4:01 | 2026-01-17 |  |
 | [She Don't Know Me](https://open.spotify.com/track/5ponLS88v37duDQHewRDaX) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi](https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz) | 4:02 | 2024-03-13 |  |

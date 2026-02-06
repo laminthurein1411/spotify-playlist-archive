@@ -6,7 +6,7 @@
     "name": "ramiro",
     "url": "https://open.spotify.com/user/rgarzaa"
   },
-  "snapshot_id": "AAAChM9JEsIBvdRhYy2nB8crKLzjcVE9",
+  "snapshot_id": "AAACheBvYwdRpVnJ9WHiJHHBjSdoFvVR",
   "tracks": [
     {
       "added_at": "2024-02-28 02:33:08",
@@ -83687,6 +83687,38 @@
       "duration_ms": 169328,
       "name": "Cecilia - Single Mix",
       "url": "https://open.spotify.com/track/2Fom6AIwPsRd76evrN3fRk"
+    },
+    {
+      "added_at": "2026-02-05 06:33:09",
+      "album": {
+        "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "She Bop",
+      "url": "https://open.spotify.com/track/3ptxtmBTnLLPJZQo32IFLI"
+    },
+    {
+      "added_at": "2026-02-05 06:33:09",
+      "album": {
+        "name": "If I Had A Hammer (Re-Recorded - Sped Up)",
+        "url": "https://open.spotify.com/album/3RHIG3RRiz4hGfEuPIe8Ar"
+      },
+      "artists": [
+        {
+          "name": "Trini Lopez",
+          "url": "https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "If I Had A Hammer - Re-Recorded",
+      "url": "https://open.spotify.com/track/0nHyQmLpH1JdSzh82DNncC"
     }
   ],
   "unique_name": "Classic 106.9",
