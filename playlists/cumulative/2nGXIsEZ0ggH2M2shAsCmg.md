@@ -4,7 +4,7 @@
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-5,140 songs - 14 day 14 hr 42 min
+5,141 songs - 14 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1959,6 +1959,7 @@
 | [I Just Want To Be Your Everything](https://open.spotify.com/track/1v2lPBvWjO9ywTzIeULYCQ) | [Andy Gibb](https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK) | [The Very Best Of](https://open.spotify.com/album/7axTPcZzoAWFbTbrokCAyn) | 3:46 | 2025-12-22 |  |
 | [I Just Want To Celebrate](https://open.spotify.com/track/4iW98ZK1gNzcXmQ5TgTD9X) | [Rare Earth](https://open.spotify.com/artist/6eEsIl4wosvhuWI0mfXxAF) | [One World](https://open.spotify.com/album/06GIYaoyaDb2POMp79QomX) | 3:37 | 2025-12-30 |  |
 | [I Just Want to Stay Here and Love You](https://open.spotify.com/track/7KBmbNZ6JMvuoL74Fw9PPW) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p), [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [The Greatest Hits Vol\. 2](https://open.spotify.com/album/6pTZEJMiwmCXGJ0YNZPmr1) | 2:27 | 2025-12-15 |  |
+| [I Keep Forgettin \(Every Time You're Near\)](https://open.spotify.com/track/3iDNZVq527pBmX0LWBB1XN) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Música de los 80 en inglés](https://open.spotify.com/album/3GdFPw0cmyobxLnZiNacuM) | 3:42 | 2026-02-07 |  |
 | [I Keep Forgettin \(Every Time You're Near\)](https://open.spotify.com/track/7qiCypg8Q1TtGYYoMZJHxo) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Late Night Tales: Music For Pleasure](https://open.spotify.com/album/0GPZjIWU4sF8wmdNv67Ukc) | 3:42 | 2025-12-27 |  |
 | [I Keep Forgettin \(Every Time You’re Near\)](https://open.spotify.com/track/1JOBUllpwDNzF6wNoiyqyH) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [100 Greatest Driving Songs](https://open.spotify.com/album/3D5BaRZxngDIZP811L4p1N) | 3:42 | 2026-01-15 |  |
 | [I Keep Forgettin' \(Every Time You're Near\)](https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [If That's What It Takes](https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1) | 3:42 | 2025-12-15 |  |

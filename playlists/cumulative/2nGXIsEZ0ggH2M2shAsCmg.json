@@ -35623,6 +35623,24 @@
     },
     {
       "album": {
+        "name": "M\u00fasica de los 80 en ingl\u00e9s",
+        "url": "https://open.spotify.com/album/3GdFPw0cmyobxLnZiNacuM"
+      },
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222280,
+      "name": "I Keep Forgettin (Every Time You're Near)",
+      "url": "https://open.spotify.com/track/3iDNZVq527pBmX0LWBB1XN"
+    },
+    {
+      "album": {
         "name": "Late Night Tales: Music For Pleasure",
         "url": "https://open.spotify.com/album/0GPZjIWU4sF8wmdNv67Ukc"
       },

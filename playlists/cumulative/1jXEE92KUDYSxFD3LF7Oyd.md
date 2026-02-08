@@ -4,7 +4,7 @@
 
 > 
 
-173 songs - 9 hr 30 min
+174 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Taxi](https://open.spotify.com/track/1dvlLMVlu14AP9psmzfZuH) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/0pcRdTAIkItbFdyRA4CVZM) | 4:18 | 2023-05-05 |  |
 | [Tempête](https://open.spotify.com/track/4zeo96p50qBwUysP5tcbM9) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/0pcRdTAIkItbFdyRA4CVZM) | 3:40 | 2023-05-05 |  |
 | [Tempête](https://open.spotify.com/track/6RtveeNPS71dwyD6L7ZLdm) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq La Suite](https://open.spotify.com/album/1O6LqsYQ8uIdo3utTawVCl) | 3:40 | 2023-04-24 |  |
+| [The Ketchup Song \(Aserejé\) \- Spanish Version](https://open.spotify.com/track/6NG2IIXZfC5Notpz0GIODU) | [Las Ketchup](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) | [Aserejé \(The Ketchup Song\)](https://open.spotify.com/album/5k9nNGzp6ogw5bBULPeMSz) | 3:33 | 2026-02-07 |  |
 | [Ti Amo](https://open.spotify.com/track/6GKuVYC3oC8xjnNmDZyPF0) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Ti amo](https://open.spotify.com/album/0wX6lGqIoR0pE1vwJUVR29) | 4:05 | 2024-06-10 |  |
 | [Time To Say Goodbye](https://open.spotify.com/track/3p02ss31ywBaZcqh7Vq9sx) | [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Diva: The Singles Collection](https://open.spotify.com/album/5WlVnriYOxYo6Q7PpM7yEQ) | 4:06 | 2023-12-07 |  |
 | [Ton nom](https://open.spotify.com/track/3BThFUwV2RQf3p77xQJiW5) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Vivante](https://open.spotify.com/album/5O6ovq15vesJDB4Omd9zZk) | 3:32 | 2022-05-07 |  |

@@ -3695,6 +3695,24 @@
     },
     {
       "album": {
+        "name": "Collide With The Sky",
+        "url": "https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252386,
+      "name": "I'm Low On Gas And You Need A Jacket",
+      "url": "https://open.spotify.com/track/40WWeoX26jtsfdmFx5iRty"
+    },
+    {
+      "album": {
         "name": "Instrument Soundtrack",
         "url": "https://open.spotify.com/album/1owNOVlXTqmDVo4M2Z20uk"
       },
