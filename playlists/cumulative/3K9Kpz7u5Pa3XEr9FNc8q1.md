@@ -4,7 +4,7 @@
 
 > 
 
-72 songs - 3 hr 56 min
+74 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Lionheart \(Fearless\)](https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lionheart \(Fearless\)](https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT) | 3:06 | 2022-11-28 |  |
 | [L’enfer](https://open.spotify.com/track/1CsuHmKOfCYxPoO4xjlAWV) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:09 | 2022-05-07 |  |
 | [Moskau](https://open.spotify.com/track/5t77UGzgSBRDDnaxJvE9R3) | [Dschinghis Khan](https://open.spotify.com/artist/1g1nVvle9qO9AWIUWYvPAP) | [Moskau \- Das Neue Best Of Album](https://open.spotify.com/album/5rb7ToU6CAX1H0gdk63SQd) | 4:30 | 2025-09-02 |  |
+| [My Love Танюха](https://open.spotify.com/track/4pFopPJRrvXhdXmvSlsJ5A) | [Igorek](https://open.spotify.com/artist/02oGBZOjZmZunuS9itG7Yq) | [Подождём твою мать](https://open.spotify.com/album/0u9FcWftYYtY1AUt3DA5Id) | 3:48 | 2026-02-08 |  |
 | [Nach Mera Hero](https://open.spotify.com/track/2kfqZVhZYa1ny2ncjt4j5f) | [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD) | [Eternals \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3qBn8Lw72Fs6zWyA7yFrMn) | 3:09 | 2022-04-26 |  |
 | [Nails, Hair, Hips, Heels](https://open.spotify.com/track/60nXduun3ybrHhtDOUmGmV) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 1](https://open.spotify.com/album/18cAitZNvQLJBlNhDeSH2L) | 3:56 | 2023-02-08 |  |
 | [Oh No!!! \(from The Suicide Squad\)](https://open.spotify.com/track/7mYKxi4gqlSweFg2xigZ1w) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Oh No!!! \(from The Suicide Squad\)](https://open.spotify.com/album/4gG47LR7Xbk0E9k0zNCHZp) | 3:33 | 2022-04-26 |  |
@@ -79,6 +80,7 @@
 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 | 2022-04-29 |  |
 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2022-11-29 |  |
 | [Грустная сука](https://open.spotify.com/track/7k6HFZe3WtGpbNUYY6Hndi) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [Сладкая жизнь](https://open.spotify.com/album/6VjA2JeGzCvI9KVDAoksWB) | 3:19 | 2026-01-04 |  |
+| [Ева](https://open.spotify.com/track/5pS5TjcUKb8rWQSqgZ2MSm) | [Vintage](https://open.spotify.com/artist/1I8yEn0RSxacRvLxd8N56a) | [Sex](https://open.spotify.com/album/0yZ6j28YBuwhtI0OjRyzKi) | 4:08 | 2026-02-08 |  |
 | [رايحين نسهر \- بام بام](https://open.spotify.com/track/7wKUqlOL9OES7gwPdgUcQl) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [رايحين نسهر \- بام بام](https://open.spotify.com/album/7zG7vNSjzxjXNY9UHPL3X0) | 2:49 | 2025-11-17 |  |
 
 \*This playlist was first scraped on 2025-05-18. Prior content cannot be recovered.

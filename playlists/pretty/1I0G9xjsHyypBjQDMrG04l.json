@@ -1,13 +1,29 @@
 {
   "description": "Automatically updated playlist of songs played on the WILD 94.9 radio station: Top 40, New Hit Music radio station in San Francisco Bay Area. (no duplicates)",
-  "num_followers": 1966,
+  "num_followers": 1965,
   "original_name": "WILD 94.9 Radio Station",
   "owner": {
     "name": "scfi",
     "url": "https://open.spotify.com/user/stephenip10"
   },
-  "snapshot_id": "AAAGKgkwDG+zJQcOPf7EC2p3wfxIKdPY",
+  "snapshot_id": "AAAGLOY+Rmz0bP/oNAtY5MMt/1ndpnOC",
   "tracks": [
+    {
+      "added_at": "2026-02-08 09:30:17",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 245939,
+      "name": "Moscow Mule",
+      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
+    },
     {
       "added_at": "2026-02-06 19:00:17",
       "album": {
@@ -3547,22 +3563,6 @@
       "duration_ms": 205946,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
-    },
-    {
-      "added_at": "2024-11-03 10:00:20",
-      "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
       "added_at": "2024-10-29 08:00:20",

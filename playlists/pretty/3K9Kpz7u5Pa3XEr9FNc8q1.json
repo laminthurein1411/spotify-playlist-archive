@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAASZqR+Az4f7PBcEetbV7Rj8UEKnZq",
+  "snapshot_id": "AAAAS6SLl68RfF6vRUc4V+xiVCfVWg7z",
   "tracks": [
     {
       "added_at": "2022-01-30 11:44:14",
@@ -1287,6 +1287,38 @@
       "duration_ms": 214850,
       "name": "Big Ole Freak",
       "url": "https://open.spotify.com/track/3YEbLhXRDPTtctnb3ddg8g"
+    },
+    {
+      "added_at": "2026-02-08 04:20:11",
+      "album": {
+        "name": "\u041f\u043e\u0434\u043e\u0436\u0434\u0451\u043c \u0442\u0432\u043e\u044e \u043c\u0430\u0442\u044c",
+        "url": "https://open.spotify.com/album/0u9FcWftYYtY1AUt3DA5Id"
+      },
+      "artists": [
+        {
+          "name": "Igorek",
+          "url": "https://open.spotify.com/artist/02oGBZOjZmZunuS9itG7Yq"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "My Love \u0422\u0430\u043d\u044e\u0445\u0430",
+      "url": "https://open.spotify.com/track/4pFopPJRrvXhdXmvSlsJ5A"
+    },
+    {
+      "added_at": "2026-02-08 04:41:53",
+      "album": {
+        "name": "Sex",
+        "url": "https://open.spotify.com/album/0yZ6j28YBuwhtI0OjRyzKi"
+      },
+      "artists": [
+        {
+          "name": "Vintage",
+          "url": "https://open.spotify.com/artist/1I8yEn0RSxacRvLxd8N56a"
+        }
+      ],
+      "duration_ms": 248760,
+      "name": "\u0415\u0432\u0430",
+      "url": "https://open.spotify.com/track/5pS5TjcUKb8rWQSqgZ2MSm"
     }
   ],
   "unique_name": "dAnCe \ud83d\udd7a",

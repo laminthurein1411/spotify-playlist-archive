@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3K9Kpz7u5Pa3XEr9FNc8q1.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 72 songs - 3 hr 56 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 74 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,5 +80,7 @@ pretty - [cumulative](/playlists/cumulative/3K9Kpz7u5Pa3XEr9FNc8q1.md) - [plain]
 | 70 | [Грустная сука](https://open.spotify.com/track/7k6HFZe3WtGpbNUYY6Hndi) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [Сладкая жизнь](https://open.spotify.com/album/6VjA2JeGzCvI9KVDAoksWB) | 3:19 |
 | 71 | [Heads Will Roll \- A\-Trak Remix Radio Edit](https://open.spotify.com/track/0vBpyfpW2lARGh3AZFtWRi) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Heads Will Roll](https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV) | 3:23 |
 | 72 | [Big Ole Freak](https://open.spotify.com/track/3YEbLhXRDPTtctnb3ddg8g) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 3:34 |
+| 73 | [My Love Танюха](https://open.spotify.com/track/4pFopPJRrvXhdXmvSlsJ5A) | [Igorek](https://open.spotify.com/artist/02oGBZOjZmZunuS9itG7Yq) | [Подождём твою мать](https://open.spotify.com/album/0u9FcWftYYtY1AUt3DA5Id) | 3:48 |
+| 74 | [Ева](https://open.spotify.com/track/5pS5TjcUKb8rWQSqgZ2MSm) | [Vintage](https://open.spotify.com/artist/1I8yEn0RSxacRvLxd8N56a) | [Sex](https://open.spotify.com/album/0yZ6j28YBuwhtI0OjRyzKi) | 4:08 |
 
-Snapshot ID: `AAAASZqR+Az4f7PBcEetbV7Rj8UEKnZq`
+Snapshot ID: `AAAAS6SLl68RfF6vRUc4V+xiVCfVWg7z`
