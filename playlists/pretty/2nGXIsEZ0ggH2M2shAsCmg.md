@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 5,151 songs - 14 day 15 hr 30 min
+[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 5,160 songs - 14 day 16 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,7 +170,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 160 | [Kiss You All Over](https://open.spotify.com/track/3FGcQkWQlkeB82RdZwlw8V) | [Exile](https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7) | [Greatest Hits](https://open.spotify.com/album/7orQwVEEjByRj9hT98frwo) | 3:34 |
 | 161 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
 | 162 | [Harden My Heart](https://open.spotify.com/track/3CSLUIrI2KPMulHR5bh17O) | [Quarterflash](https://open.spotify.com/artist/3VJakY5Yw5phAOF4Bada5v) | [Quarterflash](https://open.spotify.com/album/4kW6CPrK2OPc0OrEcwOFQN) | 3:52 |
-| 163 | [Goodbye Horses](https://open.spotify.com/track/7I5eQZFdlPV8LZWH2FeqaW) | [Q Lazzarus](https://open.spotify.com/artist/2EOrSEDPcZ9feKWSi8Fpdi) | [Goodbye Horses \- Single](https://open.spotify.com/album/1Fx6PDY57t5lCqXMvIEdfN) | 3:07 |
+| 163 | [Goodbye Horses \- Single](https://open.spotify.com/track/7I5eQZFdlPV8LZWH2FeqaW) | [Q Lazzarus](https://open.spotify.com/artist/2EOrSEDPcZ9feKWSi8Fpdi) | [Goodbye Horses \- Single](https://open.spotify.com/album/1Fx6PDY57t5lCqXMvIEdfN) | 3:07 |
 | 164 | [Lay Down Sally](https://open.spotify.com/track/6io0LJIP9ntX35hTfaxwQG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:56 |
 | 165 | [Cocaine](https://open.spotify.com/track/3ykSdTGmYPFl8pDBXer1zG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:41 |
 | 166 | [The House Of The Rising Sun](https://open.spotify.com/track/2UNubhwW58kZLHj29uNRZb) | [Eric Burdon & the Animals](https://open.spotify.com/artist/70tMW5bZT3TJUa1CWtfVkq) | [Greatest Hits](https://open.spotify.com/album/3oAKJWMt9Ol8W5vkOQrBNf) | 4:41 |
@@ -5159,5 +5159,14 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 5149 | [She Bop](https://open.spotify.com/track/3ptxtmBTnLLPJZQo32IFLI) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 3:52 |
 | 5150 | [If I Had A Hammer \- Re\-Recorded](https://open.spotify.com/track/0nHyQmLpH1JdSzh82DNncC) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [If I Had A Hammer \(Re\-Recorded \- Sped Up\)](https://open.spotify.com/album/3RHIG3RRiz4hGfEuPIe8Ar) | 3:01 |
 | 5151 | [I Keep Forgettin \(Every Time You're Near\)](https://open.spotify.com/track/3iDNZVq527pBmX0LWBB1XN) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Música de los 80 en inglés](https://open.spotify.com/album/3GdFPw0cmyobxLnZiNacuM) | 3:42 |
+| 5152 | [Legs \- 2019 Remaster](https://open.spotify.com/track/3psBTbgxlQxloWxvgOopKA) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Goin' 50](https://open.spotify.com/album/3iCffsNF6mYOY87PWhhqcp) | 4:33 |
+| 5153 | [Oops!...I Did It Again](https://open.spotify.com/track/1vuvo1kHmgt9IKXGPcBRfI) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again \(25th Anniversary Edition\)](https://open.spotify.com/album/3RRrDxe2LPTII2ySlOvlh6) | 3:31 |
+| 5154 | [Summer Breeze](https://open.spotify.com/track/51VMZ4WqqxBcw0gQXqwZY1) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [70s](https://open.spotify.com/album/2OSUr9BBqCvn2v5o7qO5JC) | 3:21 |
+| 5155 | [Purple Rain](https://open.spotify.com/track/55EelrA8250jCznurTC1Jb) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Very Best of Prince](https://open.spotify.com/album/5oQClEU6YXiVoaz4ZTmOOO) | 8:41 |
+| 5156 | [Won't Get Fooled Again \- Remix](https://open.spotify.com/track/1W1GpfPujmgp2vQqcpUhtU) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Expanded Edition\)](https://open.spotify.com/album/53PBYiedQrASAs5sy63JqT) | 8:33 |
+| 5157 | [Lift Me Up](https://open.spotify.com/track/64hZX40A8Z14efLfF0JjwT) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Hotel](https://open.spotify.com/album/2LJUQoKZL5cHBC555E5ZGb) | 3:19 |
+| 5158 | [Sunrise](https://open.spotify.com/track/7tZEYds8UyCJ44VdEgbp8u) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Jazz Brunch](https://open.spotify.com/album/5F2EsTa9eSgw6EsS6QRLrb) | 3:20 |
+| 5159 | [You Might Think](https://open.spotify.com/track/0E9yPac1WYeZBSwpw7ez5E) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Soft Rock Hits 100 Best Songs from the 70s 80s 90s](https://open.spotify.com/album/2LBdsQfP7FHebnNldBLSog) | 3:05 |
+| 5160 | [Just Don't Want to Be Lonely](https://open.spotify.com/track/3YJpG8pshPLlH0x0Jt2am4) | [Blue Magic](https://open.spotify.com/artist/7tLLSEaHMMJPbsYAz8MkEw) | [Love](https://open.spotify.com/album/1hGOHwRHTcHnjwS6p12OCP) | 7:12 |
 
-Snapshot ID: `AAAChlzAMxoem/komd/HuDcq6FW4VR73`
+Snapshot ID: `AAACh8oSTc+6xpyXtJqRPNeny0WBOimf`
