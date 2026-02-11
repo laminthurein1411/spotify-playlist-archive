@@ -6655,6 +6655,24 @@
     },
     {
       "album": {
+        "name": "Creedence Clearwater Revival - Best Of",
+        "url": "https://open.spotify.com/album/6anfZgEtfrdKVimLp6VF3d"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140186,
+      "name": "Bad Moon Rising - Remastered 1985",
+      "url": "https://open.spotify.com/track/1VqntcDB32Kwav52kAfmRE"
+    },
+    {
+      "album": {
         "name": "Creedence Clearwater Revival - Best Of (Deluxe)",
         "url": "https://open.spotify.com/album/1DRAOw2rHynTrOO5KpmwBU"
       },
@@ -9996,6 +10014,24 @@
       "duration_ms": 122133,
       "name": "Blue Suede Shoes",
       "url": "https://open.spotify.com/track/47gmoUrZV3w20JAnQOZMcO"
+    },
+    {
+      "album": {
+        "name": "Elvis 30 #1 Hits (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119200,
+      "name": "Blue Suede Shoes (Bonus Track)",
+      "url": "https://open.spotify.com/track/5eejdO6tuHjbPzV93rDAAj"
     },
     {
       "album": {
@@ -56211,6 +56247,24 @@
     },
     {
       "album": {
+        "name": "A's, B's & EP's",
+        "url": "https://open.spotify.com/album/1GocNvETatEei10ng7bpJ9"
+      },
+      "artists": [
+        {
+          "name": "Herman's Hermits",
+          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174333,
+      "name": "No Milk Today - Mono Version",
+      "url": "https://open.spotify.com/track/02Y0CtzmhTLjTOg0cWvAhq"
+    },
+    {
+      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX"
       },
@@ -70374,6 +70428,24 @@
       "duration_ms": 296426,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/2pxCxQs9vgE74PA2k2kVBJ"
+    },
+    {
+      "album": {
+        "name": "A Day At The Races (2011 Remaster)",
+        "url": "https://open.spotify.com/album/3hfcNo7WWy1Z1ie0nJ8PRy"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296480,
+      "name": "Somebody To Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/2u9vZyQU7Ld88MJ35nS55u"
     },
     {
       "album": {

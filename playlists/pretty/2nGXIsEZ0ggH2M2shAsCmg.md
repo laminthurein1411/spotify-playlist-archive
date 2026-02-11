@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 5,160 songs - 14 day 16 hr 15 min
+[ramiro](https://open.spotify.com/user/rgarzaa) - 30 likes - 5,164 songs - 14 day 16 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5168,5 +5168,9 @@ pretty - [cumulative](/playlists/cumulative/2nGXIsEZ0ggH2M2shAsCmg.md) - [plain]
 | 5158 | [Sunrise](https://open.spotify.com/track/7tZEYds8UyCJ44VdEgbp8u) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Jazz Brunch](https://open.spotify.com/album/5F2EsTa9eSgw6EsS6QRLrb) | 3:20 |
 | 5159 | [You Might Think](https://open.spotify.com/track/0E9yPac1WYeZBSwpw7ez5E) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Soft Rock Hits 100 Best Songs from the 70s 80s 90s](https://open.spotify.com/album/2LBdsQfP7FHebnNldBLSog) | 3:05 |
 | 5160 | [Just Don't Want to Be Lonely](https://open.spotify.com/track/3YJpG8pshPLlH0x0Jt2am4) | [Blue Magic](https://open.spotify.com/artist/7tLLSEaHMMJPbsYAz8MkEw) | [Love](https://open.spotify.com/album/1hGOHwRHTcHnjwS6p12OCP) | 7:12 |
+| 5161 | [Bad Moon Rising \- Remastered 1985](https://open.spotify.com/track/1VqntcDB32Kwav52kAfmRE) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Creedence Clearwater Revival \- Best Of](https://open.spotify.com/album/6anfZgEtfrdKVimLp6VF3d) | 2:20 |
+| 5162 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/2u9vZyQU7Ld88MJ35nS55u) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(2011 Remaster\)](https://open.spotify.com/album/3hfcNo7WWy1Z1ie0nJ8PRy) | 4:56 |
+| 5163 | [No Milk Today \- Mono Version](https://open.spotify.com/track/02Y0CtzmhTLjTOg0cWvAhq) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [A's, B's & EP's](https://open.spotify.com/album/1GocNvETatEei10ng7bpJ9) | 2:54 |
+| 5164 | [Blue Suede Shoes \(Bonus Track\)](https://open.spotify.com/track/5eejdO6tuHjbPzV93rDAAj) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 1:59 |
 
-Snapshot ID: `AAACh8oSTc+6xpyXtJqRPNeny0WBOimf`
+Snapshot ID: `AAACiGhno3vkwpyl229kZLGWeiygrBec`
