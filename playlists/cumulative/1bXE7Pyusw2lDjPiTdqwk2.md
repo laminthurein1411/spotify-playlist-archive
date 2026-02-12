@@ -4,7 +4,7 @@
 
 > 
 
-451 songs - 1 day 5 hr 40 min
+455 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 | 2022-02-02 |  |
 | [Falling Colour](https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb) | [Vanbur](https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj) | [Falling Colour](https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd) | 3:35 | 2024-02-11 |  |
 | [Falling Like The Stars](https://open.spotify.com/track/395KzBy0bkb57dEvg6cfzJ) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:32 | 2022-02-08 |  |
+| [Family Tree](https://open.spotify.com/track/5l79pLYX6NwTa6FiT8Eoyo) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 7:10 | 2026-02-11 |  |
 | [Famous Prophets \(Stars\)](https://open.spotify.com/track/5LnFURDZ1n3psF1IhjKkfe) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy](https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM) | 16:10 | 2025-04-14 |  |
 | [fantasyworld](https://open.spotify.com/track/3VheddjCE7GCHzeKIJnRzK) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [I Didn't Mean To Haunt You](https://open.spotify.com/album/3c0NHNo2Gn0X7uARad3hGv) | 7:18 | 2025-04-14 |  |
 | [fare thee well](https://open.spotify.com/track/2IxDyOPHjAxRGDZAtGD4Q4) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/6Bdj3psgGGsBxYUCpLhhqV) | 4:23 | 2023-12-17 |  |
@@ -229,6 +230,7 @@
 | [Into Dust](https://open.spotify.com/track/7l5nkTZpoD93OkynN0gcon) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 5:36 | 2025-04-14 |  |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2022-02-02 |  |
 | [It's All Coming Back to Me Now](https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 7:36 | 2024-05-06 |  |
+| [It's Not Over](https://open.spotify.com/track/234RqTZmnDTnxWlVciXHLD) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Daughtry \(Deluxe Edition\)](https://open.spotify.com/album/6ii8Ja21xLGkFH8CQ6bKjj) | 3:35 | 2026-02-11 |  |
 | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2023-01-05 |  |
 | [Jasper Avenue](https://open.spotify.com/track/01eGJhqBLJCy8i4YHVQo4P) | [CaRter](https://open.spotify.com/artist/5sXPLn0XElTS3Aq0STgm4H) | [Jasper Avenue](https://open.spotify.com/album/2cqS1ECvxOt9gzcRfBa6rP) | 4:34 | 2022-02-08 |  |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2023-07-18 |  |
@@ -273,6 +275,7 @@
 | [Lullaby For My Insomniac](https://open.spotify.com/track/7K9kbDWgbJmfNnN9LSoXB4) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:43 | 2023-05-03 |  |
 | [Mad World](https://open.spotify.com/track/3JOVTQ5h8HGFnDdp4VT3MP) | [Gary Jules](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa), [Michael Andrews](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) | [Trading Snakeoil for Wolftickets](https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z) | 3:09 | 2025-04-14 |  |
 | [Malibu Nights](https://open.spotify.com/track/0Eqg0CQ7bK3RQIMPw1A7pl) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 4:46 | 2022-02-08 |  |
+| [Masterpiece](https://open.spotify.com/track/3c9kVsKF68xMzlS0NikVn3) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:26 | 2026-02-11 |  |
 | [Mateo](https://open.spotify.com/track/4u9YwUMT4G6cVBNfNebMcj) | [Lian Ray](https://open.spotify.com/artist/1Cgq6nEMS0BeLYLbL4J3wu) | [Rose](https://open.spotify.com/album/2EsSvgpaFxI0tljem5BKZa) | 3:50 | 2025-12-03 |  |
 | [Medicine Bottle](https://open.spotify.com/track/0HtTmvEzJVpEDkg7mARpxD) | [Red House Painters](https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe) | [Down Colorful Hill](https://open.spotify.com/album/31toyxx4NeSixf47lJBNbt) | 9:49 | 2025-04-14 |  |
 | [Medusa in a Stone Garden](https://open.spotify.com/track/2bNawE1y27Ecn5uirqoVhO) | [molly ofgeography](https://open.spotify.com/artist/0mC8ifdqPQYdUODibnvySl) | [Runaway, Run](https://open.spotify.com/album/7aZWJDuTnhxHrAo0dS4b1s) | 3:26 | 2025-04-14 |  |
@@ -381,6 +384,7 @@
 | [Superman \(It's Not Easy\)](https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [America Town](https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY) | 3:41 | 2024-05-06 |  |
 | [Supermarket Flowers](https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:41 | 2022-02-08 |  |
 | [Superstar](https://open.spotify.com/track/1Gv6f7m5ZNDcInxGA8PsLS) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Carpenters](https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI) | 3:51 | 2025-04-14 |  |
+| [Take Aim](https://open.spotify.com/track/3kgY3DziGh5vZQHYovCNus) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning \(Deluxe\)](https://open.spotify.com/album/21XQQZZq1cO45mJ2U3vVdp) | 3:39 | 2026-02-11 |  |
 | [Take Me Down Easy](https://open.spotify.com/track/1Gqu3WAy93q3lhkv67ZPW8) | [James Henry Jr.](https://open.spotify.com/artist/02ZZnYUAoQF7J6zhk6G4i9) | [Take Me Down Easy](https://open.spotify.com/album/3m0UkOUmDAMVsgNPZeYLkf) | 4:08 | 2024-02-03 |  |
 | [Teal](https://open.spotify.com/track/1jJvNlkbQmtRpG9uIUpiYA) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:11 | 2025-04-14 |  |
 | [Tears in Heaven \- Acoustic Live](https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 4:40 | 2024-05-06 |  |

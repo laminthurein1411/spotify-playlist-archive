@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAABvVZjVce6Kiv/QrF/lAmXeSBnNhPK",
+  "snapshot_id": "AAABweF4nLpei3s16BVbNfppBdekuo/F",
   "tracks": [
     {
       "added_at": "2022-01-08 16:08:30",
@@ -7407,6 +7407,70 @@
       "duration_ms": 201186,
       "name": "LOVE YOU LESS",
       "url": "https://open.spotify.com/track/4eFV1LfWlYCVJnPTuSo3db"
+    },
+    {
+      "added_at": "2026-02-11 06:05:36",
+      "album": {
+        "name": "Daughtry (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ii8Ja21xLGkFH8CQ6bKjj"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "duration_ms": 215026,
+      "name": "It's Not Over",
+      "url": "https://open.spotify.com/track/234RqTZmnDTnxWlVciXHLD"
+    },
+    {
+      "added_at": "2026-02-11 06:20:57",
+      "album": {
+        "name": "Scoring The End Of The World",
+        "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "duration_ms": 206648,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/3c9kVsKF68xMzlS0NikVn3"
+    },
+    {
+      "added_at": "2026-02-11 06:27:30",
+      "album": {
+        "name": "Sundowning (Deluxe)",
+        "url": "https://open.spotify.com/album/21XQQZZq1cO45mJ2U3vVdp"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 219480,
+      "name": "Take Aim",
+      "url": "https://open.spotify.com/track/3kgY3DziGh5vZQHYovCNus"
+    },
+    {
+      "added_at": "2026-02-11 06:34:20",
+      "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 430613,
+      "name": "Family Tree",
+      "url": "https://open.spotify.com/track/5l79pLYX6NwTa6FiT8Eoyo"
     }
   ],
   "unique_name": "Sad Hours",
