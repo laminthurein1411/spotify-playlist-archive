@@ -4,7 +4,7 @@
 
 > classic 106.9 fm \(sin anuncios\) playlist infinita actualizada en tiempo real escuchando la radio infinitamente
 
-5,205 songs - 14 day 19 hr 19 min
+5,206 songs - 14 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,6 +628,7 @@
 | [Breaking The Chains](https://open.spotify.com/track/3PZJwntD9O7WLXm2g2jTmD) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Breaking the Chains](https://open.spotify.com/album/6NYFg9at2mwtM51vlzQYDu) | 3:51 | 2026-01-15 |  |
 | [Breaking the Law](https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 2:33 | 2024-03-01 |  |
 | [Breaking Up Is Hard to Do](https://open.spotify.com/track/64UJ810pLNwurMLRCPJPoa) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Neil Sedaka Sings The Hits](https://open.spotify.com/album/1ya3SaqV6XPJjeSq7Camb2) | 2:16 | 2024-03-01 |  |
+| [Breaking Up Is Hard to Do](https://open.spotify.com/track/2x6pbpjVGjiWCcH89IK8AX) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Circulate \(Expanded Edition\)](https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ) | 2:19 | 2026-02-12 |  |
 | [Breakout](https://open.spotify.com/track/5JsIknb4lyIKQCytjv0Uw5) | [Swing Out Sister](https://open.spotify.com/artist/4phr5rAgWhcZtWJu8w8lKv) | [It's Better To Travel \(Deluxe Edition\)](https://open.spotify.com/album/1rzEoCZvJ80o1ccDWZwoeN) | 3:46 | 2025-12-15 |  |
 | [Breath of Life](https://open.spotify.com/track/65uVBe0HjdCzXgvK9K7WBI) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [Chorus](https://open.spotify.com/album/6Orqtui43hkxm4Rdw1OjiT) | 4:07 | 2024-03-05 |  |
 | [Breathe In](https://open.spotify.com/track/03kZca43rgVgphYctcopJU) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:37 | 2024-02-28 |  |

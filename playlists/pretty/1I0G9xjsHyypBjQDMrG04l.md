@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1I0G9xjsHyypBjQDMrG04l.md) - [plain]
 
 > Automatically updated playlist of songs played on the WILD 94.9 radio station: Top 40, New Hit Music radio station in San Francisco Bay Area\. \(no duplicates\)
 
-[scfi](https://open.spotify.com/user/stephenip10) - 1,966 likes - 741 songs - 1 day 17 hr 41 min
+[scfi](https://open.spotify.com/user/stephenip10) - 1,967 likes - 741 songs - 1 day 17 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -563,7 +563,7 @@ pretty - [cumulative](/playlists/cumulative/1I0G9xjsHyypBjQDMrG04l.md) - [plain]
 | 553 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
 | 554 | [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/track/7E2C5rBLpCKwQlhJPVFBRS) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/album/7MQJy9di8JoLJOkG5mZAry) | 3:46 |
 | 555 | [la di die \(feat\. Jaden Hossler\)](https://open.spotify.com/track/3RLshk3cDQOqWhSIRCVaXL) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [la di die \(feat\. Jaden Hossler\)](https://open.spotify.com/album/1KBoH5xsMCXPuVsZMORvtO) | 3:15 |
-| 556 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 |
+| 556 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran & Justin Bieber](https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 |
 | 557 | [Overdrive](https://open.spotify.com/track/3ltMcnXZh3KiQba6RleHSd) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Overdrive](https://open.spotify.com/album/77mNp2LeMZIgMH1XsKUzQn) | 3:03 |
 | 558 | [I Like It \(feat\. Kontra K and AK Ausserkontrolle\)](https://open.spotify.com/track/6ejutdxQVGPCNpFys7TLAn) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw) | [I Like It \(feat\. Kontra K and AK Ausserkontrolle\)](https://open.spotify.com/album/0beL2KlaidCnuLhvBn3C4X) | 4:14 |
 | 559 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 |
