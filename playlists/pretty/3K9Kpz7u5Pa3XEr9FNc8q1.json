@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAATEuDAu0xrDYO0F037410EshDrol5",
+  "snapshot_id": "AAAATa2aJfvfF3DtOovCVG6Kh2kTG/zM",
   "tracks": [
     {
       "added_at": "2022-01-30 11:44:14",
@@ -1299,6 +1299,22 @@
       "duration_ms": 248760,
       "name": "\u0415\u0432\u0430",
       "url": "https://open.spotify.com/track/5pS5TjcUKb8rWQSqgZ2MSm"
+    },
+    {
+      "added_at": "2026-02-15 09:24:16",
+      "album": {
+        "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
+        "url": "https://open.spotify.com/album/2qHTtxtPswUx8iz8VsBJ3n"
+      },
+      "artists": [
+        {
+          "name": "NEXTIME",
+          "url": "https://open.spotify.com/artist/0KaA8HctO3Rt7xjMSu3YUk"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
+      "url": "https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj"
     }
   ],
   "unique_name": "dAnCe \ud83d\udd7a",

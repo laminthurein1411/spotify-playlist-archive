@@ -4,7 +4,7 @@
 
 > 
 
-74 songs - 4 hr 4 min
+75 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2022-11-29 |  |
 | [Грустная сука](https://open.spotify.com/track/7k6HFZe3WtGpbNUYY6Hndi) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [Сладкая жизнь](https://open.spotify.com/album/6VjA2JeGzCvI9KVDAoksWB) | 3:19 | 2026-01-04 |  |
 | [Ева](https://open.spotify.com/track/5pS5TjcUKb8rWQSqgZ2MSm) | [Vintage](https://open.spotify.com/artist/1I8yEn0RSxacRvLxd8N56a) | [Sex](https://open.spotify.com/album/0yZ6j28YBuwhtI0OjRyzKi) | 4:08 | 2026-02-08 |  |
+| [СВЕТЛАНА!](https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj) | [NEXTIME](https://open.spotify.com/artist/0KaA8HctO3Rt7xjMSu3YUk) | [СВЕТЛАНА!](https://open.spotify.com/album/2qHTtxtPswUx8iz8VsBJ3n) | 1:36 | 2026-02-15 |  |
 | [رايحين نسهر \- بام بام](https://open.spotify.com/track/7wKUqlOL9OES7gwPdgUcQl) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [رايحين نسهر \- بام بام](https://open.spotify.com/album/7zG7vNSjzxjXNY9UHPL3X0) | 2:49 | 2025-11-17 |  |
 
 \*This playlist was first scraped on 2025-05-18. Prior content cannot be recovered.

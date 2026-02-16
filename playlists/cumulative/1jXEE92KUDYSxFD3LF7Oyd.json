@@ -3191,6 +3191,24 @@
     },
     {
       "album": {
+        "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
+        "url": "https://open.spotify.com/album/2qHTtxtPswUx8iz8VsBJ3n"
+      },
+      "artists": [
+        {
+          "name": "NEXTIME",
+          "url": "https://open.spotify.com/artist/0KaA8HctO3Rt7xjMSu3YUk"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
+      "url": "https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj"
+    },
+    {
+      "album": {
         "name": "\u0421\u043a\u0430\u0437\u043a\u0438 \u043b\u0435\u0441\u043d\u043e\u0439 \u043d\u0438\u043c\u0444\u044b",
         "url": "https://open.spotify.com/album/3LFGKPdcr1UsYAY1ln1VPh"
       },
