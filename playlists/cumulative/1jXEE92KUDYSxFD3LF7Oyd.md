@@ -4,7 +4,7 @@
 
 > 
 
-181 songs - 9 hr 57 min
+182 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Gabriela](https://open.spotify.com/track/0RvJfhqX0Ktl5H9wzhNjTJ) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Ben É Samba Bom \(1964\)](https://open.spotify.com/album/3p1lsEa1gZjIWwUDKA0AbT) | 2:52 | 2025-07-19 |  |
 | [Gasolina](https://open.spotify.com/track/6jEZLz3YpnEBRpVkv35AmP) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/5i2HhIrYyMNQvmsBk9h8Im) | 3:12 | 2026-02-14 |  |
 | [GDE PAPA LONGMIX](https://open.spotify.com/track/7MRLGjlf6qUWBS59FBMhCA) | [BOOKER](https://open.spotify.com/artist/40K9KbqFFDzGXfUW3s60bv), [CMH](https://open.spotify.com/artist/4t8lDh2zuWn1d9cyJQkESe), [mzlff](https://open.spotify.com/artist/56wiPFJN2Z1PG1N8hGNYaD), [Slava KPSS](https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq) | [КАЧ](https://open.spotify.com/album/6FSybQCiCMmB5Q01sfIQbo) | 4:15 | 2026-01-13 |  |
+| [GDE PAPA?](https://open.spotify.com/track/4LEpcwjcixnLUNQYMTbrHX) | [BOOKER](https://open.spotify.com/artist/40K9KbqFFDzGXfUW3s60bv) | [GDE PAPA?](https://open.spotify.com/album/27eCZ6SKUCpNRCwmhnpqvL) | 2:35 | 2026-02-16 |  |
 | [Griechischer Wein](https://open.spotify.com/track/6acOaeELSjmb29hNussIXt) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Meine Lieder](https://open.spotify.com/album/36VpMfIJBeA3UTkj5FvzRc) | 4:04 | 2025-09-05 |  |
 | [Gwendolyne](https://open.spotify.com/track/7B4uAyj4X3qs8YXdV4wwhS) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Gwendolyne](https://open.spotify.com/album/33JwmtWxEH0Jh0IqK9OIMj) | 2:48 | 2025-04-03 |  |
 | [Hier encore](https://open.spotify.com/track/4ciRwt5dGHKKm8Et8r1xJ0) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Que c'est triste Venise \(Remastered 2014\)](https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK) | 2:23 | 2025-07-31 |  |

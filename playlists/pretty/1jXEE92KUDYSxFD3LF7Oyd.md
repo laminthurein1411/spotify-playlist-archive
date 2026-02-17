@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 181 songs - 9 hr 57 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 182 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,5 +189,6 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 179 | [Moi..\. Lolita](https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8) | [Alizée](https://open.spotify.com/artist/53deL58uye6fCqRK4COtR4) | [Gourmandises](https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy) | 4:24 |
 | 180 | [Dominique](https://open.spotify.com/track/76G41wBgGkynvmqiIhgCig) | [The Singing Nun \(Soeur Sourire\)](https://open.spotify.com/artist/6IXxyuP3QA8yla9rF1on6b) | [Dominique](https://open.spotify.com/album/72y8tdlictxnfHcY8Eu5ET) | 2:52 |
 | 181 | [СВЕТЛАНА!](https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj) | [NEXTIME](https://open.spotify.com/artist/0KaA8HctO3Rt7xjMSu3YUk) | [СВЕТЛАНА!](https://open.spotify.com/album/2qHTtxtPswUx8iz8VsBJ3n) | 1:36 |
+| 182 | [GDE PAPA?](https://open.spotify.com/track/4LEpcwjcixnLUNQYMTbrHX) | [BOOKER](https://open.spotify.com/artist/40K9KbqFFDzGXfUW3s60bv) | [GDE PAPA?](https://open.spotify.com/album/27eCZ6SKUCpNRCwmhnpqvL) | 2:35 |
 
-Snapshot ID: `AAAAfSgaCFYcQSZJVgb7L4HwYFYVzHbM`
+Snapshot ID: `AAAAflOlNY3nrvMxGT1T09a5Hqpsp5Wc`

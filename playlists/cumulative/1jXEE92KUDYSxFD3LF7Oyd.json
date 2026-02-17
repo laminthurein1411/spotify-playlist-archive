@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "GDE PAPA?",
+        "url": "https://open.spotify.com/album/27eCZ6SKUCpNRCwmhnpqvL"
+      },
+      "artists": [
+        {
+          "name": "BOOKER",
+          "url": "https://open.spotify.com/artist/40K9KbqFFDzGXfUW3s60bv"
+        }
+      ],
+      "date_added": "2026-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155333,
+      "name": "GDE PAPA?",
+      "url": "https://open.spotify.com/track/4LEpcwjcixnLUNQYMTbrHX"
+    },
+    {
+      "album": {
         "name": "Meine Lieder",
         "url": "https://open.spotify.com/album/36VpMfIJBeA3UTkj5FvzRc"
       },
