@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAE4+qHRErK3Xs11slZ6lXu9cLaAnP+",
+  "snapshot_id": "AAAE5NGD/Mnkd/Ly4cIWnZ+OzgkoUp3q",
   "tracks": [
     {
       "added_at": "2019-12-20 13:17:42",
@@ -19967,6 +19967,22 @@
       "duration_ms": 238786,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/6uNP8aOZphmhsYlOwRhNh1"
+    },
+    {
+      "added_at": "2026-02-17 02:50:31",
+      "album": {
+        "name": "Decode",
+        "url": "https://open.spotify.com/album/70iJhodSPkl7FR1VW4n0KF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 261959,
+      "name": "Decode",
+      "url": "https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe"
     }
   ],
   "unique_name": "Western Songs",

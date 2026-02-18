@@ -4,7 +4,7 @@
 
 > 
 
-1,189 songs - 2 day 23 hr 9 min
+1,190 songs - 2 day 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Dear Maria, Count Me In](https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:02 | 2022-07-06 |  |
 | [death bed \(coffee for your head\)](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc) | 2:53 | 2020-04-22 |  |
 | [December](https://open.spotify.com/track/2PrUKG4kAO27esFEtQu9rL) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Collective Soul](https://open.spotify.com/album/30mXi1BVpzrlrncFYwWjWg) | 4:45 | 2023-11-27 |  |
+| [Decode](https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Decode](https://open.spotify.com/album/70iJhodSPkl7FR1VW4n0KF) | 4:21 | 2026-02-17 |  |
 | [DEJA VU \- Extended ver.](https://open.spotify.com/track/0viLuvPHY9klTMQjftf7mr) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT) | [SUPER EUROBEAT presents DAVE RODGERS Special COLLECTION \(Vol.2\)](https://open.spotify.com/album/6C679ycOJqn8HncGjJVakC) | 4:20 | 2023-08-22 |  |
 | [Delicia Tchu Tcha Tcha \- Remix](https://open.spotify.com/track/1vnfbz35mnFizpSuVnYoDG) | [Mike Moonnight](https://open.spotify.com/artist/6T8Ols663KRRS4UdzGPbFf), [DM'Boys](https://open.spotify.com/artist/2KSVjEHwaeSYPK6g8eGfGG), [Mr\. Melo](https://open.spotify.com/artist/1TRIsAhdyjtScfOMhVKj4D), [Dj Pedrito](https://open.spotify.com/artist/5g3zvemQIQKLi0cBfdLmfh) | [Delicia Tchu Tcha Tcha \(Remix\)](https://open.spotify.com/album/0kmAhfaNLEwoKSNPHT0Fjf) | 3:36 | 2020-03-07 |  |
 | [Demons](https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 2:55 | 2020-03-10 |  |
