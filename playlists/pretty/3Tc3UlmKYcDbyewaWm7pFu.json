@@ -3028,7 +3028,7 @@
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         },
         {
-          "name": "JAY-Z",
+          "name": "JA\u0178-Z",
           "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
@@ -10916,7 +10916,7 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 259700,
+      "duration_ms": 259701,
       "name": "Heathens / Trees - Livestream Version",
       "url": "https://open.spotify.com/track/3MIlaQrNHVh4mWROnr42Xp"
     },
