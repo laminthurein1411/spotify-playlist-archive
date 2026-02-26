@@ -4,7 +4,7 @@
 
 > 
 
-182 songs - 10 hr 0 min
+184 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Céline](https://open.spotify.com/track/6IgZ9zDxJ6H0IUQ6HKBa8A) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5) | 3:06 | 2023-12-09 |  |
 | [Deslocado](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Deslocado](https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R) | 2:59 | 2025-07-02 |  |
 | [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 | 2025-03-24 |  |
+| [Domen 2019](https://open.spotify.com/track/7cdzfYrqbbMC6auCV0yAQr) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Domen 2019](https://open.spotify.com/album/7rYA7s21y2wVFQVboNrSQO) | 3:03 | 2026-02-25 |  |
 | [Dominique](https://open.spotify.com/track/76G41wBgGkynvmqiIhgCig) | [The Singing Nun \(Soeur Sourire\)](https://open.spotify.com/artist/6IXxyuP3QA8yla9rF1on6b) | [Dominique](https://open.spotify.com/album/72y8tdlictxnfHcY8Eu5ET) | 2:52 | 2026-02-14 |  |
 | [Douce France](https://open.spotify.com/track/6zlMAsPgiG81sZzsYVFwL3) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [Disque D'or](https://open.spotify.com/album/2BgO56jZnE4xbfvlZOjK0L) | 3:12 | 2023-12-09 |  |
 | [Dragostea Din Tei](https://open.spotify.com/track/2c3sKqWYVJ0NsE3elgRhKH) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [DiscO\-Zone](https://open.spotify.com/album/6PjtMUreqr5TRxvt9onUUf) | 3:35 | 2026-02-14 |  |
@@ -162,6 +163,7 @@
 | [Vesoul](https://open.spotify.com/track/2F94KDtJjCdzZYCQWBliRC) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [J'Arrive \(Vol.12\)](https://open.spotify.com/album/75JBZy6ctvayGftnldYMzZ) | 3:06 | 2023-12-09 |  |
 | [Vous permettez, monsieur ?](https://open.spotify.com/track/3xCE5pciNmiRNUk9J6pWeM) | [Salvatore Adamo](https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG) | [Adamo \- studio 1](https://open.spotify.com/album/5UR5XXp6YVvI9kRRUgdNtl) | 3:02 | 2023-12-09 |  |
 | [Völlig Losgelöst \(Major Tom German Version\) \[From "Deutschland 83"\]](https://open.spotify.com/track/0OhYpH0e5vEc29ovYrQ1kW) | [Wolkenfänger und Sternenreiter](https://open.spotify.com/artist/0AAY7xSQIFLoKm6QxHuX7j) | [Deutschland 83 \(Music Inspired from the TV Series\)](https://open.spotify.com/album/3t57LrLti347dnbPlPh1YY) | 4:00 | 2023-08-01 |  |
+| [Wie ich heiß](https://open.spotify.com/track/0X5Ras26dWvagYaQ58VnBC) | [Schwefelgelb](https://open.spotify.com/artist/0gvrCzDfdcHWrTOanKBlJL) | [Das Ende vom Kreis](https://open.spotify.com/album/0dKqxQlO5KXrfZ36Gnoe5m) | 3:56 | 2026-02-25 |  |
 | [Ya Soshla S Uma](https://open.spotify.com/track/34v2sh3ilJ1Qqn1Ep40cgg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 | 2025-10-23 |  |
 | [Zou bisou bisou](https://open.spotify.com/track/4qqf1avpzRUnVowNQd1jFw) | [Gillian Hills](https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL) | [Twistin’ The Rock, Vol\. 9](https://open.spotify.com/album/0MSicRahv1o4WgJ6pXjUkg) | 2:15 | 2023-12-09 |  |
 | [À bicyclette](https://open.spotify.com/track/5px3ShFMjwhidOFVVc0Z4R) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [La Bicyclette](https://open.spotify.com/album/2DS4hsoeFgvqhzsCJ0tmbj) | 2:42 | 2023-12-09 |  |
@@ -181,7 +183,7 @@
 | [Моно](https://open.spotify.com/track/458NBiLmZSIFnCUFa10u8i) | [Lena Katina](https://open.spotify.com/artist/5RfS9o5FOLPdO77H58h3oA) | [Моно](https://open.spotify.com/album/7HSLkUnGYC73TPTGR0qgKL) | 3:15 | 2025-12-25 |  |
 | [Пластинки](https://open.spotify.com/track/1OgLQdSMi9a7fZOqV96veS) | [Дурной Вкус](https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j) | [Пластинки](https://open.spotify.com/album/0jvMXv33xPDwS96RSQZe9U) | 3:04 | 2026-01-08 |  |
 | [права](https://open.spotify.com/track/6E2ec1JmPOXyh7k37tYhYU) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:26 | 2025-10-23 |  |
-| [Про красивую жизнь](https://open.spotify.com/track/2e35bSBvm3RVyHWTwWeFbO) | [Band'Eros](https://open.spotify.com/artist/2OgohSfhZqyIauFLZHvXLU) | [Коламбия Пикчерз не представляет \(Новое издание\)](https://open.spotify.com/album/7irkpcZLog7GJk8Awj9SRB) | 3:41 | 2025-12-20 |  |
+| [Про красивую жизнь](https://open.spotify.com/track/2e35bSBvm3RVyHWTwWeFbO) | [Band'Eros](https://open.spotify.com/artist/2OgohSfhZqyIauFLZHvXLU) | [Коламбия Пикчерз не представляет \(Новое издание\)](https://open.spotify.com/album/7irkpcZLog7GJk8Awj9SRB) | 3:40 | 2025-12-20 |  |
 | [СВЕТЛАНА!](https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj) | [NEXTIME](https://open.spotify.com/artist/0KaA8HctO3Rt7xjMSu3YUk) | [СВЕТЛАНА!](https://open.spotify.com/album/2qHTtxtPswUx8iz8VsBJ3n) | 1:36 | 2026-02-15 |  |
 | [Спящая красавица](https://open.spotify.com/track/64Uiv4X755MZm6N597IT0M) | [polnalyubvi](https://open.spotify.com/artist/3cmfyZ8hRHaN2CO9Qo4j35) | [Сказки лесной нимфы](https://open.spotify.com/album/3LFGKPdcr1UsYAY1ln1VPh) | 2:16 | 2025-07-19 |  |
 | [Судно \(Борис Рижий\)](https://open.spotify.com/track/6DONTnamNDOJdO6DzCu71p) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1vPytXXwF0VXnof89Z91Pm) | 2:21 | 2025-10-14 |  |

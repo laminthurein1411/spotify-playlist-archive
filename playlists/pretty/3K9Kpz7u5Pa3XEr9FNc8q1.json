@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAAUUfMnbX0ivhYEX+GjSZDp9uuhvAc",
+  "snapshot_id": "AAAAU+gfLm+9Mbn0vDtPOch8IYWlxRUN",
   "tracks": [
     {
       "added_at": "2022-01-30 11:44:14",
@@ -1387,6 +1387,38 @@
       "duration_ms": 276160,
       "name": "My Love (feat. T.I.)",
       "url": "https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL"
+    },
+    {
+      "added_at": "2026-02-25 13:05:53",
+      "album": {
+        "name": "Domen 2019",
+        "url": "https://open.spotify.com/album/7rYA7s21y2wVFQVboNrSQO"
+      },
+      "artists": [
+        {
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Domen 2019",
+      "url": "https://open.spotify.com/track/7cdzfYrqbbMC6auCV0yAQr"
+    },
+    {
+      "added_at": "2026-02-25 13:31:57",
+      "album": {
+        "name": "Das Ende vom Kreis",
+        "url": "https://open.spotify.com/album/0dKqxQlO5KXrfZ36Gnoe5m"
+      },
+      "artists": [
+        {
+          "name": "Schwefelgelb",
+          "url": "https://open.spotify.com/artist/0gvrCzDfdcHWrTOanKBlJL"
+        }
+      ],
+      "duration_ms": 236840,
+      "name": "Wie ich hei\u00df",
+      "url": "https://open.spotify.com/track/0X5Ras26dWvagYaQ58VnBC"
     }
   ],
   "unique_name": "dAnCe \ud83d\udd7a",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 182 songs - 10 hr 0 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 184 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,7 +165,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 155 | [Ich bin ein Gummibär](https://open.spotify.com/track/3cOgaMgzMqdJMupJ2JpOh6) | [Gummibär](https://open.spotify.com/artist/6NJb7ZCMVLu2ZXwWJa2O3G) | [Kinder\-Party\-Hits](https://open.spotify.com/album/3f1uZi3tyVftRncZLOpPzi) | 3:11 |
 | 156 | [Sonne](https://open.spotify.com/track/4w3R0GZ2rScJMKlgPJzHRq) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7) | 4:32 |
 | 157 | [Кошка](https://open.spotify.com/track/65e5VdJT8DIuVR8jxJWqLJ) | [Рычаги Машин](https://open.spotify.com/artist/1Vg3SQ1TaIjVT2svpmq05q), [Ольга Артуровна](https://open.spotify.com/artist/0emMziAHNFA4pJu9ogWvgq) | [Полетаем](https://open.spotify.com/album/4lZdRHVPTJvuWNsOxpWogT) | 3:57 |
-| 158 | [Про красивую жизнь](https://open.spotify.com/track/2e35bSBvm3RVyHWTwWeFbO) | [Band'Eros](https://open.spotify.com/artist/2OgohSfhZqyIauFLZHvXLU) | [Коламбия Пикчерз не представляет \(Новое издание\)](https://open.spotify.com/album/7irkpcZLog7GJk8Awj9SRB) | 3:41 |
+| 158 | [Про красивую жизнь](https://open.spotify.com/track/2e35bSBvm3RVyHWTwWeFbO) | [Band'Eros](https://open.spotify.com/artist/2OgohSfhZqyIauFLZHvXLU) | [Коламбия Пикчерз не представляет \(Новое издание\)](https://open.spotify.com/album/7irkpcZLog7GJk8Awj9SRB) | 3:40 |
 | 159 | [Ты меня не ищи](https://open.spotify.com/track/3uQrU4of1t0SRtXuZGB8uY) | [Вирус](https://open.spotify.com/artist/5RyG4MXMI2xdYVeVAS5t0r) | [Ты меня не ищи](https://open.spotify.com/album/3qvwRyzLRVqljl0y2pIYUI) | 3:53 |
 | 160 | [Коламбия Пикчерз не представляет](https://open.spotify.com/track/2zSiBfllKHXlFX27Uhw5RM) | [Band'Eros](https://open.spotify.com/artist/2OgohSfhZqyIauFLZHvXLU) | [Коламбия Пикчерз не представляет \(Новое издание\)](https://open.spotify.com/album/7irkpcZLog7GJk8Awj9SRB) | 4:26 |
 | 161 | [Группа крови](https://open.spotify.com/track/5dyBwktTuzBHg1xJRHzRsW) | [Kino](https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42) | [Последний герой](https://open.spotify.com/album/6J5nW8fstQkcN9LwqrUmU9) | 3:55 |
@@ -190,5 +190,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 180 | [Dominique](https://open.spotify.com/track/76G41wBgGkynvmqiIhgCig) | [The Singing Nun \(Soeur Sourire\)](https://open.spotify.com/artist/6IXxyuP3QA8yla9rF1on6b) | [Dominique](https://open.spotify.com/album/72y8tdlictxnfHcY8Eu5ET) | 2:52 |
 | 181 | [СВЕТЛАНА!](https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj) | [NEXTIME](https://open.spotify.com/artist/0KaA8HctO3Rt7xjMSu3YUk) | [СВЕТЛАНА!](https://open.spotify.com/album/2qHTtxtPswUx8iz8VsBJ3n) | 1:36 |
 | 182 | [GDE PAPA?](https://open.spotify.com/track/4LEpcwjcixnLUNQYMTbrHX) | [BOOKER](https://open.spotify.com/artist/40K9KbqFFDzGXfUW3s60bv) | [GDE PAPA?](https://open.spotify.com/album/27eCZ6SKUCpNRCwmhnpqvL) | 2:35 |
+| 183 | [Domen 2019](https://open.spotify.com/track/7cdzfYrqbbMC6auCV0yAQr) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Domen 2019](https://open.spotify.com/album/7rYA7s21y2wVFQVboNrSQO) | 3:03 |
+| 184 | [Wie ich heiß](https://open.spotify.com/track/0X5Ras26dWvagYaQ58VnBC) | [Schwefelgelb](https://open.spotify.com/artist/0gvrCzDfdcHWrTOanKBlJL) | [Das Ende vom Kreis](https://open.spotify.com/album/0dKqxQlO5KXrfZ36Gnoe5m) | 3:56 |
 
-Snapshot ID: `AAAAflOlNY3nrvMxGT1T09a5Hqpsp5Wc`
+Snapshot ID: `AAAAgLypRqSUQQdedFcT4WOqeCzGB0hp`
