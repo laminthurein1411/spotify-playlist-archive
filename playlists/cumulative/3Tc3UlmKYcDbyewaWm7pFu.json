@@ -7537,6 +7537,24 @@
     },
     {
       "album": {
+        "name": "Camp",
+        "url": "https://open.spotify.com/album/01MRGgNbfWrE291tQjw9ta"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269840,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/5AGQSF0ytihJyt96K5vW9d"
+    },
+    {
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/0vNzoZ2y8HiQPXyhjxsZvA"
       },

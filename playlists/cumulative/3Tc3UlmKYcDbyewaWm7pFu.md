@@ -4,7 +4,7 @@
 
 > 
 
-1,191 songs - 2 day 23 hr 18 min
+1,192 songs - 2 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [Heal the World](https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 6:24 | 2020-02-27 |  |
 | [Heart Attack](https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:30 | 2020-03-10 |  |
 | [Heartaches](https://open.spotify.com/track/6WPWEHhr1tdX2ZUAWBmksK) | [Al Bowlly](https://open.spotify.com/artist/6l3iPTof4l2D75Wawq9w7R), [Sid Phillips & His Melodians](https://open.spotify.com/artist/7nfhR4TR6hs89DEuGOv0y5) | [The Al Bowlly Collection 1927\-40, Vol\. 1](https://open.spotify.com/album/0q3hlkQANkjMg4SpmxD6kE) | 3:29 | 2021-06-05 |  |
+| [Heartbeat](https://open.spotify.com/track/5AGQSF0ytihJyt96K5vW9d) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/01MRGgNbfWrE291tQjw9ta) | 4:29 | 2026-02-26 |  |
 | [Heartbeat](https://open.spotify.com/track/7C9drompZEgNsTMPaAfp8t) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Together](https://open.spotify.com/album/0vNzoZ2y8HiQPXyhjxsZvA) | 2:45 | 2020-03-07 |  |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-06-05 |  |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-02-03 |  |
