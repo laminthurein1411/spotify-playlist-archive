@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Souvenir Pop",
+        "url": "https://open.spotify.com/album/5p9vhjqlAS0iysPYKYlIW8"
+      },
+      "artists": [
+        {
+          "name": "Joker Out",
+          "url": "https://open.spotify.com/artist/0ZNfJyThuy6vLnPEpPaJdf"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166668,
+      "name": "Carpe Diem",
+      "url": "https://open.spotify.com/track/7KhI9cHiXFEqfMliNAWwoq"
+    },
+    {
+      "album": {
         "name": "Niagara",
         "url": "https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU"
       },

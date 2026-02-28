@@ -1,13 +1,29 @@
 {
   "description": "Automatically updated playlist of songs played on the WILD 94.9 radio station: Top 40, New Hit Music radio station in San Francisco Bay Area. (no duplicates)",
-  "num_followers": 1973,
+  "num_followers": 1974,
   "original_name": "WILD 94.9 Radio Station",
   "owner": {
     "name": "scfi",
     "url": "https://open.spotify.com/user/stephenip10"
   },
-  "snapshot_id": "AAAGLOY+Rmz0bP/oNAtY5MMt/1ndpnOC",
+  "snapshot_id": "AAAGLiIzXM3aO3OY2o/G0ZgsGs0B3/9p",
   "tracks": [
+    {
+      "added_at": "2026-02-27 21:00:17",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+    },
     {
       "added_at": "2026-02-08 09:30:17",
       "album": {
@@ -1775,22 +1791,6 @@
       "duration_ms": 198320,
       "name": "twilight zone",
       "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
-    },
-    {
-      "added_at": "2025-05-21 04:00:17",
-      "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 202426,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO"
     },
     {
       "added_at": "2025-05-21 04:00:17",

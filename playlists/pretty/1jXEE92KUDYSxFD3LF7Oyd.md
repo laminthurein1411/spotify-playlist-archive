@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 184 songs - 10 hr 7 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 185 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,5 +192,6 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 182 | [GDE PAPA?](https://open.spotify.com/track/4LEpcwjcixnLUNQYMTbrHX) | [BOOKER](https://open.spotify.com/artist/40K9KbqFFDzGXfUW3s60bv) | [GDE PAPA?](https://open.spotify.com/album/27eCZ6SKUCpNRCwmhnpqvL) | 2:35 |
 | 183 | [Domen 2019](https://open.spotify.com/track/7cdzfYrqbbMC6auCV0yAQr) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Domen 2019](https://open.spotify.com/album/7rYA7s21y2wVFQVboNrSQO) | 3:03 |
 | 184 | [Wie ich heiß](https://open.spotify.com/track/0X5Ras26dWvagYaQ58VnBC) | [Schwefelgelb](https://open.spotify.com/artist/0gvrCzDfdcHWrTOanKBlJL) | [Das Ende vom Kreis](https://open.spotify.com/album/0dKqxQlO5KXrfZ36Gnoe5m) | 3:56 |
+| 185 | [Carpe Diem](https://open.spotify.com/track/7KhI9cHiXFEqfMliNAWwoq) | [Joker Out](https://open.spotify.com/artist/0ZNfJyThuy6vLnPEpPaJdf) | [Souvenir Pop](https://open.spotify.com/album/5p9vhjqlAS0iysPYKYlIW8) | 2:46 |
 
-Snapshot ID: `AAAAgLypRqSUQQdedFcT4WOqeCzGB0hp`
+Snapshot ID: `AAAAgX2YixmEYXZ+JaQTlH0dcESGOZGy`

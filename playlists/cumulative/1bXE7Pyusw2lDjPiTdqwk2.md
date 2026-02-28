@@ -4,7 +4,7 @@
 
 > 
 
-458 songs - 1 day 6 hr 7 min
+459 songs - 1 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [You Dream](https://open.spotify.com/track/0Sii2xstkjZl7hwHuNiGvZ) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ), [Tara Nome Doyle](https://open.spotify.com/artist/4juPbQZA8Z5lkQYtd4pNmv) | [Munich \- The Edge of War \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/7AeDl43UsW2wWLYgL7wQRw) | 3:57 | 2022-01-27 |  |
 | [you were good to me](https://open.spotify.com/track/6tNgjrWXWHx2zR52Q6qCLG) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [you were good to me](https://open.spotify.com/album/5SGGuJQoa1tIFzSIlj44zl) | 3:39 | 2022-02-08 |  |
 | [You Will Be Found \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/1IXXCrh0B7CPzcbH3fzuFc) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck), [Liz Kate](https://open.spotify.com/artist/6iiyR9wHi3XEBKJeyn8K1b), [DeMarius Copes](https://open.spotify.com/artist/27n0jTBWhILKvbVfSHVpmu), [Isaac Powell](https://open.spotify.com/artist/7qJ6rgL30lnNhMXpIpJpF0), [Hadiya Eshe’](https://open.spotify.com/artist/1XuBSCcRZTWI2pn3GG7ttj), [Kaitlyn Dever](https://open.spotify.com/artist/5OAt5hmsLcnFdk4Mly1Peq), [Dear Evan Hansen Choir](https://open.spotify.com/artist/696ovICSMRv19NRn79oCWl) | [Waving Through A Window / You Will Be Found \(From The “Dear Evan Hansen” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/24W5BzFFHbVgf2m8XJcT3i) | 5:58 | 2022-02-22 |  |
+| [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 | 2026-02-27 |  |
 | [Your Secret Love](https://open.spotify.com/track/56JRqiQ6QRaehxkG8852pL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Your Secret Love](https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN) | 4:12 | 2026-01-07 |  |
 | [Your Sweet Love](https://open.spotify.com/track/6DVyQl6VTvbqNQ0WU7gXIR) | [Lee Hazlewood](https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG) | [The Very Special World Of Lee Hazlewood \(Expanded Edition\)](https://open.spotify.com/album/4BshrFXTkg7Vhtdcqg0FpX) | 4:05 | 2023-08-24 |  |
 | [You’re Not Sorry \(Taylor’s Version\)](https://open.spotify.com/track/6iiAfo4wTA2CVC3Uwx9uh8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:21 | 2022-02-08 |  |

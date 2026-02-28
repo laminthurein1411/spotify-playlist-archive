@@ -4,7 +4,7 @@
 
 > 
 
-184 songs - 10 hr 7 min
+185 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Because Of You](https://open.spotify.com/track/320jqrATpl9762bCQkmLDf) | [Gustaph](https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7) | [Because Of You](https://open.spotify.com/album/4Pbi89jb8k56Qh8hrwwbGu) | 3:01 | 2023-05-27 |  |
 | [Blesse\-moi](https://open.spotify.com/track/6nRSyu4oOed8HgcVxV1cWl) | [Therapie TAXI](https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C) | [Rupture 2 merde](https://open.spotify.com/album/7gKZ1HukHMcMI5PYQNMIWy) | 3:08 | 2022-05-07 |  |
 | [C'était mieux après](https://open.spotify.com/track/42HEGqa6orMRuxcJHVHjep) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [Centre ville](https://open.spotify.com/album/501dFQHFJwcpf5GIYFtxvP) | 4:21 | 2022-05-07 |  |
+| [Carpe Diem](https://open.spotify.com/track/7KhI9cHiXFEqfMliNAWwoq) | [Joker Out](https://open.spotify.com/artist/0ZNfJyThuy6vLnPEpPaJdf) | [Souvenir Pop](https://open.spotify.com/album/5p9vhjqlAS0iysPYKYlIW8) | 2:46 | 2026-02-27 |  |
 | [Ce n'est rien](https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Niagara](https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU) | 3:34 | 2023-12-09 |  |
 | [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-05-27 |  |
 | [Chanson pour l'auvergnat](https://open.spotify.com/track/03i4HQaxKuef4sNUTB3txK) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Les Copains D'Abord](https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn) | 3:02 | 2023-12-09 |  |

@@ -8361,6 +8361,24 @@
     },
     {
       "album": {
+        "name": "Puberty 2",
+        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212183,
+      "name": "Your Best American Girl",
+      "url": "https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6"
+    },
+    {
+      "album": {
         "name": "Your Secret Love",
         "url": "https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN"
       },

@@ -4,7 +4,7 @@
 
 > Automatically updated playlist of songs played on the WILD 94.9 radio station: Top 40, New Hit Music radio station in San Francisco Bay Area\. \(no duplicates\)
 
-887 songs - 2 day 1 hr 39 min
+888 songs - 2 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,6 +628,7 @@
 | [Right Round](https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [R.O.O.T.S\. \(Route of Overcoming the Struggle\)](https://open.spotify.com/album/2vBLKFrI1rZqB7VtGxcsR5) | 3:24 | 2022-06-28 |  |
 | [Right Thurr](https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg) | [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh) | [Jackpot](https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB) | 4:10 | 2021-06-21 |  |
 | [Rio](https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rio](https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl) | 3:08 | 2025-07-13 |  |
+| [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-02-27 |  |
 | [ROCKIN](https://open.spotify.com/track/6m5cyVx8qLqu69MFiBVnMI) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [ROCKIN](https://open.spotify.com/album/44CG52mqjcKpzJL8L4yXkB) | 2:09 | 2025-07-08 |  |
 | [rockstar \(feat\. 21 Savage\)](https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:38 | 2020-09-17 |  |
 | [Rolling in the Deep](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 3:48 | 2022-08-24 |  |
@@ -680,7 +681,7 @@
 | [So Sick](https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) | 3:27 | 2020-09-18 |  |
 | [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 | 2025-12-21 |  |
 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 | 2025-02-02 |  |
-| [Somebody](https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Somebody](https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1) | 3:22 | 2025-05-21 |  |
+| [Somebody](https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Somebody](https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1) | 3:22 | 2025-05-21 | 2026-02-28 |
 | [Somebody](https://open.spotify.com/track/7ioiB40H9xKs04QtIso2I3) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Somebody](https://open.spotify.com/album/5gcn8qK6xElFNIP3mGed0M) | 3:09 | 2020-09-17 |  |
 | [Sonata for violin and continuo in A, RV 30: 2\. Corrente \(Presto\)](https://open.spotify.com/track/38SuEjbayiGfNmALuOQnJg) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Salvatore Accardo](https://open.spotify.com/artist/4J806QjdyKrK4guMFMRzKc), [Rohan De Saram](https://open.spotify.com/artist/1gJTdgLCmVRR10pFHUxY1I), [Bruno Canino](https://open.spotify.com/artist/6mxKqEHPXH9qUGaFLFnkfR) | [Artists of History: Vivaldi](https://open.spotify.com/album/4XzgrhWduDG6G4BKlxhBbU) | 1:49 | 2025-01-06 |  |
 | [Sorry](https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:20 | 2020-09-17 |  |
