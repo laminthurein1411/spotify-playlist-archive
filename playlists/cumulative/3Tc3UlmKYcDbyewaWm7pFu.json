@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2026-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234286,
+      "name": "400 Lux",
+      "url": "https://open.spotify.com/track/6rjtB7KSIiJ6v9vrACMlqF"
+    },
+    {
+      "album": {
         "name": "Favourite Worst Nightmare (Standard Version)",
         "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,192 songs - 2 day 23 hr 22 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,193 songs - 2 day 23 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1200,5 +1200,6 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 | 1190 | [Decode](https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Decode](https://open.spotify.com/album/70iJhodSPkl7FR1VW4n0KF) | 4:21 |
 | 1191 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 |
 | 1192 | [Heartbeat](https://open.spotify.com/track/5AGQSF0ytihJyt96K5vW9d) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/01MRGgNbfWrE291tQjw9ta) | 4:29 |
+| 1193 | [400 Lux](https://open.spotify.com/track/6rjtB7KSIiJ6v9vrACMlqF) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:54 |
 
-Snapshot ID: `AAAE5pLW2rP035zI4zi3XQn1vOCTUky6`
+Snapshot ID: `AAAE5xEfwhtmSq8sW8d0NYusO1y+ti2o`

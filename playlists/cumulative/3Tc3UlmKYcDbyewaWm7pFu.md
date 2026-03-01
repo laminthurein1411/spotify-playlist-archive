@@ -4,7 +4,7 @@
 
 > 
 
-1,192 songs - 2 day 23 hr 22 min
+1,193 songs - 2 day 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [365](https://open.spotify.com/track/2XWjPtKdi5sucFYtVav07d) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [365](https://open.spotify.com/album/7DMS5dzWQu7R3D59CKw4TA) | 3:01 | 2020-03-07 |  |
 | [3:00 AM](https://open.spotify.com/track/5HsSsEeP3hU9QSfHZrzbtA) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [Our Love](https://open.spotify.com/album/6fVAR5cqoFiOFiGPsibZYE) | 3:21 | 2020-03-28 |  |
 | [3D Country](https://open.spotify.com/track/1h0TAXegSmZzATP3MhqGbH) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/4RT2pNX9ZXCB0LtqfI2sdJ) | 5:13 | 2026-01-03 |  |
+| [400 Lux](https://open.spotify.com/track/6rjtB7KSIiJ6v9vrACMlqF) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:54 | 2026-02-28 |  |
 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 | 2021-06-05 |  |
 | [7 Minutes](https://open.spotify.com/track/2BkyYZmU4JuWW2sYi9EzpC) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [7 Minutes](https://open.spotify.com/album/48M2TlqiSdLFWXK1k7Hoar) | 3:31 | 2020-03-10 |  |
 | [7 Years](https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham](https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v) | 3:57 | 2021-02-23 |  |
