@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1bXE7Pyusw2lDjPiTdqwk2.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 459 songs - 1 day 6 hr 11 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 460 songs - 1 day 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -467,5 +467,6 @@ pretty - [cumulative](/playlists/cumulative/1bXE7Pyusw2lDjPiTdqwk2.md) - [plain]
 | 457 | [Somewhere Only We Know](https://open.spotify.com/track/6uNP8aOZphmhsYlOwRhNh1) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Somewhere Only We Know](https://open.spotify.com/album/4PD9RC7CU9xi7GIdzXoM9g) | 3:58 |
 | 458 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 459 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 |
+| 460 | [Chemtrails Over The Country Club](https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 4:31 |
 
-Snapshot ID: `AAABxfBiydaO5GbGVA85WEvich/ulsa1`
+Snapshot ID: `AAABxhVEzngfZOVnRNZcr9+3B7HGeYE4`

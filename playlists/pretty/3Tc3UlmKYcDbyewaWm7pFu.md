@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,193 songs - 2 day 23 hr 26 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 3 likes - 1,195 songs - 2 day 23 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1201,5 +1201,7 @@ pretty - [cumulative](/playlists/cumulative/3Tc3UlmKYcDbyewaWm7pFu.md) - [plain]
 | 1191 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 |
 | 1192 | [Heartbeat](https://open.spotify.com/track/5AGQSF0ytihJyt96K5vW9d) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/01MRGgNbfWrE291tQjw9ta) | 4:29 |
 | 1193 | [400 Lux](https://open.spotify.com/track/6rjtB7KSIiJ6v9vrACMlqF) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:54 |
+| 1194 | [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 |
+| 1195 | [All The Things She Said \- Martin’s Extended Heated Radio Remix](https://open.spotify.com/track/7JyxIzHUi1auwx7Pj2bpZv) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [All The Things She Said \(Martin’s Extended Heated Radio Remix\)](https://open.spotify.com/album/7AX8lUV2PIyGy3r0cem6bw) | 6:21 |
 
-Snapshot ID: `AAAE5xEfwhtmSq8sW8d0NYusO1y+ti2o`
+Snapshot ID: `AAAE6VvD/Pjtw9wyyQLlpIHtLnAfm04Z`
