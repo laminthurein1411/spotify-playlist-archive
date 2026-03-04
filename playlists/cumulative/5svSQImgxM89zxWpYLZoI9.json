@@ -32246,6 +32246,10 @@
         {
           "name": "Rahim Redcar",
           "url": "https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW"
+        },
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
         }
       ],
       "date_added": "2024-12-13",
@@ -69583,7 +69587,7 @@
     },
     {
       "album": {
-        "name": "Willow",
+        "name": "willow",
         "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
       },
       "artists": [
@@ -69596,7 +69600,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 155480,
-      "name": "Willow",
+      "name": "willow",
       "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"
     },
     {
