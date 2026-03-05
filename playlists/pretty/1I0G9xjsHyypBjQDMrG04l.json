@@ -1,13 +1,29 @@
 {
   "description": "Automatically updated playlist of songs played on the WILD 94.9 radio station: Top 40, New Hit Music radio station in San Francisco Bay Area. (no duplicates)",
-  "num_followers": 1978,
+  "num_followers": 1981,
   "original_name": "WILD 94.9 Radio Station",
   "owner": {
     "name": "scfi",
     "url": "https://open.spotify.com/user/stephenip10"
   },
-  "snapshot_id": "AAAGMAiixy+eHKqhiLnzan2BOfyMThVt",
+  "snapshot_id": "AAAGMoINvxY6l+LqeT8PPv9NZX/pY1sx",
   "tracks": [
+    {
+      "added_at": "2026-03-04 05:30:18",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 236559,
+      "name": "Cha Cha Cha",
+      "url": "https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf"
+    },
     {
       "added_at": "2026-03-03 04:30:18",
       "album": {
@@ -3543,22 +3559,6 @@
       "duration_ms": 237499,
       "name": "Rains in Heaven",
       "url": "https://open.spotify.com/track/2u30g2qcJJo13rES1Us8aW"
-    },
-    {
-      "added_at": "2024-11-08 23:30:21",
-      "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 194087,
-      "name": "bad guy",
-      "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
     },
     {
       "added_at": "2024-10-29 08:00:20",

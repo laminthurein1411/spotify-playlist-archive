@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 194087,
       "name": "bad guy",
       "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
@@ -2726,6 +2726,24 @@
       "duration_ms": 239560,
       "name": "cardigan",
       "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
+    },
+    {
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236559,
+      "name": "Cha Cha Cha",
+      "url": "https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf"
     },
     {
       "album": {

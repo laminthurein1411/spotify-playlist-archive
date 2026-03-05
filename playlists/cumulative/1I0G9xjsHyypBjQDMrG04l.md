@@ -4,7 +4,7 @@
 
 > Automatically updated playlist of songs played on the WILD 94.9 radio station: Top 40, New Hit Music radio station in San Francisco Bay Area\. \(no duplicates\)
 
-889 songs - 2 day 1 hr 46 min
+890 songs - 2 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-13 |  |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-12-07 |  |
 | [Bad Girl](https://open.spotify.com/track/3n1HsYVwX6qMvihf5uZDKs) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Bad Girl](https://open.spotify.com/album/5TIbUyoncSx0LKnnJXgfc5) | 3:06 | 2021-03-02 |  |
-| [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 | 2024-11-08 |  |
+| [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 | 2024-11-08 | 2026-03-05 |
 | [bad guy \(with Justin Bieber\)](https://open.spotify.com/track/3yNZ5r3LKfdmjoS3gkhUCT) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [bad guy \(with Justin Bieber\)](https://open.spotify.com/album/6lMlX68jJrx67hiCqdiDvW) | 3:14 | 2020-09-17 |  |
 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2022-07-20 |  |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-30 |  |
@@ -144,6 +144,7 @@
 | [Camera](https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 3:35 | 2025-10-28 |  |
 | [Can't Feel My Face](https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 3:33 | 2020-09-19 |  |
 | [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 | 2020-09-16 |  |
+| [Cha Cha Cha](https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:56 | 2026-03-04 |  |
 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-12-10 |  |
 | [Changes](https://open.spotify.com/track/1ofhfV90EnYhEr7Un2fWiv) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Talent](https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:28 | 2021-03-31 |  |
 | [Chasing That Feeling](https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:02 | 2023-10-21 | 2026-01-27 |
