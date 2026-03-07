@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAAVKQE1WyW6nfabLmrPLSiftf4ryKC",
+  "snapshot_id": "AAAAVZLuMFPQC7k1HuJgeAv4dTKK0ptI",
   "tracks": [
     {
       "added_at": "2022-01-30 11:44:14",
@@ -1435,6 +1435,30 @@
       "duration_ms": 381866,
       "name": "All The Things She Said - Martin\u2019s Extended Heated Radio Remix",
       "url": "https://open.spotify.com/track/7JyxIzHUi1auwx7Pj2bpZv"
+    },
+    {
+      "added_at": "2026-03-06 06:57:57",
+      "album": {
+        "name": "Pedro",
+        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
+      },
+      "artists": [
+        {
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        },
+        {
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        },
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "duration_ms": 144562,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     }
   ],
   "unique_name": "dAnCe \ud83d\udd7a",

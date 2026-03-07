@@ -4,7 +4,7 @@
 
 > 
 
-185 songs - 10 hr 10 min
+186 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Paroles… paroles…](https://open.spotify.com/track/4upAAK88rtQ3L9vTnk5YKs) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [Julien](https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr) | 4:05 | 2026-01-13 |  |
 | [Paroles… paroles…](https://open.spotify.com/track/4VvTGipG8YaF09z0kfGqaD) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 4:05 | 2023-12-09 |  |
 | [Pas à ma place](https://open.spotify.com/track/1zNGngJpT00C7fMRTwcJhQ) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [Montagnes Russes](https://open.spotify.com/album/01FvUhPKSiGylm8coBbWZN) | 2:55 | 2022-05-07 |  |
+| [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2026-03-06 |  |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2025-06-21 |  |
 | [Populaire](https://open.spotify.com/track/6WEZfTQrfoFG0EXRNqOJCP) | [Rouquine](https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ) | [Mammifère](https://open.spotify.com/album/1yLxHtZ5T4V4Ku0P46alhD) | 3:21 | 2024-03-27 |  |
 | [Poupée de cire, poupée de son](https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Hits chanson française](https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna) | 2:33 | 2023-12-09 |  |

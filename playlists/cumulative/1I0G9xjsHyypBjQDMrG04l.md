@@ -4,7 +4,7 @@
 
 > Automatically updated playlist of songs played on the WILD 94.9 radio station: Top 40, New Hit Music radio station in San Francisco Bay Area\. \(no duplicates\)
 
-890 songs - 2 day 1 hr 50 min
+891 songs - 2 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [all the good girls go to hell](https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 2:48 | 2021-03-09 |  |
 | [Already Best Friends \(feat\. Chris Brown\)](https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 3:17 | 2021-03-11 |  |
 | [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 | 2025-05-11 |  |
+| [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-03-06 |  |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2021-10-07 |  |
 | [Another One Of Me \(feat\. 21 Savage\)](https://open.spotify.com/track/3vAdBZvbr3bFBiSLT4iVap) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Another One Of Me \(feat\. 21 Savage\)](https://open.spotify.com/album/2xnqikpcvH2vBYc89VnwwL) | 3:40 | 2023-09-19 | 2026-01-27 |
 | [Another One Of Me \(feat\. 21 Savage\)](https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 3:40 | 2023-09-16 | 2026-01-27 |
@@ -181,7 +182,7 @@
 | [Dangerous Woman](https://open.spotify.com/track/7l94dyN2hX9c6wWcZQuOGJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3OZgEywV4krCZ814pTJWr7) | 3:55 | 2021-03-09 |  |
 | [Dark Horse](https://open.spotify.com/track/5jrdCoLpJSvHHorevXBATy) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:35 | 2022-02-27 |  |
 | [Dark Thoughts](https://open.spotify.com/track/4z0QjhdKJ9RB8BPFux1Bci) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/4tkWFrpfiEqRC4LpVHeY4j) | 2:16 | 2025-04-08 |  |
-| [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/track/4xISUrw0t2elabEhKrtAJ0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/album/2ONEbIxBKRNvD2x4kCdsO4) | 2:10 | 2025-05-25 |  |
+| [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/track/4xISUrw0t2elabEhKrtAJ0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/album/2ONEbIxBKRNvD2x4kCdsO4) | 2:10 | 2025-05-25 | 2026-03-07 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-07 |  |
 | [Del Mar](https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:34 | 2020-10-27 |  |
 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2025-01-10 |  |

@@ -4,7 +4,7 @@
 
 > 
 
-82 songs - 4 hr 36 min
+83 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Nach Mera Hero](https://open.spotify.com/track/2kfqZVhZYa1ny2ncjt4j5f) | [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD) | [Eternals \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3qBn8Lw72Fs6zWyA7yFrMn) | 3:09 | 2022-04-26 |  |
 | [Nails, Hair, Hips, Heels](https://open.spotify.com/track/60nXduun3ybrHhtDOUmGmV) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 1](https://open.spotify.com/album/18cAitZNvQLJBlNhDeSH2L) | 3:56 | 2023-02-08 |  |
 | [Oh No!!! \(from The Suicide Squad\)](https://open.spotify.com/track/7mYKxi4gqlSweFg2xigZ1w) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Oh No!!! \(from The Suicide Squad\)](https://open.spotify.com/album/4gG47LR7Xbk0E9k0zNCHZp) | 3:33 | 2022-04-26 |  |
+| [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2026-03-06 |  |
 | [Pirate \(R3HAB Remix\)](https://open.spotify.com/track/0ioCVkKxggJFTolmDwU3Bx) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Pirate \(R3HAB Remix\)](https://open.spotify.com/album/0TOiUQo6nKVZOUZI7IM77r) | 5:12 | 2022-04-21 |  |
 | [Pump It Up](https://open.spotify.com/track/0GiwV6v3AgJfdu59tj719Y) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/3D8C4a5lYbpEu5bPQmOpJj) | 2:30 | 2025-01-13 |  |
 | [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 | 2023-05-27 |  |
