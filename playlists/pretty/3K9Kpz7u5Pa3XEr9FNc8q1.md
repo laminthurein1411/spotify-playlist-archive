@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3K9Kpz7u5Pa3XEr9FNc8q1.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 82 songs - 4 hr 35 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 83 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,5 +90,6 @@ pretty - [cumulative](/playlists/cumulative/3K9Kpz7u5Pa3XEr9FNc8q1.md) - [plain]
 | 80 | [Wie ich heiß](https://open.spotify.com/track/0X5Ras26dWvagYaQ58VnBC) | [Schwefelgelb](https://open.spotify.com/artist/0gvrCzDfdcHWrTOanKBlJL) | [Das Ende vom Kreis](https://open.spotify.com/album/0dKqxQlO5KXrfZ36Gnoe5m) | 3:56 |
 | 81 | [All The Things She Said \- Martin’s Extended Heated Radio Remix](https://open.spotify.com/track/7JyxIzHUi1auwx7Pj2bpZv) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [All The Things She Said \(Martin’s Extended Heated Radio Remix\)](https://open.spotify.com/album/7AX8lUV2PIyGy3r0cem6bw) | 6:21 |
 | 82 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 |
+| 83 | [Friesenjung](https://open.spotify.com/track/7b8Z1GU2plJy3aASZTiolF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Otto Waalkes](https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 2:26 |
 
-Snapshot ID: `AAAAVZLuMFPQC7k1HuJgeAv4dTKK0ptI`
+Snapshot ID: `AAAAVpA5YbPqsjFW0JXvun4ZWY9Y5Jm3`

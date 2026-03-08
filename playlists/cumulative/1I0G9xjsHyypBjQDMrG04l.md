@@ -4,7 +4,7 @@
 
 > Automatically updated playlist of songs played on the WILD 94.9 radio station: Top 40, New Hit Music radio station in San Francisco Bay Area\. \(no duplicates\)
 
-891 songs - 2 day 1 hr 54 min
+892 songs - 2 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Cyclone \(feat\. T\-Pain\) \- Main](https://open.spotify.com/track/0x1LCpY9Rgeq97VPajm81B) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Cyclone \(feat\. T\-Pain\) \[Main\]](https://open.spotify.com/album/3ks3UxTLwmTGJW2VNtlQdw) | 3:42 | 2022-02-16 |  |
 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-12 |  |
 | [DALLAX](https://open.spotify.com/track/4cZiqNmLWLoAx67ENn53YG) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [DALLAX](https://open.spotify.com/album/2pQAHDH5MCC27Sn9cVKjpM) | 2:30 | 2025-04-06 |  |
+| [Dance No More](https://open.spotify.com/track/0VV0AMmgLBUhzuFedr3F3e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:14 | 2026-03-07 |  |
 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 | 2022-02-27 |  |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 | 2025-10-31 |
 | [Dangerous Woman](https://open.spotify.com/track/7l94dyN2hX9c6wWcZQuOGJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3OZgEywV4krCZ814pTJWr7) | 3:55 | 2021-03-09 |  |
@@ -799,7 +800,7 @@
 | [Track Star](https://open.spotify.com/track/5hChuUMe5iHfjkXgzj1D4b) | [Mooski](https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8) | [Track Star](https://open.spotify.com/album/7yvSdViuYJjZwXWtSwYu3D) | 3:19 | 2021-03-25 |  |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-18 | 2026-01-27 |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-08-07 |  |
-| [Treasure](https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 2:58 | 2024-11-11 |  |
+| [Treasure](https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 2:58 | 2024-11-11 | 2026-03-08 |
 | [Treat You Better](https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 3:07 | 2024-03-09 | 2026-01-27 |
 | [Truth Hurts](https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O) | 2:53 | 2021-05-10 |  |
 | [Tukoh Taka \- Official FIFA Fan Festival™ Anthem](https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Tukoh Taka \(Official FIFA Fan Festival™Anthem\)](https://open.spotify.com/album/2Coh1rdkbDRHPI5WLkpNpO) | 2:58 | 2022-11-30 |  |

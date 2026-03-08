@@ -4,7 +4,7 @@
 
 > 
 
-83 songs - 4 hr 38 min
+84 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Edge of Saturday Night](https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Edge of Saturday Night](https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ) | 3:26 | 2024-09-28 |  |
 | [El Perdón \(with Enrique Iglesias\)](https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:25 | 2022-05-07 |  |
 | [Fergalicious](https://open.spotify.com/track/6Q44rxzH39y2tjic98Spo5) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [The Dutchess](https://open.spotify.com/album/2knAf4wg8Gff8q1bXiXCTz) | 4:52 | 2025-08-06 |  |
+| [Friesenjung](https://open.spotify.com/track/7b8Z1GU2plJy3aASZTiolF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Otto Waalkes](https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 2:26 | 2026-03-07 |  |
 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/7srqyRb5plksW5k65itXDB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:25 | 2026-02-16 |  |
 | [Girls](https://open.spotify.com/track/7m8wiHGjtlJ5UQvqiCjhV5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s) | 1:59 | 2025-06-23 |  |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2024-09-28 |  |

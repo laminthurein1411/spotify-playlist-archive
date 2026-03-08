@@ -495,6 +495,32 @@
     },
     {
       "album": {
+        "name": "denk mal dr\u00fcber nach...",
+        "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        },
+        {
+          "name": "Otto Waalkes",
+          "url": "https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Friesenjung",
+      "url": "https://open.spotify.com/track/7b8Z1GU2plJy3aASZTiolF"
+    },
+    {
+      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },

@@ -6,7 +6,7 @@
     "name": "Kyaw Swar",
     "url": "https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1"
   },
-  "snapshot_id": "AAAAgn56H1RdiajXpPLHM307c6lZI6IY",
+  "snapshot_id": "AAAAg8H/mHpAfS2ZR8r1TdBjjSSi20FB",
   "tracks": [
     {
       "added_at": "2022-05-07 13:03:51",
@@ -3059,6 +3059,30 @@
       "duration_ms": 144562,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+    },
+    {
+      "added_at": "2026-03-07 09:58:23",
+      "album": {
+        "name": "denk mal dr\u00fcber nach...",
+        "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        },
+        {
+          "name": "Otto Waalkes",
+          "url": "https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Friesenjung",
+      "url": "https://open.spotify.com/track/7b8Z1GU2plJy3aASZTiolF"
     }
   ],
   "unique_name": "European \ud83c\udfe4",

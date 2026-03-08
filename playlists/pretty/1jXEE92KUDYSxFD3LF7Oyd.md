@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 
 > 
 
-[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 186 songs - 10 hr 12 min
+[Kyaw Swar](https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1) - 0 likes - 187 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,5 +194,6 @@ pretty - [cumulative](/playlists/cumulative/1jXEE92KUDYSxFD3LF7Oyd.md) - [plain]
 | 184 | [Wie ich heiß](https://open.spotify.com/track/0X5Ras26dWvagYaQ58VnBC) | [Schwefelgelb](https://open.spotify.com/artist/0gvrCzDfdcHWrTOanKBlJL) | [Das Ende vom Kreis](https://open.spotify.com/album/0dKqxQlO5KXrfZ36Gnoe5m) | 3:56 |
 | 185 | [Carpe Diem](https://open.spotify.com/track/7KhI9cHiXFEqfMliNAWwoq) | [Joker Out](https://open.spotify.com/artist/0ZNfJyThuy6vLnPEpPaJdf) | [Souvenir Pop](https://open.spotify.com/album/5p9vhjqlAS0iysPYKYlIW8) | 2:46 |
 | 186 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 |
+| 187 | [Friesenjung](https://open.spotify.com/track/7b8Z1GU2plJy3aASZTiolF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Otto Waalkes](https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 2:26 |
 
-Snapshot ID: `AAAAgn56H1RdiajXpPLHM307c6lZI6IY`
+Snapshot ID: `AAAAg8H/mHpAfS2ZR8r1TdBjjSSi20FB`

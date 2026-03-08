@@ -4,7 +4,7 @@
 
 > 
 
-186 songs - 10 hr 12 min
+187 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Et maintenant \(Version 1966\) \- Remasterisé en 2011](https://open.spotify.com/track/5z3LJpwfI91bj3ogU8l0sk) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Edition 60e anniversaire](https://open.spotify.com/album/50RvSoNqk5x7zFROrImpIL) | 2:39 | 2023-12-09 |  |
 | [Fais comme l'oiseau](https://open.spotify.com/track/725PsGr5yXLJl8uENrVXPa) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais comme l'oiseau](https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP) | 3:06 | 2023-12-09 |  |
 | [Fais pas ci, fais pas ça](https://open.spotify.com/track/0FypjlDKkK46KkvSPt7bem) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [Il est cinq heures](https://open.spotify.com/album/6uZABwQhmEllK5otzX9ONK) | 1:43 | 2025-10-30 |  |
+| [Friesenjung](https://open.spotify.com/track/7b8Z1GU2plJy3aASZTiolF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Otto Waalkes](https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 2:26 | 2026-03-07 |  |
 | [Gabriela](https://open.spotify.com/track/0RvJfhqX0Ktl5H9wzhNjTJ) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Ben É Samba Bom \(1964\)](https://open.spotify.com/album/3p1lsEa1gZjIWwUDKA0AbT) | 2:52 | 2025-07-19 |  |
 | [Gasolina](https://open.spotify.com/track/6jEZLz3YpnEBRpVkv35AmP) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/5i2HhIrYyMNQvmsBk9h8Im) | 3:12 | 2026-02-14 |  |
 | [GDE PAPA LONGMIX](https://open.spotify.com/track/7MRLGjlf6qUWBS59FBMhCA) | [BOOKER](https://open.spotify.com/artist/40K9KbqFFDzGXfUW3s60bv), [CMH](https://open.spotify.com/artist/4t8lDh2zuWn1d9cyJQkESe), [mzlff](https://open.spotify.com/artist/56wiPFJN2Z1PG1N8hGNYaD), [Slava KPSS](https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq) | [КАЧ](https://open.spotify.com/album/6FSybQCiCMmB5Q01sfIQbo) | 4:15 | 2026-01-13 |  |
