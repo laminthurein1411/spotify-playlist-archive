@@ -11,11 +11,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout laminthurein1411/spotify-playlist-archive-src
+      - name: Checkout laminthurein1411/spotify-playlist-archive-src-2
         uses: actions/checkout@v4
         with:
-          repository: laminthurein1411/spotify-playlist-archive-src
-          path: spotify-playlist-archive-src
+          repository: laminthurein1411/spotify-playlist-archive-src-2
+          path: spotify-playlist-archive-src-2
           submodules: recursive
 
       - name: Checkout laminthurein1411/spotify-playlist-archive
