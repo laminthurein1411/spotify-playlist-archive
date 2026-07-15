@@ -11,11 +11,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout laminthurein1411/spotify-playlist-archive-src-2
+      - name: Checkout laminthurein1411/spotify-playlist-archive-src
         uses: actions/checkout@v4
         with:
-          repository: laminthurein1411/spotify-playlist-archive-src-2
-          path: spotify-playlist-archive-src-2
+          repository: laminthurein1411/spotify-playlist-archive-src
+          path: spotify-playlist-archive-src
           submodules: recursive
 
       - name: Checkout laminthurein1411/spotify-playlist-archive
@@ -33,7 +33,7 @@ jobs:
           python-version: "3.10"
 
       - name: Install dependencies
-        working-directory: spotify-playlist-archive-src-2
+        working-directory: spotify-playlist-archive-src
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements/requirements.txt
